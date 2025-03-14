@@ -1,14 +1,12 @@
-# This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+*This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.*
 
-# DIVINE RANKS AND POWERS
+# Divine Ranks And Powers
 
-# Divine Ranks
+## Divine Ranks
 
 Each deity has a divine rank. A deity's divine rank determines how much power the entity has.
 
-**Rank 0:** Creatures of this rank are sometimes called quasi-deities or hero deities. Creatures that have a mortal and a deity as parents also fall into this category. These entities cannot grant spells, but are immortal and usually have one or more ability
-
-scores that are far above the norm for their species. They may have some worshipers. Ordinary mortals do not have a divine rank of 0. They lack a divine rank altogether.
+**Rank 0:** Creatures of this rank are sometimes called quasi-deities or hero deities. Creatures that have a mortal and a deity as parents also fall into this category. These entities cannot grant spells, but are immortal and usually have one or more ability scores that are far above the norm for their species. They may have some worshipers. Ordinary mortals do not have a divine rank of 0. They lack a divine rank altogether.
 
 **Rank 1--5:** These entities, called demigods, are the weakest of the deities. A demigod can grant spells and perform a few deeds that are beyond mortal limits. A demigod has anywhere from a few hundred to a few thousand devoted mortal worshipers and may receive veneration or respect from many more. A demigod controls a small godly realm (usually on an Outer Plane) and has minor control over a portfolio that includes one or more aspects of mortal existence. A demigod might be very accomplished in a single skill or a group of related skills, gain combat advantages in special circumstances, or be able to bring about minor changes in reality itself related to the portfolio.
 
@@ -20,7 +18,7 @@ scores that are far above the norm for their species. They may have some worship
 
 **Rank 21+:** These entities are beyond the ken of mortals and care nothing for worshipers. They do not grant spells, do not answer prayers, and do not respond to queries. If they are known at all, it is to a handful of scholars on the Material Plane. They are called overdeities. In some pantheistic systems, the consent of an overdeity is required to become a god.25
 
-# Divine Characteristics
+## Divine Characteristics
 
 Most deities are creatures of the outsider type (usually with 20 outsider Hit Dice). All deities that are outsiders have all alignment subtypes that correspond with their alignment. Unlike other outsiders, they have no darkvision unless noted in the deity description. Deities' physical characteristics vary from deity to deity. A deity's outsider type, along with its class or classes, determines its weapon proficiencies, feats, and skills. Deities have some or all of the following additional qualities, depending on their divine rank.
 
@@ -34,39 +32,20 @@ Beyond character level 20th, deities' attack and saving throw bonuses increase a
 
 **Speed:** Deities can move much more quickly than mortals. A deity's base land speed depends on its form (biped or quadruped) and its size, as shown on the following table. Some deities are exceptions, with speeds faster or slower than the norm.
 
-+------------------------------------------+------------+------------------+
-| ## Size                                  | ## Biped\* | ## Quadruped\*\* |
-+------------------------------------------+------------+------------------+
-|                                          |            |                  |
-+------------------------------------------+------------+------------------+
-| Fine                                     | 20 ft.     | 60 ft.           |
-+------------------------------------------+------------+------------------+
-| Diminutive                               | 30 ft.     | 70 ft.           |
-+------------------------------------------+------------+------------------+
-| Tiny                                     | 40 ft.     | 80 ft.           |
-+------------------------------------------+------------+------------------+
-| Small                                    | 50 ft.     | 90 ft.           |
-+------------------------------------------+------------+------------------+
-| Medium                                   | 60 ft.     | 100 ft.          |
-+------------------------------------------+------------+------------------+
-| Large                                    | 80 ft.     | 120 ft.          |
-+------------------------------------------+------------+------------------+
-| Huge                                     | 100 ft.    | 140 ft.          |
-+------------------------------------------+------------+------------------+
-| Gargantuan                               | 120 ft.    | 160 ft.          |
-+------------------------------------------+------------+------------------+
-| Colossal                                 | 140 ft.    | 180 ft.          |
-+------------------------------------------+------------+------------------+
-|                                          |            |                  |
-+------------------------------------------+------------+------------------+
-| \*Or any form with two or fewer legs.    |            |                  |
-+------------------------------------------+------------+------------------+
-|                                          |            |                  |
-+------------------------------------------+------------+------------------+
-| \*\*Or any form with three or more legs. |            |                  |
-+------------------------------------------+------------+------------------+
-|                                          |            |                  |
-+------------------------------------------+------------+------------------+
+| Size       | Biped\* | Quadruped\*\* |
+|------------|---------|---------------|
+| Fine       | 20 ft.  | 60 ft.        |
+| Diminutive | 30 ft.  | 70 ft.        |
+| Tiny       | 40 ft.  | 80 ft.        |
+| Small      | 50 ft.  | 90 ft.        |
+| Medium     | 60 ft.  | 100 ft.       |
+| Large      | 80 ft.  | 120 ft.       |
+| Huge       | 100 ft. | 140 ft.       |
+| Gargantuan | 120 ft. | 160 ft.       |
+| Colossal   | 140 ft. | 180 ft.       |
+
+\*Or any form with two or fewer legs.
+\*\*Or any form with three or more legs.
 
 Note: Use the Biped column for burrow and swim speeds for all deities regardless of form. Use half the value in the Biped column for climb speeds for all deities. Use twice the value in the Quadruped column for fly speeds for all deities capable of flying.
 
@@ -88,7 +67,7 @@ Many deities have other Armor Class bonuses as noted in their individual descrip
 
 **Checks:** A deity gets its divine rank as a divine bonus on all skill checks, ability checks, caster level checks, and turning checks. Lesser deities (rank 6--10) may take 10 on any check, provided they need to make a check at all. Intermediate and greater deities (rank 11--20) always get a result of 20 on any check, provided they need to make a check at all.
 
-# *Deities and Synergy Bonuses*: For every 20 extra ranks a deity has in a skill, the deity's synergy bonus from the skill (if any) increases by +2.
+*Deities and Synergy Bonuses*: For every 20 extra ranks a deity has in a skill, the deity's synergy bonus from the skill (if any) increases by +2.
 
 **Immunities:** Deities have the following immunities. Individual deities may have more immunities. Unless otherwise indicated, these immunities do not apply if the attacker is a deity of equal or higher rank.
 
@@ -106,25 +85,13 @@ Deities of rank 6 or higher are immune to effects that imprison or banish them. 
 
 **Damage Reduction:** A deity has damage reduction as shown below
 
-+----------------------------+-----------------------+
-| #### Divine Rank           | #### Damage Reduction |
-+----------------------------+-----------------------+
-|                            |                       |
-+----------------------------+-----------------------+
-| Quasi-deity (0)            | 10/epic               |
-+----------------------------+-----------------------+
-| Demigod (1-5)              | 15/epic               |
-+----------------------------+-----------------------+
-| Lesser deity (11-15)       | 20/epic               |
-+----------------------------+-----------------------+
-| Intermediate deity (11-15) | 25/epic               |
-+----------------------------+-----------------------+
-|                            |                       |
-+----------------------------+-----------------------+
-| Greater deity (16-20)      | 30/epic               |
-+----------------------------+-----------------------+
-|                            |                       |
-+----------------------------+-----------------------+
+| Divine Rank                | Damage Reduction |
+|----------------------------|------------------|
+| Quasi-deity (0)            | 10/epic          |
+| Demigod (1-5)              | 15/epic          |
+| Lesser deity (11-15)       | 20/epic          |
+| Intermediate deity (11-15) | 25/epic          |
+| Greater deity (16-20)      | 30/epic          |
 
 If the deity also has damage reduction from another source this damage reduction does not stack with the damage reduction granted by divine ranks. Instead, the deity gets the benefit of the best damage reduction in a given situation. Whenever a deity has a second kind of damage reduction that might apply to an attack, that damage reduction is listed in parentheses after the damage reduction entry in the deity's statistics block.
 
@@ -146,23 +113,12 @@ If the deity also has damage reduction from another source this damage reduction
 
 *Remote Sensing: *As a standard action, a deity of rank 1 or higher can perceive everything within a radius of one mile per rank around any of its worshipers, holy sites, or other objects or locales sacred to the deity. This supernatural effect can also be centered on any place where someone speaks the deity's name or title for up to 1 hour after the name is spoken, and at any location when an event related to the deity's portfolio occurs.The remote sensing power can cross planes and penetrate any barrier except a divine shield (described in Salient Divine Abilities) or an area otherwise blocked by a deity of equal or higher rank. Remote sensing is not fooled by *misdirection *or *nondetection *or similar spells, and it does not create a magical sensor that other creatures can detect. A deity can extend its senses to two or more remote locations at once (depending on divine rank) and still sense what's going on nearby.
 
-+-----------------+----------------------+
-| **Divine Rank** | ### Remote Locations |
-+-----------------+----------------------+
-|                 |                      |
-+-----------------+----------------------+
-| 1--5            | 2                    |
-+-----------------+----------------------+
-| 6--10           | 5                    |
-+-----------------+----------------------+
-| 11--15          | 10                   |
-+-----------------+----------------------+
-|                 |                      |
-+-----------------+----------------------+
-| 16--20          | 20                   |
-+-----------------+----------------------+
-|                 |                      |
-+-----------------+----------------------+
+| Divine Rank | Remote Locations |
+|-------------|------------------|
+| 1--5        | 2                |
+| 6--10       | 5                |
+| 11--15      | 10               |
+| 16--20      | 20               |
 
 Once a deity chooses a remote location to sense, it automatically receives sensory information from that location until it chooses a new location to sense, or until it can't sense the location.
 
@@ -174,58 +130,32 @@ Once a deity chooses a remote location to sense, it automatically receives senso
 
 **Automatic Actions: **When performing an action within its portfolio, a deity can perform any action as a free action, as long as the check DC is equal to or less than the number on the table below. The number of free actions a deity can perform each round is also determined by the deity's divine rank.
 
-  ----------------- ------------------------------------- ----------------------------
-  **Divine Rank**   **Maximum DC for Automatic Action**   **Free Actions per Round**
-                                                          
-  1--5              15                                    2
-  6--10             20                                    5
-  11--15            25                                    10
-                                                          
-  16--20            30                                    20
-                                                          
-  ----------------- ------------------------------------- ----------------------------
+| Divine Rank | Maximum DC for Automatic Action | Free Actions per Round |
+|-------------|---------------------------------|------------------------|
+| 1-5        | 15                              | 2                      |
+| 6-10       | 20                              | 5                      |
+| 11-15      | 25                              | 10                     |
+| 16-20      | 30                              | 20                     |
 
 **Create Magic Items:** A deity of rank 1 or higher can create magic items related to its portfolio without any requisite item creation feat, provided that the deity possesses all other prerequisites for the item. The maximum item value a deity can create is a function of its divine rank (see the table below). The item's cost and creation time remain unchanged, but the deity is free to undertake any activity when not laboring on the item.
 
-+----------------+---------------------------------+
-| ## Divine Rank | ## Maximum Market Price         |
-+----------------+---------------------------------+
-|                |                                 |
-+----------------+---------------------------------+
-| 1--5           | 4,500 gp                        |
-+----------------+---------------------------------+
-| 6--10          | 30,000 gp                       |
-+----------------+---------------------------------+
-| 11--15         | 200,000 gp (any nonartifact)    |
-+----------------+---------------------------------+
-|                |                                 |
-+----------------+---------------------------------+
-| 16--20         | No maximum (including artifact) |
-+----------------+---------------------------------+
-|                |                                 |
-+----------------+---------------------------------+
+| Divine Rank | Maximum Market Price            |
+|-------------|---------------------------------|
+| 1-5         | 4,500 gp                        |
+| 6-10        | 30,000 gp                       |
+| 11-15       | 200,000 gp (any nonartifact)    |
+| 16-20       | No maximum (including artifact) |
 
 If a deity has the item creation feat pertaining to the item it wishes to create, the cost (in gold and XP) and creation times are halved.
 
 **Divine Aura:** The mere presence of a deity of rank 1 or higher can deeply affect mortals and beings of lower divine rank. All divine aura effects are mind-affecting, extraordinary abilities. Mortals and other deities of lower rank can resist the aura's effects with successful Will saves; the DC is 10 + the deity's rank + the deity's Charisma modifier. Deities are immune to the auras of deities of equal or lower rank. Any being who makes a successful saving throw against a deity's aura power becomes immune to that deity's aura power for one day. Divine aura is an emanation that extends around the deity in a radius whose size is a function of divine rank. The deity chooses the size of the radius and can change it as a free action. If the deity chooses a radius of 0 feet, its aura power effectively becomes non-functional. When two or more deities' auras cover the same area, only the aura that belongs to the deity with the highest rank functions. If divine ranks are equal, the auras coexist.
 
-+----------------+---------------------+
-| ## Divine Rank | ## Divine Aura Size |
-+----------------+---------------------+
-|                |                     |
-+----------------+---------------------+
-| 1--5           | 10 ft./rank         |
-+----------------+---------------------+
-| 6--10          | 100 ft./rank        |
-+----------------+---------------------+
-| 11--15         | 100 ft./rank        |
-+----------------+---------------------+
-|                |                     |
-+----------------+---------------------+
-| 16--20         | 1 mile/rank         |
-+----------------+---------------------+
-|                |                     |
-+----------------+---------------------+
+| Divine Rank | Divine Aura Size |
+|-------------|------------------|
+| 1--5        | 10 ft./rank      |
+| 6--10       | 100 ft./rank     |
+| 11--15      | 100 ft./rank     |
+| 16--20      | 1 mile/rank      |
 
 The deity can make its own worshipers, beings of its alignment, or both types of individuals immune to the effect as a free action. The immunity lasts one day or until the deity dismisses it. Once affected by an aura power, creatures remain affected as long as they remain within the aura's radius. The deity can choose from the following effects each round as a free action.
 
@@ -245,25 +175,13 @@ The deity can make its own worshipers, beings of its alignment, or both types of
 
 **Godly Realm:** Each deity of rank 1 or higher has a location that serves as a workplace, personal residence, audience chamber, and sometimes as a retreat or fortress. A deity is at its most powerful within its godly realm. A deity has at least modest control over the environment within its realm, controlling the temperature and minor elements of the environment. The radius of this control is a function of the deity's rank and whether the realm is located on an Outer Plane or some other plane (including the Material Plane).
 
-+----------------+------------------------------------------+--------------------+
-| ## Divine Rank | ## --------- Radius of Control --------- |                    |
-+----------------+------------------------------------------+--------------------+
-|                |                                          |                    |
-+----------------+------------------------------------------+--------------------+
-|                | **Outer Plane **                         | **Material Plane** |
-+----------------+------------------------------------------+--------------------+
-| 1--5           | 100 ft./rank                             | 100 ft./rank       |
-+----------------+------------------------------------------+--------------------+
-| 6--10          | 1 mile                                   | 100 ft./rank       |
-+----------------+------------------------------------------+--------------------+
-| 11--15         | 10 miles                                 | 100 ft./rank       |
-+----------------+------------------------------------------+--------------------+
-|                |                                          |                    |
-+----------------+------------------------------------------+--------------------+
-| 16--20         | 100 miles                                | 100 ft./rank       |
-+----------------+------------------------------------------+--------------------+
-|                |                                          |                    |
-+----------------+------------------------------------------+--------------------+
+| Divine Rank | Radius of Control |                |
+|-------------|-------------------|----------------|
+|             | Outer Plane       | Material Plane |
+| 1-5         | 100 ft./rank      | 100 ft./rank   |
+| 6-10        | 1 mile            | 100 ft./rank   |
+| 11-15       | 10 miles          | 100 ft./rank   |
+| 16-20       | 100 miles         | 100 ft./rank   |
 
 Within this area, the deity can set any temperature that is normal for the plane where the realm is located (for the Material Plane, any temperature from --20ºF to 120ºF), and fill the area with scents and sounds as the deity sees fit. Sounds can be no louder than one hundred humans could make, but not intelligible speech or harmful sound. The deity's ability to create scents is similar. Deities of rank 6 or higher can create the sounds of intelligible speech. A demigod or lesser deity can erect buildings and alter the landscape, but must do so through its own labor, through magic, or through its divine powers. A deity of rank 6 or higher not only has control over the environment, but also controls links to the Astral Plane. Manipulating a realm's astral links renders teleportation and similar effects useless within the realm. The deity can designate certain locales within the realm where astral links remain intact. Likewise, the deity can block off the realm from planar portals or designate locations where portals are possible. A deity of rank 11 or higher can also apply the enhanced magic or impeded magic trait to up to four groups of spells (schools, domains, or spells with the same descriptor). The enhanced magic trait enables a metamagic feat to be applied to a group of spells without requiring higher-level spell slots. Many deities apply the enhanced magic trait to their domain spells, making them maximized (as the Maximize Spell feat) within the boundaries of their realm. The impeded magic trait doesn't affect the deity's spells and spell-like abilities.
 
@@ -271,13 +189,10 @@ In addition, a deity of rank 11 or higher can erect buildings as desired and alt
 
 A greater deity (rank 16 or higher) also can perform any one of the following acts:
 
-• Change or apply a gravity trait within the realm.
-
-• Change or apply an elemental or energy trait within the realm.
-
-• Change or apply a time trait within the realm.
-
-• Apply the limited magic trait to a particular school, domain, or spell descriptor within the area, preventing such spells and spell-like abilities from functioning. The greater deity's own spells and spell-like abilities are not limited by these restrictions.
+- Change or apply a gravity trait within the realm.
+- Change or apply an elemental or energy trait within the realm.
+- Change or apply a time trait within the realm.
+- Apply the limited magic trait to a particular school, domain, or spell descriptor within the area, preventing such spells and spell-like abilities from functioning. The greater deity's own spells and spell-like abilities are not limited by these restrictions.
 
 Once a deity sets the conditions in its realm, they are permanent, though the deity can change them. As a standard action, the deity can specify a new environmental condition. The change gradually takes effect over the next 10 minutes. Changing astral links, planar traits, or terrain requires more effort, and the deity must labor for a year and a day to change them. During this time, the deity must spend 8 hours a day on the project. During the remaining 16 hours of each day, the deity can perform any action it desires, so long as it remains within the realm. The astral links, planar traits, and terrain remain unchanged until the labor is complete.
 
