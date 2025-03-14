@@ -1,30 +1,30 @@
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the
+terms of the Open Game License v1.0a.
 
-# SPECIAL ABILITIES & CONDITIONS
+# Special Abilities & Conditions
 
-##### SPECIAL ABILITIES
+## Special Abilities
 
 A special ability is either extraordinary, spell-like, or supernatural
 in nature.
 
-**Extraordinary Abilities (Ex):** Extraordinary abilities are
-nonmagical. They are, however, not something that just anyone can do or
-even learn to do without extensive training. Effects or areas that
-negate or disrupt magic have no effect on extraordinary abilities.
+**Extraordinary Abilities (Ex):** Extraordinary abilities are nonmagical. They
+are, however, not something that just anyone can do or even learn to do without
+extensive training. Effects or areas that negate or disrupt magic have no effect
+on extraordinary abilities.
 
-**Spell-Like Abilities (Sp):** Spell-like abilities, as the name
-implies, are spells and magical abilities that are very much like
-spells. Spell-like abilities are subject to spell resistance and *dispel
-magic*. They do not function in areas where magic is suppressed or
-negated (such as an *antimagic field*).
+**Spell-Like Abilities (Sp):** Spell-like abilities, as the name implies, are
+spells and magical abilities that are very much like spells. Spell-like
+abilities are subject to spell resistance and *dispel magic*. They do not
+function in areas where magic is suppressed or negated (such as an *antimagic
+field*).
 
-**Supernatural Abilities (Su):** Supernatural abilities are magical but
-not spell-like. Supernatural abilities are not subject to spell
-resistance and do not function in areas where magic is suppressed or
-negated (such as an *antimagic field*). A supernatural ability's effect
-cannot be dispelled and is not subject to counterspells. See the table
-below for a summary of the types of special abilities.
+**Supernatural Abilities (Su):** Supernatural abilities are magical but not
+spell-like. Supernatural abilities are not subject to spell resistance and do
+not function in areas where magic is suppressed or negated (such as an
+*antimagic field*). A supernatural ability's effect cannot be dispelled and is
+not subject to counterspells. See the table below for a summary of the types of
+special abilities.
 
 +----------------+----------------+----------------+----------------+
 | ##             |                |                |                |
@@ -90,95 +90,94 @@ below for a summary of the types of special abilities.
 |                |                |                |                |
 +----------------+----------------+----------------+----------------+
 
-ABILITY SCORE LOSS
+### Ability Score Loss
 
-Various attacks cause ability score loss, either ability damage or
-ability drain. Points lost to ability damage return at the rate of 1
-point per day (or double that if the character gets complete bed rest)
-to each damaged ability, and the spells *lesser restoration *and
-*restoration *offset ability damage as well. Ability drain, however, is
-permanent, though *restoration *can restore even those lost ability
-score points.
+Various attacks cause ability score loss, either ability damage or ability
+drain. Points lost to ability damage return at the rate of 1 point per day (or
+double that if the character gets complete bed rest) to each damaged ability,
+and the spells *lesser restoration *and *restoration *offset ability damage as
+well. Ability drain, however, is permanent, though *restoration *can restore
+even those lost ability score points.
 
-While any loss is debilitating, losing all points in an ability score
-can be devastating.
+While any loss is debilitating, losing all points in an ability score can be
+devastating.
 
-• Strength 0 means that the character cannot move at all. He lies
-helpless on the ground.
+- Strength 0 means that the character cannot move at all. He lies helpless on
+  the ground.
 
-• Dexterity 0 means that the character cannot move at all. He stands
-motionless, rigid, and helpless.
+- Dexterity 0 means that the character cannot move at all. He stands motionless,
+  rigid, and helpless.
 
-• Constitution 0 means that the character is dead.
+- Constitution 0 means that the character is dead.
 
-• Intelligence 0 means that the character cannot think and is
-unconscious in a coma-like stupor, helpless.
+- Intelligence 0 means that the character cannot think and is unconscious in a
+  coma-like stupor, helpless.
 
-• Wisdom 0 means that the character is withdrawn into a deep sleep
-filled with nightmares, helpless.
+- Wisdom 0 means that the character is withdrawn into a deep sleep filled with
+  nightmares, helpless.
 
-• Charisma 0 means that the character is withdrawn into a catatonic,
-coma-like stupor, helpless.
+- Charisma 0 means that the character is withdrawn into a catatonic, coma-like
+  stupor, helpless.
 
-Keeping track of negative ability score points is never necessary. A
-character's ability score can't drop below 0.
+Keeping track of negative ability score points is never necessary. A character's
+ability score can't drop below 0.
 
-Having a score of 0 in an ability is different from having no ability
-score whatsoever.
+Having a score of 0 in an ability is different from having no ability score
+whatsoever.
 
-Some spells or abilities impose an effective ability score reduction,
-which is different from ability score loss. Any such reduction
-disappears at the end of the spell's or ability's duration, and the
-ability score immediately returns to its former value.
+Some spells or abilities impose an effective ability score reduction, which is
+different from ability score loss. Any such reduction disappears at the end of
+the spell's or ability's duration, and the ability score immediately returns to
+its former value.
 
-If a character's Constitution score drops, then he loses 1 hit point per
-Hit Die for every point by which his Constitution modifier drops. A hit
-point score can't be reduced by Constitution damage or drain to less
-than 1 hit point per Hit Die.
+If a character's Constitution score drops, then he loses 1 hit point per Hit Die
+for every point by which his Constitution modifier drops. A hit point score
+can't be reduced by Constitution damage or drain to less than 1 hit point per
+Hit Die.
 
-The ability that some creatures have to drain ability scores is a
-supernatural one, requiring some sort of attack. Such creatures do not
-drain abilities from enemies when the enemies strike them, even with
-unarmed attacks or natural weapons.
+The ability that some creatures have to drain ability scores is a supernatural
+one, requiring some sort of attack. Such creatures do not drain abilities from
+enemies when the enemies strike them, even with unarmed attacks or natural
+weapons.
 
-ANTIMAGIC
+### Antimagic
 
 An *antimagic field *spell or effect cancels magic altogether. An
 antimagic effect has the following powers and characteristics.
 
-• No supernatural ability, spell-like ability, or spell works in an area
+- No supernatural ability, spell-like ability, or spell works in an area
 of antimagic (but extraordinary abilities still work).
 
-• Antimagic does not dispel magic; it suppresses it. Once a magical
+- Antimagic does not dispel magic; it suppresses it. Once a magical
 effect is no longer affected by the antimagic (the antimagic fades, the
 center of the effect moves away, and so on), the magic returns. Spells
 that still have part of their duration left begin functioning again,
 magic items are once again useful, and so forth.
 
-• Spell areas that include both an antimagic area and a normal area, but
+- Spell areas that include both an antimagic area and a normal area, but
 are not centered in the antimagic area, still function in the normal
 area. If the spell's center is in the antimagic area, then the spell is
 suppressed.
 
-• Golems and other constructs, elementals, outsiders, and corporeal
+- Golems and other constructs, elementals, outsiders, and corporeal
 undead, still function in an antimagic area (though the antimagic area
 suppresses their spellcasting and their supernatural and spell-like
 abilities normally). If such creatures are summoned or conjured,
 however, see below.
 
-• Summoned or conjured creatures of any type, as well as incorporeal
+- Summoned or conjured creatures of any type, as well as incorporeal
 undead, wink out if they enter the area of an antimagic effect. They
 reappear in the same spot once the field goes away.
 
-• Magic items with continuous effects* *do not function in the area of
+- Magic items with continuous effects* *do not function in the area of
 an antimagic effect, but their effects are not canceled (so the contents
 of a *bag of holding* are unavailable, but neither spill out nor
 disappear forever).
 
-• Two antimagic areas in the same place do not cancel each other out,
+- Two antimagic areas in the same place do not cancel each other out,
 nor do they stack.
 
-• *Wall of force, prismatic wall, *and *prismatic sphere *are not
+- *Wall of force, prismatic wall, *and *prismatic sphere *are not
 affected by antimagic. *Break enchantment, dispel magic, *and *greater
 dispel magic *spells do not dispel antimagic. *Mage's disjunction *has a
 1% chance per caster level of destroying an *antimagic field. *If the
@@ -195,19 +194,19 @@ and concealment (even magical darkness) irrelevant to the creature
 (though it still can't see ethereal creatures). This ability operates
 out to a range specified in the creature description.
 
-• Blindsight never allows a creature to distinguish color or visual
+- Blindsight never allows a creature to distinguish color or visual
 contrast. A creature cannot read with blindsight.
 
-• Blindsight does not subject a creature to gaze attacks (even though
+- Blindsight does not subject a creature to gaze attacks (even though
 darkvision does).
 
-• Blinding attacks do not penalize creatures using blindsight.
+- Blinding attacks do not penalize creatures using blindsight.
 
-• Deafening attacks thwart blindsight if it relies on hearing.
+- Deafening attacks thwart blindsight if it relies on hearing.
 
-• Blindsight works underwater but not in a vacuum.
+- Blindsight works underwater but not in a vacuum.
 
-• Blindsight negates displacement and blur effects.
+- Blindsight negates displacement and blur effects.
 
 **Blindsense:** Other creatures have blindsense, a lesser ability that
 lets the creature notice things it cannot see, but without the precision
@@ -231,20 +230,20 @@ limited to a number of uses per day or by a minimum length of time that
 must pass between uses. Such creatures are usually smart enough to save
 their breath weapon until they really need it.
 
-• Using a breath weapon is typically a standard action.
+- Using a breath weapon is typically a standard action.
 
-• No attack roll is necessary. The breath simply fills its stated area.
+- No attack roll is necessary. The breath simply fills its stated area.
 
-• Any character caught in the area must make the appropriate saving
+- Any character caught in the area must make the appropriate saving
 throw or suffer the breath weapon's full effect. In many cases, a
 character who succeeds on his saving throw still takes half damage or
 some other reduced effect.
 
-• Breath weapons are supernatural abilities except where noted.
+- Breath weapons are supernatural abilities except where noted.
 
-• Creatures are immune to their own breath weapons.
+- Creatures are immune to their own breath weapons.
 
-• Creatures unable to breathe can still use breath weapons. (The term is
+- Creatures unable to breathe can still use breath weapons. (The term is
 something of a misnomer.)
 
 CHARM AND COMPULSION
@@ -261,33 +260,33 @@ is not absolute or mindless. Charms of this type include the various
 *charm *spells. Essentially, a *charmed *character retains free will but
 makes choices according to a skewed view of the world.
 
-• A *charmed *creature doesn't gain any magical ability to understand
+- A *charmed *creature doesn't gain any magical ability to understand
 his new friend's language.
 
-• A *charmed *character retains his original alignment and allegiances,
+- A *charmed *character retains his original alignment and allegiances,
 generally with the exception that he now regards the *charming *creature
 as a dear friend and will give great weight to his suggestions and
 directions.
 
-• A *charmed *character fights his former allies only if they threaten
+- A *charmed *character fights his former allies only if they threaten
 his new friend, and even then he uses the least lethal means at his
 disposal as long as these tactics show any possibility of success (just
 as he would in a fight between two actual friends).
 
-• A *charmed *character is entitled to an opposed Charisma check against
+- A *charmed *character is entitled to an opposed Charisma check against
 his master in order to resist instructions or commands that would make
 him do something he wouldn't normally do even for a close friend. If he
 succeeds, he decides not to go along with that order but remains
 *charmed.*
 
-• A *charmed *character never obeys a command that is obviously suicidal
+- A *charmed *character never obeys a command that is obviously suicidal
 or grievously harmful to her.
 
-• If the charming creature commands his minion to do something that the
+- If the charming creature commands his minion to do something that the
 influenced character would be violently opposed to, the subject may
 attempt a new saving throw to break free of the influence altogether.
 
-• A *charmed *character who is openly attacked by the creature who
+- A *charmed *character who is openly attacked by the creature who
 *charmed *him or by that creature's apparent allies is automatically
 freed of the spell or effect.
 
@@ -365,15 +364,15 @@ DEATH ATTACKS
 In most cases, a death attack allows the victim a Fortitude save to
 avoid the affect, but if the save fails, the character dies instantly.
 
-• *Raise dead *doesn't work on someone killed by a death attack.
+- *Raise dead *doesn't work on someone killed by a death attack.
 
-• Death attacks slay instantly. A victim cannot be made stable and
+- Death attacks slay instantly. A victim cannot be made stable and
 thereby kept alive.
 
-• In case it matters, a dead character, no matter how she died, has --10
+- In case it matters, a dead character, no matter how she died, has --10
 hit points.
 
-• The spell *death ward *protects a character against these attacks.
+- The spell *death ward *protects a character against these attacks.
 
 DISEASE
 
