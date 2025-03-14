@@ -1,5 +1,4 @@
-[This material is Open Game Content, and is licensed for public use
-under the terms of the Open Game License v1.0a.]{.underline}
+[This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.]{.underline}
 
 MONSTERS (S)
 
@@ -33,90 +32,43 @@ SAHUAGIN
                                            
   ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Most sahuagin feature green coloration, darker along the back and
-lighter on the belly. Many have dark stripes, bands, or spots, but these
-tend to fade with age. An adult male sahuagin stands roughly 6 feet tall
-and weighs about 200 pounds. ]{.underline}
+[Most sahuagin feature green coloration, darker along the back and lighter on the belly. Many have dark stripes, bands, or spots, but these tend to fade with age. An adult male sahuagin stands roughly 6 feet tall and weighs about 200 pounds. ]{.underline}
 
-[Sahuagin are the natural enemy of aquatic elves. The two cannot coexist
-peacefully: Wars between them are prolonged, bloody affairs that
-sometimes interfere with shipping and maritime trade. Sahuagin have an
-only slightly less vehement hatred for tritons.]{.underline}
+[Sahuagin are the natural enemy of aquatic elves. The two cannot coexist peacefully: Wars between them are prolonged, bloody affairs that sometimes interfere with shipping and maritime trade. Sahuagin have an only slightly less vehement hatred for tritons.]{.underline}
 
-[Sahuagin speak their own language, Sahuagin. Thanks to their high
-Intelligence scores, most sahuagin also speak two bonus languages,
-usually Common and Aquan.]{.underline}
+[Sahuagin speak their own language, Sahuagin. Thanks to their high Intelligence scores, most sahuagin also speak two bonus languages, usually Common and Aquan.]{.underline}
 
 [COMBAT]{.underline}
 
-[Sahuagin are savage fighters, asking for and giving no quarter. When
-swimming, a sahuagin tears with its feet as it strikes with its talons
-or a weapon. About half of any group of sahuagin are also armed with
-nets.]{.underline}
+[Sahuagin are savage fighters, asking for and giving no quarter. When swimming, a sahuagin tears with its feet as it strikes with its talons or a weapon. About half of any group of sahuagin are also armed with nets.]{.underline}
 
-**[Blindsense (Ex): ]{.underline}**[A sahuagin can locate creatures
-underwater within a 30-foot radius. This ability works only when the
-sahuagin is underwater.]{.underline}
+**[Blindsense (Ex): ]{.underline}**[A sahuagin can locate creatures underwater within a 30-foot radius. This ability works only when the sahuagin is underwater.]{.underline}
 
-**[Blood Frenzy: ]{.underline}**[Once per day a sahuagin that takes
-damage in combat can fly into a frenzy in the following round, clawing
-and biting madly until either it or its opponent is dead. It gains +2
-Constitution and +2 Strength, and takes a --2 penalty to Armor Class. A
-sahuagin cannot end its frenzy voluntarily. ]{.underline}
+**[Blood Frenzy: ]{.underline}**[Once per day a sahuagin that takes damage in combat can fly into a frenzy in the following round, clawing and biting madly until either it or its opponent is dead. It gains +2 Constitution and +2 Strength, and takes a --2 penalty to Armor Class. A sahuagin cannot end its frenzy voluntarily. ]{.underline}
 
-**[Rake (Ex): ]{.underline}**[Attack bonus +2 melee, damage 1d4+1. A
-sahuagin also gains two rake attacks when it attacks while
-swimming.]{.underline}
+**[Rake (Ex): ]{.underline}**[Attack bonus +2 melee, damage 1d4+1. A sahuagin also gains two rake attacks when it attacks while swimming.]{.underline}
 
-**[Freshwater Sensitivity (Ex): ]{.underline}**[A sahuagin fully
-immersed in fresh water must succeed on a DC 15 Fortitude save or become
-fatigued. Even on a success, it must repeat the save attempt every 10
-minutes it remains immersed.]{.underline}
+**[Freshwater Sensitivity (Ex): ]{.underline}**[A sahuagin fully immersed in fresh water must succeed on a DC 15 Fortitude save or become fatigued. Even on a success, it must repeat the save attempt every 10 minutes it remains immersed.]{.underline}
 
-**[Light Blindness (Ex): ]{.underline}**[Abrupt exposure to bright light
-(such as sunlight or a ]{.underline}*[daylight ]{.underline}*[spell)
-blinds sahuagin for round. On subsequent rounds, they are dazzled while
-operating in bright light.]{.underline}
+**[Light Blindness (Ex): ]{.underline}**[Abrupt exposure to bright light (such as sunlight or a ]{.underline}*[daylight ]{.underline}*[spell) blinds sahuagin for round. On subsequent rounds, they are dazzled while operating in bright light.]{.underline}
 
-**[Speak with Sharks (Ex): ]{.underline}**[Sahuagin can communicate
-telepathically with sharks up to 150 feet away. The communication is
-limited to fairly simple concepts such as "food," "danger," and "enemy."
-Sahuagin can use the Handle Animal skill to befriend and train
-sharks.]{.underline}
+**[Speak with Sharks (Ex): ]{.underline}**[Sahuagin can communicate telepathically with sharks up to 150 feet away. The communication is limited to fairly simple concepts such as "food," "danger," and "enemy." Sahuagin can use the Handle Animal skill to befriend and train sharks.]{.underline}
 
-**[Water Dependent (Ex):]{.underline}**[ Sahuagin can survive out of the
-water for 1 hour per 2 points of Constitution (after that, refer to the
-drowning rules on page 304 of the ]{.underline}*[Dungeon Master
-]{.underline}[']{.underline}[s Guide]{.underline}*[).]{.underline}
+**[Water Dependent (Ex):]{.underline}**[ Sahuagin can survive out of the water for 1 hour per 2 points of Constitution (after that, refer to the drowning rules on page 304 of the ]{.underline}*[Dungeon Master ]{.underline}[']{.underline}[s Guide]{.underline}*[).]{.underline}
 
-**[Skills:]{.underline}**[ A sahuagin has a +8 racial bonus on any Swim
-check to perform some special action or avoid a hazard. It can always
-choose to take 10 on a Swim check, even if distracted or endangered. It
-can use the run action while swimming, provided it swims in a straight
-line. ]{.underline}
+**[Skills:]{.underline}**[ A sahuagin has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. ]{.underline}
 
-[\*Underwater, a sahuagin has a +4 racial bonus on Hide, Listen, and
-Spot checks.]{.underline}
+[\*Underwater, a sahuagin has a +4 racial bonus on Hide, Listen, and Spot checks.]{.underline}
 
-[\*A sahuagin has a +4 racial bonus on Survival and Profession (hunter)
-checks within 50 miles of its home.]{.underline}
+[\*A sahuagin has a +4 racial bonus on Survival and Profession (hunter) checks within 50 miles of its home.]{.underline}
 
-[\*A sahuagin has a +4 racial bonus on Handle Animal checks when working
-with sharks.]{.underline}
+[\*A sahuagin has a +4 racial bonus on Handle Animal checks when working with sharks.]{.underline}
 
 [SAHUAGIN MUTANTS]{.underline}
 
-[About one in two hundred sahuagin has four arms. Such creatures can
-make four claw attacks or use extra weapons, in addition to the claw and
-bite attacks.]{.underline}
+[About one in two hundred sahuagin has four arms. Such creatures can make four claw attacks or use extra weapons, in addition to the claw and bite attacks.]{.underline}
 
-If a community of aquatic elves is located within 100 miles of a
-sahuagin community, about one in one hundred sahuagin looks just like an
-aquatic elf. These creatures, called malenti, have a swim speed of 40
-feet, can remain out of water for 1 hour per point of Constitution, and
-have freshwater sensitivity and light sensitivity (dazzled in bright
-light). Malenti have no natural attacks. They are otherwise identical
-with sahuagin.
+If a community of aquatic elves is located within 100 miles of a sahuagin community, about one in one hundred sahuagin looks just like an aquatic elf. These creatures, called malenti, have a swim speed of 40 feet, can remain out of water for 1 hour per point of Constitution, and have freshwater sensitivity and light sensitivity (dazzled in bright light). Malenti have no natural attacks. They are otherwise identical with sahuagin.
 
 SALAMANDER
 
@@ -149,40 +101,23 @@ SALAMANDER
                                                                                                                                                                                                                                                                                                                      
   ---------------------------------------- -------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------
 
-[Salamanders speak Ignan. Some average salamanders and all nobles also
-speak Common.]{.underline}
+[Salamanders speak Ignan. Some average salamanders and all nobles also speak Common.]{.underline}
 
 [COMBAT]{.underline}
 
-[If a salamander has damage reduction, its natural weapons are treated
-as magic weapons for the purpose of overcoming damage
-reduction.]{.underline}
+[If a salamander has damage reduction, its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.]{.underline}
 
-**Constrict (Ex): **A salamander deals automatic tail slap damage
-(including fire damage) with a successful grapple check. A noble
-salamander can constrict multiple creatures simultaneously, provided
-they are all at least two sizes smaller than it.
+**Constrict (Ex): **A salamander deals automatic tail slap damage (including fire damage) with a successful grapple check. A noble salamander can constrict multiple creatures simultaneously, provided they are all at least two sizes smaller than it.
 
-**Heat (Ex):** A salamander generates so much heat that its mere touch
-deals additional fire damage. Salamanders' metallic weapons also conduct
-this heat.
+**Heat (Ex):** A salamander generates so much heat that its mere touch deals additional fire damage. Salamanders' metallic weapons also conduct this heat.
 
-**Improved Grab (Ex):** To use this ability, a salamander must hit a
-creature of up to one size larger than itself with its tail slap attack.
-It can then attempt to start a grapple as a free action without
-provoking an attack of opportunity. If it wins the grapple check, it
-establishes a hold and can constrict.
+**Improved Grab (Ex):** To use this ability, a salamander must hit a creature of up to one size larger than itself with its tail slap attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
 
-**Spell-Like Abilities:** (Noble salamanders only) 3/day---*burning
-hands *(DC 13), *fireball *(DC 15), *flaming sphere *(DC 14), *wall of
-fire *(DC 16); 1/day---*dispel magic, summon monster VII *(Huge fire
-elemental). Caster level 15th. The save DCs are Charisma-based.
+**Spell-Like Abilities:** (Noble salamanders only) 3/day---*burning hands *(DC 13), *fireball *(DC 15), *flaming sphere *(DC 14), *wall of fire *(DC 16); 1/day---*dispel magic, summon monster VII *(Huge fire elemental). Caster level 15th. The save DCs are Charisma-based.
 
-**Skills:** Salamanders have a +4 racial bonus on Craft (blacksmithing)
-checks.
+**Skills:** Salamanders have a +4 racial bonus on Craft (blacksmithing) checks.
 
-**Feats:** Salamanders have the Multiattack feat even though they do not
-have the requisite three natural weapons.
+**Feats:** Salamanders have the Multiattack feat even though they do not have the requisite three natural weapons.
 
 SATYR
 
@@ -214,42 +149,25 @@ SATYR
                                            
   ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[A satyr's hair is red or chestnut brown, while its hooves and horns are
-jet black. A satyr is about as tall and heavy as a
-half-elf.]{.underline}
+[A satyr's hair is red or chestnut brown, while its hooves and horns are jet black. A satyr is about as tall and heavy as a half-elf.]{.underline}
 
 [Satyrs speak Sylvan, and most also speak Common.]{.underline}
 
 [COMBAT]{.underline}
 
-[The keen senses of a satyr make it almost impossible to surprise one in
-the wild. Conversely, with their own natural grace and agility, satyrs
-can sneak up on travelers who are not carefully watching the surrounding
-wilderness. Once engaged in battle, an unarmed satyr attacks with a
-powerful head butt. A satyr expecting trouble is likely to be armed with
-a bow and a dagger and typically looses arrows from hiding, weakening an
-enemy before closing. ]{.underline}
+[The keen senses of a satyr make it almost impossible to surprise one in the wild. Conversely, with their own natural grace and agility, satyrs can sneak up on travelers who are not carefully watching the surrounding wilderness. Once engaged in battle, an unarmed satyr attacks with a powerful head butt. A satyr expecting trouble is likely to be armed with a bow and a dagger and typically looses arrows from hiding, weakening an enemy before closing. ]{.underline}
 
-**Pipes (Su):** Satyrs can play a variety of magical tunes on their pan
-pipes. Usually, only one satyr in a group carries pipes. When it plays,
-all creatures within a 60-foot spread (except satyrs) must succeed on a
-DC 13 Will save or be affected by *charm person, sleep, *or *fear
-*(caster level 10th; the satyr chooses the tune and its effect).
+**Pipes (Su):** Satyrs can play a variety of magical tunes on their pan pipes. Usually, only one satyr in a group carries pipes. When it plays, all creatures within a 60-foot spread (except satyrs) must succeed on a DC 13 Will save or be affected by *charm person, sleep, *or *fear *(caster level 10th; the satyr chooses the tune and its effect).
 
-In the hands of other beings, these pipes have no special powers. A
-creature that successfully saves against any of the pipe's effects
-cannot be affected by the same set of pipes for 24 hours. The save DC is
-Charisma-based.
+In the hands of other beings, these pipes have no special powers. A creature that successfully saves against any of the pipe's effects cannot be affected by the same set of pipes for 24 hours. The save DC is Charisma-based.
 
-**Skills:** Satyrs have a +4 racial bonus on Hide, Listen, Move
-Silently, Perform, and Spot checks.
+**Skills:** Satyrs have a +4 racial bonus on Hide, Listen, Move Silently, Perform, and Spot checks.
 
 SATYRS AS CHARACTERS
 
 Satyr characters possess the following racial traits.
 
---- +2 Dexterity, +2 Constitution, +2 Intelligence, +2 Wisdom, +2
-Charisma.
+--- +2 Dexterity, +2 Constitution, +2 Intelligence, +2 Wisdom, +2 Charisma.
 
 ---Medium size.
 
@@ -257,17 +175,11 @@ Charisma.
 
 ---Low-light vision.
 
----Racial Hit Dice: A satyr begins with five levels of fey, which
-provide 5d8 Hit Dice, a base attack bonus of +2, and base saving throw
-bonuses of Fort +1, Ref +4, and Will +4.
+---Racial Hit Dice: A satyr begins with five levels of fey, which provide 5d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +1, Ref +4, and Will +4.
 
----Racial Skills: A satyr's fey levels give it skill points equal to 8
-x(6 + Int modifier). Its class skills are Bluff, Hide, Knowledge
-(nature), Listen, Move Silently, Perform, and Spot. Satyrs have a +4
-racial bonus on Hide, Listen, Move Silently, Perform, and Spot checks.
+---Racial Skills: A satyr's fey levels give it skill points equal to 8 x(6 + Int modifier). Its class skills are Bluff, Hide, Knowledge (nature), Listen, Move Silently, Perform, and Spot. Satyrs have a +4 racial bonus on Hide, Listen, Move Silently, Perform, and Spot checks.
 
----Racial Feats: A satyr's fey levels give it two feats. A satyr
-receives Alertness as a bonus feat.
+---Racial Feats: A satyr's fey levels give it two feats. A satyr receives Alertness as a bonus feat.
 
 --- +4 natural armor bonus.
 
@@ -317,165 +229,93 @@ SEA CAT
 
 [COMBAT]{.underline}
 
-[Sea cats attack on sight, either for food or to defend their territory,
-and use both claws and teeth to grab and rend their prey. They display
-tremendous courage, always fighting to the death, even against creatures
-many times their size. Pairs and prides of sea cats attack in concert,
-trying to wear the opponent down until one beast can dispatch
-it.]{.underline}
+[Sea cats attack on sight, either for food or to defend their territory, and use both claws and teeth to grab and rend their prey. They display tremendous courage, always fighting to the death, even against creatures many times their size. Pairs and prides of sea cats attack in concert, trying to wear the opponent down until one beast can dispatch it.]{.underline}
 
-**[Hold Breath (Ex): ]{.underline}**[A sea cat can hold its breath for a
-number of rounds equal to 6 its Constitution score before it risks
-drowning. ]{.underline}
+**[Hold Breath (Ex): ]{.underline}**[A sea cat can hold its breath for a number of rounds equal to 6 its Constitution score before it risks drowning. ]{.underline}
 
-**[Rend (Ex): ]{.underline}**[A sea cat that hits with both claw attacks
-latches onto the opponent's body and tears the flesh. This automatically
-deals an extra 2d6+6 points of damage.]{.underline}
+**[Rend (Ex): ]{.underline}**[A sea cat that hits with both claw attacks latches onto the opponent's body and tears the flesh. This automatically deals an extra 2d6+6 points of damage.]{.underline}
 
-**[Skills:]{.underline}**[ A sea cat has a +8 racial bonus on any Swim
-check to perform some special action or avoid a hazard. It can always
-choose to take 10 on a Swim check, even if distracted or endangered. It
-can use the run action while swimming, provided it swims in a straight
-line.]{.underline}
+**[Skills:]{.underline}**[ A sea cat has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.]{.underline}
 
 [SHADOW]{.underline}
 
-+----------------------+----------------------+----------------------+
-|                      | ########             | ## [Greater          |
-|                      | [Shadow]{.underline} |  Shadow]{.underline} |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
-|                      | [Medium Undead       | [Medium Undead       |
-|                      | (Incor               | (Incor               |
-|                      | poreal)]{.underline} | poreal)]{.underline} |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
-| **[Hit               | [3d12 (19            | [9d12 (58            |
-| Dice:]{.underline}** | hp)]{.underline}     | hp)]{.underline}     |
-+----------------------+----------------------+----------------------+
-| **[Initia            | [+2]{.underline}     | [+2]{.underline}     |
-| tive:]{.underline}** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **[S                 | [Fly 40 ft. (good)   | [Fly 40 ft. (good)   |
-| peed:]{.underline}** | (8                   | (8                   |
-|                      | s                    | s                    |
-|                      | quares)]{.underline} | quares)]{.underline} |
-+----------------------+----------------------+----------------------+
-| **[Armor             | [13 (+2 Dex, +1      | [14 (+2 Dex, +2      |
-| C                    | deflection), touch   | deflection), touch   |
-| lass:]{.underline}** | 13, flat-footed      | 14, flat-footed 12   |
-|                      | 11]{.underline}      | ]{.underline}        |
-+----------------------+----------------------+----------------------+
-| **[Base              | [+1/---]{.underline} | [+4/---]{.underline} |
-| Attack/Gra           |                      |                      |
-| pple:]{.underline}** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **[At                | [Incorporeal touch   | [Incorporeal touch   |
-| tack:]{.underline}** | +3 melee (1d6        | +6 melee (1d8        |
-|                      | Str)]{.underline}    | Str)]{.underline}    |
-+----------------------+----------------------+----------------------+
-| **[Full              | [Incorporeal touch   | [Incorporeal touch   |
-| At                   | +3 melee (1d6        | +6 melee (1d8        |
-| tack:]{.underline}** | Str)]{.underline}    | Str)]{.underline}    |
-+----------------------+----------------------+----------------------+
-| **[Space/R           | [5 ft./5 ft.         | [5 ft./5             |
-| each:]{.underline}** | ]{.underline}        | ft.]{.underline}     |
-+----------------------+----------------------+----------------------+
-| **[Special           | [Create spawn,       | [Create spawn,       |
-| Att                  | strength damage      | strength             |
-| acks:]{.underline}** | ]{.underline}        | damage]{.underline}  |
-+----------------------+----------------------+----------------------+
-| **[Special           | [Darkvision 60 ft.,  | [Darkvision 60 ft.,  |
-| Quali                | incorporeal traits,  | incorporeal traits,  |
-| ties:]{.underline}** | +2 turn resistance,  | +2 turn resistance,  |
-|                      | undead traits        | undead               |
-|                      | ]{.underline}        | traits]{.underline}  |
-+----------------------+----------------------+----------------------+
-| **[S                 | [Fort +1, Ref +3,    | [Fort +3, Ref +5,    |
-| aves:]{.underline}** | Will +4              | Will +7]{.underline} |
-|                      | ]{.underline}        |                      |
-+----------------------+----------------------+----------------------+
-| **[Abili             | [Str ---, Dex 14,    | [Str ---, Dex 15,    |
-| ties:]{.underline}** | Con ---,Int 6, Wis   | Con ---, Int 6, Wis  |
-|                      | 12, Cha 13           | 12, Cha              |
-|                      | ]{.underline}        | 14]{.underline}      |
-+----------------------+----------------------+----------------------+
-| **[Sk                | [Hide +8\*, Listen   | [Hide +14\*, Listen  |
-| ills:]{.underline}** | +7, Search +4, Spot  | +9, Search +6, Spot  |
-|                      | +7 ]{.underline}     | +9]{.underline}      |
-+----------------------+----------------------+----------------------+
-| **[F                 | [Alertness, Dodge    | [Alertness, Dodge,   |
-| eats:]{.underline}** | ]{.underline}        | Mobility, Spring     |
-|                      |                      | Attack]{.underline}  |
-+----------------------+----------------------+----------------------+
-| **[Environ           | [Any ]{.underline}   | [Any]{.underline}    |
-| ment:]{.underline}** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **[Organiza          | [Solitary, gang      | [S                   |
-| tion:]{.underline}** | (2--5), or swarm     | olitary]{.underline} |
-|                      | (6--11)              |                      |
-|                      | ]{.underline}        |                      |
-+----------------------+----------------------+----------------------+
-| **[Challenge         | [3]{.underline}      | [8]{.underline}      |
-| Ra                   |                      |                      |
-| ting:]{.underline}** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **[Trea              | [None ]{.underline}  | [None]{.underline}   |
-| sure:]{.underline}** |                      |                      |
-+----------------------+----------------------+----------------------+
-| **[Align             | [Always chaotic evil | [Always chaotic      |
-| ment:]{.underline}** | ]{.underline}        | evil]{.underline}    |
-+----------------------+----------------------+----------------------+
-| **[Advance           | [4--9 HD             | [---]{.underline}    |
-| ment:]{.underline}** | (                    |                      |
-|                      | Medium)]{.underline} |                      |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
-| **[Level             | [---]{.underline}    | [---]{.underline}    |
-| Adjust               |                      |                      |
-| ment:]{.underline}** |                      |                      |
-+----------------------+----------------------+----------------------+
-|                      |                      |                      |
-+----------------------+----------------------+----------------------+
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+|                                        | ######## [Shadow]{.underline}                                                           | ## [Greater Shadow]{.underline}                                                        |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+|                                        |                                                                                         |                                                                                        |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+|                                        | [Medium Undead (Incorporeal)]{.underline}                                               | [Medium Undead (Incorporeal)]{.underline}                                              |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+|                                        |                                                                                         |                                                                                        |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Hit Dice:]{.underline}**            | [3d12 (19 hp)]{.underline}                                                              | [9d12 (58 hp)]{.underline}                                                             |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Initiative:]{.underline}**          | [+2]{.underline}                                                                        | [+2]{.underline}                                                                       |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Speed:]{.underline}**               | [Fly 40 ft. (good) (8 squares)]{.underline}                                             | [Fly 40 ft. (good) (8 squares)]{.underline}                                            |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Armor Class:]{.underline}**         | [13 (+2 Dex, +1 deflection), touch 13, flat-footed 11]{.underline}                      | [14 (+2 Dex, +2 deflection), touch 14, flat-footed 12 ]{.underline}                    |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Base Attack/Grapple:]{.underline}** | [+1/---]{.underline}                                                                    | [+4/---]{.underline}                                                                   |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Attack:]{.underline}**              | [Incorporeal touch +3 melee (1d6 Str)]{.underline}                                      | [Incorporeal touch +6 melee (1d8 Str)]{.underline}                                     |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Full Attack:]{.underline}**         | [Incorporeal touch +3 melee (1d6 Str)]{.underline}                                      | [Incorporeal touch +6 melee (1d8 Str)]{.underline}                                     |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Space/Reach:]{.underline}**         | [5 ft./5 ft. ]{.underline}                                                              | [5 ft./5 ft.]{.underline}                                                              |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Special Attacks:]{.underline}**     | [Create spawn, strength damage ]{.underline}                                            | [Create spawn, strength damage]{.underline}                                            |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Special Qualities:]{.underline}**   | [Darkvision 60 ft., incorporeal traits, +2 turn resistance, undead traits ]{.underline} | [Darkvision 60 ft., incorporeal traits, +2 turn resistance, undead traits]{.underline} |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Saves:]{.underline}**               | [Fort +1, Ref +3, Will +4 ]{.underline}                                                 | [Fort +3, Ref +5, Will +7]{.underline}                                                 |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Abilities:]{.underline}**           | [Str ---, Dex 14, Con ---,Int 6, Wis 12, Cha 13 ]{.underline}                           | [Str ---, Dex 15, Con ---, Int 6, Wis 12, Cha 14]{.underline}                          |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Skills:]{.underline}**              | [Hide +8\*, Listen +7, Search +4, Spot +7 ]{.underline}                                 | [Hide +14\*, Listen +9, Search +6, Spot +9]{.underline}                                |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Feats:]{.underline}**               | [Alertness, Dodge ]{.underline}                                                         | [Alertness, Dodge, Mobility, Spring Attack]{.underline}                                |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Environment:]{.underline}**         | [Any ]{.underline}                                                                      | [Any]{.underline}                                                                      |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Organization:]{.underline}**        | [Solitary, gang (2--5), or swarm (6--11) ]{.underline}                                  | [Solitary]{.underline}                                                                 |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Challenge Rating:]{.underline}**    | [3]{.underline}                                                                         | [8]{.underline}                                                                        |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Treasure:]{.underline}**            | [None ]{.underline}                                                                     | [None]{.underline}                                                                     |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Alignment:]{.underline}**           | [Always chaotic evil ]{.underline}                                                      | [Always chaotic evil]{.underline}                                                      |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Advancement:]{.underline}**         | [4--9 HD (Medium)]{.underline}                                                          | [---]{.underline}                                                                      |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+|                                        |                                                                                         |                                                                                        |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+| **[Level Adjustment:]{.underline}**    | [---]{.underline}                                                                       | [---]{.underline}                                                                      |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
+|                                        |                                                                                         |                                                                                        |
++----------------------------------------+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
 
-[A shadow can be difficult to see in dark or gloomy areas but stands out
-starkly in brightly illuminated places.]{.underline}
+[A shadow can be difficult to see in dark or gloomy areas but stands out starkly in brightly illuminated places.]{.underline}
 
-[A shadow is 5 to 6 feet tall and is weightless. Shadows cannot speak
-intelligibly.]{.underline}
+[A shadow is 5 to 6 feet tall and is weightless. Shadows cannot speak intelligibly.]{.underline}
 
 [COMBAT]{.underline}
 
-[Shadows lurk in dark places, waiting for living prey to happen
-by.]{.underline}
+[Shadows lurk in dark places, waiting for living prey to happen by.]{.underline}
 
-**[Strength Damage (Su):]{.underline}**[ The touch of a shadow deals 1d6
-points of Strength damage to a living foe. A creature reduced to
-Strength 0 by a shadow dies. This is a negative energy
-effect.]{.underline}
+**[Strength Damage (Su):]{.underline}**[ The touch of a shadow deals 1d6 points of Strength damage to a living foe. A creature reduced to Strength 0 by a shadow dies. This is a negative energy effect.]{.underline}
 
-**[Create Spawn (Su):]{.underline}**[ Any humanoid reduced to Strength 0
-by a shadow becomes a shadow under the control of its killer within 1d4
-rounds.]{.underline}
+**[Create Spawn (Su):]{.underline}**[ Any humanoid reduced to Strength 0 by a shadow becomes a shadow under the control of its killer within 1d4 rounds.]{.underline}
 
-**[Skills:]{.underline}**[ Shadows have a +2 racial bonus on Listen and
-Spot checks and a +4 racial bonus on Search checks. \*A shadow gains a
-+4 racial bonus on Hide checks in areas of shadowy illumination. In
-brightly lit areas, it takes a --4 penalty on Hide checks.]{.underline}
+**[Skills:]{.underline}**[ Shadows have a +2 racial bonus on Listen and Spot checks and a +4 racial bonus on Search checks. \*A shadow gains a +4 racial bonus on Hide checks in areas of shadowy illumination. In brightly lit areas, it takes a --4 penalty on Hide checks.]{.underline}
 
 [GREATER SHADOW]{.underline}
 
-Although no more intelligent than an average shadow, a greater shadow is
-more fearsome because of its increased damage and its hit-and-run
-tactics.
+Although no more intelligent than an average shadow, a greater shadow is more fearsome because of its increased damage and its hit-and-run tactics.
 
 [COMBAT]{.underline}
 
-**Strength Damage (Su):** The touch of a greater shadow deals 1d8 points
-of Strength damage to a living foe.
+**Strength Damage (Su):** The touch of a greater shadow deals 1d8 points of Strength damage to a living foe.
 
 [SHADOW MASTIFF]{.underline}
 
@@ -507,48 +347,25 @@ of Strength damage to a living foe.
                                            
   ---------------------------------------- ----------------------------------------------------------------------------
 
-[This creature has the body of a large dog, with a smooth black coat and
-a mouth full of sharp teeth. ]{.underline}
+[This creature has the body of a large dog, with a smooth black coat and a mouth full of sharp teeth. ]{.underline}
 
-[A shadow mastiff is slightly more than 2 feet high at the shoulder and
-weighs about 200 pounds. ]{.underline}
+[A shadow mastiff is slightly more than 2 feet high at the shoulder and weighs about 200 pounds. ]{.underline}
 
 [Shadow mastiffs cannot speak, but they understand Common.]{.underline}
 
 [COMBAT]{.underline}
 
-[Shadow mastiffs prefer fighting in shadows or dark conditions, which
-gives them a great advantage.]{.underline}
+[Shadow mastiffs prefer fighting in shadows or dark conditions, which gives them a great advantage.]{.underline}
 
-[If a magical light source negates the shadows around them, shadow
-mastiffs are cunning enough to either move out of the light or back off
-and break up the opposition with their baying. They have been known to
-seize and carry off items enspelled with ]{.underline}*[daylight
-]{.underline}*[spells.]{.underline}
+[If a magical light source negates the shadows around them, shadow mastiffs are cunning enough to either move out of the light or back off and break up the opposition with their baying. They have been known to seize and carry off items enspelled with ]{.underline}*[daylight ]{.underline}*[spells.]{.underline}
 
-**[Bay (Su):]{.underline}**[ When a shadow mastiff howls or barks, all
-creatures except evil outsiders within a 300-foot spread must succeed on
-a DC 13 Will save or become panicked for 2d4 rounds. This is a sonic
-mind-affecting fear effect. Whether or not the save is successful, an
-affected creature is immune to the same mastiff 's bay for 24 hours. The
-save DC is Charisma-based.]{.underline}
+**[Bay (Su):]{.underline}**[ When a shadow mastiff howls or barks, all creatures except evil outsiders within a 300-foot spread must succeed on a DC 13 Will save or become panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the same mastiff 's bay for 24 hours. The save DC is Charisma-based.]{.underline}
 
-**[Trip (Ex):]{.underline}**[ A shadow mastiff that hits with its bite
-attack can attempt to trip the opponent as a free action (+3 check
-modifier) without making a touch attack or provoking an attack of
-opportunity. If the attempt fails, the opponent cannot react to trip the
-shadow mastiff. ]{.underline}
+**[Trip (Ex):]{.underline}**[ A shadow mastiff that hits with its bite attack can attempt to trip the opponent as a free action (+3 check modifier) without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the shadow mastiff. ]{.underline}
 
-**[Shadow Blend (Su):]{.underline}**[ In any condition of illumination
-other than full daylight, a shadow mastiff can disappear into the
-shadows, giving it total concealment. Artificial illumination, even a
-]{.underline}*[light ]{.underline}*[or ]{.underline}*[continual flame
-]{.underline}*[spell, does not negate this ability. A
-]{.underline}*[daylight ]{.underline}*[spell, however,
-will.]{.underline}
+**[Shadow Blend (Su):]{.underline}**[ In any condition of illumination other than full daylight, a shadow mastiff can disappear into the shadows, giving it total concealment. Artificial illumination, even a ]{.underline}*[light ]{.underline}*[or ]{.underline}*[continual flame ]{.underline}*[spell, does not negate this ability. A ]{.underline}*[daylight ]{.underline}*[spell, however, will.]{.underline}
 
-**[Skills: ]{.underline}**[\*A shadow mastiff has a +4 racial bonus on
-Survival checks when tracking by scent.]{.underline}
+**[Skills: ]{.underline}**[\*A shadow mastiff has a +4 racial bonus on Survival checks when tracking by scent.]{.underline}
 
 [SHAMBLING MOUND]{.underline}
 
@@ -580,38 +397,23 @@ Survival checks when tracking by scent.]{.underline}
                                            
   ---------------------------------------- -----------------------------------------------------------------------------------------------------------------
 
-[Shambling mounds, also called shamblers, appear to be heaps of rotting
-vegetation. They are actually intelligent, carnivorous
-plants.]{.underline}
+[Shambling mounds, also called shamblers, appear to be heaps of rotting vegetation. They are actually intelligent, carnivorous plants.]{.underline}
 
-[A shambler's brain and sensory organs are located in its upper
-body.]{.underline}
+[A shambler's brain and sensory organs are located in its upper body.]{.underline}
 
-[A shambler's body has an 8-foot girth and is about 6 feet tall when the
-creature stands erect. It weighs about 3,800 pounds.]{.underline}
+[A shambler's body has an 8-foot girth and is about 6 feet tall when the creature stands erect. It weighs about 3,800 pounds.]{.underline}
 
 [COMBAT]{.underline}
 
-[A shambling mound batters or constricts its opponents with two huge,
-armlike appendages.]{.underline}
+[A shambling mound batters or constricts its opponents with two huge, armlike appendages.]{.underline}
 
-**[Improved Grab (Ex): ]{.underline}**[To use this ability, a shambler
-must hit with both slam attacks. It can then attempt to start a grapple
-as a free action without provoking an attack of opportunity. If it wins
-the grapple check, it establishes a hold and can constrict.
-]{.underline}
+**[Improved Grab (Ex): ]{.underline}**[To use this ability, a shambler must hit with both slam attacks. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict. ]{.underline}
 
-**[Constrict (Ex):]{.underline}**[ A shambler deals 2d6+7 points of
-damage with a successful grapple check.]{.underline}
+**[Constrict (Ex):]{.underline}**[ A shambler deals 2d6+7 points of damage with a successful grapple check.]{.underline}
 
-**[Immunity to Electricity (Ex): ]{.underline}**[Shamblers take no
-damage from electricity. Instead, any electricity attack used against a
-shambler temporarily grants it 1d4 points of Constitution. The shambler
-loses these points at the rate of 1 per hour.]{.underline}
+**[Immunity to Electricity (Ex): ]{.underline}**[Shamblers take no damage from electricity. Instead, any electricity attack used against a shambler temporarily grants it 1d4 points of Constitution. The shambler loses these points at the rate of 1 per hour.]{.underline}
 
-[Skills: Shamblers have a +4 racial bonus on Hide, Listen, and Move
-Silently checks. \*They have a +12 racial bonus on Hide checks when in a
-swampy or forested area.]{.underline}
+[Skills: Shamblers have a +4 racial bonus on Hide, Listen, and Move Silently checks. \*They have a +12 racial bonus on Hide checks when in a swampy or forested area.]{.underline}
 
 [SHIELD GUARDIAN]{.underline}
 
@@ -641,84 +443,37 @@ swampy or forested area.]{.underline}
                                            
   ---------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Created by spellcasters to be bodyguards, shield guardians are
-constructs that protect their masters with spells and stamina. When it
-is fashioned, a shield guardian is keyed to a particular magical amulet.
-Henceforth, it regards the wearer of that amulet to be its master,
-protecting and following that individual everywhere (unless specifically
-commanded not to do so).]{.underline}
+[Created by spellcasters to be bodyguards, shield guardians are constructs that protect their masters with spells and stamina. When it is fashioned, a shield guardian is keyed to a particular magical amulet. Henceforth, it regards the wearer of that amulet to be its master, protecting and following that individual everywhere (unless specifically commanded not to do so).]{.underline}
 
-[A shield guardian obeys its master's verbal commands to the best of its
-ability, although it is not good for much beyond combat and possibly
-simple manual labor. It can also be keyed to perform specific tasks at
-specific times or when certain conditions are met. The wearer of the
-amulet can call the shield guardian from any distance, and it will come
-as long as it is on the same plane.]{.underline}
+[A shield guardian obeys its master's verbal commands to the best of its ability, although it is not good for much beyond combat and possibly simple manual labor. It can also be keyed to perform specific tasks at specific times or when certain conditions are met. The wearer of the amulet can call the shield guardian from any distance, and it will come as long as it is on the same plane.]{.underline}
 
-[A shield guardian is some 9 feet tall and weighs more than 1,200
-pounds.]{.underline}
+[A shield guardian is some 9 feet tall and weighs more than 1,200 pounds.]{.underline}
 
-[Shield guardians cannot speak, but they understand commands given in
-any language.]{.underline}
+[Shield guardians cannot speak, but they understand commands given in any language.]{.underline}
 
 [COMBAT]{.underline}
 
-[Shield guardians are straightforward in battle, bashing with their
-heavy stone fists. They are made for defense and are not particularly
-impressive on offense.]{.underline}
+[Shield guardians are straightforward in battle, bashing with their heavy stone fists. They are made for defense and are not particularly impressive on offense.]{.underline}
 
-**[Find Master (Su):]{.underline}**[ As long as a shield guardian and
-its amulet are on the same plane, the shield guardian can find the
-amulet wearer (or just the amulet, if it is removed after the guardian
-is called).]{.underline}
+**[Find Master (Su):]{.underline}**[ As long as a shield guardian and its amulet are on the same plane, the shield guardian can find the amulet wearer (or just the amulet, if it is removed after the guardian is called).]{.underline}
 
-**[Guard (Ex):]{.underline}**[ If ordered to do so, a shield guardian
-moves swiftly to defend the wearer of its amulet, blocking blows and
-disrupting foes. All attacks against the amulet wearer take a --2
-penalty when the shield guardian is adjacent to its master.]{.underline}
+**[Guard (Ex):]{.underline}**[ If ordered to do so, a shield guardian moves swiftly to defend the wearer of its amulet, blocking blows and disrupting foes. All attacks against the amulet wearer take a --2 penalty when the shield guardian is adjacent to its master.]{.underline}
 
-***[Shield Other ]{.underline}*[(Sp):]{.underline}**[ The wearer of a
-shield guardian's amulet can activate this defensive ability if within
-100 feet of the shield guardian. Just as the spell of the same name,
-this ability transfers to the shield guardian half the damage that would
-be dealt to the amulet wearer (this ability does not provide the spell's
-AC or save bonuses).]{.underline}
+***[Shield Other ]{.underline}*[(Sp):]{.underline}**[ The wearer of a shield guardian's amulet can activate this defensive ability if within 100 feet of the shield guardian. Just as the spell of the same name, this ability transfers to the shield guardian half the damage that would be dealt to the amulet wearer (this ability does not provide the spell's AC or save bonuses).]{.underline}
 
-***[Spell Storing ]{.underline}*[(Sp):]{.underline}**[ A shield guardian
-can store one spell of 4th level or lower that is cast into it by
-another creature. It "casts" this spell when commanded to do so or when
-a predefined situation arises. Once this spell is used, the shield
-guardian can store another spell (or the same spell again).]{.underline}
+***[Spell Storing ]{.underline}*[(Sp):]{.underline}**[ A shield guardian can store one spell of 4th level or lower that is cast into it by another creature. It "casts" this spell when commanded to do so or when a predefined situation arises. Once this spell is used, the shield guardian can store another spell (or the same spell again).]{.underline}
 
 [CONSTRUCTION]{.underline}
 
-[A shield guardian is built from wood, bronze, stone, and steel. The
-materials cost 5,000 gp.]{.underline}
+[A shield guardian is built from wood, bronze, stone, and steel. The materials cost 5,000 gp.]{.underline}
 
-The creature's master may assemble the body or hire someone else to do
-the job. Creating the body requires a DC 16 Craft (blacksmithing) or
-Craft (carpentry) check. The keyed amulet is fashioned at the same time,
-and its cost (20,000 gp) is included in the cost of the guardian. After
-the body is sculpted, the shield guardian is animated through an
-extended magical ritual that requires a specially prepared laboratory or
-workroom, similar to an alchemist's laboratory and costing 500 gp to
-establish. If the creator is personally constructing the creature's
-body, the building and the ritual can be performed together. A shield
-guardian with more than 15 Hit Dice can be created, but each additional
-Hit Die adds +5,000 gp to the market price, and the price increases by
-+20,000 gp if the creature's size increases to Huge, modifying the cost
-to create accordingly.
+The creature's master may assemble the body or hire someone else to do the job. Creating the body requires a DC 16 Craft (blacksmithing) or Craft (carpentry) check. The keyed amulet is fashioned at the same time, and its cost (20,000 gp) is included in the cost of the guardian. After the body is sculpted, the shield guardian is animated through an extended magical ritual that requires a specially prepared laboratory or workroom, similar to an alchemist's laboratory and costing 500 gp to establish. If the creator is personally constructing the creature's body, the building and the ritual can be performed together. A shield guardian with more than 15 Hit Dice can be created, but each additional Hit Die adds +5,000 gp to the market price, and the price increases by +20,000 gp if the creature's size increases to Huge, modifying the cost to create accordingly.
 
-CL 15th; Craft Construct, *limited wish, discern location, shield,
-shield other, *caster must be at least 15th level; Price 120,000 gp;
-Cost 65,000 gp + 4,600 XP.
+CL 15th; Craft Construct, *limited wish, discern location, shield, shield other, *caster must be at least 15th level; Price 120,000 gp; Cost 65,000 gp + 4,600 XP.
 
 AMULET
 
-If a shield guardian's amulet is destroyed, the guardian ceases to
-function until a new one is created. If the wearer dies but the amulet
-is intact, the shield guardian carries out the last command it was
-given.
+If a shield guardian's amulet is destroyed, the guardian ceases to function until a new one is created. If the wearer dies but the amulet is intact, the shield guardian carries out the last command it was given.
 
 SHOCKER LIZARD
 
@@ -750,86 +505,43 @@ SHOCKER LIZARD
                                            
   ---------------------------------------- -----------------------------------------------------------------------------------------------
 
-[A shocker lizard has a pale gray or blue underside, shading to a darker
-hue on its back. It has blue-black markings along its back and tail. A
-shocker lizard is about 1 foot tall at the shoulder and weighs about 25
-pounds.]{.underline}
+[A shocker lizard has a pale gray or blue underside, shading to a darker hue on its back. It has blue-black markings along its back and tail. A shocker lizard is about 1 foot tall at the shoulder and weighs about 25 pounds.]{.underline}
 
 [COMBAT]{.underline}
 
-[A shocker lizard relies on its electricity abilities in combat. A
-lizard tends to bite only after its shock has rendered an opponent
-unconscious or when the shock seems to have no effect at all. A solitary
-lizard flees once it delivers its shocks, but if other shocker lizards
-are nearby, they all home in on their comrade's discharges and attempt
-to administer their shocks to the foe. ]{.underline}
+[A shocker lizard relies on its electricity abilities in combat. A lizard tends to bite only after its shock has rendered an opponent unconscious or when the shock seems to have no effect at all. A solitary lizard flees once it delivers its shocks, but if other shocker lizards are nearby, they all home in on their comrade's discharges and attempt to administer their shocks to the foe. ]{.underline}
 
-**[Stunning Shock (Su):]{.underline}**[ Once per round, a shocker lizard
-can deliver an electrical shock to a single opponent within 5 feet. This
-attack deals 2d8 points of nonlethal damage to living opponents (Reflex
-DC 12 half ). The save DC is Constitution-based.]{.underline}
+**[Stunning Shock (Su):]{.underline}**[ Once per round, a shocker lizard can deliver an electrical shock to a single opponent within 5 feet. This attack deals 2d8 points of nonlethal damage to living opponents (Reflex DC 12 half ). The save DC is Constitution-based.]{.underline}
 
-**[Lethal Shock (Su):]{.underline}**[ Whenever two or more shocker
-lizards are within 20 feet of each other, they can work together to
-create a lethal shock. This effect has a radius of 20 feet, centered on
-any one contributing lizard. The shock deals 2d8 points of electricity
-damage for each lizard contributing to it, to a maximum of 12d8. A
-Reflex save (DC 10 + number of lizards contributing) reduces the damage
-by half.]{.underline}
+**[Lethal Shock (Su):]{.underline}**[ Whenever two or more shocker lizards are within 20 feet of each other, they can work together to create a lethal shock. This effect has a radius of 20 feet, centered on any one contributing lizard. The shock deals 2d8 points of electricity damage for each lizard contributing to it, to a maximum of 12d8. A Reflex save (DC 10 + number of lizards contributing) reduces the damage by half.]{.underline}
 
-**[Electricity Sense (Ex):]{.underline}**[ Shocker lizards automatically
-detect any electrical discharges within 100 feet.]{.underline}
+**[Electricity Sense (Ex):]{.underline}**[ Shocker lizards automatically detect any electrical discharges within 100 feet.]{.underline}
 
-**[Skills:]{.underline}**[ Shocker lizards have a +4 racial bonus on
-Hide checks due to their coloration. Shocker lizards have a +2 racial
-bonus on Listen and Spot checks.]{.underline}
+**[Skills:]{.underline}**[ Shocker lizards have a +4 racial bonus on Hide checks due to their coloration. Shocker lizards have a +2 racial bonus on Listen and Spot checks.]{.underline}
 
-[Shocker lizards use their Dexterity modifier instead of their Strength
-modifier for Climb and Jump checks.]{.underline}
+[Shocker lizards use their Dexterity modifier instead of their Strength modifier for Climb and Jump checks.]{.underline}
 
-[A shocker lizard has a +8 racial bonus on Climb checks and can always
-choose to take 10 on a Climb check, even if rushed or
-threatened.]{.underline}
+[A shocker lizard has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.]{.underline}
 
-[A shocker lizard has a +8 racial bonus on any Swim check to perform
-some special action or avoid a hazard. It can always choose to take 10
-on a Swim check, even if distracted or endangered. It can use the run
-action while swimming, provided it swims in a straight
-line.]{.underline}
+[A shocker lizard has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.]{.underline}
 
 [SKELETON]{.underline}
 
-[Skeletons are the animated bones of the dead, mindless automatons that
-obey the orders of their evil masters.]{.underline}
+[Skeletons are the animated bones of the dead, mindless automatons that obey the orders of their evil masters.]{.underline}
 
-[A skeleton is seldom garbed in anything more than the rotting remnants
-of any clothing or armor it was wearing when slain. A skeleton does only
-what it is ordered to do. It can draw no conclusions of its own and
-takes no initiative. Because of this limitation, its instructions must
-always be simple. A skeleton attacks until destroyed.]{.underline}
+[A skeleton is seldom garbed in anything more than the rotting remnants of any clothing or armor it was wearing when slain. A skeleton does only what it is ordered to do. It can draw no conclusions of its own and takes no initiative. Because of this limitation, its instructions must always be simple. A skeleton attacks until destroyed.]{.underline}
 
 [CREATING A SKELETON]{.underline}
 
-["Skeleton" is an acquired template that can be added to any corporeal
-creature (other than an undead) that has a skeletal system (referred to
-hereafter as the base creature).]{.underline}
+["Skeleton" is an acquired template that can be added to any corporeal creature (other than an undead) that has a skeletal system (referred to hereafter as the base creature).]{.underline}
 
-**[Size and Type:]{.underline}**[ The creature's type changes to undead.
-It retains any subtype except for alignment subtypes (such as good) and
-subtypes that indicate kind. It does not gain the augmented subtype. It
-uses all the base creature's statistics and special abilities except as
-noted here.]{.underline}
+**[Size and Type:]{.underline}**[ The creature's type changes to undead. It retains any subtype except for alignment subtypes (such as good) and subtypes that indicate kind. It does not gain the augmented subtype. It uses all the base creature's statistics and special abilities except as noted here.]{.underline}
 
-**[Hit Dice: ]{.underline}**[Drop any Hit Dice gained from class levels
-(to a minimum of 1) and raise remaining Hit Dice to d12s. If the
-creature has more than 20 Hit Dice, it can't be made into a skeleton by
-the ]{.underline}*[animate dead ]{.underline}*[spell.]{.underline}
+**[Hit Dice: ]{.underline}**[Drop any Hit Dice gained from class levels (to a minimum of 1) and raise remaining Hit Dice to d12s. If the creature has more than 20 Hit Dice, it can't be made into a skeleton by the ]{.underline}*[animate dead ]{.underline}*[spell.]{.underline}
 
-**[Speed: ]{.underline}**[Winged skeletons can't use their wings to fly.
-If the base creature flew magically, so can the skeleton.]{.underline}
+**[Speed: ]{.underline}**[Winged skeletons can't use their wings to fly. If the base creature flew magically, so can the skeleton.]{.underline}
 
-**[Armor Class:]{.underline}**[ Natural armor bonus changes to a number
-based on the skeleton's size:]{.underline}
+**[Armor Class:]{.underline}**[ Natural armor bonus changes to a number based on the skeleton's size:]{.underline}
 
   ------------------------------- -------------------
   [Tiny or smaller]{.underline}   [+0]{.underline}
@@ -843,17 +555,9 @@ based on the skeleton's size:]{.underline}
                                   
   ------------------------------- -------------------
 
-**[Attacks:]{.underline}**[ A skeleton retains all the natural weapons,
-manufactured weapon attacks, and weapon proficiencies of the base
-creature, except for attacks that can't work without flesh. A creature
-with hands gains one claw attack per hand; the skeleton can strike with
-each of its claw attacks at its full attack bonus. A skeleton's base
-attack bonus is equal to 1/2 its Hit Dice.]{.underline}
+**[Attacks:]{.underline}**[ A skeleton retains all the natural weapons, manufactured weapon attacks, and weapon proficiencies of the base creature, except for attacks that can't work without flesh. A creature with hands gains one claw attack per hand; the skeleton can strike with each of its claw attacks at its full attack bonus. A skeleton's base attack bonus is equal to 1/2 its Hit Dice.]{.underline}
 
-**[Damage:]{.underline}**[ Natural and manufactured weapons deal damage
-normally. A claw attack deals damage depending on the skeleton's size.
-(If the base creature already had claw attacks with its hands, use the
-skeleton claw damage only if it's better.)]{.underline}
+**[Damage:]{.underline}**[ Natural and manufactured weapons deal damage normally. A claw attack deals damage depending on the skeleton's size. (If the base creature already had claw attacks with its hands, use the skeleton claw damage only if it's better.)]{.underline}
 
   ---------------------------------- -------------------
   [Diminutive or Fine]{.underline}   [1]{.underline}
@@ -869,34 +573,23 @@ skeleton claw damage only if it's better.)]{.underline}
                                      
   ---------------------------------- -------------------
 
-**[Special Attacks: ]{.underline}**[A skeleton retains none of the base
-creature's special attacks.]{.underline}
+**[Special Attacks: ]{.underline}**[A skeleton retains none of the base creature's special attacks.]{.underline}
 
-**[Special Qualities:]{.underline}**[ A skeleton loses most special
-qualities of the base creature. It retains any extraordinary special
-qualities that improve its melee or ranged attacks. A skeleton gains the
-following special qualities.]{.underline}
+**[Special Qualities:]{.underline}**[ A skeleton loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. A skeleton gains the following special qualities.]{.underline}
 
-*[Immunity to Cold (Ex): ]{.underline}*[Skeletons are not affected by
-cold.]{.underline}
+*[Immunity to Cold (Ex): ]{.underline}*[Skeletons are not affected by cold.]{.underline}
 
-*[Damage Reduction 5/Bludgeoning: ]{.underline}*[Skeletons lack flesh or
-internal organs.]{.underline}
+*[Damage Reduction 5/Bludgeoning: ]{.underline}*[Skeletons lack flesh or internal organs.]{.underline}
 
-**[Saves:]{.underline}**[ Base save bonuses are Fort +1/3 HD, Ref +1/3
-HD, and Will +1/2 HD + 2.]{.underline}
+**[Saves:]{.underline}**[ Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.]{.underline}
 
-**[Abilities:]{.underline}**[ A skeleton's Dexterity increases by +2, it
-has no Constitution or Intelligence score, its Wisdom changes to 10, and
-its Charisma changes to 1.]{.underline}
+**[Abilities:]{.underline}**[ A skeleton's Dexterity increases by +2, it has no Constitution or Intelligence score, its Wisdom changes to 10, and its Charisma changes to 1.]{.underline}
 
 **[Skills:]{.underline}**[ A skeleton has no skills.]{.underline}
 
-**[Feats: ]{.underline}**[A skeleton loses all feats of the base
-creature and gains Improved Initiative.]{.underline}
+**[Feats: ]{.underline}**[A skeleton loses all feats of the base creature and gains Improved Initiative.]{.underline}
 
-**[Environment]{.underline}**[: Any, usually same as base
-creature.]{.underline}
+**[Environment]{.underline}**[: Any, usually same as base creature.]{.underline}
 
 **Organization:** Any.
 
@@ -923,8 +616,7 @@ creature.]{.underline}
 
 **[Alignment: ]{.underline}**[Always neutral evil.]{.underline}
 
-**[Advancement: ]{.underline}**[As base creature (or --- if the base
-creature advances by character class).]{.underline}
+**[Advancement: ]{.underline}**[As base creature (or --- if the base creature advances by character class).]{.underline}
 
 **[Level Adjustment:]{.underline}**[ ---.]{.underline}
 
@@ -1036,22 +728,15 @@ creature advances by character class).]{.underline}
                                            
   ---------------------------------------- -----------------------------------------------------------------------------
 
-[A skum is about the same height and weight as a human. Skum speak
-Aquan.]{.underline}
+[A skum is about the same height and weight as a human. Skum speak Aquan.]{.underline}
 
 [COMBAT]{.underline}
 
-**[Rake (Ex):]{.underline}**[ Attack bonus +0 melee, damage 1d6+2. A
-skum also gains two rake attacks when it attacks while
-swimming.]{.underline}
+**[Rake (Ex):]{.underline}**[ Attack bonus +0 melee, damage 1d6+2. A skum also gains two rake attacks when it attacks while swimming.]{.underline}
 
-**[Skills:]{.underline}**[ \*Skum have a +4 racial bonus on Hide,
-Listen, and Spot checks underwater.]{.underline}
+**[Skills:]{.underline}**[ \*Skum have a +4 racial bonus on Hide, Listen, and Spot checks underwater.]{.underline}
 
-[A skum has a +8 racial bonus on any Swim check to perform some special
-action or avoid a hazard. It can always choose to take 10 on a Swim
-check, even if distracted or endangered. It can use the run action while
-swimming, provided it swims in a straight line.]{.underline}
+[A skum has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.]{.underline}
 
 [SPECTRE]{.underline}
 
@@ -1083,65 +768,35 @@ swimming, provided it swims in a straight line.]{.underline}
                                            
   ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------
 
-[A spectre looks much as it did in life and can be easily recognized by
-those who knew the individual or have seen the individual's face in a
-painting or a drawing. In many cases, the evidence of a violent death is
-visible on its body. A spectre is roughly human-sized and is
-weightless.]{.underline}
+[A spectre looks much as it did in life and can be easily recognized by those who knew the individual or have seen the individual's face in a painting or a drawing. In many cases, the evidence of a violent death is visible on its body. A spectre is roughly human-sized and is weightless.]{.underline}
 
 [COMBAT]{.underline}
 
-[In close combat a spectre attacks with its numbing, life-draining
-touch. It makes full use of its incorporeal nature, moving through
-walls, ceilings, and floors as it attacks.]{.underline}
+[In close combat a spectre attacks with its numbing, life-draining touch. It makes full use of its incorporeal nature, moving through walls, ceilings, and floors as it attacks.]{.underline}
 
-**[Energy Drain (Su):]{.underline}**[ Living creatures hit by a
-spectre's incorporeal touch attack gain two negative levels. The DC is
-15 for the Fortitude save to remove a negative level. The save DC is
-Charisma-based. For each such negative level bestowed, the spectre gains
-5 temporary hit points.]{.underline}
+**[Energy Drain (Su):]{.underline}**[ Living creatures hit by a spectre's incorporeal touch attack gain two negative levels. The DC is 15 for the Fortitude save to remove a negative level. The save DC is Charisma-based. For each such negative level bestowed, the spectre gains 5 temporary hit points.]{.underline}
 
-**[Create Spawn (Su):]{.underline}**[ Any humanoid slain by a spectre
-becomes a spectre in 1d4 rounds. Spawn are under the command of the
-spectre that created them and remain enslaved until its death. They do
-not possess any of the abilities they had in life.]{.underline}
+**[Create Spawn (Su):]{.underline}**[ Any humanoid slain by a spectre becomes a spectre in 1d4 rounds. Spawn are under the command of the spectre that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.]{.underline}
 
-**[Unnatural Aura (Su):]{.underline}**[ Animals, whether wild or
-domesticated, can sense the unnatural presence of a spectre at a
-distance of 30 feet. They do not willingly approach nearer than that and
-panic if forced to do so; they remain panicked as long as they are
-within that range.]{.underline}
+**[Unnatural Aura (Su):]{.underline}**[ Animals, whether wild or domesticated, can sense the unnatural presence of a spectre at a distance of 30 feet. They do not willingly approach nearer than that and panic if forced to do so; they remain panicked as long as they are within that range.]{.underline}
 
-**[Sunlight Powerlessness (Ex): ]{.underline}**[Spectres are powerless
-in natural sunlight (not merely a ]{.underline}*[daylight
-]{.underline}*[spell) and flee from it. A spectre caught in sunlight
-cannot attack and can take only a single move or attack action in a
-round.]{.underline}
+**[Sunlight Powerlessness (Ex): ]{.underline}**[Spectres are powerless in natural sunlight (not merely a ]{.underline}*[daylight ]{.underline}*[spell) and flee from it. A spectre caught in sunlight cannot attack and can take only a single move or attack action in a round.]{.underline}
 
 [SPHINX]{.underline}
 
-[Sphinxes are enigmatic creatures with great, feathery wings and leonine
-bodies. All sphinxes are territorial, but the more intelligent ones can
-differentiate between deliberate intrusion and temporary or inadvertent
-trespass.]{.underline}
+[Sphinxes are enigmatic creatures with great, feathery wings and leonine bodies. All sphinxes are territorial, but the more intelligent ones can differentiate between deliberate intrusion and temporary or inadvertent trespass.]{.underline}
 
-[A typical sphinx is about 10 feet long and weighs about 800
-pounds.]{.underline}
+[A typical sphinx is about 10 feet long and weighs about 800 pounds.]{.underline}
 
 [Sphinxes speak Sphinx, Common, and Draconic.]{.underline}
 
 [Combat]{.underline}
 
-[Most sphinxes fight on the ground, using their wings to help them
-pounce much as lions do. If outnumbered by earthbound creatures, a
-sphinx takes wing and attacks on the fly.]{.underline}
+[Most sphinxes fight on the ground, using their wings to help them pounce much as lions do. If outnumbered by earthbound creatures, a sphinx takes wing and attacks on the fly.]{.underline}
 
-**[Pounce (Ex):]{.underline}**[ If a sphinx charges a foe, it can make a
-full attack, including two rake attacks.]{.underline}
+**[Pounce (Ex):]{.underline}**[ If a sphinx charges a foe, it can make a full attack, including two rake attacks.]{.underline}
 
-**[Rake (Ex):]{.underline}**[ A sphinx that pounces onto a creature can
-make two rake attacks with its hind legs. Each sphinx's description
-provides its attack bonus and damage.]{.underline}
+**[Rake (Ex):]{.underline}**[ A sphinx that pounces onto a creature can make two rake attacks with its hind legs. Each sphinx's description provides its attack bonus and damage.]{.underline}
 
 [ANDROSPHINX]{.underline}
 
@@ -1173,50 +828,21 @@ provides its attack bonus and damage.]{.underline}
                                            
   ---------------------------------------- -------------------------------------------------------------------------------------------
 
-[These sphinxes are always male. Androsphinxes are clever and generally
-good-natured, but they can be savage opponents. ]{.underline}
+[These sphinxes are always male. Androsphinxes are clever and generally good-natured, but they can be savage opponents. ]{.underline}
 
 [Combat]{.underline}
 
-[In battle, an androsphinx rips apart enemies with its razor-sharp
-claws. It relies on its natural weapons in a fight, employing its spells
-for defense or healing.]{.underline}
+[In battle, an androsphinx rips apart enemies with its razor-sharp claws. It relies on its natural weapons in a fight, employing its spells for defense or healing.]{.underline}
 
-**[Rake (Ex): ]{.underline}**[Attack bonus +18 melee, damage
-2d4+3.]{.underline}
+**[Rake (Ex): ]{.underline}**[Attack bonus +18 melee, damage 2d4+3.]{.underline}
 
-**[Roar (Su): ]{.underline}**[Three times per day an androsphinx can
-loose a mighty roar. The first time it does this, all creatures within
-500 feet must succeed on a DC 19 Will save or be affected as though by a
-]{.underline}*[fear ]{.underline}*[spell for 2d6 rounds.]{.underline}
+**[Roar (Su): ]{.underline}**[Three times per day an androsphinx can loose a mighty roar. The first time it does this, all creatures within 500 feet must succeed on a DC 19 Will save or be affected as though by a ]{.underline}*[fear ]{.underline}*[spell for 2d6 rounds.]{.underline}
 
-[If the sphinx roars a second time during the same encounter, all
-creatures within 250 feet must succeed on a DC 19 Fortitude save or be
-paralyzed for 1d4 rounds, and all those within 90 feet are deafened for
-2d6 rounds (no save). If it roars a third time during the same
-encounter, all those within 250 feet must succeed on a DC 19 Fortitude
-save or take 2d4 points of Strength damage for 2d4 rounds. In addition,
-any Medium or smaller creature within 90 feet must succeed on a DC 19
-Fortitude save or be thrown to the ground and take 2d8 points of damage.
-The force of this roar is so great that it deals 50 points of damage to
-any stone or crystalline object within 90 feet. Magic items and held or
-carried items can avoid damage with a DC 19 Reflex save. Other
-androsphinxes are immune to these effects. The save DCs are
-Charisma-based.]{.underline}
+[If the sphinx roars a second time during the same encounter, all creatures within 250 feet must succeed on a DC 19 Fortitude save or be paralyzed for 1d4 rounds, and all those within 90 feet are deafened for 2d6 rounds (no save). If it roars a third time during the same encounter, all those within 250 feet must succeed on a DC 19 Fortitude save or take 2d4 points of Strength damage for 2d4 rounds. In addition, any Medium or smaller creature within 90 feet must succeed on a DC 19 Fortitude save or be thrown to the ground and take 2d8 points of damage. The force of this roar is so great that it deals 50 points of damage to any stone or crystalline object within 90 feet. Magic items and held or carried items can avoid damage with a DC 19 Reflex save. Other androsphinxes are immune to these effects. The save DCs are Charisma-based.]{.underline}
 
-**[Spells:]{.underline}**[ An androsphinx casts divine spells as a
-6th-level cleric from the cleric spell list and from the Good, Healing,
-and Protection domains. ]{.underline}
+**[Spells:]{.underline}**[ An androsphinx casts divine spells as a 6th-level cleric from the cleric spell list and from the Good, Healing, and Protection domains. ]{.underline}
 
-*[Typical Cleric Spells Prepared ]{.underline}*[(5/5/5/4; save DC 13 +
-spell level): 0---]{.underline}*[cure minor wounds, detect magic,
-guidance, light, resistance; ]{.underline}*[1st---]{.underline}*[divine
-favor, protection from evil\*, shield of faith, remove fear, summon
-monster I;
-]{.underline}*[2nd---]{.underline}*[bull]{.underline}[']{.underline}[s
-strength, remove paralysis, resist energy, shield other\*, summon
-monster II; ]{.underline}*[3rd---]{.underline}*[cure serious wounds\*,
-daylight, invisibility purge, searing light.]{.underline}*
+*[Typical Cleric Spells Prepared ]{.underline}*[(5/5/5/4; save DC 13 + spell level): 0---]{.underline}*[cure minor wounds, detect magic, guidance, light, resistance; ]{.underline}*[1st---]{.underline}*[divine favor, protection from evil\*, shield of faith, remove fear, summon monster I; ]{.underline}*[2nd---]{.underline}*[bull]{.underline}[']{.underline}[s strength, remove paralysis, resist energy, shield other\*, summon monster II; ]{.underline}*[3rd---]{.underline}*[cure serious wounds\*, daylight, invisibility purge, searing light.]{.underline}*
 
 [\*Domain spell. Domains: Good and Healing.]{.underline}
 
@@ -1250,17 +876,13 @@ daylight, invisibility purge, searing light.]{.underline}*
                                            
   ---------------------------------------- --------------------------------------------------------------------
 
-[These sphinxes are always male. Neither good nor evil, they lack the
-intelligence of the androsphinx.]{.underline}
+[These sphinxes are always male. Neither good nor evil, they lack the intelligence of the androsphinx.]{.underline}
 
 [Combat]{.underline}
 
-[Criosphinxes attack with their claws, as do their kin, but they can
-also butt with their horns. They don't cast spells and employ only the
-most simple battle tactics.]{.underline}
+[Criosphinxes attack with their claws, as do their kin, but they can also butt with their horns. They don't cast spells and employ only the most simple battle tactics.]{.underline}
 
-**[Rake (Ex):]{.underline}**[ Attack bonus +15 melee, damage
-1d6+3.]{.underline}
+**[Rake (Ex):]{.underline}**[ Attack bonus +15 melee, damage 1d6+3.]{.underline}
 
 [GYNOSPHINX]{.underline}
 
@@ -1292,35 +914,17 @@ most simple battle tactics.]{.underline}
                                            
   ---------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------
 
-[These sphinxes are the female counterparts of androsphinxes.
-]{.underline}
+[These sphinxes are the female counterparts of androsphinxes. ]{.underline}
 
 [Combat]{.underline}
 
-[In close combat, gynosphinxes use their powerful claws to flay the
-flesh from their enemies. Despite their deadly nature, they prefer to
-avoid combat whenever possible.]{.underline}
+[In close combat, gynosphinxes use their powerful claws to flay the flesh from their enemies. Despite their deadly nature, they prefer to avoid combat whenever possible.]{.underline}
 
-**[Rake (Ex):]{.underline}**[ Attack bonus +11 melee, damage
-1d6+2.]{.underline}
+**[Rake (Ex):]{.underline}**[ Attack bonus +11 melee, damage 1d6+2.]{.underline}
 
-**[Spell-Like Abilities:]{.underline}**[
-3/day---]{.underline}*[clairaudience/clairvoyance, detect magic, read
-magic, see invisibility]{.underline}*[;
-1/day---]{.underline}*[comprehend languages, locate object, dispel
-magic, remove curse ]{.underline}*[(DC 18), ]{.underline}*[legend
-lore]{.underline}*[. Caster level 14th. The save DC is
-Charisma-based.]{.underline}
+**[Spell-Like Abilities:]{.underline}**[ 3/day---]{.underline}*[clairaudience/clairvoyance, detect magic, read magic, see invisibility]{.underline}*[; 1/day---]{.underline}*[comprehend languages, locate object, dispel magic, remove curse ]{.underline}*[(DC 18), ]{.underline}*[legend lore]{.underline}*[. Caster level 14th. The save DC is Charisma-based.]{.underline}
 
-[Once per week a gynosphinx can create a ]{.underline}*[symbol of death,
-]{.underline}*[a ]{.underline}*[symbol of fear, ]{.underline}*[a
-]{.underline}*[symbol of insanity, ]{.underline}*[a
-]{.underline}*[symbol of pain, ]{.underline}*[a ]{.underline}*[symbol of
-persuasion, ]{.underline}*[a ]{.underline}*[symbol of sleep,
-]{.underline}*[and a ]{.underline}*[symbol of stunning ]{.underline}*[as
-the spells (caster level 18th), except that all save DCs are 22 and each
-symbol remains a maximum of one week once scribed. The save DCs are
-Charisma-based.]{.underline}
+[Once per week a gynosphinx can create a ]{.underline}*[symbol of death, ]{.underline}*[a ]{.underline}*[symbol of fear, ]{.underline}*[a ]{.underline}*[symbol of insanity, ]{.underline}*[a ]{.underline}*[symbol of pain, ]{.underline}*[a ]{.underline}*[symbol of persuasion, ]{.underline}*[a ]{.underline}*[symbol of sleep, ]{.underline}*[and a ]{.underline}*[symbol of stunning ]{.underline}*[as the spells (caster level 18th), except that all save DCs are 22 and each symbol remains a maximum of one week once scribed. The save DCs are Charisma-based.]{.underline}
 
 [HIERACOSPHINX]{.underline}
 
@@ -1354,16 +958,11 @@ Charisma-based.]{.underline}
 
 [Combat]{.underline}
 
-[Hieracosphinxes can make short work of even the most dangerous
-opponents with their claws. They are not particularly intelligent, but
-are cunning enough to dive at their enemies from above with their flying
-ability.]{.underline}
+[Hieracosphinxes can make short work of even the most dangerous opponents with their claws. They are not particularly intelligent, but are cunning enough to dive at their enemies from above with their flying ability.]{.underline}
 
-**[Rake (Ex):]{.underline}**[ Attack bonus +13 melee, damage
-1d6+2.]{.underline}
+**[Rake (Ex):]{.underline}**[ Attack bonus +13 melee, damage 1d6+2.]{.underline}
 
-**[Skills:]{.underline}**[ Hieracosphinxes have a +4 racial bonus on
-Spot checks.]{.underline}
+**[Skills:]{.underline}**[ Hieracosphinxes have a +4 racial bonus on Spot checks.]{.underline}
 
 [SPIDER EATER]{.underline}
 
@@ -1395,61 +994,37 @@ Spot checks.]{.underline}
                                            
   ---------------------------------------- ------------------------------------------------------------------------------
 
-[A spider eater is about 10 feet long and 4 feet high, and has a
-wingspan of about 20 feet. It weighs about 4,000 pounds.]{.underline}
+[A spider eater is about 10 feet long and 4 feet high, and has a wingspan of about 20 feet. It weighs about 4,000 pounds.]{.underline}
 
 [COMBAT]{.underline}
 
-[A spider eater attacks with its venomous sting and powerful mandibles.
-Its usual tactic is to deliver a sting, then back off, hovering out of
-reach until the venom takes effect.]{.underline}
+[A spider eater attacks with its venomous sting and powerful mandibles. Its usual tactic is to deliver a sting, then back off, hovering out of reach until the venom takes effect.]{.underline}
 
-**[Implant (Ex): ]{.underline}**[Female spider eaters lay their eggs
-inside paralyzed creatures of Large or larger size. The young emerge
-about six weeks later, literally devouring the host from
-inside.]{.underline}
+**[Implant (Ex): ]{.underline}**[Female spider eaters lay their eggs inside paralyzed creatures of Large or larger size. The young emerge about six weeks later, literally devouring the host from inside.]{.underline}
 
-**[Poison (Ex):]{.underline}**[ Injury, Fortitude DC 17, initial damage
-none, secondary damage paralysis for 1d8+5 weeks. The save DC is
-Constitution-based.]{.underline}
+**[Poison (Ex):]{.underline}**[ Injury, Fortitude DC 17, initial damage none, secondary damage paralysis for 1d8+5 weeks. The save DC is Constitution-based.]{.underline}
 
-**[Freedom of Movement (Su): ]{.underline}**[Spider eaters have a
-continuous freedom of movement ability as the spell (caster level 12th).
-When the spider eater serves as a mount, this effect does not extend to
-its rider.]{.underline}
+**[Freedom of Movement (Su): ]{.underline}**[Spider eaters have a continuous freedom of movement ability as the spell (caster level 12th). When the spider eater serves as a mount, this effect does not extend to its rider.]{.underline}
 
-**[Skills:]{.underline}**[ Spider eaters have a +4 racial bonus on
-Listen and Spot checks.]{.underline}
+**[Skills:]{.underline}**[ Spider eaters have a +4 racial bonus on Listen and Spot checks.]{.underline}
 
 [TRAINING A SPIDER EATER]{.underline}
 
-[A spider eater requires training before it can bear a rider in
-combat.]{.underline}
+[A spider eater requires training before it can bear a rider in combat.]{.underline}
 
-Training a spider eater requires six weeks of work and a DC 25 Handle
-Animal check. Riding a spider eater requires an exotic saddle. A spider
-eater can fight while carrying a rider, but the rider cannot also attack
-unless he or she succeeds on a Ride check.
+Training a spider eater requires six weeks of work and a DC 25 Handle Animal check. Riding a spider eater requires an exotic saddle. A spider eater can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.
 
-Spider eater eggs are worth 2,000 gp apiece on the open market, while
-young are worth 3,000 gp each. Professional trainers charge 3,000 gp to
-rear or train a spider eater.
+Spider eater eggs are worth 2,000 gp apiece on the open market, while young are worth 3,000 gp each. Professional trainers charge 3,000 gp to rear or train a spider eater.
 
-**Carrying Capacity: **A light load for a spider eater is up to 306
-pounds; a medium load, 307--612 pounds; and a heavy load, 613--920
-pounds.
+**Carrying Capacity: **A light load for a spider eater is up to 306 pounds; a medium load, 307--612 pounds; and a heavy load, 613--920 pounds.
 
 SPRITE
 
-Sprites are reclusive fey. They go out of their way to fight evil and
-ugliness and to protect their homelands. Combat
+Sprites are reclusive fey. They go out of their way to fight evil and ugliness and to protect their homelands. Combat
 
-Sprites fight their opponents with spell-like abilities and pintsized
-weaponry. They prefer ambushes and other trickery over direct
-confrontation.
+Sprites fight their opponents with spell-like abilities and pintsized weaponry. They prefer ambushes and other trickery over direct confrontation.
 
-**Skills:** All sprites have a +2 racial bonus on Search, Spot, and
-Listen checks.
+**Skills:** All sprites have a +2 racial bonus on Search, Spot, and Listen checks.
 
 GRIG
 
@@ -1481,34 +1056,19 @@ GRIG
                                            
   ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Grigs can leap great distances. They have light blue skin, forest-green
-hair, and brown hairy legs, and usually wear tunics or brightly colored
-vests with buttons made from tiny gems. A grig stands 1-1/2 feet tall
-and weighs about 1 pound. ]{.underline}
+[Grigs can leap great distances. They have light blue skin, forest-green hair, and brown hairy legs, and usually wear tunics or brightly colored vests with buttons made from tiny gems. A grig stands 1-1/2 feet tall and weighs about 1 pound. ]{.underline}
 
 [Grigs speak Sylvan. Some also speak Common.]{.underline}
 
 [Combat]{.underline}
 
-[Grigs are fierce by sprite standards, attacking opponents fearlessly
-with bow and dagger.]{.underline}
+[Grigs are fierce by sprite standards, attacking opponents fearlessly with bow and dagger.]{.underline}
 
-**[Spell-Like Abilities:]{.underline}**[ 3/day---]{.underline}*[disguise
-self, entangle ]{.underline}*[(DC 13)]{.underline}*[, invisibility
-]{.underline}*[(self only), ]{.underline}*[pyrotechnics
-]{.underline}*[(DC 14)]{.underline}*[, ventriloquism ]{.underline}*[(DC
-13)]{.underline}*[. ]{.underline}*[Caster level 9th. The save DCs are
-Charisma-based.]{.underline}
+**[Spell-Like Abilities:]{.underline}**[ 3/day---]{.underline}*[disguise self, entangle ]{.underline}*[(DC 13)]{.underline}*[, invisibility ]{.underline}*[(self only), ]{.underline}*[pyrotechnics ]{.underline}*[(DC 14)]{.underline}*[, ventriloquism ]{.underline}*[(DC 13)]{.underline}*[. ]{.underline}*[Caster level 9th. The save DCs are Charisma-based.]{.underline}
 
-**[Fiddle (Su): ]{.underline}**[One grig in each band carries a tiny,
-grig-sized fiddle. When the fiddler plays, any nonsprite within 30 feet
-of the instrument must succeed on a DC 12 Will save or be affected as
-though by ]{.underline}*[irresistible dance ]{.underline}*[for as long
-as the playing continues. The save DC is Charisma-based.]{.underline}
+**[Fiddle (Su): ]{.underline}**[One grig in each band carries a tiny, grig-sized fiddle. When the fiddler plays, any nonsprite within 30 feet of the instrument must succeed on a DC 12 Will save or be affected as though by ]{.underline}*[irresistible dance ]{.underline}*[for as long as the playing continues. The save DC is Charisma-based.]{.underline}
 
-**[Skills:]{.underline}**[ Grigs have a +8 racial bonus on Jump checks.
-\*They also have a +5 racial bonus on Move Silently checks in a forest
-setting.]{.underline}
+**[Skills:]{.underline}**[ Grigs have a +8 racial bonus on Jump checks. \*They also have a +5 racial bonus on Move Silently checks in a forest setting.]{.underline}
 
 [NIXIE]{.underline}
 
@@ -1540,51 +1100,25 @@ setting.]{.underline}
                                            
   ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Most nixies are slim and comely, with lightly scaled, pale green skin
-and dark green hair. Females often twine shells and pearl strings in
-their hair and dress in wraps woven from colorful seaweed. Males wear
-loincloths of the same materials. Nixies prefer not to leave their
-lakes.]{.underline}
+[Most nixies are slim and comely, with lightly scaled, pale green skin and dark green hair. Females often twine shells and pearl strings in their hair and dress in wraps woven from colorful seaweed. Males wear loincloths of the same materials. Nixies prefer not to leave their lakes.]{.underline}
 
-[A nixie stands about 4 feet tall and weighs about 45
-pounds.]{.underline}
+[A nixie stands about 4 feet tall and weighs about 45 pounds.]{.underline}
 
 [Nixies speak Aquan and Sylvan. Some also speak Common.]{.underline}
 
 [Combat]{.underline}
 
-[Nixies rely on their ]{.underline}*[charm person ]{.underline}*[ability
-to deter enemies, entering combat only to protect themselves and their
-territory.]{.underline}
+[Nixies rely on their ]{.underline}*[charm person ]{.underline}*[ability to deter enemies, entering combat only to protect themselves and their territory.]{.underline}
 
-***[Charm Person ]{.underline}*[(Sp): ]{.underline}**[A nixie can use
-]{.underline}*[charm person ]{.underline}*[three times per day as the
-spell (caster level 4th). Those affected must succeed on a DC 15 Will
-save or be ]{.underline}*[charmed ]{.underline}*[for 24 hours. Most
-]{.underline}*[charmed ]{.underline}*[creatures are used to perform
-heavy labor, guard duty, and other onerous tasks for the nixie
-community. Shortly before the effect wears off, the nixie escorts the
-]{.underline}*[charmed ]{.underline}*[creature away and orders it to
-keep walking. The save DC is Charisma-based.]{.underline}
+***[Charm Person ]{.underline}*[(Sp): ]{.underline}**[A nixie can use ]{.underline}*[charm person ]{.underline}*[three times per day as the spell (caster level 4th). Those affected must succeed on a DC 15 Will save or be ]{.underline}*[charmed ]{.underline}*[for 24 hours. Most ]{.underline}*[charmed ]{.underline}*[creatures are used to perform heavy labor, guard duty, and other onerous tasks for the nixie community. Shortly before the effect wears off, the nixie escorts the ]{.underline}*[charmed ]{.underline}*[creature away and orders it to keep walking. The save DC is Charisma-based.]{.underline}
 
-**[Amphibious (Ex): ]{.underline}**[Although nixies are aquatic, they
-can survive indefinitely on land.]{.underline}
+**[Amphibious (Ex): ]{.underline}**[Although nixies are aquatic, they can survive indefinitely on land.]{.underline}
 
-***[Water Breathing ]{.underline}*[(Sp): ]{.underline}**[Once per day a
-nixie can use ]{.underline}*[water breathing ]{.underline}*[as the spell
-(caster level 12th). Nixies usually bestow this effect on those they
-have ]{.underline}*[charmed.]{.underline}*
+***[Water Breathing ]{.underline}*[(Sp): ]{.underline}**[Once per day a nixie can use ]{.underline}*[water breathing ]{.underline}*[as the spell (caster level 12th). Nixies usually bestow this effect on those they have ]{.underline}*[charmed.]{.underline}*
 
-**[Wild Empathy (Ex): ]{.underline}**[This ability works like the
-druid's wild empathy class feature, except that a nixie has a +6 racial
-bonus on the check.]{.underline}
+**[Wild Empathy (Ex): ]{.underline}**[This ability works like the druid's wild empathy class feature, except that a nixie has a +6 racial bonus on the check.]{.underline}
 
-**[Skills:]{.underline}**[ A nixie has a +8 racial bonus on any Swim
-check to perform some special action or avoid a hazard. It can always
-choose to take 10 on a Swim check, even if distracted or endangered. It
-can use the run action while swimming, provided it swims in a straight
-line. \*Nixies have a +5 racial bonus on Hide checks when in
-the]{.underline}
+**[Skills:]{.underline}**[ A nixie has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. \*Nixies have a +5 racial bonus on Hide checks when in the]{.underline}
 
 [water.]{.underline}
 
@@ -1618,74 +1152,43 @@ the]{.underline}
                                            
   ---------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Pixies wear bright clothing, often including a cap and shoes with
-curled and pointed toes.]{.underline}
+[Pixies wear bright clothing, often including a cap and shoes with curled and pointed toes.]{.underline}
 
-[A pixie stands about 2-1/2 feet tall and weighs about 30
-pounds.]{.underline}
+[A pixie stands about 2-1/2 feet tall and weighs about 30 pounds.]{.underline}
 
-[Pixies speak Sylvan and Common, and may know other languages as
-well.]{.underline}
+[Pixies speak Sylvan and Common, and may know other languages as well.]{.underline}
 
 [Combat]{.underline}
 
-[The normally carefree pixies ferociously attack evil creatures and
-unwanted intruders. They take full advantage of their invisibility and
-other abilities to harass and drive away opponents.]{.underline}
+[The normally carefree pixies ferociously attack evil creatures and unwanted intruders. They take full advantage of their invisibility and other abilities to harass and drive away opponents.]{.underline}
 
-**[Greater Invisibility (Su):]{.underline}**[ A pixie remains invisible
-even when it attacks. This ability is constant, but the pixie can
-suppress or resume it as a free action.]{.underline}
+**[Greater Invisibility (Su):]{.underline}**[ A pixie remains invisible even when it attacks. This ability is constant, but the pixie can suppress or resume it as a free action.]{.underline}
 
-**[Spell-Like Abilities:]{.underline}**[ 1/day---]{.underline}*[lesser
-confusion ]{.underline}*[(DC 14), ]{.underline}*[dancing lights, detect
-chaos, detect good, detect evil, detect law, detect thoughts
-]{.underline}*[(DC 15), ]{.underline}*[dispel magic, entangle
-]{.underline}*[(DC 14), ]{.underline}*[permanent image
-]{.underline}*[(DC 19; visual and auditory elements only),
-]{.underline}*[polymorph ]{.underline}*[(self only). Caster level 8th.
-The save DCs are Charisma-based.]{.underline}
+**[Spell-Like Abilities:]{.underline}**[ 1/day---]{.underline}*[lesser confusion ]{.underline}*[(DC 14), ]{.underline}*[dancing lights, detect chaos, detect good, detect evil, detect law, detect thoughts ]{.underline}*[(DC 15), ]{.underline}*[dispel magic, entangle ]{.underline}*[(DC 14), ]{.underline}*[permanent image ]{.underline}*[(DC 19; visual and auditory elements only), ]{.underline}*[polymorph ]{.underline}*[(self only). Caster level 8th. The save DCs are Charisma-based.]{.underline}
 
-[One pixie in ten can use ]{.underline}*[irresistible dance
-]{.underline}*[(caster level 8th) once per day.]{.underline}
+[One pixie in ten can use ]{.underline}*[irresistible dance ]{.underline}*[(caster level 8th) once per day.]{.underline}
 
-**[Special Arrows (Ex): ]{.underline}**[Pixies sometimes employ arrows
-that deal no damage but can erase memory or put a creature to sleep.
-]{.underline}
+**[Special Arrows (Ex): ]{.underline}**[Pixies sometimes employ arrows that deal no damage but can erase memory or put a creature to sleep. ]{.underline}
 
-*[Memory Loss: ]{.underline}*[An opponent struck by this arrow must
-succeed on a DC 15 Will save or lose all memory. The save DC is
-Charisma-based and includes a +2 racial bonus. The subject retains
-skills, languages, and class abilities but forgets everything else until
-he or she receives a ]{.underline}*[heal ]{.underline}*[spell or memory
-restoration with ]{.underline}*[limited wish, wish, ]{.underline}*[or
-]{.underline}*[miracle]{.underline}*[.]{.underline}
+*[Memory Loss: ]{.underline}*[An opponent struck by this arrow must succeed on a DC 15 Will save or lose all memory. The save DC is Charisma-based and includes a +2 racial bonus. The subject retains skills, languages, and class abilities but forgets everything else until he or she receives a ]{.underline}*[heal ]{.underline}*[spell or memory restoration with ]{.underline}*[limited wish, wish, ]{.underline}*[or ]{.underline}*[miracle]{.underline}*[.]{.underline}
 
-*[Sleep: ]{.underline}*[Any opponent struck by this arrow, regardless of
-Hit Dice, must succeed on a DC 15 Fortitude save or be affected as
-though by a ]{.underline}*[sleep ]{.underline}*[spell. The save DC is
-Charisma-based and includes a +2 racial bonus.]{.underline}
+*[Sleep: ]{.underline}*[Any opponent struck by this arrow, regardless of Hit Dice, must succeed on a DC 15 Fortitude save or be affected as though by a ]{.underline}*[sleep ]{.underline}*[spell. The save DC is Charisma-based and includes a +2 racial bonus.]{.underline}
 
 [Pixies as Characters]{.underline}
 
-[A pixie character exchanges its 1 HD of fey for its first class
-level.]{.underline}
+[A pixie character exchanges its 1 HD of fey for its first class level.]{.underline}
 
 Pixie characters possess the following racial traits.
 
 --- --4 Strength, +8 Dexterity, +6 Intelligence, +4 Wisdom, +6 Charisma.
 
----Small size. +1 bonus to Armor Class, +1 bonus on attack rolls, +4
-bonus on Hide checks, --4 penalty on grapple checks, lifting and
-carrying limits 3/4 those of Medium characters.
+---Small size. +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on Hide checks, --4 penalty on grapple checks, lifting and carrying limits 3/4 those of Medium characters.
 
----A pixie's base land speed is 20 feet. It also has a fly speed of 60
-feet (good).
+---A pixie's base land speed is 20 feet. It also has a fly speed of 60 feet (good).
 
 ---Low-light vision.
 
----Skills: Pixies have a +2 racial bonus on Listen, Search, and Spot
-checks.
+---Skills: Pixies have a +2 racial bonus on Listen, Search, and Spot checks.
 
 ---Racial Feats: A pixie receives Dodge as a bonus feat.
 
@@ -1693,11 +1196,9 @@ checks.
 
 ---Special Attacks (see above): Spell-like abilities.
 
----Special Qualities (see above): Damage reduction 10/cold iron, greater
-invisibility, spell resistance equal to 15 + class levels.
+---Special Qualities (see above): Damage reduction 10/cold iron, greater invisibility, spell resistance equal to 15 + class levels.
 
----Automatic Languages: Common, Sylvan. Bonus Languages: Elven, Gnome,
-Halfling.
+---Automatic Languages: Common, Sylvan. Bonus Languages: Elven, Gnome, Halfling.
 
 ---Favored Class: Sorcerer.
 
@@ -1733,93 +1234,45 @@ STIRGE
                                            
   ---------------------------------------- --------------------------------------------------------------
 
-[A stirge's coloration ranges from rust-red to reddish-brown, with a
-dirty yellow underside. The proboscis is pink at the tip, fading to gray
-at its base.]{.underline}
+[A stirge's coloration ranges from rust-red to reddish-brown, with a dirty yellow underside. The proboscis is pink at the tip, fading to gray at its base.]{.underline}
 
-[A stirge's body is about 1 foot long, with a wingspan of about 2 feet.
-It weighs about 1 pound.]{.underline}
+[A stirge's body is about 1 foot long, with a wingspan of about 2 feet. It weighs about 1 pound.]{.underline}
 
 [COMBAT]{.underline}
 
-[A stirge attacks by landing on a victim, finding a vulnerable spot, and
-plunging its proboscis into the flesh. This is a touch attack and can
-target only Small or larger creatures.]{.underline}
+[A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging its proboscis into the flesh. This is a touch attack and can target only Small or larger creatures.]{.underline}
 
-**[Attach (Ex):]{.underline}**[ If a stirge hits with a touch attack, it
-uses its eight pincers to latch onto the opponent's body. An attached
-stirge is effectively grappling its prey. The stirge loses its Dexterity
-bonus to AC and has an AC of 12, but holds on with great tenacity.
-Stirges have a +12 racial bonus on grapple checks (already figured into
-the Base Attack/Grapple entry above).]{.underline}
+**[Attach (Ex):]{.underline}**[ If a stirge hits with a touch attack, it uses its eight pincers to latch onto the opponent's body. An attached stirge is effectively grappling its prey. The stirge loses its Dexterity bonus to AC and has an AC of 12, but holds on with great tenacity. Stirges have a +12 racial bonus on grapple checks (already figured into the Base Attack/Grapple entry above).]{.underline}
 
-[An attached stirge can be struck with a weapon or grappled itself. To
-remove an attached stirge through grappling, the opponent must achieve a
-pin against the stirge.]{.underline}
+[An attached stirge can be struck with a weapon or grappled itself. To remove an attached stirge through grappling, the opponent must achieve a pin against the stirge.]{.underline}
 
-**[Blood Drain (Ex):]{.underline}**[ A stirge drains blood, dealing 1d4
-points of Constitution damage in any round when it begins its turn
-attached to a victim. Once it has dealt 4 points of Constitution damage,
-it detaches and flies off to digest the meal. If its victim dies before
-the stirge's appetite has been sated, the stirge detaches and seeks a
-new target.]{.underline}
+**[Blood Drain (Ex):]{.underline}**[ A stirge drains blood, dealing 1d4 points of Constitution damage in any round when it begins its turn attached to a victim. Once it has dealt 4 points of Constitution damage, it detaches and flies off to digest the meal. If its victim dies before the stirge's appetite has been sated, the stirge detaches and seeks a new target.]{.underline}
 
 [SWARM]{.underline}
 
-[Swarms are dense masses of Fine, Diminutive, or Tiny creatures that
-would not be particularly dangerous in small groups, but can be terrible
-foes when gathered in sufficient numbers. For game purposes a swarm is
-defined as a single creature with a space of 10 feet---gigantic hordes
-are actually composed of dozens of swarms in close proximity. A swarm
-has a single pool of Hit Dice and hit points, a single initiative
-modifier, a single speed, and a single Armor Class. It makes saving
-throws as a single creature.]{.underline}
+[Swarms are dense masses of Fine, Diminutive, or Tiny creatures that would not be particularly dangerous in small groups, but can be terrible foes when gathered in sufficient numbers. For game purposes a swarm is defined as a single creature with a space of 10 feet---gigantic hordes are actually composed of dozens of swarms in close proximity. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. It makes saving throws as a single creature.]{.underline}
 
-Many different creatures can mass as swarms; bat swarms, centipede
-swarms, hellwasp swarms, locust swarms, rat swarms, and spider swarms
-are described here. The swarm's type varies with the nature of the
-component creature (most are animals or vermin), but all swarms have the
-swarm subtype.
+Many different creatures can mass as swarms; bat swarms, centipede swarms, hellwasp swarms, locust swarms, rat swarms, and spider swarms are described here. The swarm's type varies with the nature of the component creature (most are animals or vermin), but all swarms have the swarm subtype.
 
-A swarm of Tiny creatures consists of 300 nonflying creatures or 1,000
-flying creatures. A swarm of Diminutive creatures consists of 1,500
-nonflying creatures or 5,000 flying creatures. A swarm of Fine creatures
-consists of 10,000 creatures, whether they are flying or not. Swarms of
-nonflying creatures include many more creatures than could normally fit
-in a 10-foot square based on their normal space, because creatures in a
-swarm are packed tightly together and generally crawl over each other
-and their prey when moving or attacking. Larger swarms are represented
-by multiples of single swarms. A large swarm is completely shapeable,
-though it usually remains contiguous.
+A swarm of Tiny creatures consists of 300 nonflying creatures or 1,000 flying creatures. A swarm of Diminutive creatures consists of 1,500 nonflying creatures or 5,000 flying creatures. A swarm of Fine creatures consists of 10,000 creatures, whether they are flying or not. Swarms of nonflying creatures include many more creatures than could normally fit in a 10-foot square based on their normal space, because creatures in a swarm are packed tightly together and generally crawl over each other and their prey when moving or attacking. Larger swarms are represented by multiples of single swarms. A large swarm is completely shapeable, though it usually remains contiguous.
 
 COMBAT
 
-In order to attack, a single swarm moves into opponents' spaces, which
-provokes an attack of opportunity. It can occupy the same space as a
-creature of any size, since it crawls all over its prey, but remains a
-creature with a 10-foot space. Swarms never make attacks of opportunity,
-but they can provoke attacks of opportunity.
+In order to attack, a single swarm moves into opponents' spaces, which provokes an attack of opportunity. It can occupy the same space as a creature of any size, since it crawls all over its prey, but remains a creature with a 10-foot space. Swarms never make attacks of opportunity, but they can provoke attacks of opportunity.
 
-Unlike other creatures with a 10-foot space, a swarm is shapeable. It
-can occupy any four contiguous squares, and it can squeeze through any
-space large enough to contain one of its component creatures.
+Unlike other creatures with a 10-foot space, a swarm is shapeable. It can occupy any four contiguous squares, and it can squeeze through any space large enough to contain one of its component creatures.
 
 Vulnerabilities of Swarms
 
-Swarms are extremely difficult to fight with physical attacks. However,
-they have a few special vulnerabilities,
+Swarms are extremely difficult to fight with physical attacks. However, they have a few special vulnerabilities,
 
 as follows:
 
-A lit torch swung as an improvised weapon deals 1d3 points of fire
-damage per hit.
+A lit torch swung as an improvised weapon deals 1d3 points of fire damage per hit.
 
-A weapon with a special ability such as flaming or frost deals its full
-energy damage with each hit, even if the weapon's normal damage can't
-affect the swarm.
+A weapon with a special ability such as flaming or frost deals its full energy damage with each hit, even if the weapon's normal damage can't affect the swarm.
 
-A lit lantern can be used as a thrown weapon, dealing 1d4 points of fire
-damage to all creatures in squares adjacent to where it breaks.
+A lit lantern can be used as a thrown weapon, dealing 1d4 points of fire damage to all creatures in squares adjacent to where it breaks.
 
 BAT SWARM
 
@@ -1851,34 +1304,19 @@ BAT SWARM
                                            
   ---------------------------------------- ---------------------------------------------------------------------------------------------------------
 
-[A bat swarm is nocturnal, and is never found aboveground in
-daylight.]{.underline}
+[A bat swarm is nocturnal, and is never found aboveground in daylight.]{.underline}
 
 [Combat]{.underline}
 
-[A bat swarm seeks to surround and attack any warm-blooded prey it
-encounters. The swarm deals 1d6 points of damage to any creature whose
-space it occupies at the end of its move.]{.underline}
+[A bat swarm seeks to surround and attack any warm-blooded prey it encounters. The swarm deals 1d6 points of damage to any creature whose space it occupies at the end of its move.]{.underline}
 
-**[Distraction (Ex): ]{.underline}**[Any living creature that begins its
-turn with a swarm in its space must succeed on a DC 11 Fortitude save or
-be nauseated for 1 round. The save DC is
-Constitution-based.]{.underline}
+**[Distraction (Ex): ]{.underline}**[Any living creature that begins its turn with a swarm in its space must succeed on a DC 11 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.]{.underline}
 
-**[Wounding (Ex):]{.underline}**[ Any living creature damaged by a bat
-swarm continues to bleed, losing 1 hit point per round thereafter.
-Multiple wounds do not result in cumulative bleeding loss. The bleeding
-can be stopped by a DC 10 Heal check or the application of a
-]{.underline}*[cure ]{.underline}*[spell or some other healing
-magic.]{.underline}
+**[Wounding (Ex):]{.underline}**[ Any living creature damaged by a bat swarm continues to bleed, losing 1 hit point per round thereafter. Multiple wounds do not result in cumulative bleeding loss. The bleeding can be stopped by a DC 10 Heal check or the application of a ]{.underline}*[cure ]{.underline}*[spell or some other healing magic.]{.underline}
 
-**[Blindsense (Ex):]{.underline}**[ A bat swarm notices and locates
-creatures within 20 feet. Opponents still have total concealment against
-the bat swarm (but swarm attacks ignore concealment). ]{.underline}
+**[Blindsense (Ex):]{.underline}**[ A bat swarm notices and locates creatures within 20 feet. Opponents still have total concealment against the bat swarm (but swarm attacks ignore concealment). ]{.underline}
 
-**[Skills:]{.underline}**[ A bat swarm has a +4 racial bonus on Listen
-and Spot checks. These bonuses are lost if its blindsense is negated.
-]{.underline}
+**[Skills:]{.underline}**[ A bat swarm has a +4 racial bonus on Listen and Spot checks. These bonuses are lost if its blindsense is negated. ]{.underline}
 
 [CENTIPEDE SWARM]{.underline}
 
@@ -1912,25 +1350,13 @@ and Spot checks. These bonuses are lost if its blindsense is negated.
 
 [Combat]{.underline}
 
-[A centipede swarm seeks to surround and attack any living prey it
-encounters. A swarm deals 2d6 points of damage to any creature whose
-space it occupies at the end of its move.]{.underline}
+[A centipede swarm seeks to surround and attack any living prey it encounters. A swarm deals 2d6 points of damage to any creature whose space it occupies at the end of its move.]{.underline}
 
-**[Distraction (Ex): ]{.underline}**[Any living creature that begins its
-turn with a centipede swarm in its space must succeed on a DC 13
-Fortitude save or be nauseated for 1 round. The save DC is
-Constitution-based.]{.underline}
+**[Distraction (Ex): ]{.underline}**[Any living creature that begins its turn with a centipede swarm in its space must succeed on a DC 13 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.]{.underline}
 
-**[Poison (Ex):]{.underline}**[ Injury, Fortitude DC 13, initial and
-secondary damage 1d4 Dex. The save DC is
-Constitution-based.]{.underline}
+**[Poison (Ex):]{.underline}**[ Injury, Fortitude DC 13, initial and secondary damage 1d4 Dex. The save DC is Constitution-based.]{.underline}
 
-**[Skills:]{.underline}**[ A centipede swarm has a +4 racial bonus on
-Spot checks and a +8 racial bonus on Climb checks, and uses its
-Dexterity modifier instead of its Strength modifier for Climb checks. A
-centipede swarm has a +8 racial bonus on Climb checks and can always
-choose to take 10 on a Climb check, even if rushed or
-threatened.]{.underline}
+**[Skills:]{.underline}**[ A centipede swarm has a +4 racial bonus on Spot checks and a +8 racial bonus on Climb checks, and uses its Dexterity modifier instead of its Strength modifier for Climb checks. A centipede swarm has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.]{.underline}
 
 [HELLWASP SWARM]{.underline}
 
@@ -1962,69 +1388,27 @@ threatened.]{.underline}
                                            
   ---------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[A single hellwasp resembles a thumb-sized normal wasp, except its
-carapace is gleaming black with ruby-red stripes, and its compound eyes
-are an iridescent green. In swarms, hellwasps form a collective hive
-mind intelligence with infernal cunning and bloodlust.]{.underline}
+[A single hellwasp resembles a thumb-sized normal wasp, except its carapace is gleaming black with ruby-red stripes, and its compound eyes are an iridescent green. In swarms, hellwasps form a collective hive mind intelligence with infernal cunning and bloodlust.]{.underline}
 
 [Combat]{.underline}
 
-[Like any swarm, a hellwasp swarm seeks to surround and attack any
-living prey it encounters. A swarm deals 3d6 points of damage to any
-creature whose space it occupies at the end of its move. The swarm can
-take over the bodies of its prey and infest both the living and the
-dead, using them as horrible living (or unliving) puppets to accomplish
-acts of wickedness that a swarm of insects could never
-attempt.]{.underline}
+[Like any swarm, a hellwasp swarm seeks to surround and attack any living prey it encounters. A swarm deals 3d6 points of damage to any creature whose space it occupies at the end of its move. The swarm can take over the bodies of its prey and infest both the living and the dead, using them as horrible living (or unliving) puppets to accomplish acts of wickedness that a swarm of insects could never attempt.]{.underline}
 
-[A hellwasp swarm's attack is treated as an evil-aligned weapon and a
-magic weapon for the purpose of overcoming damage
-reduction.]{.underline}
+[A hellwasp swarm's attack is treated as an evil-aligned weapon and a magic weapon for the purpose of overcoming damage reduction.]{.underline}
 
-**[Distraction (Ex): ]{.underline}**[Any living creature that begins its
-turn with a hellwasp swarm in its space must succeed on a DC 18
-Fortitude save or be nauseated for 1 round. The save DC is
-Constitution-based.]{.underline}
+**[Distraction (Ex): ]{.underline}**[Any living creature that begins its turn with a hellwasp swarm in its space must succeed on a DC 18 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.]{.underline}
 
-**[Inhabit (Ex): ]{.underline}**[A hellwasp swarm can enter the body of
-a helpless or dead creature by crawling into its mouth and other
-orifices. Inhabiting requires 1 minute, and the victim must be Small,
-Medium, or Large (although four swarms working together can inhabit a
-Huge creature). The swarm can abandon the body at any time, although
-doing this takes 1 full round. Any attack against the host deals half
-damage to the hellwasp swarm as well, although the swarm's resistances
-and immunities may negate some or all of this damage.]{.underline}
+**[Inhabit (Ex): ]{.underline}**[A hellwasp swarm can enter the body of a helpless or dead creature by crawling into its mouth and other orifices. Inhabiting requires 1 minute, and the victim must be Small, Medium, or Large (although four swarms working together can inhabit a Huge creature). The swarm can abandon the body at any time, although doing this takes 1 full round. Any attack against the host deals half damage to the hellwasp swarm as well, although the swarm's resistances and immunities may negate some or all of this damage.]{.underline}
 
-[If a hellwasp swarm inhabits a dead body, it can restore animation to
-the creature and control its movements, effectively transforming it into
-a zombie of the appropriate size for as long as the swarm remains
-inside. If a hellwasp swarm inhabits a living victim, it can neutralize
-the effects of its own poison and control the victim's movement and
-actions as if using ]{.underline}*[dominate monster ]{.underline}*[on
-the victim. The hellwasps quickly consume a living victim, dealing 2d4
-points of Constitution damage per hour they inhabit a body. A body
-reduced to Constitution 0 is dead.]{.underline}
+[If a hellwasp swarm inhabits a dead body, it can restore animation to the creature and control its movements, effectively transforming it into a zombie of the appropriate size for as long as the swarm remains inside. If a hellwasp swarm inhabits a living victim, it can neutralize the effects of its own poison and control the victim's movement and actions as if using ]{.underline}*[dominate monster ]{.underline}*[on the victim. The hellwasps quickly consume a living victim, dealing 2d4 points of Constitution damage per hour they inhabit a body. A body reduced to Constitution 0 is dead.]{.underline}
 
-[A hellwasp-inhabited creature is relatively easy to spot, since its
-skin crawls with the forms of insects inside. The swarm is intelligent
-enough to attempt to hide beneath loose clothing or a large cloak to
-keep its presence from being detected. The swarm can attempt a Disguise
-check to conceal its inhabitation of a host, with a --4 penalty if
-currently inhabiting a Small host. ]{.underline}
+[A hellwasp-inhabited creature is relatively easy to spot, since its skin crawls with the forms of insects inside. The swarm is intelligent enough to attempt to hide beneath loose clothing or a large cloak to keep its presence from being detected. The swarm can attempt a Disguise check to conceal its inhabitation of a host, with a --4 penalty if currently inhabiting a Small host. ]{.underline}
 
-[A ]{.underline}*[remove disease ]{.underline}*[or ]{.underline}*[heal
-]{.underline}*[spell cast on an inhabited victim forces the hellwasp
-swarm to abandon its host.]{.underline}
+[A ]{.underline}*[remove disease ]{.underline}*[or ]{.underline}*[heal ]{.underline}*[spell cast on an inhabited victim forces the hellwasp swarm to abandon its host.]{.underline}
 
-**[Poison (Ex):]{.underline}**[ Injury, Fortitude DC 18, initial and
-secondary damage 1d6 Dex. The save DC is
-Constitution-based.]{.underline}
+**[Poison (Ex):]{.underline}**[ Injury, Fortitude DC 18, initial and secondary damage 1d6 Dex. The save DC is Constitution-based.]{.underline}
 
-**[Hive Mind (Ex): ]{.underline}**[Any hellwasp swarm with at least 1
-hit point per Hit Die (or 12 hit points, for a standard hellwasp swarm)
-forms a hive mind, giving it an Intelligence of 6. When a hellwasp swarm
-is reduced below this hit point threshold, it becomes mindless.
-]{.underline}
+**[Hive Mind (Ex): ]{.underline}**[Any hellwasp swarm with at least 1 hit point per Hit Die (or 12 hit points, for a standard hellwasp swarm) forms a hive mind, giving it an Intelligence of 6. When a hellwasp swarm is reduced below this hit point threshold, it becomes mindless. ]{.underline}
 
 [LOCUST SWARM]{.underline}
 
@@ -2056,22 +1440,15 @@ is reduced below this hit point threshold, it becomes mindless.
                                            
   ---------------------------------------- ---------------------------------------------------------------------------------------
 
-[A locust swarm is a cloud of thousands of winged vermin that devours
-any organic material in its path.]{.underline}
+[A locust swarm is a cloud of thousands of winged vermin that devours any organic material in its path.]{.underline}
 
 [Combat]{.underline}
 
-[A locust swarm surrounds and attacks any living prey it encounters. A
-swarm deals 2d6 points of damage to any creature whose space it occupies
-at the end of its move.]{.underline}
+[A locust swarm surrounds and attacks any living prey it encounters. A swarm deals 2d6 points of damage to any creature whose space it occupies at the end of its move.]{.underline}
 
-**[Distraction (Ex): ]{.underline}**[Any living creature that begins its
-turn with a locust swarm in its space must succeed on a DC 12 Fortitude
-save or be nauseated for 1 round. The save DC is
-Constitution-based.]{.underline}
+**[Distraction (Ex): ]{.underline}**[Any living creature that begins its turn with a locust swarm in its space must succeed on a DC 12 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.]{.underline}
 
-**[Skills:]{.underline}**[ A locust swarm has a +4 racial bonus on
-Listen and Spot checks.]{.underline}
+**[Skills:]{.underline}**[ A locust swarm has a +4 racial bonus on Listen and Spot checks.]{.underline}
 
 [RAT SWARM]{.underline}
 
@@ -2105,28 +1482,13 @@ Listen and Spot checks.]{.underline}
 
 [Combat]{.underline}
 
-[A rat swarm seeks to surround and attack any warm-blooded prey it
-encounters. A swarm deals 1d6 points of damage to any creature whose
-space it occupies at the end of its move.]{.underline}
+[A rat swarm seeks to surround and attack any warm-blooded prey it encounters. A swarm deals 1d6 points of damage to any creature whose space it occupies at the end of its move.]{.underline}
 
-**[Disease (Ex):]{.underline}**[ Filth fever---swarm attack, Fortitude
-DC 12, incubation period 1d3 days, damage 1d3 Dex and 1d3 Con. The save
-DC is Constitution-based.]{.underline}
+**[Disease (Ex):]{.underline}**[ Filth fever---swarm attack, Fortitude DC 12, incubation period 1d3 days, damage 1d3 Dex and 1d3 Con. The save DC is Constitution-based.]{.underline}
 
-**[Distraction (Ex):]{.underline}**[ Any living creature that begins its
-turn with a swarm in its square must succeed on a DC 12 Fortitude save
-or be nauseated for 1 round. The save DC is
-Constitution-based.]{.underline}
+**[Distraction (Ex):]{.underline}**[ Any living creature that begins its turn with a swarm in its square must succeed on a DC 12 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.]{.underline}
 
-**[Skills: ]{.underline}**[A rat swarm has a +4 racial bonus on Hide and
-Move Silently checks, and a +8 racial bonus on Balance, Climb, and Swim
-checks. A rat swarm can always choose to take 10 on all Climb checks,
-even if rushed or threatened. A rat swarm uses its Dexterity modifier
-instead of its Strength modifier for Climb and Swim checks. A rat swarm
-has a +8 racial bonus on any Swim check to perform some special action
-or avoid a hazard. It can always choose to take 10 on a Swim check, even
-if distracted or endangered. It can use the run action while swimming,
-provided it swims in a straight line.]{.underline}
+**[Skills: ]{.underline}**[A rat swarm has a +4 racial bonus on Hide and Move Silently checks, and a +8 racial bonus on Balance, Climb, and Swim checks. A rat swarm can always choose to take 10 on all Climb checks, even if rushed or threatened. A rat swarm uses its Dexterity modifier instead of its Strength modifier for Climb and Swim checks. A rat swarm has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.]{.underline}
 
 [SPIDER SWARM]{.underline}
 
@@ -2159,21 +1521,10 @@ provided it swims in a straight line.]{.underline}
 
 [Combat]{.underline}
 
-[A spider swarm seeks to surround and attack any living prey it
-encounters. A swarm deals 1d6 points of damage to any creature whose
-space it occupies at the end of its move.]{.underline}
+[A spider swarm seeks to surround and attack any living prey it encounters. A swarm deals 1d6 points of damage to any creature whose space it occupies at the end of its move.]{.underline}
 
-**[Distraction (Ex):]{.underline}**[ Any living creature that begins its
-turn with a spider swarm in its space must succeed on a DC 11 Fortitude
-save or be nauseated for 1 round. The save DC is
-Constitution-based.]{.underline}
+**[Distraction (Ex):]{.underline}**[ Any living creature that begins its turn with a spider swarm in its space must succeed on a DC 11 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.]{.underline}
 
-**[Poison (Ex): ]{.underline}**[Injury, Fortitude DC 11, initial and
-secondary damage 1d3 Str. The save DC is
-Constitution-based.]{.underline}
+**[Poison (Ex): ]{.underline}**[Injury, Fortitude DC 11, initial and secondary damage 1d3 Str. The save DC is Constitution-based.]{.underline}
 
-**[Skills:]{.underline}**[ A spider swarm has a +4 racial bonus on Hide
-and Spot checks and a +8 racial bonus on Climb checks. It uses its
-Dexterity modifier instead of its Strength modifier for Climb checks. It
-can always choose to take 10 on a Climb check, even if rushed or
-threatened.]{.underline}
+**[Skills:]{.underline}**[ A spider swarm has a +4 racial bonus on Hide and Spot checks and a +8 racial bonus on Climb checks. It uses its Dexterity modifier instead of its Strength modifier for Climb checks. It can always choose to take 10 on a Climb check, even if rushed or threatened.]{.underline}

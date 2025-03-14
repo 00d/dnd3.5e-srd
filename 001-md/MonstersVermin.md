@@ -1,26 +1,18 @@
-[This material is Open Game Content, and is licensed for public use
-under the terms of the Open Game License v1.0a.]{.underline}
+[This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.]{.underline}
 
 MONSTERS (VERMIN)
 
-These creatures operate on instinct, driven by simple needs such as food
-and reproduction. Except where noted, vermin attack only when hungry or
-threatened.
+These creatures operate on instinct, driven by simple needs such as food and reproduction. Except where noted, vermin attack only when hungry or threatened.
 
-**Vermin Traits:** Vermin possess the following traits (unless otherwise
-noted in a creature's entry).
+**Vermin Traits:** Vermin possess the following traits (unless otherwise noted in a creature's entry).
 
----Mindless: No Intelligence score, and immunity to all mind-affecting
-effects (charms, compulsions, phantasms, patterns, and morale effects).
+---Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
 
 ---Darkvision out to 60 feet.
 
----*Alignment: *Always neutral. Vermin are not governed by a human sense
-of morality.
+---*Alignment: *Always neutral. Vermin are not governed by a human sense of morality.
 
----*Treasure: *Vermin generally possess no treasure. For those that do,
-this treasure consists of possessions formerly owned by a creature that
-the monster has killed.
+---*Treasure: *Vermin generally possess no treasure. For those that do, this treasure consists of possessions formerly owned by a creature that the monster has killed.
 
 GIANT ANT
 
@@ -52,24 +44,13 @@ GIANT ANT
                                                                                                                                                                                 
   ---------------------------------------- -------------------------------------------------------------------- --------------------------------------------------------------- ---------------------------------------------------------------------------
 
-[Giant ants are among the hardiest and most adaptable vermin. Soldiers
-and workers are about 6 feet long, while queens can grow to a length of
-9 feet.]{.underline}
+[Giant ants are among the hardiest and most adaptable vermin. Soldiers and workers are about 6 feet long, while queens can grow to a length of 9 feet.]{.underline}
 
-**[Acid Sting (Ex): ]{.underline}**[A giant soldier ant has a stinger
-and an acid-producing gland in its abdomen. If it successfully grabs an
-opponent, it can attempt to sting each round (+3 attack bonus). A hit
-with the sting attack deals 1d4+1 points of piercing damage and 1d4
-points of acid damage.]{.underline}
+**[Acid Sting (Ex): ]{.underline}**[A giant soldier ant has a stinger and an acid-producing gland in its abdomen. If it successfully grabs an opponent, it can attempt to sting each round (+3 attack bonus). A hit with the sting attack deals 1d4+1 points of piercing damage and 1d4 points of acid damage.]{.underline}
 
-**[Improved Grab (Ex):]{.underline}**[ To use this ability, a giant ant
-must hit with its bite attack. A giant soldier ant that wins the ensuing
-grapple check establishes a hold and can sting.]{.underline}
+**[Improved Grab (Ex):]{.underline}**[ To use this ability, a giant ant must hit with its bite attack. A giant soldier ant that wins the ensuing grapple check establishes a hold and can sting.]{.underline}
 
-**[Skills:]{.underline}**[ \*Giant ants have a +4 racial bonus on
-Survival checks when tracking by scent and a +8 racial bonus on Climb
-checks. A giant ant can always choose to take 10 on Climb checks, even
-if rushed or threatened.]{.underline}
+**[Skills:]{.underline}**[ \*Giant ants have a +4 racial bonus on Survival checks when tracking by scent and a +8 racial bonus on Climb checks. A giant ant can always choose to take 10 on Climb checks, even if rushed or threatened.]{.underline}
 
 [GIANT BEE]{.underline}
 
@@ -100,19 +81,11 @@ if rushed or threatened.]{.underline}
                                            
   ---------------------------------------- -----------------------------------------------------------------
 
-[Although many times larger, growing to a length of about 5 feet, giant
-bees behave generally the same as their smaller cousins. Giant bees are
-usually not aggressive except when defending themselves or their
-hive.]{.underline}
+[Although many times larger, growing to a length of about 5 feet, giant bees behave generally the same as their smaller cousins. Giant bees are usually not aggressive except when defending themselves or their hive.]{.underline}
 
-**[Poison (Ex): ]{.underline}**[Injury, Fortitude DC 11, initial and
-secondary damage 1d4 Con. The save DC is Constitution-based. A giant bee
-that successfully stings another creature pulls away, leaving its
-stinger in the creature. The bee then dies.]{.underline}
+**[Poison (Ex): ]{.underline}**[Injury, Fortitude DC 11, initial and secondary damage 1d4 Con. The save DC is Constitution-based. A giant bee that successfully stings another creature pulls away, leaving its stinger in the creature. The bee then dies.]{.underline}
 
-**[Skills:]{.underline}**[ Giant bees have a +4 racial bonus on Spot
-checks. \*They also have a +4 racial bonus on Survival checks to orient
-themselves.]{.underline}
+**[Skills:]{.underline}**[ Giant bees have a +4 racial bonus on Spot checks. \*They also have a +4 racial bonus on Survival checks to orient themselves.]{.underline}
 
 [GIANT BOMBARDIER BEETLE]{.underline}
 
@@ -142,16 +115,9 @@ themselves.]{.underline}
                                            
   ---------------------------------------- --------------------------------------------------------------
 
-[These creatures feed primarily on carrion and offal, gathering heaps of
-the stuff in which to build nests and lay eggs. A giant bombardier
-beetle is about 6 feet long. Giant bombardier beetles normally attack
-only to defend themselves, their nests, or their eggs.]{.underline}
+[These creatures feed primarily on carrion and offal, gathering heaps of the stuff in which to build nests and lay eggs. A giant bombardier beetle is about 6 feet long. Giant bombardier beetles normally attack only to defend themselves, their nests, or their eggs.]{.underline}
 
-**[Acid Spray (Ex):]{.underline}**[ When attacked or disturbed, the
-creature can release a 10-foot cone of acidic vapor once per round.
-Those within the cone must succeed on a DC 13 Fortitude save or take
-1d4+2 points of acid damage. The save DC is
-Constitution-based.]{.underline}
+**[Acid Spray (Ex):]{.underline}**[ When attacked or disturbed, the creature can release a 10-foot cone of acidic vapor once per round. Those within the cone must succeed on a DC 13 Fortitude save or take 1d4+2 points of acid damage. The save DC is Constitution-based.]{.underline}
 
 [GIANT FIRE BEETLE]{.underline}
 
@@ -181,11 +147,7 @@ Constitution-based.]{.underline}
                                            
   ---------------------------------------- ------------------------------------------------------------------
 
-[These luminous nocturnal insects are prized by miners and adventurers.
-They have two glands, one above each eye, that produce a red glow. The
-glands' luminosity persists for 1d6 days after removal from the beetle,
-illuminating a roughly circular area with a 10-foot radius. Giant fire
-beetles are about 2 feet long.]{.underline}
+[These luminous nocturnal insects are prized by miners and adventurers. They have two glands, one above each eye, that produce a red glow. The glands' luminosity persists for 1d6 days after removal from the beetle, illuminating a roughly circular area with a 10-foot radius. Giant fire beetles are about 2 feet long.]{.underline}
 
 [GIANT STAG BEETLE]{.underline}
 
@@ -216,12 +178,9 @@ beetles are about 2 feet long.]{.underline}
                                            
   ---------------------------------------- -------------------------------------------------------------------
 
-[These creatures are serious pests that greedily devour cultivated
-crops. A single beetle can strip an entire farm in short order. An adult
-giant stag beetle is about 10 feet long.]{.underline}
+[These creatures are serious pests that greedily devour cultivated crops. A single beetle can strip an entire farm in short order. An adult giant stag beetle is about 10 feet long.]{.underline}
 
-**[Trample (Ex): ]{.underline}**[Reflex half DC 19. The save DC is
-Strength-based.]{.underline}
+**[Trample (Ex): ]{.underline}**[Reflex half DC 19. The save DC is Strength-based.]{.underline}
 
 [GIANT PRAYING MANTIS]{.underline}
 
@@ -251,17 +210,11 @@ Strength-based.]{.underline}
                                            
   ---------------------------------------- ---------------------------------------------------------------------------
 
-[This patient carnivore remains completely still as it waits for prey to
-come near.]{.underline}
+[This patient carnivore remains completely still as it waits for prey to come near.]{.underline}
 
-**[Improved Grab (Ex):]{.underline}**[ To use this ability, a giant
-praying mantis must hit with its claws attack. If it wins the ensuing
-grapple check, it establishes a hold and makes a bite attack as a
-primary attack (at its full +6 attack bonus).]{.underline}
+**[Improved Grab (Ex):]{.underline}**[ To use this ability, a giant praying mantis must hit with its claws attack. If it wins the ensuing grapple check, it establishes a hold and makes a bite attack as a primary attack (at its full +6 attack bonus).]{.underline}
 
-**[Skills:]{.underline}**[ A giant praying mantis has a +4 racial bonus
-on Hide and Spot checks. \*Because of its camouflage, the Hide bonus
-increases to +12 when a mantis is surrounded by foliage.]{.underline}
+**[Skills:]{.underline}**[ A giant praying mantis has a +4 racial bonus on Hide and Spot checks. \*Because of its camouflage, the Hide bonus increases to +12 when a mantis is surrounded by foliage.]{.underline}
 
 [GIANT WASP]{.underline}
 
@@ -291,17 +244,11 @@ increases to +12 when a mantis is surrounded by foliage.]{.underline}
                                            
   ---------------------------------------- ---------------------------------------------------------------------------
 
-[Giant wasps attack when hungry or threatened, stinging their prey to
-death. They take dead or incapacitated opponents back to their lairs as
-food for their unhatched young.]{.underline}
+[Giant wasps attack when hungry or threatened, stinging their prey to death. They take dead or incapacitated opponents back to their lairs as food for their unhatched young.]{.underline}
 
-**[Poison (Ex): ]{.underline}**[Injury, Fortitude DC 14, initial and
-secondary damage 1d6 Dex. The save DC is
-Constitution-based.]{.underline}
+**[Poison (Ex): ]{.underline}**[Injury, Fortitude DC 14, initial and secondary damage 1d6 Dex. The save DC is Constitution-based.]{.underline}
 
-**[Skills:]{.underline}**[ Giant wasps have a +8 racial bonus on Spot
-checks. \*They also have a +4 racial bonus on Survival checks to orient
-themselves.]{.underline}
+**[Skills:]{.underline}**[ Giant wasps have a +8 racial bonus on Spot checks. \*They also have a +4 racial bonus on Survival checks to orient themselves.]{.underline}
 
 [MONSTROUS CENTIPEDE]{.underline}
 
@@ -380,8 +327,7 @@ themselves.]{.underline}
                                                                                                                                                                                                    
   ---------------------------------------- --------------------------------------------------------------------------- --------------------------------------------------------------------------- -----------------------------------------------------------------
 
-[Monstrous centipedes tend to attack anything that resembles food,
-biting with their jaws and injecting their poison.]{.underline}
+[Monstrous centipedes tend to attack anything that resembles food, biting with their jaws and injecting their poison.]{.underline}
 
   ------------------------ --------------------------- -------------------------- -------------------------- --------------------------- --------------------------
   **[Size]{.underline}**   **[Fort DC]{.underline}**   **[Damage]{.underline}**   **[Size]{.underline}**     **[Fort DC]{.underline}**   **[Damage]{.underline}**
@@ -394,16 +340,9 @@ biting with their jaws and injecting their poison.]{.underline}
                                                                                                                                          
   ------------------------ --------------------------- -------------------------- -------------------------- --------------------------- --------------------------
 
-**[Poison (Ex): ]{.underline}**[A monstrous centipede has a poisonous
-bite. The details vary by the centipede's size, as shown on the table
-above. The save DCs are Constitution-based. The indicated damage is both
-initial and secondary damage. ]{.underline}
+**[Poison (Ex): ]{.underline}**[A monstrous centipede has a poisonous bite. The details vary by the centipede's size, as shown on the table above. The save DCs are Constitution-based. The indicated damage is both initial and secondary damage. ]{.underline}
 
-**[Skills:]{.underline}**[ Monstrous centipedes have a +4 racial bonus
-on Spot checks, and a +8 racial bonus on Climb and Hide checks. They can
-use either their Strength or Dexterity modifier for Climb checks,
-whichever is higher. Monstrous scorpions can take 10 on Climb checks,
-even if threatened or distracted.]{.underline}
+**[Skills:]{.underline}**[ Monstrous centipedes have a +4 racial bonus on Spot checks, and a +8 racial bonus on Climb and Hide checks. They can use either their Strength or Dexterity modifier for Climb checks, whichever is higher. Monstrous scorpions can take 10 on Climb checks, even if threatened or distracted.]{.underline}
 
 [MONSTROUS SCORPION]{.underline}
 
@@ -485,53 +424,33 @@ even if threatened or distracted.]{.underline}
                                                                                                                                                                                                                  
   ---------------------------------------- ---------------------------------------------------------------------------------- ---------------------------------------------------------------------------------- ------------------------------------------------------------------------------
 
-[Monstrous scorpions are likely to attack any creature that approaches,
-and they usually charge when attacking prey.]{.underline}
+[Monstrous scorpions are likely to attack any creature that approaches, and they usually charge when attacking prey.]{.underline}
 
-**[Constrict (Ex): ]{.underline}**[A monstrous scorpion deals automatic
-claw damage on a successful grapple check.]{.underline}
+**[Constrict (Ex): ]{.underline}**[A monstrous scorpion deals automatic claw damage on a successful grapple check.]{.underline}
 
-**[Improved Grab (Ex):]{.underline}**[ To use this ability, a monstrous
-scorpion must hit with a claw attack. A monstrous scorpion can use
-either its Strength modifier or Dexterity modifier for grapple checks,
-whichever is better.]{.underline}
+**[Improved Grab (Ex):]{.underline}**[ To use this ability, a monstrous scorpion must hit with a claw attack. A monstrous scorpion can use either its Strength modifier or Dexterity modifier for grapple checks, whichever is better.]{.underline}
 
-**[Poison (Ex):]{.underline}**[ A monstrous scorpion has a poisonous
-sting. The details vary by the scorpion's size, as follows. The save DCs
-are Constitution- based. The indicated damage is initial and secondary
-damage.]{.underline}
+**[Poison (Ex):]{.underline}**[ A monstrous scorpion has a poisonous sting. The details vary by the scorpion's size, as follows. The save DCs are Constitution- based. The indicated damage is initial and secondary damage.]{.underline}
 
-+----------+----------+----------+----------+----------+----------+
-| ##       | #####    | ####     | ##       | #####    | ####     |
-| ##### [S | ## [Fort | ### [Dam | ##### [S | ## [Fort | ### [Dam |
-| ize]{.un |  DC]{.un | age]{.un | ize]{.un |  DC]{.un | age]{.un |
-| derline} | derline} | derline} | derline} | derline} | derline} |
-+----------+----------+----------+----------+----------+----------+
-|          |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| [T       | [12]{.un | [1       | [H       | [18]{.un | [1d6     |
-| iny]{.un | derline} | Con]{.un | uge]{.un | derline} | Con]{.un |
-| derline} |          | derline} | derline} |          | derline} |
-+----------+----------+----------+----------+----------+----------+
-| [Sm      | [12]{.un | [1d2     | [Gargant | [23]{.un | [1d8     |
-| all]{.un | derline} | Con]{.un | uan]{.un | derline} | Con]{.un |
-| derline} |          | derline} | derline} |          | derline} |
-+----------+----------+----------+----------+----------+----------+
-| [Med     | [13]{.un | [1d3     | [Colos   | [33]{.un | [1d10    |
-| ium]{.un | derline} | Con]{.un | sal]{.un | derline} | Con]{.un |
-| derline} |          | derline} | derline} |          | derline} |
-+----------+----------+----------+----------+----------+----------+
-|          |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| [La      | [14]{.un | [1d4     |          |          |          |
-| rge]{.un | derline} | Con]{.un |          |          |          |
-| derline} |          | derline} |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-|          |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+| ####### [Size]{.underline} | ####### [Fort DC]{.underline} | ####### [Damage]{.underline} | ####### [Size]{.underline} | ####### [Fort DC]{.underline} | ####### [Damage]{.underline} |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+|                            |                               |                              |                            |                               |                              |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+| [Tiny]{.underline}         | [12]{.underline}              | [1 Con]{.underline}          | [Huge]{.underline}         | [18]{.underline}              | [1d6 Con]{.underline}        |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+| [Small]{.underline}        | [12]{.underline}              | [1d2 Con]{.underline}        | [Gargantuan]{.underline}   | [23]{.underline}              | [1d8 Con]{.underline}        |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+| [Medium]{.underline}       | [13]{.underline}              | [1d3 Con]{.underline}        | [Colossal]{.underline}     | [33]{.underline}              | [1d10 Con]{.underline}       |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+|                            |                               |                              |                            |                               |                              |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+| [Large]{.underline}        | [14]{.underline}              | [1d4 Con]{.underline}        |                            |                               |                              |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+|                            |                               |                              |                            |                               |                              |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
 
-**[Skills:]{.underline}**[ A monstrous scorpion has a +4 racial bonus on
-Climb, Hide, and Spot checks.]{.underline}
+**[Skills:]{.underline}**[ A monstrous scorpion has a +4 racial bonus on Climb, Hide, and Spot checks.]{.underline}
 
 [MONSTROUS SPIDER]{.underline}
 
@@ -613,123 +532,64 @@ Climb, Hide, and Spot checks.]{.underline}
                                                                                                                                                                                                    
   ---------------------------------------- --------------------------------------------------------------------------- --------------------------------------------------------------------------- --------------------------------------------------------------------
 
-[All monstrous spiders are aggressive predators that use their poisonous
-bites to subdue or kill prey.]{.underline}
+[All monstrous spiders are aggressive predators that use their poisonous bites to subdue or kill prey.]{.underline}
 
-[Monstrous spiders come in two general types: hunters and web-spinners.
-Hunters rove about, while web-spinners usually attempt to trap prey.
-Hunting spiders can spin webs to use as lairs, but cannot use their webs
-as weapons the way web-spinners can. A hunting spider has a base land
-speed 10 feet faster than the figures given in the statistics
-blocks.]{.underline}
+[Monstrous spiders come in two general types: hunters and web-spinners. Hunters rove about, while web-spinners usually attempt to trap prey. Hunting spiders can spin webs to use as lairs, but cannot use their webs as weapons the way web-spinners can. A hunting spider has a base land speed 10 feet faster than the figures given in the statistics blocks.]{.underline}
 
-**[Poison (Ex):]{.underline}**[ A monstrous spider has a poisonous bite.
-The details vary by the spider's size, as shown on the table below. The
-save DCs are Constitution-based. The indicated damage is
-initial]{.underline}
+**[Poison (Ex):]{.underline}**[ A monstrous spider has a poisonous bite. The details vary by the spider's size, as shown on the table below. The save DCs are Constitution-based. The indicated damage is initial]{.underline}
 
 [and secondary damage.]{.underline}
 
-+----------+----------+----------+----------+----------+----------+
-| ##       | #####    | ####     | ##       | #####    | ####     |
-| ##### [S | ## [Fort | ### [Dam | ##### [S | ## [Fort | ### [Dam |
-| ize]{.un |  DC]{.un | age]{.un | ize]{.un |  DC]{.un | age]{.un |
-| derline} | derline} | derline} | derline} | derline} | derline} |
-+----------+----------+----------+----------+----------+----------+
-|          |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| [T       | [10]{.un | [1d2     | [H       | [16]{.un | [1d8     |
-| iny]{.un | derline} | Str]{.un | uge]{.un | derline} | Str]{.un |
-| derline} |          | derline} | derline} |          | derline} |
-+----------+----------+----------+----------+----------+----------+
-| [Sm      | [10]{.un | [1d3     | [Gargant | [20]{.un | [2d6     |
-| all]{.un | derline} | Str]{.un | uan]{.un | derline} | Str]{.un |
-| derline} |          | derline} | derline} |          | derline} |
-+----------+----------+----------+----------+----------+----------+
-| [Med     | [12]{.un | [1d4     | [Colos   | [28]{.un | [2d8     |
-| ium]{.un | derline} | Str]{.un | sal]{.un | derline} | Str]{.un |
-| derline} |          | derline} | derline} |          | derline} |
-+----------+----------+----------+----------+----------+----------+
-|          |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| [La      | [13]{.un | [1d6     |          |          |          |
-| rge]{.un | derline} | Str]{.un |          |          |          |
-| derline} |          | derline} |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-|          |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+| ####### [Size]{.underline} | ####### [Fort DC]{.underline} | ####### [Damage]{.underline} | ####### [Size]{.underline} | ####### [Fort DC]{.underline} | ####### [Damage]{.underline} |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+|                            |                               |                              |                            |                               |                              |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+| [Tiny]{.underline}         | [10]{.underline}              | [1d2 Str]{.underline}        | [Huge]{.underline}         | [16]{.underline}              | [1d8 Str]{.underline}        |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+| [Small]{.underline}        | [10]{.underline}              | [1d3 Str]{.underline}        | [Gargantuan]{.underline}   | [20]{.underline}              | [2d6 Str]{.underline}        |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+| [Medium]{.underline}       | [12]{.underline}              | [1d4 Str]{.underline}        | [Colossal]{.underline}     | [28]{.underline}              | [2d8 Str]{.underline}        |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+|                            |                               |                              |                            |                               |                              |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+| [Large]{.underline}        | [13]{.underline}              | [1d6 Str]{.underline}        |                            |                               |                              |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
+|                            |                               |                              |                            |                               |                              |
++----------------------------+-------------------------------+------------------------------+----------------------------+-------------------------------+------------------------------+
 
-**[Web (Ex): ]{.underline}**[Both types of monstrous spiders often wait
-in their webs or in trees, then lower themselves silently on silk
-strands and leap onto prey passing beneath. A single strand is strong
-enough to support the spider and one creature of the same size.
-Web-spinners can throw a web eight times per day. This is similar to an
-attack with a net but has a maximum range of 50 feet, with a range
-increment of 10 feet, and is effective against targets up to one size
-category larger than the spider. An entangled creature can escape with a
-successful Escape Artist check or burst it with a Strength check. Both
-are standard actions whose DCs are given in the table below. The check
-DCs are Constitution-based, and the Strength check DC includes a +4
-racial bonus. ]{.underline}
+**[Web (Ex): ]{.underline}**[Both types of monstrous spiders often wait in their webs or in trees, then lower themselves silently on silk strands and leap onto prey passing beneath. A single strand is strong enough to support the spider and one creature of the same size. Web-spinners can throw a web eight times per day. This is similar to an attack with a net but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets up to one size category larger than the spider. An entangled creature can escape with a successful Escape Artist check or burst it with a Strength check. Both are standard actions whose DCs are given in the table below. The check DCs are Constitution-based, and the Strength check DC includes a +4 racial bonus. ]{.underline}
 
-[Web-spinners often create sheets of sticky webbing from 5 to 60 feet
-square, depending on the size of the spider. They usually position these
-sheets to snare flying creatures but can also try to trap prey on the
-ground. Approaching creatures must succeed on a DC 20 Spot check to
-notice a web; otherwise they stumble into it and become trapped as
-though by a successful web attack. Attempts to escape or burst the
-webbing gain a +5 bonus if the trapped creature has something to walk on
-or grab while pulling free. Each 5-foot section has the hit points given
-on the table, and sheet webs have damage reduction 5/---.]{.underline}
+[Web-spinners often create sheets of sticky webbing from 5 to 60 feet square, depending on the size of the spider. They usually position these sheets to snare flying creatures but can also try to trap prey on the ground. Approaching creatures must succeed on a DC 20 Spot check to notice a web; otherwise they stumble into it and become trapped as though by a successful web attack. Attempts to escape or burst the webbing gain a +5 bonus if the trapped creature has something to walk on or grab while pulling free. Each 5-foot section has the hit points given on the table, and sheet webs have damage reduction 5/---.]{.underline}
 
-[A monstrous spider can move across its own web at its climb speed and
-can pinpoint the location of any creature touching its web.]{.underline}
+[A monstrous spider can move across its own web at its climb speed and can pinpoint the location of any creature touching its web.]{.underline}
 
-+----------------+----------------+----------------+----------------+
-| ####### [Siz   | ####### [E     | ##             | ####           |
-| e]{.underline} | scape Artist D | ##### [Break D | ### [Hit Point |
-|                | C]{.underline} | C]{.underline} | s]{.underline} |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| [Tin           | [1             | [1             | [              |
-| y]{.underline} | 0]{.underline} | 4]{.underline} | 2]{.underline} |
-+----------------+----------------+----------------+----------------+
-| [Smal          | [1             | [1             | [              |
-| l]{.underline} | 0]{.underline} | 4]{.underline} | 4]{.underline} |
-+----------------+----------------+----------------+----------------+
-| [Mediu         | [1             | [1             | [              |
-| m]{.underline} | 2]{.underline} | 6]{.underline} | 6]{.underline} |
-+----------------+----------------+----------------+----------------+
-| [Larg          | [1             | [1             | [1             |
-| e]{.underline} | 3]{.underline} | 7]{.underline} | 2]{.underline} |
-+----------------+----------------+----------------+----------------+
-| [Hug           | [1             | [2             | [1             |
-| e]{.underline} | 6]{.underline} | 0]{.underline} | 4]{.underline} |
-+----------------+----------------+----------------+----------------+
-| [Gargantua     | [2             | [2             | [1             |
-| n]{.underline} | 0]{.underline} | 4]{.underline} | 6]{.underline} |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| [Colossa       | [2             | [3             | [1             |
-| l]{.underline} | 8]{.underline} | 2]{.underline} | 8]{.underline} |
-+----------------+----------------+----------------+----------------+
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
++----------------------------+----------------------------------------+--------------------------------+----------------------------------+
+| ####### [Size]{.underline} | ####### [Escape Artist DC]{.underline} | ####### [Break DC]{.underline} | ####### [Hit Points]{.underline} |
++----------------------------+----------------------------------------+--------------------------------+----------------------------------+
+|                            |                                        |                                |                                  |
++----------------------------+----------------------------------------+--------------------------------+----------------------------------+
+| [Tiny]{.underline}         | [10]{.underline}                       | [14]{.underline}               | [2]{.underline}                  |
++----------------------------+----------------------------------------+--------------------------------+----------------------------------+
+| [Small]{.underline}        | [10]{.underline}                       | [14]{.underline}               | [4]{.underline}                  |
++----------------------------+----------------------------------------+--------------------------------+----------------------------------+
+| [Medium]{.underline}       | [12]{.underline}                       | [16]{.underline}               | [6]{.underline}                  |
++----------------------------+----------------------------------------+--------------------------------+----------------------------------+
+| [Large]{.underline}        | [13]{.underline}                       | [17]{.underline}               | [12]{.underline}                 |
++----------------------------+----------------------------------------+--------------------------------+----------------------------------+
+| [Huge]{.underline}         | [16]{.underline}                       | [20]{.underline}               | [14]{.underline}                 |
++----------------------------+----------------------------------------+--------------------------------+----------------------------------+
+| [Gargantuan]{.underline}   | [20]{.underline}                       | [24]{.underline}               | [16]{.underline}                 |
++----------------------------+----------------------------------------+--------------------------------+----------------------------------+
+|                            |                                        |                                |                                  |
++----------------------------+----------------------------------------+--------------------------------+----------------------------------+
+| [Colossal]{.underline}     | [28]{.underline}                       | [32]{.underline}               | [18]{.underline}                 |
++----------------------------+----------------------------------------+--------------------------------+----------------------------------+
+|                            |                                        |                                |                                  |
++----------------------------+----------------------------------------+--------------------------------+----------------------------------+
 
-**[Tremorsense (Ex): ]{.underline}**[A monstrous spider can detect and
-pinpoint any creature or object within 60 feet in contact with the
-ground, or within any range in contact with the spider's
-webs.]{.underline}
+**[Tremorsense (Ex): ]{.underline}**[A monstrous spider can detect and pinpoint any creature or object within 60 feet in contact with the ground, or within any range in contact with the spider's webs.]{.underline}
 
-**[Skills:]{.underline}**[ Monstrous spiders have a +4 racial bonus on
-Hide and Spot checks and a +8 racial bonus on Climb checks. A monstrous
-spider can always choose to take 10 on Climb checks, even if rushed or
-threatened. Monstrous spiders use either their Strength or Dexterity
-modifier for Climb checks, whichever is]{.underline}
+**[Skills:]{.underline}**[ Monstrous spiders have a +4 racial bonus on Hide and Spot checks and a +8 racial bonus on Climb checks. A monstrous spider can always choose to take 10 on Climb checks, even if rushed or threatened. Monstrous spiders use either their Strength or Dexterity modifier for Climb checks, whichever is]{.underline}
 
-[higher. \*Hunting spiders have a +10 racial bonus on Jump checks and a
-+8 racial bonus on Spot checks. Web-spinning spiders have a +8 racial
-bonus on Hide and Move Silently checks when using their
-webs.]{.underline}
+[higher. \*Hunting spiders have a +10 racial bonus on Jump checks and a +8 racial bonus on Spot checks. Web-spinning spiders have a +8 racial bonus on Hide and Move Silently checks when using their webs.]{.underline}

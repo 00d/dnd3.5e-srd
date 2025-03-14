@@ -1,5 +1,4 @@
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 NPC CLASSES
 
@@ -9,483 +8,107 @@ ADEPT
 
 # Class Skills
 
-The adept's class skills (and the key ability for each skill) are
-Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis),
-Knowledge (all skills taken individually) (Int), Profession (Wis),
-Spellcraft (Int), and Survival (Wis).
+The adept's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis), Knowledge (all skills taken individually) (Int), Profession (Wis), Spellcraft (Int), and Survival (Wis).
 
 **Skill Points at 1st Level:** (2 + Int modifier) x4.
 
 **Skill Points at Each Additional Level:** 2 + Int modifier.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Table: The Adept</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><h1></h1></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><h1></h1></td>
-<td><h1>——— Spells per Day ——––</h1></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>NPC Level</strong></p></td>
-<td><h3>Base Attack</h3>
-<p><strong>Bonus</strong></p></td>
-<td><p><strong>Fort</strong></p>
-<p><strong>Save</strong></p></td>
-<td><p><strong>Ref</strong></p>
-<p><strong>Save</strong></p></td>
-<td><p><strong>Will</strong></p>
-<p><strong>Save</strong></p></td>
-<td><p><strong>Special</strong></p></td>
-<td><p><strong>0</strong></p></td>
-<td><p><strong>1st</strong></p></td>
-<td><p><strong>2nd</strong></p></td>
-<td><p><strong>3rd</strong></p></td>
-<td><p><strong>4th</strong></p></td>
-<td><p><strong>5th</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+2</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>+1</p></td>
-<td><p>+0</p></td>
-<td><p>+0</p></td>
-<td><p>+3</p></td>
-<td><p>Summon familiar</p></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+3</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>0</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>+2</p></td>
-<td><p>+1</p></td>
-<td><p>+1</p></td>
-<td><p>+4</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>+3</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+5</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>+4</p></td>
-<td><p>+2</p></td>
-<td><p>+2</p></td>
-<td><p>+6</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>0</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>+4</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+6</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+7</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>11th</p></td>
-<td><p>+5</p></td>
-<td><p>+3</p></td>
-<td><p>+3</p></td>
-<td><p>+7</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>12th</p></td>
-<td><p>+6/+1</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+8</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>0</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>13th</p></td>
-<td><p>+6/+1</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+8</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>14th</p></td>
-<td><p>+7/+2</p></td>
-<td><p>+4</p></td>
-<td><p>+4</p></td>
-<td><p>+9</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="odd">
-<td><p>15th</p></td>
-<td><p>+7/+2</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>+9</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><p>16th</p></td>
-<td><p>+8/+3</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>+10</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="odd">
-<td><p>17th</p></td>
-<td><p>+8/+3</p></td>
-<td><p>+5</p></td>
-<td><p>+5</p></td>
-<td><p>+10</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td><p>18th</p></td>
-<td><p>+9/+4</p></td>
-<td><p>+6</p></td>
-<td><p>+6</p></td>
-<td><p>+11</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>19th</p></td>
-<td><p>+9/+4</p></td>
-<td><p>+6</p></td>
-<td><p>+6</p></td>
-<td><p>+11</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>20th</p></td>
-<td><p>+10/+5</p></td>
-<td><p>+6</p></td>
-<td><p>+6</p></td>
-<td><p>+12</p></td>
-<td></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| **Table: The Adept** |                 |          |          |          |                 |                                       |         |         |         |         |         |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+|                      |                 |          |          |          |                 |                                       |         |         |         |         |         |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| #                    |                 |          |          |          | #               | # --------- Spells per Day ---------- |         |         |         |         |         |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+|                      |                 |          |          |          |                 |                                       |         |         |         |         |         |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| **NPC Level**        | ### Base Attack | **Fort** | **Ref**  | **Will** | **Special**     | **0**                                 | **1st** | **2nd** | **3rd** | **4th** | **5th** |
+|                      |                 |          |          |          |                 |                                       |         |         |         |         |         |
+|                      | **Bonus**       | **Save** | **Save** | **Save** |                 |                                       |         |         |         |         |         |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+|                      |                 |          |          |          |                 |                                       |         |         |         |         |         |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 1st                  | +0              | +0       | +0       | +2       |                 | 3                                     | 1       | ---     | ---     | ---     | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 2nd                  | +1              | +0       | +0       | +3       | Summon familiar | 3                                     | 1       | ---     | ---     | ---     | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 3rd                  | +1              | +1       | +1       | +3       |                 | 3                                     | 2       | ---     | ---     | ---     | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 4th                  | +2              | +1       | +1       | +4       |                 | 3                                     | 2       | 0       | ---     | ---     | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 5th                  | +2              | +1       | +1       | +4       |                 | 3                                     | 2       | 1       | ---     | ---     | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 6th                  | +3              | +2       | +2       | +5       |                 | 3                                     | 2       | 1       | ---     | ---     | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 7th                  | +3              | +2       | +2       | +5       |                 | 3                                     | 3       | 2       | ---     | ---     | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 8th                  | +4              | +2       | +2       | +6       |                 | 3                                     | 3       | 2       | 0       | ---     | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 9th                  | +4              | +3       | +3       | +6       |                 | 3                                     | 3       | 2       | 1       | ---     | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 10th                 | +5              | +3       | +3       | +7       |                 | 3                                     | 3       | 2       | 1       | ---     | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 11th                 | +5              | +3       | +3       | +7       |                 | 3                                     | 3       | 3       | 2       | ---     | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 12th                 | +6/+1           | +4       | +4       | +8       |                 | 3                                     | 3       | 3       | 2       | 0       | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 13th                 | +6/+1           | +4       | +4       | +8       |                 | 3                                     | 3       | 3       | 2       | 1       | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 14th                 | +7/+2           | +4       | +4       | +9       |                 | 3                                     | 3       | 3       | 2       | 1       | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 15th                 | +7/+2           | +5       | +5       | +9       |                 | 3                                     | 3       | 3       | 3       | 2       | ---     |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 16th                 | +8/+3           | +5       | +5       | +10      |                 | 3                                     | 3       | 3       | 3       | 2       | 0       |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 17th                 | +8/+3           | +5       | +5       | +10      |                 | 3                                     | 3       | 3       | 3       | 2       | 1       |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 18th                 | +9/+4           | +6       | +6       | +11      |                 | 3                                     | 3       | 3       | 3       | 2       | 1       |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 19th                 | +9/+4           | +6       | +6       | +11      |                 | 3                                     | 3       | 3       | 3       | 3       | 2       |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+|                      |                 |          |          |          |                 |                                       |         |         |         |         |         |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+| 20th                 | +10/+5          | +6       | +6       | +12      |                 | 3                                     | 3       | 3       | 3       | 3       | 2       |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
+|                      |                 |          |          |          |                 |                                       |         |         |         |         |         |
++----------------------+-----------------+----------+----------+----------+-----------------+---------------------------------------+---------+---------+---------+---------+---------+
 
 # Class Features
 
 All of the following are class features of the adept NPC class.
 
-**Weapon and Armor Proficiency:** Adepts are skilled with all simple
-weapons. Adepts are not proficient with any type of armor nor with
-shields.
+**Weapon and Armor Proficiency:** Adepts are skilled with all simple weapons. Adepts are not proficient with any type of armor nor with shields.
 
-**Spells:** An adept casts divine spells which are drawn from the adept
-spell list (see below). Like a cleric, an adept must choose and prepare
-her spells in advance. Unlike a cleric, an adept cannot spontaneously
-cast *cure *or *inflict *spells.
+**Spells:** An adept casts divine spells which are drawn from the adept spell list (see below). Like a cleric, an adept must choose and prepare her spells in advance. Unlike a cleric, an adept cannot spontaneously cast *cure *or *inflict *spells.
 
-To prepare or cast a spell, an adept must have a Wisdom score equal to
-at least 10 + the spell level. The Difficulty Class for a saving throw
-against an adept's spell is 10 + the spell level + the adept's Wisdom
-modifier.
+To prepare or cast a spell, an adept must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an adept's spell is 10 + the spell level + the adept's Wisdom modifier.
 
-Adepts, unlike wizards, do not acquire their spells from books or
-scrolls, nor do they prepare them through study. Instead, they meditate
-or pray for their spells, receiving them as divine inspiration or
-through their own strength of faith. Each adept must choose a time each
-day at which she must spend an hour in quiet contemplation or
-supplication to regain her daily allotment of spells. Time spent resting
-has no effect on whether an adept can prepare spells.
+Adepts, unlike wizards, do not acquire their spells from books or scrolls, nor do they prepare them through study. Instead, they meditate or pray for their spells, receiving them as divine inspiration or through their own strength of faith. Each adept must choose a time each day at which she must spend an hour in quiet contemplation or supplication to regain her daily allotment of spells. Time spent resting has no effect on whether an adept can prepare spells.
 
-Like other spellcasters, an adept can cast only a certain number of
-spells of each spell level per day. Her base daily spell allotment is
-given on Table: The Adept. In addition, she receives bonus spells per
-day if she has a high Wisdom score.
+Like other spellcasters, an adept can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table: The Adept. In addition, she receives bonus spells per day if she has a high Wisdom score.
 
-When Table: The Adept indicates that the adept gets 0 spells per day of
-a given spell level, she gains only the bonus spells she would be
-entitled to based on her Wisdom score for that spell level.
+When Table: The Adept indicates that the adept gets 0 spells per day of a given spell level, she gains only the bonus spells she would be entitled to based on her Wisdom score for that spell level.
 
-Each adept has a particular holy symbol (as a divine focus) depending on
-the adept's magical tradition.
+Each adept has a particular holy symbol (as a divine focus) depending on the adept's magical tradition.
 
-**Summon Familiar:** At 2nd level, an adept can call a familiar, just as
-a sorcerer or wizard can.
+**Summon Familiar:** At 2nd level, an adept can call a familiar, just as a sorcerer or wizard can.
 
 **Adept Spell List**
 
 Adepts choose their spells from the following list.
 
-0 Level: *create water, cure minor wounds, detect magic, ghost sound,
-guidance, light, mending, purify food and drink, read magic, touch of
-fatigue.*
+0 Level: *create water, cure minor wounds, detect magic, ghost sound, guidance, light, mending, purify food and drink, read magic, touch of fatigue.*
 
-1st Level: *bless, burning hands, cause fear, command, comprehend
-languages, cure light wounds, detect chaos, detect evil, detect good,
-detect law, endure elements, obscuring mist, protection from chaos,
-protection from evil, protection from good, protection from law, sleep.*
+1st Level: *bless, burning hands, cause fear, command, comprehend languages, cure light wounds, detect chaos, detect evil, detect good, detect law, endure elements, obscuring mist, protection from chaos, protection from evil, protection from good, protection from law, sleep.*
 
-2nd Level: *aid, animal trance, bear's endurance, bull's strength, cat's
-grace, cure moderate wounds, darkness, delay poison, invisibility,
-mirror image, resist energy, scorching ray, see invisibility, web.*
+2nd Level: *aid, animal trance, bear's endurance, bull's strength, cat's grace, cure moderate wounds, darkness, delay poison, invisibility, mirror image, resist energy, scorching ray, see invisibility, web.*
 
-3rd Level: *animate dead, bestow curse, contagion, continual flame, cure
-serious wounds, daylight, deeper darkness, lightning bolt, neutralize
-poison, remove curse, remove disease, tongues.*
+3rd Level: *animate dead, bestow curse, contagion, continual flame, cure serious wounds, daylight, deeper darkness, lightning bolt, neutralize poison, remove curse, remove disease, tongues.*
 
-4th Level: *cure critical wounds, minor creation, polymorph,
-restoration, stoneskin, wall of fire.*
+4th Level: *cure critical wounds, minor creation, polymorph, restoration, stoneskin, wall of fire.*
 
-5th Level: *baleful polymorph, break enchantment, commune, heal, major
-creation, raise dead, true seeing, wall of stone.*
+5th Level: *baleful polymorph, break enchantment, commune, heal, major creation, raise dead, true seeing, wall of stone.*
 
 ARISTOCRAT
 
@@ -493,12 +116,7 @@ ARISTOCRAT
 
 ## Class Skills
 
-The aristocrat's class skills (and the key ability for each skill) are
-Appraise (Int), Bluff (Cha), Diplomacy (Cha), Disguise (Cha), Forgery
-(Int), Gather Information (Cha), Handle Animal (Cha), Intimidate (Cha),
-Knowledge (all skills taken individually) (Int), Listen (Wis), Perform
-(Cha), Ride (Dex), Sense Motive (Wis), Speak Language, Spot (Wis), Swim
-(Str), and Survival (Wis).
+The aristocrat's class skills (and the key ability for each skill) are Appraise (Int), Bluff (Cha), Diplomacy (Cha), Disguise (Cha), Forgery (Int), Gather Information (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge (all skills taken individually) (Int), Listen (Wis), Perform (Cha), Ride (Dex), Sense Motive (Wis), Speak Language, Spot (Wis), Swim (Str), and Survival (Wis).
 
 **Skill Points at 1st Level:** (4 + Int modifier) x4.
 
@@ -564,9 +182,7 @@ Knowledge (all skills taken individually) (Int), Listen (Wis), Perform
 
 The following is a class feature of the aristocrat NPC class.
 
-**Weapon and Armor Proficiency:** The aristocrat is proficient in the
-use of all simple and martial weapons and with all types of armor and
-shields.
+**Weapon and Armor Proficiency:** The aristocrat is proficient in the use of all simple and martial weapons and with all types of armor and shields.
 
 COMMONER
 
@@ -574,10 +190,7 @@ COMMONER
 
 # Class Skills
 
-The commoner's class skills (and the key ability for each skill) are
-Climb (Str), Craft (Int), Handle Animal (Cha), Jump (Str), Listen (Wis),
-Profession (Wis), Ride (Dex), Spot (Wis), Swim (Str), and Use Rope
-(Dex).
+The commoner's class skills (and the key ability for each skill) are Climb (Str), Craft (Int), Handle Animal (Cha), Jump (Str), Listen (Wis), Profession (Wis), Ride (Dex), Spot (Wis), Swim (Str), and Use Rope (Dex).
 
 **Skill Points at 1st Level:** (2 + Int modifier) x 4.
 
@@ -643,9 +256,7 @@ Profession (Wis), Ride (Dex), Spot (Wis), Swim (Str), and Use Rope
 
 The following is a class feature of the commoner NPC class.
 
-**Weapon and Armor Proficiency:** The commoner is proficient with one
-simple weapon. He is not proficient with any other weapons, nor is he
-proficient with any type of armor or shields.
+**Weapon and Armor Proficiency:** The commoner is proficient with one simple weapon. He is not proficient with any other weapons, nor is he proficient with any type of armor or shields.
 
 EXPERT
 
@@ -719,8 +330,7 @@ The expert can choose any ten skills to be class skills.
 
 The following is a class feature of the expert NPC class.
 
-**Weapon and Armor Proficiency:** The expert is proficient in the use of
-all simple weapons and with light armor but not shields.
+**Weapon and Armor Proficiency:** The expert is proficient in the use of all simple weapons and with light armor but not shields.
 
 WARRIOR
 
@@ -728,9 +338,7 @@ WARRIOR
 
 # Class Skills
 
-The warrior's class skills (and the key ability for each skill) are
-Climb (Str), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Ride
-(Dex), and Swim (Str).
+The warrior's class skills (and the key ability for each skill) are Climb (Str), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Ride (Dex), and Swim (Str).
 
 **Skill Points at 1st Level: **(2 + Int modifier) x 4.
 
@@ -796,5 +404,4 @@ Climb (Str), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Ride
 
 The following is a class feature of the warrior NPC class.
 
-**Weapon and Armor Proficiency:** The warrior is proficient in the use
-of all simple and martial weapons and all armor and shields.
+**Weapon and Armor Proficiency:** The warrior is proficient in the use of all simple and martial weapons and all armor and shields.

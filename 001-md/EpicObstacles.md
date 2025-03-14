@@ -1,96 +1,58 @@
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ### EPIC OBSTACLES
 
 ## Walls
 
-In addition to the standard types of wall*, *walls in dungeons can be
-made of mithral, adamantine, or even pure force.
+In addition to the standard types of wall*, *walls in dungeons can be made of mithral, adamantine, or even pure force.
 
-+----------+----------+----------+----------+----------+----------+
-| **Wall   | *        | **Break  | **Ha     | **Hit    | **Climb  |
-| Type**   | *Typical | DC**     | rdness** | Po       | DC**     |
-|          | Thi      |          |          | ints\*** |          |
-|          | ckness** |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-|          |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| Paper    | Pa       | 1        | ---      | 1hp      | 30       |
-|          | per-thin |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| Wood     | 6in.     | 20       | 5        | 60hp     | 21       |
-+----------+----------+----------+----------+----------+----------+
-| Masonry  | 1ft.     | 35       | 8        | 90hp     | 15       |
-+----------+----------+----------+----------+----------+----------+
-| Masonry, | 1ft.     | 35       | 8        | 90hp     | 20       |
-| superior |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| Masonry, | 1ft.     | 45       | 8        | 180hp    | 15       |
-| re       |          |          |          |          |          |
-| inforced |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| Stone,   | 3ft.     | 50       | 8        | 540hp    | 22       |
-| hewn     |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| Stone,   | 5ft.     | 65       | 8        | 900hp    | 20       |
-| unworked |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| Iron     | 3in.     | 30       | 10       | 90hp     | 25       |
-+----------+----------+----------+----------+----------+----------+
-| Mithral  | 3in.     | 46       | 15       | 90hp     | 70       |
-+----------+----------+----------+----------+----------+----------+
-| Ad       | 3in.     | 66       | 20       | 120hp    | 70       |
-| amantine |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| M        | ---      | 20       | x2       | x2†      | ---      |
-| agically |          |          |          |          |          |
-| tre      |          |          |          |          |          |
-| ated\*\* |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| # Wall   | 1in.     | n/a      | n/a      | n/a      | 70       |
-| of force |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| *Wall of | 1in./lvl | 15+1/in. | 0        | 3hp/in.  | 25       |
-| ice*     |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| *Wall of | 1i       | 25+2/in. | 10       | 30hp/in. | 25       |
-| iron*    | n./4lvls |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| *Wall of | 1i       | 20+2/in. | 8        | 15hp/in. | 22       |
-| stone*   | n./4lvls |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| \*Per    |          |          |          |          |          |
-| 10-ft.-b |          |          |          |          |          |
-| y-10-ft. |          |          |          |          |          |
-| section. |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-|          |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| \        |          |          |          |          |          |
-| *\*These |          |          |          |          |          |
-| m        |          |          |          |          |          |
-| odifiers |          |          |          |          |          |
-| can be   |          |          |          |          |          |
-| applied  |          |          |          |          |          |
-| to any   |          |          |          |          |          |
-| of the   |          |          |          |          |          |
-| other    |          |          |          |          |          |
-| ca       |          |          |          |          |          |
-| tegories |          |          |          |          |          |
-| and      |          |          |          |          |          |
-| types.   |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-|          |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| †Or 50,  |          |          |          |          |          |
-| w        |          |          |          |          |          |
-| hichever |          |          |          |          |          |
-| is       |          |          |          |          |          |
-| greater. |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-|          |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| **Wall Type**                                                                | **Typical Thickness** | **Break DC** | **Hardness** | **Hit Points\*** | **Climb DC** |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+|                                                                              |                       |              |              |                  |              |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| Paper                                                                        | Paper-thin            | 1            | ---          | 1hp              | 30           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| Wood                                                                         | 6in.                  | 20           | 5            | 60hp             | 21           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| Masonry                                                                      | 1ft.                  | 35           | 8            | 90hp             | 15           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| Masonry, superior                                                            | 1ft.                  | 35           | 8            | 90hp             | 20           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| Masonry, reinforced                                                          | 1ft.                  | 45           | 8            | 180hp            | 15           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| Stone, hewn                                                                  | 3ft.                  | 50           | 8            | 540hp            | 22           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| Stone, unworked                                                              | 5ft.                  | 65           | 8            | 900hp            | 20           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| Iron                                                                         | 3in.                  | 30           | 10           | 90hp             | 25           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| Mithral                                                                      | 3in.                  | 46           | 15           | 90hp             | 70           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| Adamantine                                                                   | 3in.                  | 66           | 20           | 120hp            | 70           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| Magically treated\*\*                                                        | ---                   | 20           | x2           | x2†              | ---          |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| # Wall of force                                                              | 1in.                  | n/a          | n/a          | n/a              | 70           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| *Wall of ice*                                                                | 1in./lvl              | 15+1/in.     | 0            | 3hp/in.          | 25           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| *Wall of iron*                                                               | 1in./4lvls            | 25+2/in.     | 10           | 30hp/in.         | 25           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| *Wall of stone*                                                              | 1in./4lvls            | 20+2/in.     | 8            | 15hp/in.         | 22           |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| \*Per 10-ft.-by-10-ft. section.                                              |                       |              |              |                  |              |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+|                                                                              |                       |              |              |                  |              |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| \*\*These modifiers can be applied to any of the other categories and types. |                       |              |              |                  |              |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+|                                                                              |                       |              |              |                  |              |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+| †Or 50, whichever is greater.                                                |                       |              |              |                  |              |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
+|                                                                              |                       |              |              |                  |              |
++------------------------------------------------------------------------------+-----------------------+--------------+--------------+------------------+--------------+
 
 # Doors
 
@@ -118,98 +80,55 @@ made of mithral, adamantine, or even pure force.
 
 # Obstacles and Hazards
 
-+------------------------------+--------------------------------------+
-| **Obstacle/Hazard**          | **Effect **                          |
-+------------------------------+--------------------------------------+
-|                              |                                      |
-+------------------------------+--------------------------------------+
-| Acid tank                    | 1d6 damage per round, or 10d6 per    |
-|                              | round for total immersion; plus      |
-|                              | poison fumes.                        |
-+------------------------------+--------------------------------------+
-| # Antimagic field            | Negates all spells or magical        |
-|                              | effects.                             |
-+------------------------------+--------------------------------------+
-| *Dimensional anchor* trap    | Blocks bodily extradimensional       |
-|                              | travel.                              |
-+------------------------------+--------------------------------------+
-| Hurricane-force winds        | Ranged attacks impossible, flight    |
-|                              | virtually impossible.                |
-+------------------------------+--------------------------------------+
-| Lava pit                     | 2d6 damage per round, or 20d6 per    |
-|                              | round for total immersion; plus      |
-|                              | continuing damage.                   |
-+------------------------------+--------------------------------------+
-| Permanent *prismatic sphere* | Requires seven different spells to   |
-|                              | bypass.                              |
-+------------------------------+--------------------------------------+
-| Permanent *solid fog*        | Move at one-tenth normal speed, --2  |
-|                              | penalty on attack and damage (good   |
-|                              | when coupled with incorporeal        |
-|                              | monsters).                           |
-+------------------------------+--------------------------------------+
-| Permanent *wall of force*    | Blocks most spells and ethereal      |
-|                              | travel, can't be *dispelled*.        |
-+------------------------------+--------------------------------------+
-| Three-dimensional dungeons   | Levitation/flying required to move   |
-|                              | between areas.                       |
-+------------------------------+--------------------------------------+
-| Unconnected rooms            | Teleportation required to move       |
-|                              | between areas.                       |
-+------------------------------+--------------------------------------+
-|                              |                                      |
-+------------------------------+--------------------------------------+
-| Variable gravity             | As *reverse gravity*, but direction  |
-|                              | random each round.                   |
-+------------------------------+--------------------------------------+
-|                              |                                      |
-+------------------------------+--------------------------------------+
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Obstacle/Hazard**          | **Effect **                                                                                                     |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+|                              |                                                                                                                 |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Acid tank                    | 1d6 damage per round, or 10d6 per round for total immersion; plus poison fumes.                                 |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| # Antimagic field            | Negates all spells or magical effects.                                                                          |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| *Dimensional anchor* trap    | Blocks bodily extradimensional travel.                                                                          |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Hurricane-force winds        | Ranged attacks impossible, flight virtually impossible.                                                         |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Lava pit                     | 2d6 damage per round, or 20d6 per round for total immersion; plus continuing damage.                            |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Permanent *prismatic sphere* | Requires seven different spells to bypass.                                                                      |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Permanent *solid fog*        | Move at one-tenth normal speed, --2 penalty on attack and damage (good when coupled with incorporeal monsters). |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Permanent *wall of force*    | Blocks most spells and ethereal travel, can't be *dispelled*.                                                   |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Three-dimensional dungeons   | Levitation/flying required to move between areas.                                                               |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Unconnected rooms            | Teleportation required to move between areas.                                                                   |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+|                              |                                                                                                                 |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Variable gravity             | As *reverse gravity*, but direction random each round.                                                          |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
+|                              |                                                                                                                 |
++------------------------------+-----------------------------------------------------------------------------------------------------------------+
 
 # Slimes, Molds, and Fungi
 
-For purposes of spells and other special effects, all slimes, molds, and
-fungi are treated as plants. Like traps, dangerous slimes and molds have
-Challenge Ratings, and characters earn experience points for
-encountering them.
+For purposes of spells and other special effects, all slimes, molds, and fungi are treated as plants. Like traps, dangerous slimes and molds have Challenge Ratings, and characters earn experience points for encountering them.
 
 **Flux Slime (CR 21):**
 
-Flux slime appears as a clear, viscous liquid that seeps from some
-unseen origin point. This origin point is extradimensional, so the slime
-may even appear in midair. As the slime flows, it settles and fills the
-area around the origin point.
+Flux slime appears as a clear, viscous liquid that seeps from some unseen origin point. This origin point is extradimensional, so the slime may even appear in midair. As the slime flows, it settles and fills the area around the origin point.
 
-Flux slime seems to be an inert substance, devoid of sentience. It is
-not caustic or toxic, but it radiates an *antimagic field *within a
-radius of 10 feet. This *antimagic field* has a caster level of 21. Any
-quantity of slime that is removed from the main mass yellows and hardens
-in a matter of minutes, turning into a flaky material that will not
-adhere to anything.
+Flux slime seems to be an inert substance, devoid of sentience. It is not caustic or toxic, but it radiates an *antimagic field *within a radius of 10 feet. This *antimagic field* has a caster level of 21. Any quantity of slime that is removed from the main mass yellows and hardens in a matter of minutes, turning into a flaky material that will not adhere to anything.
 
-In reality, flux slime is a growth with a ravenous appetite for magical
-forces. It is a natural draining phenomenon: Magical energy drains
-through the origin point in one direction in exchange for the residue on
-the far side. The *antimagic field *a flux slime generates is actually
-the byproduct of the consumption of magical energy.
+In reality, flux slime is a growth with a ravenous appetite for magical forces. It is a natural draining phenomenon: Magical energy drains through the origin point in one direction in exchange for the residue on the far side. The *antimagic field *a flux slime generates is actually the byproduct of the consumption of magical energy.
 
-In addition to the *antimagic fiel*d's effects, magic items that come
-into contact with flux slime permanently lose their magical abilities;
-creatures with spell-like or super-natural abilities that come into
-contact with it take 2d6 points of temporary Constitution damage per
-round while it devours flesh; creatures without such abilities are
-immune to this effect.
+In addition to the *antimagic fiel*d's effects, magic items that come into contact with flux slime permanently lose their magical abilities; creatures with spell-like or super-natural abilities that come into contact with it take 2d6 points of temporary Constitution damage per round while it devours flesh; creatures without such abilities are immune to this effect.
 
-On the first round of contact, the slime can be scraped off a creature,
-but after that it must be frozen, burned, or cut away (dealing damage to
-the victim as well). Extreme cold, heat, or sunlight destroys a patch of
-flux slime.
+On the first round of contact, the slime can be scraped off a creature, but after that it must be frozen, burned, or cut away (dealing damage to the victim as well). Extreme cold, heat, or sunlight destroys a patch of flux slime.
 
-When destroyed, a patch of slime releases the byproducts of its magical
-digestion in a dangerous burst that radiates out 50 feet. All creatures
-caught in this burst are subject to some random and permanent
-transmutation effect, as generated on the table below. Each burst
-generates one of these effects. Creatures may resist this effect with a
-Fortitude saving throw (DC 29).
+When destroyed, a patch of slime releases the byproducts of its magical digestion in a dangerous burst that radiates out 50 feet. All creatures caught in this burst are subject to some random and permanent transmutation effect, as generated on the table below. Each burst generates one of these effects. Creatures may resist this effect with a Fortitude saving throw (DC 29).
 
   -------- --------------------------------------------------------------------------------------------------------------------------
   **d%**   **Result **

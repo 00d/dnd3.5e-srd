@@ -1,5 +1,4 @@
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 SPELL LIST II
 
@@ -49,8 +48,7 @@ DRUID SPELLS
 
 **Entangle:** Plants entangle everyone in 40-ft.-radius.
 
-**Faerie Fire:** Outlines subjects with light, canceling *blur*,
-concealment, and the like.
+**Faerie Fire:** Outlines subjects with light, canceling *blur*, concealment, and the like.
 
 **Goodberry:** 2d4 berries each cure 1 hp (max 8 hp/24 hours).
 
@@ -60,11 +58,9 @@ concealment, and the like.
 
 **Longstrider:** Your speed increases by 10 ft.
 
-**Magic Fang:** One natural weapon of subject creature gets +1 on attack
-and damage rolls.
+**Magic Fang:** One natural weapon of subject creature gets +1 on attack and damage rolls.
 
-**Magic Stone:** Three stones gain +1 on attack rolls, deal 1d6+1
-damage.
+**Magic Stone:** Three stones gain +1 on attack rolls, deal 1d6+1 damage.
 
 **Obscuring Mist:** Fog surrounds you.
 
@@ -72,8 +68,7 @@ damage.
 
 **Produce Flame:** 1d6 damage +1/level, touch or thrown.
 
-**Shillelagh:** Cudgel or quarterstaff becomes +1 weapon (1d10 damage)
-for 1 min./level.
+**Shillelagh:** Cudgel or quarterstaff becomes +1 weapon (1d10 damage) for 1 min./level.
 
 **Speak with Animals:** You can communicate with animals.
 
@@ -101,8 +96,7 @@ for 1 min./level.
 
 **Flame Blade:** Touch attack deals 1d8 +1/two levels damage.
 
-**Flaming Sphere:** Creates rolling ball of fire, 2d6 damage, lasts 1
-round/level.
+**Flaming Sphere:** Creates rolling ball of fire, 2d6 damage, lasts 1 round/level.
 
 **Fog Cloud:** Fog obscures vision.
 
@@ -116,11 +110,9 @@ round/level.
 
 **Reduce Animal:** Shrinks one willing animal.
 
-**Resist Energy:** Ignores 10 (or more) points of damage/attack from
-specified energy type.
+**Resist Energy:** Ignores 10 (or more) points of damage/attack from specified energy type.
 
-**Restoration, Lesser:** Dispels magical ability penalty or repairs 1d4
-ability damage.
+**Restoration, Lesser:** Dispels magical ability penalty or repairs 1d4 ability damage.
 
 **Soften Earth and Stone:** Turns stone to clay or dirt to sand or mud.
 
@@ -150,20 +142,17 @@ ability damage.
 
 **Dominate Animal:** Subject animal obeys silent mental commands.
 
-**Magic Fang, Greater:** One natural weapon of subject creature gets
-+1/four levels on attack and damage rolls (max +5).
+**Magic Fang, Greater:** One natural weapon of subject creature gets +1/four levels on attack and damage rolls (max +5).
 
 **Meld into Stone:** You and your gear merge with stone.
 
-**Neutralize Poison:** Immunizes subject against poison, detoxifies
-venom in or on subject.
+**Neutralize Poison:** Immunizes subject against poison, detoxifies venom in or on subject.
 
 **Plant Growth:** Grows vegetation, improves crops.
 
 **Poison:** Touch deals 1d10 Con damage, repeats in 1 min.
 
-**Protection from Energy:** Absorb 12 points/level of damage from one
-kind of energy.
+**Protection from Energy:** Absorb 12 points/level of damage from one kind of energy.
 
 **Quench:** Extinguishes nonmagical fires or one magic item.
 
@@ -173,8 +162,7 @@ kind of energy.
 
 **Snare:** Creates a magic booby trap.
 
-**Speak with Plants:** You can talk to normal plants and plant
-creatures.
+**Speak with Plants:** You can talk to normal plants and plant creatures.
 
 **Spike Growth:** Creatures in area take 1d4 damage, may be *slowed.*
 
@@ -188,13 +176,11 @@ creatures.
 
 4TH-LEVEL DRUID SPELLS
 
-**Air Walk:** Subject treads on air as if solid (climb at 45-degree
-angle).
+**Air Walk:** Subject treads on air as if solid (climb at 45-degree angle).
 
 **Antiplant Shell:** Keeps animated plants at bay.
 
-**Blight:** Withers one plant or deals 1d6/level damage to plant
-creature.
+**Blight:** Withers one plant or deals 1d6/level damage to plant creature.
 
 **Command Plants:** Sway the actions of one or more plant creatures.
 
@@ -208,8 +194,7 @@ creature.
 
 **Freedom of Movement:** Subject moves normally despite impediments.
 
-**Giant Vermin:** Turns centipedes, scorpions, or spiders into giant
-vermin.
+**Giant Vermin:** Turns centipedes, scorpions, or spiders into giant vermin.
 
 **Ice Storm:** Hail deals 5d6 damage in cylinder 40 ft. across.
 
@@ -243,8 +228,7 @@ vermin.
 
 **Cure Critical Wounds:** Cures 4d8 damage +1/level (max +20).
 
-**Death Ward:** Grants immunity to all death spells and negative energy
-effects.
+**Death Ward:** Grants immunity to all death spells and negative energy effects.
 
 **Hallow ^M^:** Designates location as holy.
 
@@ -262,8 +246,7 @@ effects.
 
 **Unhallow ^M^:** Designates location as unholy.
 
-**Wall of Fire:** Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20
-ft. Passing through wall deals 2d6 damage +1/level.
+**Wall of Fire:** Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 
 **Wall of Thorns:** Thorns damage anyone who tries to pass.
 
@@ -271,16 +254,13 @@ ft. Passing through wall deals 2d6 damage +1/level.
 
 **Antilife Shell:** 10-ft.-radius field hedges out living creatures.
 
-**Bear's Endurance, Mass:** As *bear's endurance*, affects one subject/
-level.
+**Bear's Endurance, Mass:** As *bear's endurance*, affects one subject/ level.
 
-**Bull's Strength, Mass:** As *bull's strength*, affects one
-subject/level.
+**Bull's Strength, Mass:** As *bull's strength*, affects one subject/level.
 
 **Cat's Grace, Mass:** As *cat's grace*, affects one subject/level.
 
-**Cure Light Wounds, Mass:** Cures 1d8 damage +1/level for many
-creatures.
+**Cure Light Wounds, Mass:** Cures 1d8 damage +1/level for many creatures.
 
 **Dispel Magic, Greater:** As *dispel magic, *but +20 on check.
 
@@ -304,8 +284,7 @@ creatures.
 
 **Summon Nature's Ally VI:** Calls creature to fight.
 
-**Transport via Plants:** Move instantly from one plant to another of
-the same kind.
+**Transport via Plants:** Move instantly from one plant to another of the same kind.
 
 **Wall of Stone:** Creates a stone wall that can be shaped.
 
@@ -319,13 +298,11 @@ the same kind.
 
 **Creeping Doom:** Swarms of centipedes attack at your command.
 
-**Cure Moderate Wounds, Mass:** Cures 2d8 damage +1/level for many
-creatures.
+**Cure Moderate Wounds, Mass:** Cures 2d8 damage +1/level for many creatures.
 
 **Fire Storm:** Deals 1d6/level fire damage.
 
-**Heal:** Cures 10 points/level of damage, all diseases and mental
-conditions.
+**Heal:** Cures 10 points/level of damage, all diseases and mental conditions.
 
 **Scrying, Greater:** As *scrying*, but faster and longer.
 
@@ -345,8 +322,7 @@ conditions.
 
 **Control Plants:** Control actions of one or more plant creatures.
 
-**Cure Serious Wounds, Mass:** Cures 3d8 damage +1/level for many
-creatures.
+**Cure Serious Wounds, Mass:** Cures 3d8 damage +1/level for many creatures.
 
 **Earthquake:** Intense tremor shakes 80-ft.-radius.
 
@@ -366,23 +342,19 @@ creatures.
 
 9TH-LEVEL DRUID SPELLS
 
-**Antipathy:** Object or location affected by spell repels certain
-creatures.
+**Antipathy:** Object or location affected by spell repels certain creatures.
 
-**Cure Critical Wounds, Mass:** Cures 4d8 damage +1/level for many
-creatures.
+**Cure Critical Wounds, Mass:** Cures 4d8 damage +1/level for many creatures.
 
 **Elemental Swarm:** Summons multiple elementals.
 
 **Foresight:** "Sixth sense" warns of impending danger.
 
-**Regenerate:** Subject's severed limbs grow back, cures 4d8 damage
-+1/level (max +35).
+**Regenerate:** Subject's severed limbs grow back, cures 4d8 damage +1/level (max +35).
 
 **Shambler:** Summons 1d4+2 shambling mounds to fight for you.
 
-**Shapechange ^F^:** Transforms you into any creature, and change forms
-once per round.
+**Shapechange ^F^:** Transforms you into any creature, and change forms once per round.
 
 **Storm of Vengeance:** Storm rains acid, lightning, and hail.
 
@@ -408,22 +380,19 @@ PALADIN SPELLS
 
 **Detect Undead:** Reveals undead within 60 ft.
 
-**Divine Favor:** You gain +1 per three levels on attack and damage
-rolls.
+**Divine Favor:** You gain +1 per three levels on attack and damage rolls.
 
 **Endure Elements:** Exist comfortably in hot or cold environments.
 
 **Magic Weapon:** Weapon gains +1 bonus.
 
-**Protection from Chaos/Evil:** +2 to AC and saves, counter mind
-control, hedge out elementals and outsiders.
+**Protection from Chaos/Evil:** +2 to AC and saves, counter mind control, hedge out elementals and outsiders.
 
 **Read Magic:** Read scrolls and spellbooks.
 
 **Resistance:** Subject gains +1 on saving throws.
 
-**Restoration, Lesser:** Dispels magical ability penalty or repairs 1d4
-ability damage.
+**Restoration, Lesser:** Dispels magical ability penalty or repairs 1d4 ability damage.
 
 **Virtue:** Subject gains 1 temporary hp.
 
@@ -437,11 +406,9 @@ ability damage.
 
 **Owl's Wisdom:** Subject gains +4 to Wis for 1 min./level.
 
-**Remove Paralysis:** Frees one or more creatures from paralysis or
-*slow *effect.
+**Remove Paralysis:** Frees one or more creatures from paralysis or *slow *effect.
 
-**Resist Energy:** Ignores 10 (or more) points of damage/attack from
-specified energy type.
+**Resist Energy:** Ignores 10 (or more) points of damage/attack from specified energy type.
 
 **Shield Other ^F^:** You take half of subject's damage.
 
@@ -461,11 +428,9 @@ specified energy type.
 
 **Heal Mount:** As *heal *on warhorse or other special mount.
 
-**Magic Circle against Chaos:** As *protection from chaos*, but 10-ft.
-radius and 10 min./level.
+**Magic Circle against Chaos:** As *protection from chaos*, but 10-ft. radius and 10 min./level.
 
-**Magic Circle against Evil:** As *protection from evil*, but 10-ft.
-radius and 10 min./level.
+**Magic Circle against Evil:** As *protection from evil*, but 10-ft. radius and 10 min./level.
 
 **Magic Weapon, Greater:** +1 bonus/four levels (max +5).
 
@@ -477,13 +442,11 @@ radius and 10 min./level.
 
 4TH-LEVEL PALADIN SPELLS
 
-**Break Enchantment:** Frees subjects from enchantments, alterations,
-curses, and petrification.
+**Break Enchantment:** Frees subjects from enchantments, alterations, curses, and petrification.
 
 **Cure Serious Wounds:** Cures 3d8 damage +1/level (max +15).
 
-**Death Ward:** Grants immunity to death spells and negative energy
-effects.
+**Death Ward:** Grants immunity to death spells and negative energy effects.
 
 **Dispel Chaos:** +4 bonus against attacks by chaotic creatures.
 
@@ -491,11 +454,9 @@ effects.
 
 **Holy Sword:** Weapon becomes +5, deals +2d6 damage against evil.
 
-**Mark of Justice:** Designates action that will trigger *curse *on
-subject.
+**Mark of Justice:** Designates action that will trigger *curse *on subject.
 
-**Neutralize Poison:** Immunizes subject against poison, detoxifies
-venom in or on subject.
+**Neutralize Poison:** Immunizes subject against poison, detoxifies venom in or on subject.
 
 **Restoration ^M^:** Restores level and ability score drains.
 
@@ -529,15 +490,13 @@ RANGER SPELLS
 
 **Longstrider:** Increases your speed.
 
-**Magic Fang:** One natural weapon of subject creature gets +1 on attack
-and damage rolls.
+**Magic Fang:** One natural weapon of subject creature gets +1 on attack and damage rolls.
 
 **Pass without Trace:** One subject/level leaves no tracks.
 
 **Read Magic:** Read scrolls and spellbooks.
 
-**Resist Energy:** Ignores 10 (or more) points of damage/attack from
-specified energy type.
+**Resist Energy:** Ignores 10 (or more) points of damage/attack from specified energy type.
 
 **Speak with Animals:** You can communicate with animals.
 
@@ -557,13 +516,11 @@ specified energy type.
 
 **Owl's Wisdom:** Subject gains +4 to Wis for 1 min./level.
 
-**Protection from Energy:** Absorb 12 points/level of damage from one
-kind of energy.
+**Protection from Energy:** Absorb 12 points/level of damage from one kind of energy.
 
 **Snare:** Creates a magic booby trap.
 
-**Speak with Plants:** You can talk to normal plants and plant
-creatures.
+**Speak with Plants:** You can talk to normal plants and plant creatures.
 
 **Spike Growth:** Creatures in area take 1d4 damage, may be *slowed.*
 
@@ -581,11 +538,9 @@ creatures.
 
 **Diminish Plants:** Reduces size or blights growth of normal plants.
 
-**Magic Fang, Greater:** One natural weapon of subject creature gets
-+1/three caster levels on attack and damage rolls (max +5).
+**Magic Fang, Greater:** One natural weapon of subject creature gets +1/three caster levels on attack and damage rolls (max +5).
 
-**Neutralize Poison:** Immunizes subject against poison, detoxifies
-venom in or on subject.
+**Neutralize Poison:** Immunizes subject against poison, detoxifies venom in or on subject.
 
 **Plant Growth:** Grows vegetation, improves crops.
 
@@ -687,8 +642,7 @@ Abjur
 
 **Hold Portal:** Holds door shut.
 
-**Protection from Chaos/Evil/Good/Law:** +2 to AC and saves, counter
-mind control, hedge out elementals and outsiders.
+**Protection from Chaos/Evil/Good/Law:** +2 to AC and saves, counter mind control, hedge out elementals and outsiders.
 
 **Shield:** Invisible disc gives +4 to AC, blocks *magic missiles.*
 
@@ -708,8 +662,7 @@ Conj
 
 Div
 
-**Comprehend Languages:** You understand all spoken and written
-languages.
+**Comprehend Languages:** You understand all spoken and written languages.
 
 **Detect Secret Doors:** Reveals hidden doors within 60 ft.
 
@@ -731,19 +684,15 @@ Evoc
 
 **Burning Hands:** 1d4/level fire damage (max 5d4).
 
-**Floating Disk:** Creates 3-ft.-diameter horizontal disk that holds 100
-lb./level.
+**Floating Disk:** Creates 3-ft.-diameter horizontal disk that holds 100 lb./level.
 
-**Magic Missile:** 1d4+1 damage; +1 missile per two levels above 1st
-(max 5).
+**Magic Missile:** 1d4+1 damage; +1 missile per two levels above 1st (max 5).
 
-**Shocking Grasp:** Touch delivers 1d6/level electricity damage (max
-5d6).
+**Shocking Grasp:** Touch delivers 1d6/level electricity damage (max 5d6).
 
 Illus
 
-**Color Spray:** Knocks unconscious, blinds, and/or stuns weak
-creatures.
+**Color Spray:** Knocks unconscious, blinds, and/or stuns weak creatures.
 
 **Disguise Self:** Changes your appearance.
 
@@ -757,8 +706,7 @@ Necro
 
 **Cause Fear:** One creature of 5 HD or less flees for 1d4 rounds.
 
-**Chill Touch:** One touch/level deals 1d6 damage and possibly 1 Str
-damage.
+**Chill Touch:** One touch/level deals 1d6 damage and possibly 1 Str damage.
 
 **Ray of Enfeeblement:** Ray deals 1d6 +1 per two levels Str damage.
 
@@ -790,13 +738,11 @@ Abjur
 
 **Protection from Arrows:** Subject immune to most ranged attacks.
 
-**Resist Energy:** Ignores first 10 (or more) points of damage/attack
-from specified energy type.
+**Resist Energy:** Ignores first 10 (or more) points of damage/attack from specified energy type.
 
 Conj
 
-**Acid Arrow:** Ranged touch attack; 2d4 damage for 1 round +1
-round/three levels.
+**Acid Arrow:** Ranged touch attack; 2d4 damage for 1 round +1 round/three levels.
 
 **Fog Cloud:** Fog obscures vision.
 
@@ -822,8 +768,7 @@ Ench
 
 **Hideous Laughter:** Subject loses actions for 1 round/level.
 
-**Touch of Idiocy:** Subject takes 1d6 points of Int, Wis, and Cha
-damage.
+**Touch of Idiocy:** Subject takes 1d6 points of Int, Wis, and Cha damage.
 
 Evoc
 
@@ -831,13 +776,11 @@ Evoc
 
 **Darkness:** 20-ft. radius of supernatural shadow.
 
-**Flaming Sphere:** Creates rolling ball of fire, 2d6 damage, lasts 1
-round/level.
+**Flaming Sphere:** Creates rolling ball of fire, 2d6 damage, lasts 1 round/level.
 
 **Gust of Wind:** Blows away or knocks down smaller creatures.
 
-**Scorching Ray:** Ranged touch attack deals 4d6 fire damage, +1
-ray/four levels (max 3).
+**Scorching Ray:** Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3).
 
 **Shatter:** Sonic vibration damages objects or crystalline creatures.
 
@@ -847,15 +790,13 @@ Illus
 
 **Hypnotic Pattern:** Fascinates (2d4 + level) HD of creatures.
 
-**Invisibility:** Subject is invisible for 1 min./level or until it
-attacks.
+**Invisibility:** Subject is invisible for 1 min./level or until it attacks.
 
 **Magic Mouth ^M^:** Speaks once when triggered.
 
 **Minor Image:** As *silent image*, plus some sound.
 
-**Mirror Image:** Creates decoy duplicates of you (1d4 +1 per three
-levels, max 8).
+**Mirror Image:** Creates decoy duplicates of you (1d4 +1 per three levels, max 8).
 
 **Misdirection:** Misleads divinations for one creature or object.
 
@@ -875,8 +816,7 @@ that makes those nearby sickened.
 
 **Scare:** Panics creatures of less than 6 HD.
 
-**Spectral Hand:** Creates disembodied glowing hand to deliver touch
-attacks.
+**Spectral Hand:** Creates disembodied glowing hand to deliver touch attacks.
 
 Trans
 
@@ -902,8 +842,7 @@ Trans
 
 **Pyrotechnics:** Turns fire into blinding light or choking smoke.
 
-**Rope Trick:** As many as eight creatures hide in extradimensional
-space.
+**Rope Trick:** As many as eight creatures hide in extradimensional space.
 
 **Spider Climb:** Grants ability to walk on walls and ceilings.
 
@@ -917,13 +856,11 @@ Abjur
 
 **Explosive Runes:** Deals 6d6 damage when read.
 
-**Magic Circle against Chaos/Evil/Good/Law:** As *protection *spells,
-but 10-ft. radius and 10 min./level.
+**Magic Circle against Chaos/Evil/Good/Law:** As *protection *spells, but 10-ft. radius and 10 min./level.
 
 **Nondetection ^M^:** Hides subject from divination, scrying.
 
-**Protection from Energy:** Absorb 12 points/level of damage from one
-kind of energy.
+**Protection from Energy:** Absorb 12 points/level of damage from one kind of energy.
 
 Conj
 
@@ -941,8 +878,7 @@ Div
 
 **Arcane Sight:** Magical auras become visible to you.
 
-**Clairaudience/Clairvoyance:** Hear or see at a distance for 1
-min./level.
+**Clairaudience/Clairvoyance:** Hear or see at a distance for 1 min./level.
 
 **Tongues:** Speak any language.
 
@@ -978,8 +914,7 @@ Illus
 
 **Invisibility Sphere:** Makes everyone within 10 ft. invisible.
 
-**Major Image:** As *silent image*, plus sound, smell and thermal
-effects.
+**Major Image:** As *silent image*, plus sound, smell and thermal effects.
 
 Necro
 
@@ -989,8 +924,7 @@ Necro
 
 **Ray of Exhaustion:** Ray makes subject exhausted.
 
-**Vampiric Touch:** Touch deals 1d6/two levels damage; caster gains
-damage as hp.
+**Vampiric Touch:** Touch deals 1d6/two levels damage; caster gains damage as hp.
 
 Trans
 
@@ -1002,8 +936,7 @@ Trans
 
 **Gaseous Form:** Subject becomes insubstantial and can fly slowly.
 
-**Haste:** One creature/level moves faster, +1 on attack rolls, AC, and
-Reflex saves.
+**Haste:** One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
 
 **Keen Edge:** Doubles normal weapon's threat range.
 
@@ -1013,8 +946,7 @@ Reflex saves.
 
 **Shrink Item:** Object shrinks to one-sixteenth size.
 
-**Slow:** One subject/level takes only one action/round, --1 to AC,
-reflex saves, and attack rolls.
+**Slow:** One subject/level takes only one action/round, --1 to AC, reflex saves, and attack rolls.
 
 **Water Breathing:** Subjects can breathe underwater.
 
@@ -1026,8 +958,7 @@ Abjur
 
 **Fire Trap ^M^:** Opened object deals 1d4 damage +1/level.
 
-**Globe of Invulnerability, Lesser:** Stops 1st- through 3rd-level spell
-effects.
+**Globe of Invulnerability, Lesser:** Stops 1st- through 3rd-level spell effects.
 
 **Remove Curse:** Frees object or person from curse.
 
@@ -1063,15 +994,13 @@ Ench
 
 **Confusion:** Subjects behave oddly for 1 round/level.
 
-**Crushing Despair:** Subjects take --2 on attack rolls, damage rolls,
-saves, and checks.
+**Crushing Despair:** Subjects take --2 on attack rolls, damage rolls, saves, and checks.
 
 **Geas, Lesser:** Commands subject of 7 HD or less.
 
 Evoc
 
-**Fire Shield:** Creatures attacking you take fire damage; you're
-protected from heat or cold.
+**Fire Shield:** Creatures attacking you take fire damage; you're protected from heat or cold.
 
 **Ice Storm:** Hail deals 5d6 damage in cylinder 40 ft. across.
 
@@ -1079,37 +1008,29 @@ protected from heat or cold.
 
 **Shout:** Deafens all within cone and deals 5d6 sonic damage.
 
-**Wall of Fire:** Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20
-ft. Passing through wall deals 2d6 damage +1/level.
+**Wall of Fire:** Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 
-**Wall of Ice:** *Ice plane *creates wall with 15 hp +1/level, or
-*hemisphere *can trap creatures inside.
+**Wall of Ice:** *Ice plane *creates wall with 15 hp +1/level, or *hemisphere *can trap creatures inside.
 
 Illus
 
-**Hallucinatory Terrain:** Makes one type of terrain appear like another
-(field into forest, or the like).
+**Hallucinatory Terrain:** Makes one type of terrain appear like another (field into forest, or the like).
 
-**Illusory Wall:** Wall, floor, or ceiling looks real, but anything can
-pass through.
+**Illusory Wall:** Wall, floor, or ceiling looks real, but anything can pass through.
 
-**Invisibility, Greater:** As *invisibility, *but subject can attack and
-stay invisible.
+**Invisibility, Greater:** As *invisibility, *but subject can attack and stay invisible.
 
-**Phantasmal Killer:** Fearsome illusion kills subject or deals 3d6
-damage.
+**Phantasmal Killer:** Fearsome illusion kills subject or deals 3d6 damage.
 
 **Rainbow Pattern:** Lights fascinate 24 HD of creatures.
 
-**Shadow Conjuration:** Mimics conjuration below 4th level, but only 20%
-real.
+**Shadow Conjuration:** Mimics conjuration below 4th level, but only 20% real.
 
 Necro
 
 **Animate Dead ^M^:** Creates undead skeletons and zombies.
 
-**Bestow Curse:** --6 to an ability score; --4 on attack rolls, saves,
-and checks; or 50% chance of losing each action.
+**Bestow Curse:** --6 to an ability score; --4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 
 **Contagion:** Infects subject with chosen disease.
 
@@ -1121,8 +1042,7 @@ Trans
 
 **Enlarge Person, Mass:** Enlarges several creatures.
 
-**Mnemonic Enhancer ^F^:** *Wizard only. *Prepares extra spells or
-retains one just cast.
+**Mnemonic Enhancer ^F^:** *Wizard only. *Prepares extra spells or retains one just cast.
 
 **Polymorph:** Gives one willing subject a new form.
 
@@ -1134,28 +1054,23 @@ retains one just cast.
 
 Abjur
 
-**Break Enchantment:** Frees subjects from enchantments, alterations,
-curses, and petrification.
+**Break Enchantment:** Frees subjects from enchantments, alterations, curses, and petrification.
 
 **Dismissal:** Forces a creature to return to native plane.
 
-**Mage's Private Sanctum:** Prevents anyone from viewing or scrying an
-area for 24 hours.
+**Mage's Private Sanctum:** Prevents anyone from viewing or scrying an area for 24 hours.
 
 Conj
 
-**Cloudkill:** Kills 3 HD or less; 4--6 HD save or die, 6+ HD take Con
-damage.
+**Cloudkill:** Kills 3 HD or less; 4--6 HD save or die, 6+ HD take Con damage.
 
 **Mage's Faithful Hound:** Phantom dog can guard, attack.
 
 **Major Creation:** As *minor creation, *plus stone and metal.
 
-**Planar Binding, Lesser:** Traps extraplanar creature of 6 HD or less
-until it performs a task.
+**Planar Binding, Lesser:** Traps extraplanar creature of 6 HD or less until it performs a task.
 
-**Secret Chest ^F^:** Hides expensive chest on Ethereal Plane; you
-retrieve it at will.
+**Secret Chest ^F^:** Hides expensive chest on Ethereal Plane; you retrieve it at will.
 
 **Summon Monster V:** Calls extraplanar creature to fight for you.
 
@@ -1181,8 +1096,7 @@ Ench
 
 **Mind Fog:** Subjects in fog get --10 to Wis and Will checks.
 
-**Symbol of Sleep ^M^:** Triggered rune puts nearby creatures into
-catatonic slumber.
+**Symbol of Sleep ^M^:** Triggered rune puts nearby creatures into catatonic slumber.
 
 Evoc
 
@@ -1208,18 +1122,15 @@ Illus
 
 **Seeming:** Changes appearance of one person per two levels.
 
-**Shadow Evocation:** Mimics evocation below 5th level, but only 20%
-real.
+**Shadow Evocation:** Mimics evocation below 5th level, but only 20% real.
 
 Necro
 
-**Blight:** Withers one plant or deals 1d6/level damage to plant
-creature.
+**Blight:** Withers one plant or deals 1d6/level damage to plant creature.
 
 **Magic Jar ^F^:** Enables possession of another creature.
 
-**Symbol of Pain ^M^:** Triggered rune wracks nearby creatures with
-pain.
+**Symbol of Pain ^M^:** Triggered rune wracks nearby creatures with pain.
 
 **Waves of Fatigue:** Several targets become fatigued.
 
@@ -1231,13 +1142,11 @@ Trans
 
 **Fabricate:** Transforms raw materials into finished items.
 
-**Overland Flight:** You fly at a speed of 40 ft. and can hustle over
-long distances.
+**Overland Flight:** You fly at a speed of 40 ft. and can hustle over long distances.
 
 **Passwall:** Creates passage through wood or stone wall.
 
-**Telekinesis:** Moves object, attacks creature, or hurls object or
-creature.
+**Telekinesis:** Moves object, attacks creature, or hurls object or creature.
 
 **Transmute Mud to Rock:** Transforms two 10-ft. cubes per level.
 
@@ -1255,8 +1164,7 @@ Abjur
 
 **Dispel Magic, Greater:** As *dispel magic, *but +20 on check.
 
-**Globe of Invulnerability:** As *lesser globe of invulnerability*, plus
-4th-level spell effects.
+**Globe of Invulnerability:** As *lesser globe of invulnerability*, plus 4th-level spell effects.
 
 **Guards and Wards:** Array of magic effects protect area.
 
@@ -1276,8 +1184,7 @@ Div
 
 **Analyze Dweomer ^F^:** Reveals magical aspects of subject.
 
-**Legend Lore ^M^ ^F^:** Lets you learn tales about a person, place, or
-thing.
+**Legend Lore ^M^ ^F^:** Lets you learn tales about a person, place, or thing.
 
 **True Seeing ^M^:** Lets you see all things as they really are.
 
@@ -1285,8 +1192,7 @@ Ench
 
 **Geas/Quest:** As *lesser geas, *plus it affects any creature.
 
-**Heroism, Greater:** Gives +4 bonus on attack rolls, saves, skill
-checks; immunity to fear; temporary hp.
+**Heroism, Greater:** Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
 
 **Suggestion, Mass:** As *suggestion, *plus one subject/level.
 
@@ -1294,8 +1200,7 @@ checks; immunity to fear; temporary hp.
 
 Evoc
 
-**Chain Lightning:** 1d6/level damage; 1 secondary bolt/level each deals
-half damage.
+**Chain Lightning:** 1d6/level damage; 1 secondary bolt/level each deals half damage.
 
 **Contingency ^F^:** Sets trigger condition for another spell.
 
@@ -1329,11 +1234,9 @@ Necro
 
 Trans
 
-**Bear's Endurance, Mass:** As *bear's endurance*, affects one
-subject/level.
+**Bear's Endurance, Mass:** As *bear's endurance*, affects one subject/level.
 
-**Bull's Strength, Mass:** As *bull's strength*, affects one subject/
-level.
+**Bull's Strength, Mass:** As *bull's strength*, affects one subject/ level.
 
 **Cat's Grace, Mass:** As *cat's grace*, affects one subject/level.
 
@@ -1341,15 +1244,13 @@ level.
 
 **Disintegrate:**Makes one creature or object vanish.
 
-**Eagle's Splendor, Mass:** As *eagle's splendor*, affects one
-subject/level.
+**Eagle's Splendor, Mass:** As *eagle's splendor*, affects one subject/level.
 
 **Flesh to Stone:** Turns subject creature into statue.
 
 **Fox's Cunning, Mass:** As *fox's cunning*, affects one subject/ level.
 
-**Mage's Lucubration:** *Wizard only. *Recalls spell of 5th level or
-lower.
+**Mage's Lucubration:** *Wizard only. *Recalls spell of 5th level or lower.
 
 **Move Earth:** Digs trenches and build hills.
 
@@ -1365,8 +1266,7 @@ Abjur
 
 **Banishment:** Banishes 2 HD/level of extraplanar creatures.
 
-**Sequester:** Subject is invisible to sight and scrying; renders
-creature comatose.
+**Sequester:** Subject is invisible to sight and scrying; renders creature comatose.
 
 **Spell Turning:** Reflect 1d4+6 spell levels back at caster.
 
@@ -1374,8 +1274,7 @@ Conj
 
 **Instant Summons ^M^:** Prepared object appears in your hand.
 
-**Mage's Magnificent Mansion ^F^:** Door leads to extradimensional
-mansion.
+**Mage's Magnificent Mansion ^F^:** Door leads to extradimensional mansion.
 
 **Phase Door:** Creates an invisible passage through wood or stone.
 
@@ -1383,15 +1282,13 @@ mansion.
 
 **Summon Monster VII:** Calls extraplanar creature to fight for you.
 
-**Teleport, Greater:** As *teleport, *but no range limit and no
-off-target arrival.
+**Teleport, Greater:** As *teleport, *but no range limit and no off-target arrival.
 
 **Teleport Object:** As *teleport, *but affects a touched object.
 
 Div
 
-**Arcane Sight, Greater:** As *arcane sight*, but also reveals magic
-effects on creatures and objects.
+**Arcane Sight, Greater:** As *arcane sight*, but also reveals magic effects on creatures and objects.
 
 **Scrying, Greater:** As *scrying*, but faster and longer.
 
@@ -1409,8 +1306,7 @@ Ench
 
 Evoc
 
-**Delayed Blast Fireball:** 1d6/level fire damage; you can postpone
-blast for 5 rounds.
+**Delayed Blast Fireball:** 1d6/level fire damage; you can postpone blast for 5 rounds.
 
 **Forcecage ^M^:** Cube or cage of force imprisons all inside.
 
@@ -1426,8 +1322,7 @@ Illus
 
 **Project Image:** Illusory double can talk and cast spells.
 
-**Shadow Conjuration, Greater:** As *shadow conjuration, *but up to 6th
-level and 60% real.
+**Shadow Conjuration, Greater:** As *shadow conjuration, *but up to 6th level and 60% real.
 
 **Simulacrum ^M^ ^X^:** Creates partially real double of a creature.
 
@@ -1459,8 +1354,7 @@ Univ
 
 Abjur
 
-**Dimensional Lock:** Teleportation and interplanar travel blocked for
-one day/level.
+**Dimensional Lock:** Teleportation and interplanar travel blocked for one day/level.
 
 **Mind Blank:** Subject is immune to mental/emotional magic and scrying.
 
@@ -1474,8 +1368,7 @@ Conj
 
 **Maze:** Traps subject in extradimensional maze.
 
-**Planar Binding, Greater:** As *lesser planar binding, *but up to 18
-HD.
+**Planar Binding, Greater:** As *lesser planar binding, *but up to 18 HD.
 
 **Summon Monster VIII:** Calls extraplanar creature to fight for you.
 
@@ -1485,15 +1378,13 @@ Div
 
 **Discern Location:** Reveals exact location of creature or object.
 
-**Moment of Prescience:** You gain insight bonus on single attack roll,
-check, or save.
+**Moment of Prescience:** You gain insight bonus on single attack roll, check, or save.
 
 **Prying Eyes, Greater:** As *prying eyes*, but eyes have *true seeing*.
 
 Ench
 
-**Antipathy:** Object or location affected by spell repels certain
-creatures.
+**Antipathy:** Object or location affected by spell repels certain creatures.
 
 **Binding ^M^:** Utilizes an array of techniques to imprison a creature.
 
@@ -1505,42 +1396,35 @@ creatures.
 
 **Power Word Stun:** Stuns creature with 150 hp or less.
 
-**Symbol of Insanity ^M^:** Triggered rune renders nearby creatures
-insane.
+**Symbol of Insanity ^M^:** Triggered rune renders nearby creatures insane.
 
 **Sympathy ^F^:** Object or location attracts certain creatures.
 
 Evoc
 
-**Clenched Fist:** Large hand provides cover, pushes, or attacks your
-foes.
+**Clenched Fist:** Large hand provides cover, pushes, or attacks your foes.
 
 **Polar Ray:** Ranged touch attack deals 1d6/level cold damage.
 
-**Shout, Greater:** Devastating yell deals 10d6 sonic damage; stuns
-creatures, damages objects.
+**Shout, Greater:** Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects.
 
 **Sunburst:** Blinds all within 10 ft., deals 6d6 damage.
 
 Illus
 
-**Scintillating Pattern:** Twisting colors *confuse, *stun, or render
-unconscious.
+**Scintillating Pattern:** Twisting colors *confuse, *stun, or render unconscious.
 
 **Screen:** Illusion hides area from vision, scrying.
 
-**Shadow Evocation, Greater:** As *shadow evocation, *but up to 7th
-level and 60% real.
+**Shadow Evocation, Greater:** As *shadow evocation, *but up to 7th level and 60% real.
 
-**Telekinetic Sphere:** As* resilient sphere, *but you move sphere
-telekinetically.
+**Telekinetic Sphere:** As* resilient sphere, *but you move sphere telekinetically.
 
 Necro
 
 **Clone ^M^ ^F^:** Duplicate awakens when original dies.
 
-**Create Greater Undead ^M^:** Create shadows, wraiths, spectres, or
-devourers.
+**Create Greater Undead ^M^:** Create shadows, wraiths, spectres, or devourers.
 
 **Horrid Wilting:** Deals 1d6/level damage within 30 ft.
 
@@ -1574,8 +1458,7 @@ Conj
 
 **Summon Monster IX:** Calls extraplanar creature to fight for you.
 
-**Teleportation Circle ^M^:** Circle teleports any creature inside to
-designated spot.
+**Teleportation Circle ^M^:** Circle teleports any creature inside to designated spot.
 
 Div
 
@@ -1591,8 +1474,7 @@ Ench
 
 Evoc
 
-**Crushing Hand:** Large hand provides cover, pushes, or crushes your
-foes.
+**Crushing Hand:** Large hand provides cover, pushes, or crushes your foes.
 
 **Meteor Swarm:** Four exploding spheres each deal 6d6 fire damage.
 
@@ -1604,8 +1486,7 @@ Illus
 
 Necro
 
-**Astral Projection ^M^:** Projects you and companions onto Astral
-Plane.
+**Astral Projection ^M^:** Projects you and companions onto Astral Plane.
 
 **Energy Drain:** Subject gains 2d4 negative levels.
 
@@ -1617,8 +1498,7 @@ Trans
 
 **Etherealness:** Travel to Ethereal Plane with companions.
 
-**Shapechange ^F^:** Transforms you into any creature, and change forms
-once per round.
+**Shapechange ^F^:** Transforms you into any creature, and change forms once per round.
 
 **Time Stop:** You act freely for 1d4+1 rounds.
 

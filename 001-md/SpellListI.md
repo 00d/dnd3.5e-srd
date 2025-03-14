@@ -1,34 +1,18 @@
-This material is Open Game Content, and is licensed for public use under
-the terms of the Open Game License v1.0a.
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 ### SPELL LIST I
 
-An ^M^ or ^F^ appearing at the end of a spell's name in the spell lists
-denotes a spell with a material or focus component, respectively, that
-is not normally included in a spell component pouch. An ^X^ denotes a
-spell with an XP component paid by the caster.
+An ^M^ or ^F^ appearing at the end of a spell's name in the spell lists denotes a spell with a material or focus component, respectively, that is not normally included in a spell component pouch. An ^X^ denotes a spell with an XP component paid by the caster.
 
-**Order of Presentation: **In the spell lists and the spell descriptions
-that follow them, the spells are presented in alphabetical order by name
-except for those belonging to certain spell chains.
+**Order of Presentation: **In the spell lists and the spell descriptions that follow them, the spells are presented in alphabetical order by name except for those belonging to certain spell chains.
 
-When a spell's name begins with "lesser," "greater," or "mass," the
-spell description is alphabetized under the second word of the spell
-name instead.
+When a spell's name begins with "lesser," "greater," or "mass," the spell description is alphabetized under the second word of the spell name instead.
 
-**Hit Dice: **The term "Hit Dice" is used synonymously with "character
-levels" for effects that affect a number of Hit Dice of creatures.
-Creatures with Hit Dice only from their race, not from classes, have
-character levels equal to their Hit Dice.
+**Hit Dice: **The term "Hit Dice" is used synonymously with "character levels" for effects that affect a number of Hit Dice of creatures. Creatures with Hit Dice only from their race, not from classes, have character levels equal to their Hit Dice.
 
-**Caster Level:** A spell's power often depends on caster level, which
-is defined as the caster's class level for the purpose of casting a
-particular spell. A creature with no classes has a caster level equal to
-its Hit Dice unless otherwise specified. The word "level" in the spell
-lists that follow always refers to caster level.
+**Caster Level:** A spell's power often depends on caster level, which is defined as the caster's class level for the purpose of casting a particular spell. A creature with no classes has a caster level equal to its Hit Dice unless otherwise specified. The word "level" in the spell lists that follow always refers to caster level.
 
-**Creatures and Characters: **The words "creature" and "character" are
-used synonymously in the spell descriptions.
+**Creatures and Characters: **The words "creature" and "character" are used synonymously in the spell descriptions.
 
 BARD SPELLS
 
@@ -48,8 +32,7 @@ BARD SPELLS
 
 **Light:** Object shines like a torch.
 
-**Lullaby:** Makes subject drowsy; --5 on Spot and Listen checks, --2 on
-Will saves against *sleep*.
+**Lullaby:** Makes subject drowsy; --5 on Spot and Listen checks, --2 on Will saves against *sleep*.
 
 **Mage Hand:** 5-pound telekinesis.
 
@@ -77,8 +60,7 @@ Will saves against *sleep*.
 
 **Charm Person: **Makes one person your friend.
 
-**Comprehend Languages:** You understand all spoken and written
-languages.
+**Comprehend Languages:** You understand all spoken and written languages.
 
 **Cure Light Wounds:** Cures 1d8 damage +1/level (max +5).
 
@@ -108,8 +90,7 @@ languages.
 
 **Obscure Object: **Masks object against scrying.
 
-**Remove Fear: **Suppresses fear or gives +4 on saves against fear for
-one subject + one per four levels.
+**Remove Fear: **Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 
 **Silent Image:** Creates minor illusion of your design.
 
@@ -163,15 +144,13 @@ one subject + one per four levels.
 
 **Hypnotic Pattern:** Fascinates (2d4 + level) HD of creatures.
 
-**Invisibility:** Subject is invisible for 1 min./level or until it
-attacks.
+**Invisibility:** Subject is invisible for 1 min./level or until it attacks.
 
 **Locate Object:** Senses direction toward object (specific or type).
 
 **Minor Image:** As *silent image*, plus some sound.
 
-**Mirror Image:** Creates decoy duplicates of you (1d4 +1 per three
-levels, max 8).
+**Mirror Image:** Creates decoy duplicates of you (1d4 +1 per three levels, max 8).
 
 **Misdirection: **Misleads divinations for one creature or object.
 
@@ -203,13 +182,11 @@ levels, max 8).
 
 **Charm Monster: **Makes monster believe it is your ally.
 
-**Clairaudience/Clairvoyance:** Hear or see at a distance for 1
-min./level.
+**Clairaudience/Clairvoyance:** Hear or see at a distance for 1 min./level.
 
 **Confusion:** Subjects behave oddly for 1 round/level.
 
-**Crushing Despair:** Subjects take --2 on attack rolls, damage rolls,
-saves, and checks.
+**Crushing Despair:** Subjects take --2 on attack rolls, damage rolls, saves, and checks.
 
 **Cure Serious Wounds:** Cures 3d8 damage +1/level (max +15).
 
@@ -227,21 +204,17 @@ saves, and checks.
 
 **Geas, Lesser:** Commands subject of 7 HD or less.
 
-**Glibness:** You gain +30 bonus on Bluff checks, and your lies can
-escape magical discernment.
+**Glibness:** You gain +30 bonus on Bluff checks, and your lies can escape magical discernment.
 
-**Good Hope:** Subjects gain +2 on attack rolls, damage rolls, saves,
-and checks.
+**Good Hope:** Subjects gain +2 on attack rolls, damage rolls, saves, and checks.
 
-**Haste: **One creature/level moves faster, +1 on attack rolls, AC, and
-Reflex saves.
+**Haste: **One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
 
 **Illusory Script ^M^:** Only intended reader can decipher.
 
 **Invisibility Sphere:**Makes everyone within 10 ft. invisible.
 
-**Major Image:** As *silent image*, plus sound, smell and thermal
-effects.
+**Major Image:** As *silent image*, plus sound, smell and thermal effects.
 
 **Phantom Steed: **Magic horse appears for 1 hour/level.
 
@@ -257,8 +230,7 @@ effects.
 
 **Sepia Snake Sigil ^M^:** Creates text symbol that immobilizes reader.
 
-**Slow:** One subject/level takes only one action/round, --1 to AC,
-reflex saves, and attack rolls.
+**Slow:** One subject/level takes only one action/round, --1 to AC, reflex saves, and attack rolls.
 
 **Speak with Animals:** You can communicate with animals.
 
@@ -268,8 +240,7 @@ reflex saves, and attack rolls.
 
 4TH-LEVEL BARD SPELLS
 
-**Break Enchantment:** Frees subjects from enchantments, alterations,
-curses, and petrification.
+**Break Enchantment:** Frees subjects from enchantments, alterations, curses, and petrification.
 
 **Cure Critical Wounds:** Cures 4d8 damage +1/level (max +20).
 
@@ -281,23 +252,19 @@ curses, and petrification.
 
 **Freedom of Movement:** Subject moves normally despite impediments.
 
-**Hallucinatory Terrain:** Makes one type of terrain appear like another
-(field into forest, or the like).
+**Hallucinatory Terrain:** Makes one type of terrain appear like another (field into forest, or the like).
 
 **Hold Monster:** As *hold person*, but any creature.
 
-**Invisibility, Greater:** As *invisibility, *but subject can attack and
-stay invisible.
+**Invisibility, Greater:** As *invisibility, *but subject can attack and stay invisible.
 
-**Legend Lore ^M^ ^F^:** Lets you learn tales about a person, place, or
-thing.
+**Legend Lore ^M^ ^F^:** Lets you learn tales about a person, place, or thing.
 
 **Locate Creature:** Indicates direction to familiar creature.
 
 **Modify Memory:** Changes 5 minutes of subject's memories.
 
-**Neutralize Poison:** Immunizes subject against poison, detoxifies
-venom in or on subject.
+**Neutralize Poison:** Immunizes subject against poison, detoxifies venom in or on subject.
 
 **Rainbow Pattern:** Lights fascinate 24 HD of creatures.
 
@@ -305,13 +272,11 @@ venom in or on subject.
 
 **Secure Shelter:** Creates sturdy cottage.
 
-**Shadow Conjuration:** Mimics conjuring below 4th level, but only 20%
-real.
+**Shadow Conjuration:** Mimics conjuring below 4th level, but only 20% real.
 
 **Shout:** Deafens all within cone and deals 5d6 sonic damage.
 
-**Speak with Plants:** You can talk to normal plants and plant
-creatures.
+**Speak with Plants:** You can talk to normal plants and plant creatures.
 
 **Summon Monster IV:** Calls extraplanar creature to fight for you.
 
@@ -319,8 +284,7 @@ creatures.
 
 5TH-LEVEL BARD SPELLS
 
-**Cure Light Wounds, Mass:** Cures 1d8 damage +1/level for many
-creatures.
+**Cure Light Wounds, Mass:** Cures 1d8 damage +1/level for many creatures.
 
 **Dispel Magic, Greater:** As *dispel magic, *but +20 on check.
 
@@ -328,8 +292,7 @@ creatures.
 
 **False Vision ^M^:** Fools scrying with an illusion.
 
-**Heroism, Greater:** Gives +4 bonus on attack rolls, saves, skill
-checks; immunity to fear; temporary hp.
+**Heroism, Greater:** Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
 
 **Mind Fog:** Subjects in fog get --10 to Wis and Will checks.
 
@@ -343,8 +306,7 @@ checks; immunity to fear; temporary hp.
 
 **Seeming:** Changes appearance of one person per two levels.
 
-**Shadow Evocation:** Mimics evocation of lower than 5th level, but only
-20% real.
+**Shadow Evocation:** Mimics evocation of lower than 5th level, but only 20% real.
 
 **Shadow Walk:** Step into shadow to travel rapidly.
 
@@ -364,11 +326,9 @@ checks; immunity to fear; temporary hp.
 
 **Charm Monster, Mass:** As *charm monster, *but all within 30 ft.
 
-**Cure Moderate Wounds, Mass:** Cures 2d8 damage +1/level for many
-creatures.
+**Cure Moderate Wounds, Mass:** Cures 2d8 damage +1/level for many creatures.
 
-**Eagle's Splendor, Mass:** As *eagle's splendor*, affects one
-subject/level.
+**Eagle's Splendor, Mass:** As *eagle's splendor*, affects one subject/level.
 
 **Eyebite:** Target becomes panicked, sickened, and comatose.
 
@@ -378,8 +338,7 @@ subject/level.
 
 **Geas/Quest:** As *lesser geas, *plus it affects any creature.
 
-**Heroes' Feast:** Food for one creature/level cures and grants combat
-bonuses*.*
+**Heroes' Feast:** Food for one creature/level cures and grants combat bonuses*.*
 
 **Irresistible Dance:** Forces subject to dance.
 
@@ -391,13 +350,11 @@ bonuses*.*
 
 **Scrying, Greater:** As *scrying*, but faster and longer.
 
-**Shout, Greater:** Devastating yell deals 10d6 sonic damage; stuns
-creatures, damages objects.
+**Shout, Greater:** Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects.
 
 **Summon Monster VI:** Calls extraplanar creature to fight for you.
 
-**Sympathetic Vibration:** Deals 2d10 damage/round to freestanding
-structure.
+**Sympathetic Vibration:** Deals 2d10 damage/round to freestanding structure.
 
 **Veil:** Changes appearance of group of creatures.
 
@@ -441,8 +398,7 @@ CLERIC SPELLS
 
 **Command:** One subject obeys selected command for 1 round.
 
-**Comprehend Languages:** You understand all spoken and written
-languages.
+**Comprehend Languages:** You understand all spoken and written languages.
 
 **Cure Light Wounds:** Cures 1d8 damage +1/level (max +5).
 
@@ -450,16 +406,13 @@ languages.
 
 **Deathwatch:** Reveals how near death subjects within 30 ft. are.
 
-**Detect Chaos/Evil/Good/Law:** Reveals creatures, spells, or objects of
-selected alignment.
+**Detect Chaos/Evil/Good/Law:** Reveals creatures, spells, or objects of selected alignment.
 
 **Detect Undead:** Reveals undead within 60 ft.
 
-**Divine Favor:** You gain +1 per three levels on attack and damage
-rolls.
+**Divine Favor:** You gain +1 per three levels on attack and damage rolls.
 
-**Doom:** One subject takes --2 on attack rolls, damage rolls, saves,
-and checks.
+**Doom:** One subject takes --2 on attack rolls, damage rolls, saves, and checks.
 
 **Endure Elements:** Exist comfortably in hot or cold environments.
 
@@ -475,11 +428,9 @@ and checks.
 
 **Obscuring Mist:** Fog surrounds you.
 
-**Protection from Chaos/Evil/Good/Law:** +2 to AC and saves, counter
-mind control, hedge out elementals and outsiders.
+**Protection from Chaos/Evil/Good/Law:** +2 to AC and saves, counter mind control, hedge out elementals and outsiders.
 
-**Remove Fear:** Suppresses fear or gives +4 on saves against fear for
-one subject + one per four levels.
+**Remove Fear:** Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 
 **Sanctuary:** Opponents can't attack you, and you can't attack.
 
@@ -489,8 +440,7 @@ one subject + one per four levels.
 
 2ND-LEVEL CLERIC SPELLS
 
-**Aid:** +1 on attack rolls and saves against fear, 1d8 temporary hp
-+1/level (max +10).
+**Aid:** +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 
 **Align Weapon: **Weapon becomes good, evil, lawful, or chaotic.
 
@@ -502,20 +452,17 @@ one subject + one per four levels.
 
 **Calm Emotions:** Calms creatures, negating emotion effects.
 
-**Consecrate ^M^:** Fills area with positive energy, making undead
-weaker.
+**Consecrate ^M^:** Fills area with positive energy, making undead weaker.
 
 **Cure Moderate Wounds:** Cures 2d8 damage +1/level (max +10).
 
 **Darkness:** 20-ft. radius of supernatural shadow.
 
-**Death Knell:** Kills dying creature; you gain 1d8 temporary hp, +2 to
-Str, and +1 level.
+**Death Knell:** Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 level.
 
 **Delay Poison:** Stops poison from harming subject for 1 hour/level.
 
-**Desecrate ^M^:** Fills area with negative energy, making undead
-stronger.
+**Desecrate ^M^:** Fills area with negative energy, making undead stronger.
 
 **Eagle's Splendor:** Subject gains +4 to Cha for 1 min./level.
 
@@ -527,21 +474,17 @@ stronger.
 
 **Hold Person:** Paralyzes one humanoid for 1 round/level.
 
-**Inflict Moderate Wounds:** Touch attack, 2d8 damage +1/level (max
-+10).
+**Inflict Moderate Wounds:** Touch attack, 2d8 damage +1/level (max +10).
 
 **Make Whole:** Repairs an object.
 
 **Owl's Wisdom:** Subject gains +4 to Wis for 1 min./level.
 
-**Remove Paralysis:** Frees one or more creatures from paralysis or
-*slow *effect.
+**Remove Paralysis:** Frees one or more creatures from paralysis or *slow *effect.
 
-**Resist Energy:** Ignores 10 (or more) points of damage/attack from
-specified energy type.
+**Resist Energy:** Ignores 10 (or more) points of damage/attack from specified energy type.
 
-**Restoration, Lesser:** Dispels magical ability penalty or repairs 1d4
-ability damage.
+**Restoration, Lesser:** Dispels magical ability penalty or repairs 1d4 ability damage.
 
 **Shatter:** Sonic vibration damages objects or crystalline creatures.
 
@@ -565,8 +508,7 @@ ability damage.
 
 **Animate Dead ^M^:** Creates undead skeletons and zombies.
 
-**Bestow Curse:** --6 to an ability score; --4 on attack rolls, saves,
-and checks; or 50% chance of losing each action.
+**Bestow Curse:** --6 to an ability score; --4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 
 **Blindness/Deafness: **Makes subject blinded or deafened.
 
@@ -594,11 +536,9 @@ and checks; or 50% chance of losing each action.
 
 **Locate Object:** Senses direction toward object (specific or type).
 
-**Magic Circle against Chaos/Evil/Good/Law:** As *protection *spells,
-but 10-ft. radius and 10 min./level.
+**Magic Circle against Chaos/Evil/Good/Law:** As *protection *spells, but 10-ft. radius and 10 min./level.
 
-**Magic Vestment:** Armor or shield gains +1 enhancement per four
-levels.
+**Magic Vestment:** Armor or shield gains +1 enhancement per four levels.
 
 **Meld into Stone:** You and your gear merge with stone.
 
@@ -606,8 +546,7 @@ levels.
 
 **Prayer:** Allies +1 bonus on most rolls, enemies --1 penalty.
 
-**Protection from Energy:** Absorb 12 points/level of damage from one
-kind of energy.
+**Protection from Energy:** Absorb 12 points/level of damage from one kind of energy.
 
 **Remove Blindness/Deafness:** Cures normal or magical conditions.
 
@@ -631,15 +570,13 @@ kind of energy.
 
 4TH-LEVEL CLERIC SPELLS
 
-**Air Walk:** Subject treads on air as if solid (climb at 45-degree
-angle).
+**Air Walk:** Subject treads on air as if solid (climb at 45-degree angle).
 
 **Control Water:** Raises or lowers bodies of water.
 
 **Cure Critical Wounds:** Cures 4d8 damage +1/level (max +20).
 
-**Death Ward:** Grants immunity to death spells and negative energy
-effects.
+**Death Ward:** Grants immunity to death spells and negative energy effects.
 
 **Dimensional Anchor:** Bars extradimensional movement.
 
@@ -647,28 +584,23 @@ effects.
 
 **Dismissal:** Forces a creature to return to native plane.
 
-**Divination ^M^:** Provides useful advice for specific proposed
-actions.
+**Divination ^M^:** Provides useful advice for specific proposed actions.
 
 **Divine Power:** You gain attack bonus, +6 to Str, and 1 hp/level.
 
 **Freedom of Movement:** Subject moves normally despite impediments.
 
-**Giant Vermin:** Turns centipedes, scorpions, or spiders into giant
-vermin.
+**Giant Vermin:** Turns centipedes, scorpions, or spiders into giant vermin.
 
 **Imbue with Spell Ability:** Transfer spells to subject.
 
-**Inflict Critical Wounds:** Touch attack, 4d8 damage +1/level (max
-+20).
+**Inflict Critical Wounds:** Touch attack, 4d8 damage +1/level (max +20).
 
 **Magic Weapon, Greater:** +1 bonus/four levels (max +5).
 
-**Neutralize Poison:** Immunizes subject against poison, detoxifies
-venom in or on subject.
+**Neutralize Poison:** Immunizes subject against poison, detoxifies venom in or on subject.
 
-**Planar Ally, Lesser ^X^:** Exchange services with a 6 HD extraplanar
-creature.
+**Planar Ally, Lesser ^X^:** Exchange services with a 6 HD extraplanar creature.
 
 **Poison:** Touch deals 1d10 Con damage, repeats in 1 min.
 
@@ -688,15 +620,13 @@ creature.
 
 **Atonement ^F^ ^X^:** Removes burden of misdeeds from subject.
 
-**Break Enchantment:** Frees subjects from enchantments, alterations,
-curses, and petrification.
+**Break Enchantment:** Frees subjects from enchantments, alterations, curses, and petrification.
 
 **Command, Greater:** As *command, *but affects one subject/level.
 
 **Commune ^X^:** Deity answers one yes-or-no question/level.
 
-**Cure Light Wounds, Mass:** Cures 1d8 damage +1/level for many
-creatures.
+**Cure Light Wounds, Mass:** Cures 1d8 damage +1/level for many creatures.
 
 **Dispel Chaos/Evil/Good/Law:** +4 bonus against attacks.
 
@@ -706,18 +636,15 @@ creatures.
 
 **Hallow ^M^:** Designates location as holy.
 
-**Inflict Light Wounds, Mass:** Deals 1d8 damage +1/level to many
-creatures.
+**Inflict Light Wounds, Mass:** Deals 1d8 damage +1/level to many creatures.
 
 **Insect Plague:** Locust swarms attack creatures.
 
-**Mark of Justice:** Designates action that will trigger *curse *on
-subject.
+**Mark of Justice:** Designates action that will trigger *curse *on subject.
 
 **Plane Shift ^F^:** As many as eight subjects travel to another plane.
 
-**Raise Dead ^M^:** Restores life to subject who died as long as one
-day/level ago.
+**Raise Dead ^M^:** Restores life to subject who died as long as one day/level ago.
 
 **Righteous Might:** Your size increases, and you gain combat bonuses.
 
@@ -729,11 +656,9 @@ day/level ago.
 
 **Summon Monster V:** Calls extraplanar creature to fight for you.
 
-**Symbol of Pain ^M^:** Triggered rune wracks nearby creatures with
-pain.
+**Symbol of Pain ^M^:** Triggered rune wracks nearby creatures with pain.
 
-**Symbol of Sleep ^M^:** Triggered rune puts nearby creatures into
-catatonic slumber.
+**Symbol of Sleep ^M^:** Triggered rune puts nearby creatures into catatonic slumber.
 
 **True Seeing ^M^:** Lets you see all things as they really are.
 
@@ -749,44 +674,35 @@ catatonic slumber.
 
 **Banishment:** Banishes 2 HD/level of extraplanar creatures.
 
-**Bear's Endurance, Mass:** As *bear's endurance*, affects one subject/
-level.
+**Bear's Endurance, Mass:** As *bear's endurance*, affects one subject/ level.
 
 **Blade Barrier: **Wall of blades deals 1d6/level damage.
 
-**Bull's Strength, Mass:** As *bull's strength*, affects one
-subject/level.
+**Bull's Strength, Mass:** As *bull's strength*, affects one subject/level.
 
 **Create Undead:** Create ghouls, ghasts, mummies, or mohrgs.
 
-**Cure Moderate Wounds, Mass:** Cures 2d8 damage +1/level for many
-creatures.
+**Cure Moderate Wounds, Mass:** Cures 2d8 damage +1/level for many creatures.
 
 **Dispel Magic, Greater:** As *dispel magic, *but up to +20 on check.
 
-**Eagle's Splendor, Mass:** As *eagle's splendor*, affects one
-subject/level.
+**Eagle's Splendor, Mass:** As *eagle's splendor*, affects one subject/level.
 
 **Find the Path:** Shows most direct way to a location.
 
-**Forbiddance ^M^:** Blocks planar travel, damages creatures of
-different alignment.
+**Forbiddance ^M^:** Blocks planar travel, damages creatures of different alignment.
 
 **Geas/Quest:** As *lesser geas, *plus it affects any creature.
 
-**Glyph of Warding, Greater:** As *glyph of warding*, but up to 10d8
-damage or 6th-level spell.
+**Glyph of Warding, Greater:** As *glyph of warding*, but up to 10d8 damage or 6th-level spell.
 
 **Harm:** Deals 10 points/level damage to target.
 
-**Heal:** Cures 10 points/level of damage, all diseases and mental
-conditions.
+**Heal:** Cures 10 points/level of damage, all diseases and mental conditions.
 
-**Heroes' Feast:** Food for one creature/level cures and grants combat
-bonuses*.*
+**Heroes' Feast:** Food for one creature/level cures and grants combat bonuses*.*
 
-**Inflict Moderate Wounds, Mass:** Deals 2d8 damage +1/level to many
-creatures.
+**Inflict Moderate Wounds, Mass:** Deals 2d8 damage +1/level to many creatures.
 
 **Owl's Wisdom, Mass:** As *owl's wisdom*, affects one subject/level.
 
@@ -810,8 +726,7 @@ creatures.
 
 **Control Weather:** Changes weather in local area.
 
-**Cure Serious Wounds, Mass:** Cures 3d8 damage +1/level for many
-creatures.
+**Cure Serious Wounds, Mass:** Cures 3d8 damage +1/level for many creatures.
 
 **Destruction ^F^:** Kills subject and destroys remains.
 
@@ -821,18 +736,15 @@ creatures.
 
 **Holy Word:** Kills, paralyzes, blinds, or deafens nongood subjects.
 
-**Inflict Serious Wounds, Mass:** Deals 3d8 damage +1/level to many
-creatures.
+**Inflict Serious Wounds, Mass:** Deals 3d8 damage +1/level to many creatures.
 
 **Refuge ^M^:** Alters item to transport its possessor to you.
 
-**Regenerate:** Subject's severed limbs grow back, cures 4d8 damage
-+1/level (max +35).
+**Regenerate:** Subject's severed limbs grow back, cures 4d8 damage +1/level (max +35).
 
 **Repulsion:** Creatures can't approach you.
 
-**Restoration, Greater ^X^:** As *restoration, *plus restores all levels
-and ability scores.
+**Restoration, Greater ^X^:** As *restoration, *plus restores all levels and ability scores.
 
 **Resurrection ^M^:** Fully restore dead subject.
 
@@ -844,24 +756,19 @@ and ability scores.
 
 **Symbol of Weakness ^M^:** Triggered rune weakens nearby creatures.
 
-**Word of Chaos:** Kills, *confuses, *stuns, or deafens nonchaotic
-subjects.
+**Word of Chaos:** Kills, *confuses, *stuns, or deafens nonchaotic subjects.
 
 8TH-LEVEL CLERIC SPELLS
 
 **Antimagic Field:** Negates magic within 10 ft.
 
-**Cloak of Chaos ^F^:** +4 to AC, +4 resistance, and SR 25 against
-lawful spells.
+**Cloak of Chaos ^F^:** +4 to AC, +4 resistance, and SR 25 against lawful spells.
 
-**Create Greater Undead ^M^:** Create shadows, wraiths, spectres, or
-devourers.
+**Create Greater Undead ^M^:** Create shadows, wraiths, spectres, or devourers.
 
-**Cure Critical Wounds, Mass:** Cures 4d8 damage +1/level for many
-creatures.
+**Cure Critical Wounds, Mass:** Cures 4d8 damage +1/level for many creatures.
 
-**Dimensional Lock:** Teleportation and interplanar travel blocked for
-one day/level.
+**Dimensional Lock:** Teleportation and interplanar travel blocked for one day/level.
 
 **Discern Location:** Reveals exact location of creature or object.
 
@@ -869,34 +776,27 @@ one day/level.
 
 **Fire Storm:** Deals 1d6/level fire damage.
 
-**Holy Aura ^F^:** +4 to AC, +4 resistance, and SR 25 against evil
-spells.
+**Holy Aura ^F^:** +4 to AC, +4 resistance, and SR 25 against evil spells.
 
 **Planar Ally, Greater ^X^:** As *lesser planar ally, *but up to 18 HD.
 
-**Inflict Critical Wounds, Mass:** Deals 4d8 damage +1/level to many
-creatures.
+**Inflict Critical Wounds, Mass:** Deals 4d8 damage +1/level to many creatures.
 
-**Shield of Law ^F^:** +4 to AC, +4 resistance, and SR 25 against
-chaotic spells.
+**Shield of Law ^F^:** +4 to AC, +4 resistance, and SR 25 against chaotic spells.
 
-**Spell Immunity, Greater:** As *spell immunity, *but up to 8th-level
-spells.
+**Spell Immunity, Greater:** As *spell immunity, *but up to 8th-level spells.
 
 **Summon Monster VIII:** Calls extraplanar creature to fight for you.
 
 **Symbol of Death ^M^:** Triggered rune slays nearby creatures.
 
-**Symbol of Insanity ^M^:** Triggered rune renders nearby creatures
-insane.
+**Symbol of Insanity ^M^:** Triggered rune renders nearby creatures insane.
 
-**Unholy Aura ^F^:** +4 to AC, +4 resistance, and SR 25 against good
-spells.
+**Unholy Aura ^F^:** +4 to AC, +4 resistance, and SR 25 against good spells.
 
 9TH-LEVEL CLERIC SPELLS
 
-**Astral Projection ^M^:** Projects you and companions onto Astral
-Plane.
+**Astral Projection ^M^:** Projects you and companions onto Astral Plane.
 
 **Energy Drain:** Subject gains 2d4 negative levels.
 
@@ -916,18 +816,13 @@ Plane.
 
 **Summon Monster IX:** Calls extraplanar creature to fight for you.
 
-**True Resurrection ^M^:** As *resurrection*, plus remains aren't
-needed.
+**True Resurrection ^M^:** As *resurrection*, plus remains aren't needed.
 
 CLERIC DOMAINS
 
 AIR DOMAIN
 
-**Granted Powers:** Turn or destroy earth creatures as a good cleric
-turns undead. Rebuke, command, or bolster air creatures as an evil
-cleric rebukes undead. Use these abilities a total number of times per
-day equal to 3 + your Charisma modifier. This granted power is a
-supernatural ability.
+**Granted Powers:** Turn or destroy earth creatures as a good cleric turns undead. Rebuke, command, or bolster air creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.
 
 # Air Domain Spells
 
@@ -937,13 +832,11 @@ supernatural ability.
 
 **3 Gaseous Form:** Subject becomes insubstantial and can fly slowly.
 
-**4 Air Walk: **Subject treads on air as if solid (climb at 45-degree
-angle).
+**4 Air Walk: **Subject treads on air as if solid (climb at 45-degree angle).
 
 **5 Control Winds:** Change wind direction and speed.
 
-**6 Chain Lightning: **1d6/level damage; 1 secondary bolt/level each
-deals half damage.
+**6 Chain Lightning: **1d6/level damage; 1 secondary bolt/level each deals half damage.
 
 **7 Control Weather: **Changes weather in local area.
 
@@ -955,8 +848,7 @@ deals half damage.
 
 ANIMAL DOMAIN
 
-**Granted Powers:** You can use *speak with animals *once per day as a
-spell-like ability.
+**Granted Powers:** You can use *speak with animals *once per day as a spell-like ability.
 
 Add Knowledge (nature) to your list of cleric class skills.
 
@@ -978,8 +870,7 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 **8 Summon Nature's Ally VIII\*:** Calls creature to fight.
 
-**9 Shapechange ^F^:** Transforms you into any creature, and change
-forms once per round.
+**9 Shapechange ^F^:** Transforms you into any creature, and change forms once per round.
 
 \*Can only summon animals.
 
@@ -989,13 +880,11 @@ CHAOS DOMAIN
 
 # Chaos Domain Spells
 
-**1 Protection from Law:** +2 to AC and saves, counter mind control,
-hedge out elementals and outsiders.
+**1 Protection from Law:** +2 to AC and saves, counter mind control, hedge out elementals and outsiders.
 
 **2 Shatter:** Sonic vibration damages objects or crystalline creatures.
 
-**3 Magic Circle against Law:** As *protection *spells, but 10-ft.
-radius and 10 min./level.
+**3 Magic Circle against Law:** As *protection *spells, but 10-ft. radius and 10 min./level.
 
 **4 Chaos Hammer:** Damages and staggers lawful creatures.
 
@@ -1003,11 +892,9 @@ radius and 10 min./level.
 
 **6 Animate Objects:** Objects attack your foes.
 
-**7 Word of Chaos:** Kills, *confuses, *stuns, or deafens nonchaotic
-subjects.
+**7 Word of Chaos:** Kills, *confuses, *stuns, or deafens nonchaotic subjects.
 
-**8 Cloak of Chaos ^F^: **+4 to AC, +4 resistance, SR 25 against lawful
-spells.
+**8 Cloak of Chaos ^F^: **+4 to AC, +4 resistance, SR 25 against lawful spells.
 
 **9 Summon Monster IX\*:** Calls extraplanar creature to fight for you.
 
@@ -1015,24 +902,17 @@ spells.
 
 DEATH DOMAIN
 
-**Granted Power:** You may use a death touch once per day. Your death
-touch is a supernatural ability that produces a death effect. You must
-succeed on a melee touch attack against a living creature (using the
-rules for touch spells). When you touch, roll 1d6 per cleric level you
-possess. If the total at least equals the creature's current hit points,
-it dies (no save).
+**Granted Power:** You may use a death touch once per day. Your death touch is a supernatural ability that produces a death effect. You must succeed on a melee touch attack against a living creature (using the rules for touch spells). When you touch, roll 1d6 per cleric level you possess. If the total at least equals the creature's current hit points, it dies (no save).
 
 # Death Domain Spells
 
 **1 Cause Fear: **One creature of 5 HD or less flees for 1d4 rounds.
 
-**2 Death Knell:** Kill dying creature and gain 1d8 temporary hp, +2 to
-Str, and +1 caster level.
+**2 Death Knell:** Kill dying creature and gain 1d8 temporary hp, +2 to Str, and +1 caster level.
 
 **3 Animate Dead ^M^:** Creates undead skeletons and zombies.
 
-**4 Death Ward: **Grants immunity to death spells and negative energy
-effects.
+**4 Death Ward: **Grants immunity to death spells and negative energy effects.
 
 **5 Slay Living: **Touch attack kills subject.
 
@@ -1040,18 +920,13 @@ effects.
 
 **7 Destruction ^F^:** Kills subject and destroys remains.
 
-**8 Create Greater Undead ^M^:** Create shadows, wraiths, spectres, r
-devourers.
+**8 Create Greater Undead ^M^:** Create shadows, wraiths, spectres, r devourers.
 
 **9 Wail of the Banshee: **Kills one creature/level.
 
 DESTRUCTION DOMAIN
 
-**Granted Power:** You gain the smite power, the supernatural ability to
-make a single melee attack with a +4 bonus on attack rolls and a bonus
-on damage rolls equal to your cleric level (if you hit). You must
-declare the smite before making the attack. This ability is usable once
-per day.
+**Granted Power:** You gain the smite power, the supernatural ability to make a single melee attack with a +4 bonus on attack rolls and a bonus on damage rolls equal to your cleric level (if you hit). You must declare the smite before making the attack. This ability is usable once per day.
 
 # Destruction Domain Spells
 
@@ -1061,11 +936,9 @@ per day.
 
 **3 Contagion:** Infects subject with chosen disease.
 
-**4 Inflict Critical Wounds:** Touch attack, 4d8 damage +1/level (max
-+20).
+**4 Inflict Critical Wounds:** Touch attack, 4d8 damage +1/level (max +20).
 
-**5 Inflict Light Wounds, Mass:** Deals 1d8 damage +1/level to any
-creatures.
+**5 Inflict Light Wounds, Mass:** Deals 1d8 damage +1/level to any creatures.
 
 6** Harm:** Deals 10 points/level damage to target.
 
@@ -1077,18 +950,13 @@ creatures.
 
 EARTH DOMAIN
 
-**Granted Power:** Turn or destroy air creatures as a good cleric turns
-undead. Rebuke, command, or bolster earth creatures as an evil cleric
-rebukes undead. Use these abilities a total number of times per day
-equal to 3 + your Charisma modifier. This granted power is a
-supernatural ability.
+**Granted Power:** Turn or destroy air creatures as a good cleric turns undead. Rebuke, command, or bolster earth creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.
 
 # Earth Domain Spells
 
 **1 Magic Stone:** Three stones become +1 projectiles, 1d6 +1 damage.
 
-**2 Soften Earth and Stone: **Turns stone to clay or dirt to sand or
-mud.
+**2 Soften Earth and Stone: **Turns stone to clay or dirt to sand or mud.
 
 **3 Stone Shape: **Sculpts stone into any shape.
 
@@ -1112,14 +980,11 @@ EVIL DOMAIN
 
 # Evil Domain Spells
 
-**1 Protection from Good: **+2 to AC and saves, counter mind control,
-hedge out elementals and outsiders.
+**1 Protection from Good: **+2 to AC and saves, counter mind control, hedge out elementals and outsiders.
 
-**2 Desecrate ^M^:** Fills area with negative energy, making undead
-stronger.
+**2 Desecrate ^M^:** Fills area with negative energy, making undead stronger.
 
-**3 Magic Circle against Good: **As *protection *spells, but 10-ft.
-radius and 10 min./level.
+**3 Magic Circle against Good: **As *protection *spells, but 10-ft. radius and 10 min./level.
 
 **4 Unholy Blight:** Damages and sickens good creatures.
 
@@ -1129,8 +994,7 @@ radius and 10 min./level.
 
 **7 Blasphemy: **Kills, paralyzes, weakens, or dazes nonevil subjects.
 
-**8 Unholy Aura ^F^: **+4 to AC, +4 resistance, SR 25 against good
-spells.
+**8 Unholy Aura ^F^: **+4 to AC, +4 resistance, SR 25 against good spells.
 
 **9 Summon Monster IX\*:** Calls extraplanar creature to fight for you.
 
@@ -1138,11 +1002,7 @@ spells.
 
 FIRE DOMAIN
 
-**Granted Power:** Turn or destroy water creatures as a good cleric
-turns undead. Rebuke, command, or bolster fire creatures as an evil
-cleric rebukes undead. Use these abilities a total number of times per
-day equal to 3 + your Charisma modifier. This granted power is a
-supernatural ability.
+**Granted Power:** Turn or destroy water creatures as a good cleric turns undead. Rebuke, command, or bolster fire creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.
 
 # Fire Domain Spells
 
@@ -1150,14 +1010,11 @@ supernatural ability.
 
 **2 Produce Flame: **1d6 damage +1/ level, touch or thrown.
 
-**3 Resist Energy\*:** Ignores 10 (or more) points of damage/attack from
-specified energy type.
+**3 Resist Energy\*:** Ignores 10 (or more) points of damage/attack from specified energy type.
 
-**4 Wall of Fire: **Deals 2d4 fire damage out to 10 ft. and 1d4 out to
-20 ft. Passing through wall deals 2d6 damage +1/level.
+**4 Wall of Fire: **Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 
-**5 Fire Shield: **Creatures attacking you take fire damage; you're
-protected from heat or cold.
+**5 Fire Shield: **Creatures attacking you take fire damage; you're protected from heat or cold.
 
 **6 Fire Seeds:** Acorns and berries become grenades and bombs.
 
@@ -1177,14 +1034,11 @@ GOOD DOMAIN
 
 # Good Domain Spells
 
-**1 Protection from Evil: **+2 to AC and saves, counter mind control,
-hedge out elementals and outsiders.
+**1 Protection from Evil: **+2 to AC and saves, counter mind control, hedge out elementals and outsiders.
 
-**2 Aid:** +1 on attack rolls, +1 on saves against fear, 1d8 temporary
-hp +1/level (max +10).
+**2 Aid:** +1 on attack rolls, +1 on saves against fear, 1d8 temporary hp +1/level (max +10).
 
-**3 Magic Circle against Evil: **As *protection *spells, but 10-ft.
-radius and 10 min./level.
+**3 Magic Circle against Evil: **As *protection *spells, but 10-ft. radius and 10 min./level.
 
 **4 Holy Smite: **Damages and blinds evil creatures.
 
@@ -1192,8 +1046,7 @@ radius and 10 min./level.
 
 **6 Blade Barrier: **Wall of blades deals 1d6/level damage.
 
-**7 Holy Word ^F^:** Kills, paralyzes, slows, or deafens nongood
-subjects.
+**7 Holy Word ^F^:** Kills, paralyzes, slows, or deafens nongood subjects.
 
 **8 Holy Aura:** +4 to AC, +4 resistance, and SR 25 against evil spells.
 
@@ -1215,24 +1068,19 @@ HEALING DOMAIN
 
 **4 Cure Critical Wounds: **Cures 4d8 damage +1/level (max +20).
 
-**5 Cure Light Wounds, Mass: **Cures 1d8 damage +1/level (max +25) for
-many creatures.
+**5 Cure Light Wounds, Mass: **Cures 1d8 damage +1/level (max +25) for many creatures.
 
-**6 Heal: **Cures 10 points/level of damage, all diseases and mental
-conditions.
+**6 Heal: **Cures 10 points/level of damage, all diseases and mental conditions.
 
-**7 Regenerate: **Subject's severed limbs grow back, cures 4d8 damage
-+1/level (max +35).
+**7 Regenerate: **Subject's severed limbs grow back, cures 4d8 damage +1/level (max +35).
 
-**8 Cure Critical Wounds, Mass: **Cures 4d8 damage +1/level (max +40)
-for many creatures.
+**8 Cure Critical Wounds, Mass: **Cures 4d8 damage +1/level (max +40) for many creatures.
 
 **9 Heal, Mass:** As *heal*, but with several subjects.
 
 KNOWLEDGE DOMAIN
 
-**Granted Power:** Add all Knowledge skills to your list of cleric class
-skills.
+**Granted Power:** Add all Knowledge skills to your list of cleric class skills.
 
 You cast divination spells at +1 caster level.
 
@@ -1242,18 +1090,15 @@ You cast divination spells at +1 caster level.
 
 **2 Detect Thoughts: **Allows "listening" to surface thoughts.
 
-**3 Clairaudience/Clairvoyance: **Hear or see at a distance for 1
-min./level.
+**3 Clairaudience/Clairvoyance: **Hear or see at a distance for 1 min./level.
 
-**4 Divination ^M^: **Provides useful advice for specific proposed
-actions.
+**4 Divination ^M^: **Provides useful advice for specific proposed actions.
 
 **5 True Seeing ^M^: **Lets you see all things as they really are.
 
 **6 Find the Path: **Shows most direct way to a location.
 
-**7 Legend Lore ^M^ ^F^: **Lets you learn tales about a person, place,
-or thing.
+**7 Legend Lore ^M^ ^F^: **Lets you learn tales about a person, place, or thing.
 
 **8 Discern Location: **Reveals exact location of creature or object.
 
@@ -1265,13 +1110,11 @@ LAW DOMAIN
 
 # Law Domain Spells
 
-**1 Protection from Chaos: **+2 to AC and saves, counter mind control,
-hedge out elementals and outsiders.
+**1 Protection from Chaos: **+2 to AC and saves, counter mind control, hedge out elementals and outsiders.
 
 **2 Calm Emotions:** Calms creatures, negating emotion effects.
 
-**3 Magic Circle against Chaos:** As *protection *spells, but 10-ft.
-radius and 10 min./level.
+**3 Magic Circle against Chaos:** As *protection *spells, but 10-ft. radius and 10 min./level.
 
 **4 Order's Wrath: **Damages and dazes chaotic creatures.
 
@@ -1281,8 +1124,7 @@ radius and 10 min./level.
 
 **7 Dictum:** Kills, paralyzes, slows, or deafens nonlawful subjects.
 
-**8 Shield of Law ^F^: **+4 to AC, +4 resistance, and SR 25 against
-chaotic spells.
+**8 Shield of Law ^F^: **+4 to AC, +4 resistance, and SR 25 against chaotic spells.
 
 **9 Summon Monster IX\*: **Calls extraplanar creature to fight for you.
 
@@ -1290,43 +1132,31 @@ chaotic spells.
 
 LUCK DOMAIN
 
-**Granted Power:** You gain the power of good fortune, which is usable
-once per day. This extraordinary ability allows you to reroll one roll
-that you have just made before the DM declares whether the roll results
-in success or failure. You must take the result of the reroll, even if
-it's worse than the original roll.
+**Granted Power:** You gain the power of good fortune, which is usable once per day. This extraordinary ability allows you to reroll one roll that you have just made before the DM declares whether the roll results in success or failure. You must take the result of the reroll, even if it's worse than the original roll.
 
 # Luck Domain Spells
 
 **1 Entropic Shield: **Ranged attacks against you have 20% miss chance.
 
-**2 Aid: **+1 on attack rolls, +1 against fear, 1d8 temporary hp
-+1/level (max +10).
+**2 Aid: **+1 on attack rolls, +1 against fear, 1d8 temporary hp +1/level (max +10).
 
-**3 Protection from Energy: **Absorb 12 points/level of damage from one
-kind of energy.
+**3 Protection from Energy: **Absorb 12 points/level of damage from one kind of energy.
 
 **4 Freedom of Movement:** Subject moves normally despite impediments.
 
-**5 Break Enchantment: **Frees subjects from enchantments, alterations,
-curses, and petrification.
+**5 Break Enchantment: **Frees subjects from enchantments, alterations, curses, and petrification.
 
 **6 Mislead:** Turns you invisible and creates illusory double.
 
 **7 Spell Turning: **Reflect 1d4+6 spell levels back at caster.
 
-**8 Moment of Prescience: **You gain insight bonus on single attack
-roll, check, or save.
+**8 Moment of Prescience: **You gain insight bonus on single attack roll, check, or save.
 
 **9 Miracle ^X^: **Requests a deity's intercession.
 
 MAGIC DOMAIN
 
-**Granted Power:** Use scrolls, wands, and other devices with spell
-completion or spell trigger activation as a wizard of one-half your
-cleric level (at least 1st level). For the purpose of using a scroll or
-other magic device, if you are also a wizard, actual wizard levels and
-these effective wizard levels stack.
+**Granted Power:** Use scrolls, wands, and other devices with spell completion or spell trigger activation as a wizard of one-half your cleric level (at least 1st level). For the purpose of using a scroll or other magic device, if you are also a wizard, actual wizard levels and these effective wizard levels stack.
 
 # Magic Domain Spells
 
@@ -1350,10 +1180,7 @@ these effective wizard levels stack.
 
 PLANT DOMAIN
 
-**Granted Powers:** Rebuke or command plant creatures as an evil cleric
-rebukes or commands undead. Use this ability a total number of times per
-day equal to 3 + your Charisma modifier. This granted power is a
-supernatural ability.
+**Granted Powers:** Rebuke or command plant creatures as an evil cleric rebukes or commands undead. Use this ability a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.
 
 Add Knowledge (nature) to your list of cleric class skills.
 
@@ -1379,11 +1206,7 @@ Add Knowledge (nature) to your list of cleric class skills.
 
 PROTECTION DOMAIN
 
-**Granted Power:** You can generate a *protective ward *as a
-supernatural ability. Grant someone you touch a resistance bonus equal
-to your cleric level on his or her next saving throw. Activating this
-power is a standard action. The *protective ward *is an abjuration
-effect with a duration of 1 hour that is usable once per day.
+**Granted Power:** You can generate a *protective ward *as a supernatural ability. Grant someone you touch a resistance bonus equal to your cleric level on his or her next saving throw. Activating this power is a standard action. The *protective ward *is an abjuration effect with a duration of 1 hour that is usable once per day.
 
 # Protection Domain Spells
 
@@ -1391,8 +1214,7 @@ effect with a duration of 1 hour that is usable once per day.
 
 **2 Shield Other ^F^: **You take half of subject's damage.
 
-**3 Protection from Energy: **Absorb 12 points/level of damage from one
-kind of energy.
+**3 Protection from Energy: **Absorb 12 points/level of damage from one kind of energy.
 
 **4 Spell Immunity:** Subject is immune to one spell per four levels.
 
@@ -1402,17 +1224,13 @@ kind of energy.
 
 **7 Repulsion: **Creatures can't approach you.
 
-**8 Mind Blank:** Subject is immune to mental/emotional magic and
-scrying.
+**8 Mind Blank:** Subject is immune to mental/emotional magic and scrying.
 
 **9 Prismatic Sphere: **As *prismatic wall*, but surrounds on all sides.
 
 STRENGTH DOMAIN
 
-**Granted Power:** You can perform a feat of strength as a supernatural
-ability. You gain an enhancement bonus to Strength equal to your cleric
-level. Activating the power is a free action, the power lasts 1 round,
-and it is usable once per day.
+**Granted Power:** You can perform a feat of strength as a supernatural ability. You gain an enhancement bonus to Strength equal to your cleric level. Activating the power is a free action, the power lasts 1 round, and it is usable once per day.
 
 # Strength Domain Spells
 
@@ -1420,8 +1238,7 @@ and it is usable once per day.
 
 **2 Bull's Strength: **Subject gains +4 to Str for 1 min./level.
 
-**3 Magic Vestment: **Armor or shield gains +1 enhancement per four
-levels.
+**3 Magic Vestment: **Armor or shield gains +1 enhancement per four levels.
 
 **4 Spell Immunity:** Subject is immune to one spell per four levels.
 
@@ -1431,18 +1248,13 @@ levels.
 
 **7 Grasping Hand: **Large hand provides cover, pushes, or grapples.
 
-**8 Clenched Fist: **Large hand provides cover, pushes, or attacks your
-foes.
+**8 Clenched Fist: **Large hand provides cover, pushes, or attacks your foes.
 
-**9 Crushing Hand: **Large hand provides cover, pushes, or crushes your
-foes.
+**9 Crushing Hand: **Large hand provides cover, pushes, or crushes your foes.
 
 SUN DOMAIN
 
-**Granted Power:** Once per day, you can perform a greater turning
-against undead in place of a regular turning. The greater turning is
-like a normal turning except that the undead creatures that would be
-turned are destroyed instead.
+**Granted Power:** Once per day, you can perform a greater turning against undead in place of a regular turning. The greater turning is like a normal turning except that the undead creatures that would be turned are destroyed instead.
 
 # Sun Domain Spells
 
@@ -1452,8 +1264,7 @@ turned are destroyed instead.
 
 **3 Searing Light: **Ray deals 1d8/two levels, more against undead.
 
-**4 Fire Shield:** Creatures attacking you take fire damage; you're
-protected from heat or cold.
+**4 Fire Shield:** Creatures attacking you take fire damage; you're protected from heat or cold.
 
 **5 Flame Strike: **Smite foes with divine fire (1d6/level damage).
 
@@ -1467,12 +1278,7 @@ protected from heat or cold.
 
 TRAVEL DOMAIN
 
-**Granted Powers:** For a total time per day of 1 round per cleric level
-you possess, you can act normally regardless of magical effects that
-impede movement as if you were affected by the spell *freedom of
-movement*. This effect occurs automatically as soon as it applies, lasts
-until it runs out or is no longer needed, and can operate multiple times
-per day (up to the total daily limit of rounds).
+**Granted Powers:** For a total time per day of 1 round per cleric level you possess, you can act normally regardless of magical effects that impede movement as if you were affected by the spell *freedom of movement*. This effect occurs automatically as soon as it applies, lasts until it runs out or is no longer needed, and can operate multiple times per day (up to the total daily limit of rounds).
 
 This granted power is a supernatural ability.
 
@@ -1492,18 +1298,15 @@ Add Survival to your list of cleric class skills.
 
 **6 Find the Path: **Shows most direct way to a location.
 
-**7 Teleport, Greater:** As *teleport, *but no range limit and no
-off-target arrival.
+**7 Teleport, Greater:** As *teleport, *but no range limit and no off-target arrival.
 
 **8 Phase Door: **Creates an invisible passage through wood or stone.
 
-**9 Astral Projection ^M^: **Projects you and companions onto Astral
-Plane.
+**9 Astral Projection ^M^: **Projects you and companions onto Astral Plane.
 
 TRICKERY DOMAIN
 
-**Granted Power:** Add Bluff, Disguise, and Hide to your list of cleric
-class skills.
+**Granted Power:** Add Bluff, Disguise, and Hide to your list of cleric class skills.
 
 # Trickery Domain Spells
 
@@ -1527,8 +1330,7 @@ class skills.
 
 WAR DOMAIN
 
-**Granted Power:** Free Martial Weapon Proficiency with deity's favored
-weapon (if necessary) and Weapon Focus with the deity's favored weapon.
+**Granted Power:** Free Martial Weapon Proficiency with deity's favored weapon (if necessary) and Weapon Focus with the deity's favored weapon.
 
 # War Domain Spells
 
@@ -1536,8 +1338,7 @@ weapon (if necessary) and Weapon Focus with the deity's favored weapon.
 
 **2 Spiritual Weapon: **Magical weapon attacks on its own.
 
-**3 Magic Vestment: **Armor or shield gains +1 enhancement per four
-levels.
+**3 Magic Vestment: **Armor or shield gains +1 enhancement per four levels.
 
 **4 Divine Power:** You gain attack bonus, +6 to Str, and 1 hp/level.
 
@@ -1553,11 +1354,7 @@ levels.
 
 WATER DOMAIN
 
-**Granted Power:** Turn or destroy fire creatures as a good cleric turns
-undead. Rebuke, command, or bolster water creatures as an evil cleric
-rebukes undead. Use these abilities a total number of times per day
-equal to 3 + your Charisma modifier. This granted power is a
-supernatural ability.
+**Granted Power:** Turn or destroy fire creatures as a good cleric turns undead. Rebuke, command, or bolster water creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.
 
 # Water Domain Spells
 

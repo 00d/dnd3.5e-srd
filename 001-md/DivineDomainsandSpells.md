@@ -4,10 +4,7 @@
 
 #### ARTIFICE DOMAIN
 
-**Granted Power:** Gain +4 bonus on Craft checks. The character casts
-conjuration (creation) spells at +1 caster level. (Those with access to
-both the Artifice and Creation domains cast conjuration \[creation\]
-spells at +3 caster level.)
+**Granted Power:** Gain +4 bonus on Craft checks. The character casts conjuration (creation) spells at +1 caster level. (Those with access to both the Artifice and Creation domains cast conjuration \[creation\] spells at +3 caster level.)
 
 **Artifice Domain Spells**
 
@@ -31,9 +28,7 @@ spells at +3 caster level.)
 
 #### CHARM DOMAIN
 
-**Granted Power:** The character can boost his or her Charisma by 4
-points once per day. Activating this power is a free action. The
-Charisma increase lasts 1 minute.
+**Granted Power:** The character can boost his or her Charisma by 4 points once per day. Activating this power is a free action. The Charisma increase lasts 1 minute.
 
 **Charm Domain Spells**
 
@@ -57,8 +52,7 @@ Charisma increase lasts 1 minute.
 
 #### COMMUNITY DOMAIN
 
-**Granted Power:** Use *calm emotions *as a spell-like ability once per
-day. Gain a +2 competence bonus on Diplomacy checks.
+**Granted Power:** Use *calm emotions *as a spell-like ability once per day. Gain a +2 competence bonus on Diplomacy checks.
 
 **Community Domain Spells**
 
@@ -82,9 +76,7 @@ day. Gain a +2 competence bonus on Diplomacy checks.
 
 #### CREATION DOMAIN
 
-**Granted Power:** Cast conjuration (creation) spells at +2 caster
-level. (Those with access to both the Artifice and Creation domains cast
-conjuration (creation) spells at +3 caster level.)
+**Granted Power:** Cast conjuration (creation) spells at +2 caster level. (Those with access to both the Artifice and Creation domains cast conjuration (creation) spells at +3 caster level.)
 
 **Creation Domain Spells**
 
@@ -132,8 +124,7 @@ conjuration (creation) spells at +3 caster level.)
 
 #### GLORY DOMAIN
 
-**Granted Power:** Turn undead with a +2 bonus on the turning check and
-+1d6 to the turning damage roll.
+**Granted Power:** Turn undead with a +2 bonus on the turning check and +1d6 to the turning damage roll.
 
 **Glory Domain Spells**
 
@@ -157,8 +148,7 @@ conjuration (creation) spells at +3 caster level.)
 
 #### LIBERATION DOMAIN
 
-**Granted Power:** The character gains a +2 morale bonus on all saving
-throws against enchantment spells or effects.
+**Granted Power:** The character gains a +2 morale bonus on all saving throws against enchantment spells or effects.
 
 **Liberation Domain Spells**
 
@@ -182,18 +172,11 @@ throws against enchantment spells or effects.
 
 #### MADNESS DOMAIN
 
-**Granted Power:** The character gains an Insanity score equal to half
-his or her class level. For spellcasting (determining bonus spells and
-DCs), the character uses his or her Wisdom score plus his or her
-Insanity score in place of Wisdom alone.
+**Granted Power:** The character gains an Insanity score equal to half his or her class level. For spellcasting (determining bonus spells and DCs), the character uses his or her Wisdom score plus his or her Insanity score in place of Wisdom alone.
 
-For all other purposes, such as skills and saves, use Wisdom minus
-Insanity in place of Wisdom.
+For all other purposes, such as skills and saves, use Wisdom minus Insanity in place of Wisdom.
 
-Once per day, the character can see and act with the clarity of true
-madness. Use the character's Insanity score as a positive rather than a
-negative modifier on a single roll involving Wisdom. Choose to use this
-power before the roll is made.
+Once per day, the character can see and act with the clarity of true madness. Use the character's Insanity score as a positive rather than a negative modifier on a single roll involving Wisdom. Choose to use this power before the roll is made.
 
 **Madness Domain Spells**
 
@@ -217,12 +200,7 @@ power before the roll is made.
 
 #### NOBILITY DOMAIN
 
-**Granted Power:** The character has the spell-like ability to inspire
-allies, giving them a +2 morale bonus on saving throws, attack rolls,
-ability checks, skill checks, and weapon damage rolls. Allies must be
-able to hear the character speak for 1 round. Using this ability is a
-standard action. It lasts a number of rounds equal to the character's
-Charisma bonus and can be used once per day.
+**Granted Power:** The character has the spell-like ability to inspire allies, giving them a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds equal to the character's Charisma bonus and can be used once per day.
 
 **Nobility Domain Spells**
 
@@ -246,15 +224,9 @@ Charisma bonus and can be used once per day.
 
 #### REPOSE DOMAIN
 
-The Repose domain is similar to the Death domain,* *but is granted by
-good-aligned deities whose clerics are barred from casting evil spells.
+The Repose domain is similar to the Death domain,* *but is granted by good-aligned deities whose clerics are barred from casting evil spells.
 
-**Granted Power:** The character may use a *death touch *once per day.
-The *death touch *is a spell-like ability that is a death effect. The
-character must succeed at a melee touch attack against a living creature
-(using the rules for touch spells). When the character touches, roll 1d6
-per his or her cleric level. If the total at least equals the creature's
-current hit
+**Granted Power:** The character may use a *death touch *once per day. The *death touch *is a spell-like ability that is a death effect. The character must succeed at a melee touch attack against a living creature (using the rules for touch spells). When the character touches, roll 1d6 per his or her cleric level. If the total at least equals the creature's current hit
 
 points, it dies.
 
@@ -304,11 +276,9 @@ points, it dies.
 
 #### SCALYKIND DOMAIN
 
-**Granted Power:** Rebuke or command animals (reptilian creatures and
-snakes only) as an evil cleric rebukes or commands undead.
+**Granted Power:** Rebuke or command animals (reptilian creatures and snakes only) as an evil cleric rebukes or commands undead.
 
-Use this ability a total number of times per day equal to 3 + Charisma
-modifier.
+Use this ability a total number of times per day equal to 3 + Charisma modifier.
 
 **Scalykind Domain Spells**
 
@@ -378,15 +348,7 @@ Abjuration \[Darkness\]
 
 **Spell Resistance:** Yes (harmless)
 
-The spell envelops the warded creature in a shroud of shadows. The
-shroud can, if the caster desires, conceal the wearer's features. In any
-case, it grants the recipient a +3 deflection bonus to Armor Class plus
-an additional +1 for every four caster levels (maximum bonus +8). The
-subject can see through the armor as if it did not exist and is also
-afforded darkvision with a range of 60 feet. Finally, the subject gains
-a +2 bonus on saving throws against any holy, good, or light spells or
-effects.Undead creatures that are subjects of *armor of darkness *also
-gain +4 turn resistance.
+The spell envelops the warded creature in a shroud of shadows. The shroud can, if the caster desires, conceal the wearer's features. In any case, it grants the recipient a +3 deflection bonus to Armor Class plus an additional +1 for every four caster levels (maximum bonus +8). The subject can see through the armor as if it did not exist and is also afforded darkvision with a range of 60 feet. Finally, the subject gains a +2 bonus on saving throws against any holy, good, or light spells or effects.Undead creatures that are subjects of *armor of darkness *also gain +4 turn resistance.
 
 #### Blacklight
 
@@ -400,8 +362,7 @@ Evocation \[Darkness\]
 
 **Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Area:** A 20-ft.-radius emanation centered on a creature, object, or
-point in space
+**Area:** A 20-ft.-radius emanation centered on a creature, object, or point in space
 
 **Duration:** 1 round/level (D)
 
@@ -409,20 +370,11 @@ point in space
 
 **Spell Resistance:** Yes or no (object)
 
-The caster creates an area of total darkness. The darkness is
-impenetrable to normal vision and darkvision, but the caster can see
-normally within the blacklit area. Creatures outside the spell's area,
-even the caster, cannot see through it.
+The caster creates an area of total darkness. The darkness is impenetrable to normal vision and darkvision, but the caster can see normally within the blacklit area. Creatures outside the spell's area, even the caster, cannot see through it.
 
-The spell can be cast on a point in space, but the effect is stationary
-cast on a mobile object. A character can cast the spell on a creature,
-and the effect then radiates from the creature and moves as it moves.
-Unattended objects and points in space do not get saving throws or
-benefit from spell resistance.
+The spell can be cast on a point in space, but the effect is stationary cast on a mobile object. A character can cast the spell on a creature, and the effect then radiates from the creature and moves as it moves. Unattended objects and points in space do not get saving throws or benefit from spell resistance.
 
-*Blacklight *counters or dispels any light spell of equal or lower
-level. The 3rd-level cleric spell *daylight *counters or dispels
-*blackligh*t.
+*Blacklight *counters or dispels any light spell of equal or lower level. The 3rd-level cleric spell *daylight *counters or dispels *blackligh*t.
 
 #### Bolt Of Glory
 
@@ -444,10 +396,7 @@ Evocation \[Good\]
 
 **Spell Resistance:** Yes
 
-This spell projects a bolt of energy from the Positive Energy Plane
-against one creature. The caster must succeed at a ranged touch attack
-to strike the target. A creature struck suffers varying damage,
-depending on its nature and home plane of existence:
+This spell projects a bolt of energy from the Positive Energy Plane against one creature. The caster must succeed at a ranged touch attack to strike the target. A creature struck suffers varying damage, depending on its nature and home plane of existence:
 
   ------------------------------------------------------- -------------- -------------------
   **Creature's Origin/Nature**                            **Damage**     **Maximum Value**
@@ -479,11 +428,7 @@ Enchantment \[Mind-Affecting\]
 
 **Spell Resistance:** Yes
 
-This spell grants the caster the ability to make one ray attack per
-round. The ray dazes one living creature, clouding its mind so that it
-takes no action for 1d3 rounds. The creature is not stunned (so
-attackers get no special advantage against it), but it can't move, cast
-spells, use mental abilities, and so on.
+This spell grants the caster the ability to make one ray attack per round. The ray dazes one living creature, clouding its mind so that it takes no action for 1d3 rounds. The creature is not stunned (so attackers get no special advantage against it), but it can't move, cast spells, use mental abilities, and so on.
 
 #### Crown Of Glory
 
@@ -505,27 +450,11 @@ Evocation
 
 **Spell Resistance:** Yes
 
-The caster is imbued with an aura of celestial authority, inspiring awe
-in all lesser creatures.
+The caster is imbued with an aura of celestial authority, inspiring awe in all lesser creatures.
 
-The caster gains a +4 enhancement bonus to his or her Charisma score for
-the duration of the spell. All creatures with fewer than 8 HD or levels
-cease whatever they are doing and are compelled to pay attention to the
-caster. Any such creature that wants to take hostile action against the
-caster must make a successful Will save to do so. Any creature that does
-not make this saving throw the first time it attempts a hostile action
-is *enthralled *for the duration of the spell (as the *enthrall *spell),
-as long as it is in the spell's area, nor will it try to leave the area
-on its own. Creatures with 8 HD or more may pay attention to the caster,
-but are not affected by this spell.
+The caster gains a +4 enhancement bonus to his or her Charisma score for the duration of the spell. All creatures with fewer than 8 HD or levels cease whatever they are doing and are compelled to pay attention to the caster. Any such creature that wants to take hostile action against the caster must make a successful Will save to do so. Any creature that does not make this saving throw the first time it attempts a hostile action is *enthralled *for the duration of the spell (as the *enthrall *spell), as long as it is in the spell's area, nor will it try to leave the area on its own. Creatures with 8 HD or more may pay attention to the caster, but are not affected by this spell.
 
-When the caster speaks, all listeners telepathically understand him or
-her, even if they do not understand the language. While the spell lasts,
-the caster can make up to three suggestions to creatures of fewer than 8
-HD in range, as if using the *mass suggestion *spell (Will save
-negates); creatures with 8 HD or more aren't affected by this power.
-Only creatures within range at the time a *suggestion *is given are
-subject to it.
+When the caster speaks, all listeners telepathically understand him or her, even if they do not understand the language. While the spell lasts, the caster can make up to three suggestions to creatures of fewer than 8 HD in range, as if using the *mass suggestion *spell (Will save negates); creatures with 8 HD or more aren't affected by this power. Only creatures within range at the time a *suggestion *is given are subject to it.
 
 *Material Component: *worth at least 200 gp.
 
@@ -549,32 +478,15 @@ Conjuration (Creation)
 
 **Spell Resistance:** No
 
-This spell creates an immobile, finite plane with limited access---a
-demi-plane.
+This spell creates an immobile, finite plane with limited access---a demi-plane.
 
-Demiplanes created by this power are very small, minor planes. A
-character can cast this spell only on the Ethereal Plane. When he or she
-casts it, a local density fluctuation precipitates the creation of a
-demiplane. At first, the demiplane grows at a rate of a 1-foot-radius
-per day to an initial maximum radius of 180 feet as the fledgling plane
-draws substance from surrounding ethereal vapors and protomatter or
-astral ectoplasm.
+Demiplanes created by this power are very small, minor planes. A character can cast this spell only on the Ethereal Plane. When he or she casts it, a local density fluctuation precipitates the creation of a demiplane. At first, the demiplane grows at a rate of a 1-foot-radius per day to an initial maximum radius of 180 feet as the fledgling plane draws substance from surrounding ethereal vapors and protomatter or astral ectoplasm.
 
-The character determines the environment in the demiplane when he or she
-first casts *genesi*s, reflecting most any desire he or she can
-visualize. The caster determines factors such as atmosphere, water,
-temperature, and the shape of the general terrain. However, the spell
-cannot create life, nor can it create construction. If desired, these
-must be brought in by some other fashion.
+The character determines the environment in the demiplane when he or she first casts *genesi*s, reflecting most any desire he or she can visualize. The caster determines factors such as atmosphere, water, temperature, and the shape of the general terrain. However, the spell cannot create life, nor can it create construction. If desired, these must be brought in by some other fashion.
 
-Once the basic demiplane reaches its maximum size, the character can
-continue to cast this spell to enlarge the demiplane if he or she is
-inside the boundaries of the demiplane. In such a case, the radiusof the
-demiplane increases by 60 feet for each subsequent casting.
+Once the basic demiplane reaches its maximum size, the character can continue to cast this spell to enlarge the demiplane if he or she is inside the boundaries of the demiplane. In such a case, the radiusof the demiplane increases by 60 feet for each subsequent casting.
 
-If the spell is cast again while outside an existing demi-plane, the
-casting creates a separate bubble that does not touch or overlap any
-previously created demiplane.
+If the spell is cast again while outside an existing demi-plane, the casting creates a separate bubble that does not touch or overlap any previously created demiplane.
 
 *XP Cost: *5,000 XP.
 
@@ -600,18 +512,13 @@ Transmutation
 
 **Spell Resistance:** Yes (object)
 
-This spell increases the hardness of materials. For every two caster
-levels, increase by 1 the hardness of the material targeted by the
-spell. This hardness increase improves only the material's resistance to
-damage. Nothing else is modified by the improvement.
+This spell increases the hardness of materials. For every two caster levels, increase by 1 the hardness of the material targeted by the spell. This hardness increase improves only the material's resistance to damage. Nothing else is modified by the improvement.
 
-The *hardening *spell does not in any way affect resistance to other
-forms of transformation.
+The *hardening *spell does not in any way affect resistance to other forms of transformation.
 
 This spell affects up to 10 cubic feet per level of the spellcaster.
 
-If cast upon a metal or mineral, the volume is reduced to 1 cubic foot
-per level.
+If cast upon a metal or mineral, the volume is reduced to 1 cubic foot per level.
 
 #### Maddening Scream
 
@@ -633,13 +540,9 @@ Enchantment (Compulsion) \[Mind-Affecting\]
 
 **Spell Resistance:** Yes
 
-The subject cannot keep him or herself from behaving as though
-completely mad. This spell makes it impossible for the victim to do
-anything other than race about caterwauling.
+The subject cannot keep him or herself from behaving as though completely mad. This spell makes it impossible for the victim to do anything other than race about caterwauling.
 
-The effect worsens the Armor Class of the creature by 4, makes Reflex
-saving throws impossible except on a roll of 20, and makes it impossible
-to use a shield.
+The effect worsens the Armor Class of the creature by 4, makes Reflex saving throws impossible except on a roll of 20, and makes it impossible to use a shield.
 
 #### Rage
 
@@ -661,10 +564,7 @@ Enchantment
 
 **Spell Resistance:** Yes (harmless)
 
-The caster can put a creature into a blood frenzy. In this rage, the
-creature gains +4 to Strength, +4 to Constitution, and a +2 morale bonus
-on Will saves. (Unlike a barbarian rage, no penalty to AC is suffered,
-and no fatigue period occurs after the rage is over.)
+The caster can put a creature into a blood frenzy. In this rage, the creature gains +4 to Strength, +4 to Constitution, and a +2 morale bonus on Will saves. (Unlike a barbarian rage, no penalty to AC is suffered, and no fatigue period occurs after the rage is over.)
 
 #### Surelife
 
@@ -682,17 +582,7 @@ Abjuration
 
 **Duration:** 1 minute/2 levels
 
-This spell allows the caster to protect him or herself against some
-condition that would ordinarily cause certain death. The character can
-only protect him or herself against a natural occurrence or condition,
-not against a spell or the action of a creature. The character must
-specify the condition against which he or she wishes to protect him or
-herself, and the spell is effective only against that condition. Should
-the character be subjected to that condition during the duration of the
-spell, he or she feels no discomfort and takes no damage from the
-condition. However, the spell does not protect any items carried on the
-caster's person. At the end of the spell's duration, the condition has
-full normal effects if the character is still subjected to it.
+This spell allows the caster to protect him or herself against some condition that would ordinarily cause certain death. The character can only protect him or herself against a natural occurrence or condition, not against a spell or the action of a creature. The character must specify the condition against which he or she wishes to protect him or herself, and the spell is effective only against that condition. Should the character be subjected to that condition during the duration of the spell, he or she feels no discomfort and takes no damage from the condition. However, the spell does not protect any items carried on the caster's person. At the end of the spell's duration, the condition has full normal effects if the character is still subjected to it.
 
 #### Touch Of Madness
 
@@ -714,12 +604,7 @@ Enchantment \[Mind-Affecting\]
 
 **Spell Resistance:** Yes
 
-The caster may daze one living creature by making a successful touch
-attack. If the target creature does not make a successful Will save, its
-mind is clouded and it takes no action for 1 round per caster level. The
-dazed subject is not stunned (so attackers get no special advantage
-against it), but it can't move, cast spells, use mental abilities, and
-so on.
+The caster may daze one living creature by making a successful touch attack. If the target creature does not make a successful Will save, its mind is clouded and it takes no action for 1 round per caster level. The dazed subject is not stunned (so attackers get no special advantage against it), but it can't move, cast spells, use mental abilities, and so on.
 
 #### True Creation
 
@@ -743,19 +628,11 @@ Conjuration (Creation)
 
 **Spell Resistance:** No
 
-The caster creates a nonmagical, unattended object of any sort of
-matter. Items created are permanent and cannot be negated by dispelling
-magics or negating powers. For all intents and purposes, these items are
-completely real. The volume of the item created cannot exceed 1 cubic
-foot per caster level. The caster must succeed at an appropriate skill
-check to make a complex item.
+The caster creates a nonmagical, unattended object of any sort of matter. Items created are permanent and cannot be negated by dispelling magics or negating powers. For all intents and purposes, these items are completely real. The volume of the item created cannot exceed 1 cubic foot per caster level. The caster must succeed at an appropriate skill check to make a complex item.
 
-Unlike the items brought into being by the lower-level spells *minor
-creation *and *major creatio*n, objects created by the casting of *true
-creation *can be used as material components.
+Unlike the items brought into being by the lower-level spells *minor creation *and *major creatio*n, objects created by the casting of *true creation *can be used as material components.
 
-*XP Cost: *The item's gold piece value in XP, or a minimum of 1 XP,
-whichever is more.
+*XP Cost: *The item's gold piece value in XP, or a minimum of 1 XP, whichever is more.
 
 #### Undeath To Death
 
@@ -777,10 +654,6 @@ Necromancy
 
 **Spell Resistance:** Yes
 
-*Undeath to death *snuffs out the animating forces of undead creatures,
-killing them instantly. The spell slays 1d4 HD worth of undead creatures
-per caster level (maximum 20d4). Creatures with the fewest HD are
-affected first; among creatures with equal HD, those closest to the
-point of origin of the burst are affected first.
+*Undeath to death *snuffs out the animating forces of undead creatures, killing them instantly. The spell slays 1d4 HD worth of undead creatures per caster level (maximum 20d4). Creatures with the fewest HD are affected first; among creatures with equal HD, those closest to the point of origin of the burst are affected first.
 
 *Material Component: *worth at least 500 gp.

@@ -1,5 +1,4 @@
-[This material is Open Game Content, and is licensed for public use
-under the terms of the Open Game License v1.0a.]{.underline}
+[This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.]{.underline}
 
 EPIC MONSTERS (A-E)
 
@@ -7,151 +6,61 @@ EPIC MONSTERS (A-E)
 
 BUILDING ABOMINATIONS
 
-Abominations are a grouping of the outsider type in the same way that
-demons are a grouping of the outsider type. The accompanying table
-indicates the average values an abomination of a given size might have
-for its basic physical scores. Abominations also share several other
-characteristics.
+Abominations are a grouping of the outsider type in the same way that demons are a grouping of the outsider type. The accompanying table indicates the average values an abomination of a given size might have for its basic physical scores. Abominations also share several other characteristics.
 
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| # [Si | **    | **    | **    | **\#  | **S   | **B   | **C   | **G   |
-| ze]{. | Str** | Dex** | Con** | of    | lam** | ite** | law** | ore** |
-| under |       |       |       | HD**  |       |       |       |       |
-| line} |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-|       |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| [Fi   | [12-- | [26-- | [12-- | [4    | [-    | [1    | [1    | [1    |
-| ne]{. | 13]{. | 27]{. | 13]{. | d8--9 | --]{. | d6]{. | d4]{. | d4]{. |
-| under | under | under | under | d8]{. | under | under | under | under |
-| line} | line} | line} | line} | under | line} | line} | line} | line} |
-|       |       |       |       | line} |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| [Dim  | [14-- | [24-- | [14-- | [7d   | [1    | [1    | [1    | [1    |
-| inuti | 15]{. | 25]{. | 15]{. | 8--13 | d4]{. | d8]{. | d6]{. | d6]{. |
-| ve]{. | under | under | under | d8]{. | under | under | under | under |
-| under | line} | line} | line} | under | line} | line} | line} | line} |
-| line} |       |       |       | line} |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| [Ti   | [18-- | [22-- | [16-- | [10d  | [1    | [2    | [1    | [1    |
-| ny]{. | 19]{. | 23]{. | 17]{. | 8--21 | d6]{. | d6]{. | d8]{. | d8]{. |
-| under | under | under | under | d8]{. | under | under | under | under |
-| line} | line} | line} | line} | under | line} | line} | line} | line} |
-|       |       |       |       | line} |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| [Sma  | [26-- | [20-- | [20-- | [19d  | [1    | [2    | [2    | [2    |
-| ll]{. | 27]{. | 21]{. | 21]{. | 8--33 | d8]{. | d8]{. | d6]{. | d6]{. |
-| under | under | under | under | d8]{. | under | under | under | under |
-| line} | line} | line} | line} | under | line} | line} | line} | line} |
-|       |       |       |       | line} |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| [Medi | [34-- | [18-- | [24-- | [27d  | [2    | [4    | [2    | [2    |
-| um-si | 35]{. | 19]{. | 25]{. | 8--38 | d6]{. | d6]{. | d8]{. | d8]{. |
-| ze]{. | under | under | under | d8]{. | under | under | under | under |
-| under | line} | line} | line} | under | line} | line} | line} | line} |
-| line} |       |       |       | line} |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| [Lar  | [42-- | [16-- | [28-- | [36d8 | [2    | [4    | [4    | [4    |
-| ge]{. | 43]{. | 17]{. | 29]{. | --50d | d8]{. | d8]{. | d6]{. | d6]{. |
-| under | under | under | under | 8+]{. | under | under | under | under |
-| line} | line} | line} | line} | under | line} | line} | line} | line} |
-|       |       |       |       | line} |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| [Hu   | [50-- | [14-- | [32-- | [47d8 | [4    | [8    | [4    | [4    |
-| ge]{. | 51]{. | 15]{. | 33]{. | --58d | d6]{. | d6]{. | d8]{. | d8]{. |
-| under | under | under | under | 8+]{. | under | under | under | under |
-| line} | line} | line} | line} | under | line} | line} | line} | line} |
-|       |       |       |       | line} |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| [Gar  | [58-- | [12-- | [36-- | [56d8 | [4    | [8    | [8    | [8    |
-| gantu | 59]{. | 13]{. | 37]{. | --70d | d8]{. | d8]{. | d6]{. | d6]{. |
-| an]{. | under | under | under | 8+]{. | under | under | under | under |
-| under | line} | line} | line} | under | line} | line} | line} | line} |
-| line} |       |       |       | line} |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-|       |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-| [C    | [66-- | [10-- | [40-- | [71d  | [8    | [16   | [8    | [8    |
-| oloss | 67]{. | 11]{. | 41]{. | 8+]{. | d6]{. | d6]{. | d8]{. | d8]{. |
-| al]{. | under | under | under | under | under | under | under | under |
-| under | line} | line} | line} | line} | line} | line} | line} | line} |
-| line} |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
-|       |       |       |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+-------+
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+| # [Size]{.underline}      | **Str**              | **Dex**              | **Con**              | **\# of HD**              | **Slam**          | **Bite**           | **Claw**          | **Gore**          |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+|                           |                      |                      |                      |                           |                   |                    |                   |                   |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+| [Fine]{.underline}        | [12--13]{.underline} | [26--27]{.underline} | [12--13]{.underline} | [4d8--9d8]{.underline}    | [---]{.underline} | [1d6]{.underline}  | [1d4]{.underline} | [1d4]{.underline} |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+| [Diminutive]{.underline}  | [14--15]{.underline} | [24--25]{.underline} | [14--15]{.underline} | [7d8--13d8]{.underline}   | [1d4]{.underline} | [1d8]{.underline}  | [1d6]{.underline} | [1d6]{.underline} |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+| [Tiny]{.underline}        | [18--19]{.underline} | [22--23]{.underline} | [16--17]{.underline} | [10d8--21d8]{.underline}  | [1d6]{.underline} | [2d6]{.underline}  | [1d8]{.underline} | [1d8]{.underline} |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+| [Small]{.underline}       | [26--27]{.underline} | [20--21]{.underline} | [20--21]{.underline} | [19d8--33d8]{.underline}  | [1d8]{.underline} | [2d8]{.underline}  | [2d6]{.underline} | [2d6]{.underline} |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+| [Medium-size]{.underline} | [34--35]{.underline} | [18--19]{.underline} | [24--25]{.underline} | [27d8--38d8]{.underline}  | [2d6]{.underline} | [4d6]{.underline}  | [2d8]{.underline} | [2d8]{.underline} |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+| [Large]{.underline}       | [42--43]{.underline} | [16--17]{.underline} | [28--29]{.underline} | [36d8--50d8+]{.underline} | [2d8]{.underline} | [4d8]{.underline}  | [4d6]{.underline} | [4d6]{.underline} |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+| [Huge]{.underline}        | [50--51]{.underline} | [14--15]{.underline} | [32--33]{.underline} | [47d8--58d8+]{.underline} | [4d6]{.underline} | [8d6]{.underline}  | [4d8]{.underline} | [4d8]{.underline} |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+| [Gargantuan]{.underline}  | [58--59]{.underline} | [12--13]{.underline} | [36--37]{.underline} | [56d8--70d8+]{.underline} | [4d8]{.underline} | [8d8]{.underline}  | [8d6]{.underline} | [8d6]{.underline} |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+|                           |                      |                      |                      |                           |                   |                    |                   |                   |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+| [Colossal]{.underline}    | [66--67]{.underline} | [10--11]{.underline} | [40--41]{.underline} | [71d8+]{.underline}       | [8d6]{.underline} | [16d6]{.underline} | [8d8]{.underline} | [8d8]{.underline} |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
+|                           |                      |                      |                      |                           |                   |                    |                   |                   |
++---------------------------+----------------------+----------------------+----------------------+---------------------------+-------------------+--------------------+-------------------+-------------------+
 
 **[Abomination Traits]{.underline}**
 
-[All abominations are born directly (or indirectly) from a god and some
-lesser creature (or idea), but none are favored, wanted, or loved.
-Still, they all share a tiny spark of deific energy, which grants them
-the qualities described in below. (Note: deity rules are
-used]{.underline}*[, ]{.underline}*[abominations are rank 0 deities.)
-]{.underline}
+[All abominations are born directly (or indirectly) from a god and some lesser creature (or idea), but none are favored, wanted, or loved. Still, they all share a tiny spark of deific energy, which grants them the qualities described in below. (Note: deity rules are used]{.underline}*[, ]{.underline}*[abominations are rank 0 deities.) ]{.underline}
 
-**[Immunities (Ex):]{.underline}**[ Abominations are immune to
-polymorphing, petrification, or any form-altering attack. They are not
-subject to energy drain, ability drain, or ability damage. They are
-immune to mind-affecting effects (charms, compulsions, phantasms,
-patterns, and morale effects), and are immune to one of five energy
-types (specific to the abomination). ]{.underline}
+**[Immunities (Ex):]{.underline}**[ Abominations are immune to polymorphing, petrification, or any form-altering attack. They are not subject to energy drain, ability drain, or ability damage. They are immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and are immune to one of five energy types (specific to the abomination). ]{.underline}
 
-**[Resistances (Ex):]{.underline}**[ Abominations have fire resistance
-20, cold resistance 20, and damage reduction of at least 10/epic
-(certain abominations have higher damage reduction). Abominations all
-have significant spell resistance. Abominations resist detection, and
-are all treated as if affected by a ]{.underline}*[nondetection
-]{.underline}*[spell of a caster level equal to the abomination's HD.
-]{.underline}
+**[Resistances (Ex):]{.underline}**[ Abominations have fire resistance 20, cold resistance 20, and damage reduction of at least 10/epic (certain abominations have higher damage reduction). Abominations all have significant spell resistance. Abominations resist detection, and are all treated as if affected by a ]{.underline}*[nondetection ]{.underline}*[spell of a caster level equal to the abomination's HD. ]{.underline}
 
-**[Special Qualities (Ex):]{.underline}**[ All abominations have the
-spell-like ability to use ]{.underline}*[true seeing ]{.underline}*[at
-will. Abominations are not subject to death from massive damage, and
-they have maximum hit points per Hit Die. Abominations have the
-blindsight extraordinary ability to a range of 500 feet. Abominations
-can choose both nonepic and epic feats as part of their feat selection.
-]{.underline}
+**[Special Qualities (Ex):]{.underline}**[ All abominations have the spell-like ability to use ]{.underline}*[true seeing ]{.underline}*[at will. Abominations are not subject to death from massive damage, and they have maximum hit points per Hit Die. Abominations have the blindsight extraordinary ability to a range of 500 feet. Abominations can choose both nonepic and epic feats as part of their feat selection. ]{.underline}
 
-**[Telepathy (Su):]{.underline}**[ Abominations can communicate
-telepathically with any creature within 1,000 feet that has a language.
-]{.underline}
+**[Telepathy (Su):]{.underline}**[ Abominations can communicate telepathically with any creature within 1,000 feet that has a language. ]{.underline}
 
-***[Summon Creature ]{.underline}*[(Sp):]{.underline}**[ Abominations
-can summon creatures associated either with the portfolio of their godly
-progenitor or with their imprisonment. Summoned creatures serve the
-abomination without question. Summoned creatures automatically return
-whence they came after 1 hour, or sooner if slain. See specific
-abomination entries for additional details on summoning. ]{.underline}
+***[Summon Creature ]{.underline}*[(Sp):]{.underline}**[ Abominations can summon creatures associated either with the portfolio of their godly progenitor or with their imprisonment. Summoned creatures serve the abomination without question. Summoned creatures automatically return whence they came after 1 hour, or sooner if slain. See specific abomination entries for additional details on summoning. ]{.underline}
 
-**[Fast Healing and Regeneration: ]{.underline}**[Most abominations have
-some measure of fast healing and regeneration, ranging from 5 to 55 for
-both abilities. Usually, higher HD abominations have higher values for
-fast healing and regeneration, though this not always the case. If an
-abomination has regeneration, it is usually subject to normal damage
-from at least two sources, one of which is the antithesis for their
-subtype, and the other of which is somehow tied to some unique feature
-of the abomination. ]{.underline}
+**[Fast Healing and Regeneration: ]{.underline}**[Most abominations have some measure of fast healing and regeneration, ranging from 5 to 55 for both abilities. Usually, higher HD abominations have higher values for fast healing and regeneration, though this not always the case. If an abomination has regeneration, it is usually subject to normal damage from at least two sources, one of which is the antithesis for their subtype, and the other of which is somehow tied to some unique feature of the abomination. ]{.underline}
 
-**[Natural Armor: ]{.underline}**[All abominations have some degree of
-natural armor bonus ranging from +10 to +100. Usually, higher HD
-abominations have higher natural armor bonuses, but this is not always
-the case. ]{.underline}
+**[Natural Armor: ]{.underline}**[All abominations have some degree of natural armor bonus ranging from +10 to +100. Usually, higher HD abominations have higher natural armor bonuses, but this is not always the case. ]{.underline}
 
-**[Spell-Like Abilities: ]{.underline}**[All abominations have access to
-a variety of spells in the form of spell-like abilities, which they can
-use as 20th- or higher-level casters, depending on the abomination. No
-rule governs how many or how few spell-like abilities an abomination may
-claim. ]{.underline}
+**[Spell-Like Abilities: ]{.underline}**[All abominations have access to a variety of spells in the form of spell-like abilities, which they can use as 20th- or higher-level casters, depending on the abomination. No rule governs how many or how few spell-like abilities an abomination may claim. ]{.underline}
 
-**[Unique Abilities: ]{.underline}**[All abominations have at least one
-or more unique abilities tied to their godly parent's portfolio, or to
-the manner of their incarceration. ]{.underline}
+**[Unique Abilities: ]{.underline}**[All abominations have at least one or more unique abilities tied to their godly parent's portfolio, or to the manner of their incarceration. ]{.underline}
 
-**[Spell Resistance: ]{.underline}**[As a general rule of thumb,
-abominations have spell resistance equal to their CR +12. ]{.underline}
+**[Spell Resistance: ]{.underline}**[As a general rule of thumb, abominations have spell resistance equal to their CR +12. ]{.underline}
 
-[Abominations speak Abyssal, Celestial, Infernal, and often a language
-associated with their imprisonment. ]{.underline}
+[Abominations speak Abyssal, Celestial, Infernal, and often a language associated with their imprisonment. ]{.underline}
 
 ######## [ANAXIM]{.underline}
 
@@ -183,44 +92,23 @@ associated with their imprisonment. ]{.underline}
                                            
   ---------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[An anaxim's natural weapons are treated as epic and lawful-aligned for
-the purpose of overcoming damage reduction.]{.underline}
+[An anaxim's natural weapons are treated as epic and lawful-aligned for the purpose of overcoming damage reduction.]{.underline}
 
 # [Combat]{.underline}**[ ]{.underline}**
 
-**Sonic Blast (Ex):** As a standard action, an anaxim can emit a 60-foot
-cone of sonic energy that deals 20d6 points of sonic damage to all
-creatures that fail a Reflex save (DC 29); those that succeed take half
-damage.
+**Sonic Blast (Ex):** As a standard action, an anaxim can emit a 60-foot cone of sonic energy that deals 20d6 points of sonic damage to all creatures that fail a Reflex save (DC 29); those that succeed take half damage.
 
 The save DC is Constitution-based
 
-**Rend (Ex):** If the anaxim hits with both spinning blades, it slices
-particularly well. This attack automatically deals an additional 4d6+18
-points of damage.
+**Rend (Ex):** If the anaxim hits with both spinning blades, it slices particularly well. This attack automatically deals an additional 4d6+18 points of damage.
 
-**Spell-Like Abilities:** At will---*greater dispel magic, displacement*
-(DC 18)*, greater invisibility* (DC 19)*, ethereal jaunt. *Caster level
-22nd. The save DCs are Charisma-based.
+**Spell-Like Abilities:** At will---*greater dispel magic, displacement* (DC 18)*, greater invisibility* (DC 19)*, ethereal jaunt. *Caster level 22nd. The save DCs are Charisma-based.
 
-***Summon Iron Golem *(Sp):** An anaxim can summon an iron golem up to
-four times per day.
+***Summon Iron Golem *(Sp):** An anaxim can summon an iron golem up to four times per day.
 
-**Abomination Traits:** Immune to polymorphing, petrification, and other
-form-altering attacks; not subject to energy drain, ability drain,
-ability damage, or death from massive damage; immune to mind-affecting
-effects; fire resistance 20; cold resistance 20; nondetection; true
-seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft.
+**Abomination Traits:** Immune to polymorphing, petrification, and other form-altering attacks; not subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft.
 
-**Construct Traits:** Immune to mind-affecting effects (charms,
-compulsions, phantasms, patterns, and morale effects), and to poison,
-*sleep, *paralysis, stunning, disease, death effects, necromantic
-effects, and any effect that requires a Fortitude save unless it also
-works on objects. Cannot heal damage (though regeneration and fast
-healing still apply, if present). Not subject to critical hits, subdual
-damage, ability damage, ability drain, or energy drain. Not at risk of
-death from massive damage, but destroyed when reduced to 0 hit points or
-less; cannot be raised or resurrected. Darkvision 60 ft.
+**Construct Traits:** Immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and to poison, *sleep, *paralysis, stunning, disease, death effects, necromantic effects, and any effect that requires a Fortitude save unless it also works on objects. Cannot heal damage (though regeneration and fast healing still apply, if present). Not subject to critical hits, subdual damage, ability damage, ability drain, or energy drain. Not at risk of death from massive damage, but destroyed when reduced to 0 hit points or less; cannot be raised or resurrected. Darkvision 60 ft.
 
 ######### [ATROPAL ]{.underline}
 
@@ -252,73 +140,29 @@ less; cannot be raised or resurrected. Darkvision 60 ft.
                                                         
   ----------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[An atropal's natural weapons are treated as epic, evil, and
-lawful-aligned for the purpose of overcoming damage
-reduction.]{.underline}
+[An atropal's natural weapons are treated as epic, evil, and lawful-aligned for the purpose of overcoming damage reduction.]{.underline}
 
 # [Combat]{.underline}**[ ]{.underline}**
 
-**Spell-Like Abilities:** At will---*animate dead, blasphemy, create
-greater undead, create undead, cone of cold, desecrate, greater
-dispelling, finger of death, improved invisibility, plane shift, slay
-living, speak with dead, spectral hand, teleport with-out error, unholy
-aur*a; 5/day---*haste, project image, weird. *Caster level 30th; save DC
-26 + spell level.
+**Spell-Like Abilities:** At will---*animate dead, blasphemy, create greater undead, create undead, cone of cold, desecrate, greater dispelling, finger of death, improved invisibility, plane shift, slay living, speak with dead, spectral hand, teleport with-out error, unholy aur*a; 5/day---*haste, project image, weird. *Caster level 30th; save DC 26 + spell level.
 
 The save DCs are Charisma-based
 
-**Rebuke/Command Undead (Su):** Atropals can rebuke or command undead as
-a cleric with a level equal to the atropal's HD + 6.
+**Rebuke/Command Undead (Su):** Atropals can rebuke or command undead as a cleric with a level equal to the atropal's HD + 6.
 
-**Negative Energy Aura (Su):** A 30-foot-radius spread negative energy
-aura spreads from each atropal. All undead in the field (including the
-atropal) are treated as if having turn resistance +20 and a negative
-energy version of fast healing 20. Living creatures in the aura are
-treated as having ten negative levels unless they have some sort of
-negative energy protection or protection from evil. Creatures with 10 or
-fewer HD or levels perish (and, at the atropal's option, rise as
-spectres under the atropal's command 1 minute later).
+**Negative Energy Aura (Su):** A 30-foot-radius spread negative energy aura spreads from each atropal. All undead in the field (including the atropal) are treated as if having turn resistance +20 and a negative energy version of fast healing 20. Living creatures in the aura are treated as having ten negative levels unless they have some sort of negative energy protection or protection from evil. Creatures with 10 or fewer HD or levels perish (and, at the atropal's option, rise as spectres under the atropal's command 1 minute later).
 
-**Constitution Drain (Su):** When the atropal hits a living opponent
-with a touch attack, the opponent takes 5 points of permanent
-Constitution drain, or 10 points on a critical hit. The atropal heals 20
-points of damage, or 40 points on a critical hit, whenever it drains
-Constitution, gaining any excess as temporary hit points. These
-temporary hit points last a maximum of 1 hour. The attack allows a
-Fortitude save (DC 59). The DC is Charisma-based.
+**Constitution Drain (Su):** When the atropal hits a living opponent with a touch attack, the opponent takes 5 points of permanent Constitution drain, or 10 points on a critical hit. The atropal heals 20 points of damage, or 40 points on a critical hit, whenever it drains Constitution, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. The attack allows a Fortitude save (DC 59). The DC is Charisma-based.
 
-**Energy Drain (Su): **When the atropal hits with a ranged touch attack
-(a ray of darkness that it shoots from one eye to a range of 400 feet),
-the resultant energy drain bestows four negative levels, or eight
-negative levels on a critical hit. For each negative level bestowed on
-an opponent, the atropal heals 10 points of damage, or 20 on a critical
-hit, gaining any excess as temporary hit points. These temporary hit
-points last a maximum of 1 hour. After 24 hours have passed, the
-afflicted opponent must attempt a Fortitude save (DC 59) for each
-negative level. If successful, the negative level goes away with no harm
-to the creature; otherwise, the creature's level decreases by one. The
-DC is Charisma-based.
+**Energy Drain (Su): **When the atropal hits with a ranged touch attack (a ray of darkness that it shoots from one eye to a range of 400 feet), the resultant energy drain bestows four negative levels, or eight negative levels on a critical hit. For each negative level bestowed on an opponent, the atropal heals 10 points of damage, or 20 on a critical hit, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. After 24 hours have passed, the afflicted opponent must attempt a Fortitude save (DC 59) for each negative level. If successful, the negative level goes away with no harm to the creature; otherwise, the creature's level decreases by one. The DC is Charisma-based.
 
-**Regeneration (Ex):** Atropals take normal damage from good weapons or
-sentient weapons (or otherwise living weapons).
+**Regeneration (Ex):** Atropals take normal damage from good weapons or sentient weapons (or otherwise living weapons).
 
-***Summon Nightcrawler *(Sp): **Five times per day an atropal can summon
-a nightcrawler.
+***Summon Nightcrawler *(Sp): **Five times per day an atropal can summon a nightcrawler.
 
-**Abomination Traits:** Immune to polymorphing, petrification, and other
-form-altering attacks; not subject to energy drain, ability drain,
-ability damage, or death from massive damage; immune to mind-affecting
-effects; fire resistance 20; cold resistance 20; nondetection; true
-seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft.
+**Abomination Traits:** Immune to polymorphing, petrification, and other form-altering attacks; not subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft.
 
-**Undead Traits:** Immune to poison, *sleep, *paralysis, stunning,
-disease, death, effects, necromantic effects, mind-affecting effects,
-and any effect requiring a Fortitude save unless it also works on
-objects. Not subject to critical hits, subdual damage, ability damage,
-ability drain, or energy drain. Negative energy heals. Not at risk of
-death from massive damage, but destroyed at 0 hit points or less.
-Darkvision 60 ft. Cannot be raised; resurrection works only if creature
-is willing.
+**Undead Traits:** Immune to poison, *sleep, *paralysis, stunning, disease, death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual damage, ability damage, ability drain, or energy drain. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
 
 ######## [CHICHIMEC]{.underline}
 
@@ -350,33 +194,17 @@ is willing.
                                                            
   -------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[An chichimec's natural weapons are treated as epic and evil-aligned for
-the purpose of overcoming damage reduction.]{.underline}
+[An chichimec's natural weapons are treated as epic and evil-aligned for the purpose of overcoming damage reduction.]{.underline}
 
 # [Combat]{.underline}**[ ]{.underline}**
 
-**Spell-Like Abilities:** At will---*darkness, telekinesis;
-*3/da*y---improved invisibility, control weather, call lightning,
-lightning bolt, chain lightning, wail of the banshe*e. Caster level
-20th; save DC 20 + spell level. The DC is Charisma-based.
+**Spell-Like Abilities:** At will---*darkness, telekinesis; *3/da*y---improved invisibility, control weather, call lightning, lightning bolt, chain lightning, wail of the banshe*e. Caster level 20th; save DC 20 + spell level. The DC is Charisma-based.
 
-***Summon Air Elemental *(Sp):** Three times per day a chichimec can
-summon an elder air elemental.
+***Summon Air Elemental *(Sp):** Three times per day a chichimec can summon an elder air elemental.
 
-**Charisma Drain (Su):** This effect permanently reduces a living
-opponent's Charisma score by 2 points when the chichimec hits with a
-tail slam, or 4 points on a critical hit. The chichimec heals 10 points
-of damage, or 20 on a critical hit, whenever it drains Charisma, gaining
-any excess as temporary hit points. These temporary hit points last a
-maximum of 1 hour. The attack allows a Fortitude save (DC 33)---on a
-successful save, only 1 point of Charisma is drained and the chichimec
-heals 5 points of damage. The DC is Charisma-based.
+**Charisma Drain (Su):** This effect permanently reduces a living opponent's Charisma score by 2 points when the chichimec hits with a tail slam, or 4 points on a critical hit. The chichimec heals 10 points of damage, or 20 on a critical hit, whenever it drains Charisma, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. The attack allows a Fortitude save (DC 33)---on a successful save, only 1 point of Charisma is drained and the chichimec heals 5 points of damage. The DC is Charisma-based.
 
-**Abomination Traits:** Immune to polymorphing, petrification, and other
-form-altering attacks; not subject to energy drain, ability drain,
-ability damage, or death from massive damage; immune to mind-affecting
-effects; fire resistance 20; cold resistance 20; nondetection; true
-seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft.
+**Abomination Traits:** Immune to polymorphing, petrification, and other form-altering attacks; not subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft.
 
 ######## [DREAM LARVA ]{.underline}
 
@@ -408,70 +236,23 @@ seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft.
                                            
   ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[A dream larvas's natural weapons are treated as epic, evil, and
-chaotic-aligned for the purpose of overcoming damage
-reduction.]{.underline}
+[A dream larvas's natural weapons are treated as epic, evil, and chaotic-aligned for the purpose of overcoming damage reduction.]{.underline}
 
 [Combat]{.underline}**[ ]{.underline}**
 
-**[Worst Nightmare (Su):]{.underline}**[ Each time a living creature
-first views a specific dream larva from a distance of 30 feet or less
-(or from a scrying effect), the subject sees the image of the most
-fearsome creature imaginable. This is not an illusion or phantasm; the
-dream larva truly becomes, for just that instant, the subject's worst
-nightmare. Even if simultaneously viewed by dozens of different
-creatures, the dream larva appears differently to each one of them.
-Creatures immune to fear or mind-affecting effects (or warded by
-]{.underline}*[protection from evil ]{.underline}*[or
-]{.underline}*[death ward ]{.underline}*[spells) are immune to worst
-nightmare; all others must make a Will save (DC 43) or die from the
-supernatural horror revealed. Survivors (and those resurrected) are
-immune to the effect from that individual dream larva in the future. The
-DC is Charisma-based.]{.underline}
+**[Worst Nightmare (Su):]{.underline}**[ Each time a living creature first views a specific dream larva from a distance of 30 feet or less (or from a scrying effect), the subject sees the image of the most fearsome creature imaginable. This is not an illusion or phantasm; the dream larva truly becomes, for just that instant, the subject's worst nightmare. Even if simultaneously viewed by dozens of different creatures, the dream larva appears differently to each one of them. Creatures immune to fear or mind-affecting effects (or warded by ]{.underline}*[protection from evil ]{.underline}*[or ]{.underline}*[death ward ]{.underline}*[spells) are immune to worst nightmare; all others must make a Will save (DC 43) or die from the supernatural horror revealed. Survivors (and those resurrected) are immune to the effect from that individual dream larva in the future. The DC is Charisma-based.]{.underline}
 
-**[Spell-Like Abilities:]{.underline}**[ At will---]{.underline}*[fly,
-haste, nightmare, prismatic spray;
-]{.underline}*[2/day---]{.underline}*[dreamscape]{.underline}*[(epic
-spell)]{.underline}*[. ]{.underline}*[Caster level 31st; save DC 23 +
-spell level. The DC is Charisma-based.]{.underline}
+**[Spell-Like Abilities:]{.underline}**[ At will---]{.underline}*[fly, haste, nightmare, prismatic spray; ]{.underline}*[2/day---]{.underline}*[dreamscape]{.underline}*[(epic spell)]{.underline}*[. ]{.underline}*[Caster level 31st; save DC 23 + spell level. The DC is Charisma-based.]{.underline}
 
-**[Improved Grab (Ex): ]{.underline}**[If the dream larva hits with a
-claw or pincer, it deals normal damage and attempts to start a grapple
-as a free action without provoking an attack of opportunity. Dream
-larvae can use improved grab on a creature of any size. The dream larva
-has the option to conduct the grapple normally, simply use the claw or
-pincer to hold the opponent, or use sending (see below) on the opponent.
-Each successful grapple check it makes during successive rounds
-automatically deals the damage listed for the attack that established
-the hold, unless it used sending on the victim.]{.underline}
+**[Improved Grab (Ex): ]{.underline}**[If the dream larva hits with a claw or pincer, it deals normal damage and attempts to start a grapple as a free action without provoking an attack of opportunity. Dream larvae can use improved grab on a creature of any size. The dream larva has the option to conduct the grapple normally, simply use the claw or pincer to hold the opponent, or use sending (see below) on the opponent. Each successful grapple check it makes during successive rounds automatically deals the damage listed for the attack that established the hold, unless it used sending on the victim.]{.underline}
 
-**[Sending (Su):]{.underline}**[ Grappled victims may be physically sent
-into a nightmare, at the dream larva's option, on the dream larva's next
-action after establishing the grapple. Victims must make a Will save (DC
-43) or be apparently swarmed by thousands of worms making up the dream
-larva's body. The victim is actually cast into a shrieking maelstrom of
-dream where it can take no actions but observe. The victim physically
-returns 2d4 rounds later, apparently ejected from the dream larva's body
-(but appearing even if if the dream larva has left or is otherwise
-absent). The victim of the nightmare has taken 4d6 points of temporary
-Wisdom damage, but is otherwise free to act on the round it returns. If
-the victim takes more Wisdom damage than it has points of Wisdom, the
-extra points are instead treated as temporary Constitution damage. The
-DC is Charisma-based.]{.underline}
+**[Sending (Su):]{.underline}**[ Grappled victims may be physically sent into a nightmare, at the dream larva's option, on the dream larva's next action after establishing the grapple. Victims must make a Will save (DC 43) or be apparently swarmed by thousands of worms making up the dream larva's body. The victim is actually cast into a shrieking maelstrom of dream where it can take no actions but observe. The victim physically returns 2d4 rounds later, apparently ejected from the dream larva's body (but appearing even if if the dream larva has left or is otherwise absent). The victim of the nightmare has taken 4d6 points of temporary Wisdom damage, but is otherwise free to act on the round it returns. If the victim takes more Wisdom damage than it has points of Wisdom, the extra points are instead treated as temporary Constitution damage. The DC is Charisma-based.]{.underline}
 
-***[Summon Nightwalker ]{.underline}*[(Sp): ]{.underline}**[Five times
-per day, a dream larva can summon a nightwalker. ]{.underline}
+***[Summon Nightwalker ]{.underline}*[(Sp): ]{.underline}**[Five times per day, a dream larva can summon a nightwalker. ]{.underline}
 
-**[Abomination Traits:]{.underline}**[ Immune to polymorphing,
-petrification, and other form-altering attacks; not subject to energy
-drain, ability drain, ability damage, or death from massive damage;
-immune to mind-affecting effects; fire resistance 20; cold resistance
-20; nondetection; true seeing at will; blindsight 500 ft.; telepathy out
-to 1,000 ft. ]{.underline}
+**[Abomination Traits:]{.underline}**[ Immune to polymorphing, petrification, and other form-altering attacks; not subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft. ]{.underline}
 
-**[Regeneration (Ex): ]{.underline}**[Dream larvae take normal damage
-from good or lawful weapons or weapons forged by a sleepwalking
-weaponsmith. ]{.underline}
+**[Regeneration (Ex): ]{.underline}**[Dream larvae take normal damage from good or lawful weapons or weapons forged by a sleepwalking weaponsmith. ]{.underline}
 
 ######## [HECATONCHEIRES]{.underline}
 
@@ -503,46 +284,21 @@ weaponsmith. ]{.underline}
                                            
   ---------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[A hecatoncheires' natural weapons are treated as epic, evil, and
-chaotic-aligned for the purpose of overcoming damage
-reduction.]{.underline}
+[A hecatoncheires' natural weapons are treated as epic, evil, and chaotic-aligned for the purpose of overcoming damage reduction.]{.underline}
 
 [Combat]{.underline}**[ ]{.underline}**
 
-**[Superior Multiweapon Fighting (Ex):]{.underline}**[ A hecatoncheires
-fights with a greatsword or a boulder in each hand. The hecatoncheires
-does not suffer an attack or damage penalty for attacking with one
-hundred weapons. However, the press of limbs prevents the creature from
-making iterative attacks with any of its arms, nor can it make more than
-ten attacks against a Small or smaller creature, fifteen attacks against
-a Medium-size creature, or twenty attacks against a Large creature in
-the same action (it can make all its attacks against a Huge or larger
-creature in one action). ]{.underline}
+**[Superior Multiweapon Fighting (Ex):]{.underline}**[ A hecatoncheires fights with a greatsword or a boulder in each hand. The hecatoncheires does not suffer an attack or damage penalty for attacking with one hundred weapons. However, the press of limbs prevents the creature from making iterative attacks with any of its arms, nor can it make more than ten attacks against a Small or smaller creature, fifteen attacks against a Medium-size creature, or twenty attacks against a Large creature in the same action (it can make all its attacks against a Huge or larger creature in one action). ]{.underline}
 
-**[Skills:]{.underline}**[ A hecatoncheires' fifty heads give it a +50
-racial bonus on Listen, Spot, and Search checks. ]{.underline}
+**[Skills:]{.underline}**[ A hecatoncheires' fifty heads give it a +50 racial bonus on Listen, Spot, and Search checks. ]{.underline}
 
-**[Spell-Like Abilities:]{.underline}**[ At will---
-]{.underline}*[greater magic weapon, fly, shield. ]{.underline}*[Caster
-level 50th; save DC 17 + spell level. The DC is
-Charisma-based.]{.underline}
+**[Spell-Like Abilities:]{.underline}**[ At will--- ]{.underline}*[greater magic weapon, fly, shield. ]{.underline}*[Caster level 50th; save DC 17 + spell level. The DC is Charisma-based.]{.underline}
 
-***[Summon Hecatoncheires ]{.underline}*[(Sp):]{.underline}**[ A
-hecatoncheires can summon one other hecatoncheires once per day, though
-is loath to do so because then it will be similarly obligated to answer
-its sibling's summoning. A summoned hecatoncheires cannot use its
-summoning power while "summoned." ]{.underline}
+***[Summon Hecatoncheires ]{.underline}*[(Sp):]{.underline}**[ A hecatoncheires can summon one other hecatoncheires once per day, though is loath to do so because then it will be similarly obligated to answer its sibling's summoning. A summoned hecatoncheires cannot use its summoning power while "summoned." ]{.underline}
 
-**[Abomination Traits: ]{.underline}**[Immune to polymorphing,
-petrification, and other form-altering attacks; not subject to energy
-drain, ability drain, ability damage, or death from massive damage;
-immune to mind-affecting effects; fire resistance 20; cold resistance
-20; nondetection; true seeing at will; blindsight 500 ft.; telepathy out
-to 1,000 ft. ]{.underline}
+**[Abomination Traits: ]{.underline}**[Immune to polymorphing, petrification, and other form-altering attacks; not subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft. ]{.underline}
 
-**[Regeneration (Ex):]{.underline}**[ Hecatoncheires take normal damage
-from good weapons or weapons tempered with the blood of a deity.
-]{.underline}
+**[Regeneration (Ex):]{.underline}**[ Hecatoncheires take normal damage from good weapons or weapons tempered with the blood of a deity. ]{.underline}
 
 ######## [INFERNAL ]{.underline}
 
@@ -574,62 +330,23 @@ from good weapons or weapons tempered with the blood of a deity.
                                            
   ---------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[An infernal's natural weapons are treated as epic, evil, and
-chaotic-aligned or lawful-aligned for the purpose of overcoming damage
-reduction.]{.underline}
+[An infernal's natural weapons are treated as epic, evil, and chaotic-aligned or lawful-aligned for the purpose of overcoming damage reduction.]{.underline}
 
 [Combat]{.underline}**[ ]{.underline}**
 
-**[Improved Grab (Ex):]{.underline}**[ If an infernal hits with a claw,
-it deals normal damage and attempts to start a grapple as a free action
-without provoking an attack of opportunity. Infernals can use this
-ability on Large and smaller creatures. The infernal has the option to
-conduct the grapple normally, or simply use its claw to hold the
-opponent. Each successful grapple check it makes during successive
-rounds automatically deals standard claw damage, in addition to
-automatic spell suck damage. ]{.underline}
+**[Improved Grab (Ex):]{.underline}**[ If an infernal hits with a claw, it deals normal damage and attempts to start a grapple as a free action without provoking an attack of opportunity. Infernals can use this ability on Large and smaller creatures. The infernal has the option to conduct the grapple normally, or simply use its claw to hold the opponent. Each successful grapple check it makes during successive rounds automatically deals standard claw damage, in addition to automatic spell suck damage. ]{.underline}
 
-**[Spell Suck (Su):]{.underline}**[ If an infernal bites a foe, the foe
-loses one of its highest-level prepared spells or one of the spell slots
-for this day that it has not used. The victim chooses the prepared spell
-to lose. If the victim has no prepared spells or unused spell slots
-(either because it has exhausted its spellcasting for the day or because
-the victim is not a spellcaster), the bite instead deals 2 points of
-temporary Intelligence damage. ]{.underline}
+**[Spell Suck (Su):]{.underline}**[ If an infernal bites a foe, the foe loses one of its highest-level prepared spells or one of the spell slots for this day that it has not used. The victim chooses the prepared spell to lose. If the victim has no prepared spells or unused spell slots (either because it has exhausted its spellcasting for the day or because the victim is not a spellcaster), the bite instead deals 2 points of temporary Intelligence damage. ]{.underline}
 
-**[Learned Spell Immunity (Su):]{.underline}**[ If an infernal is
-affected by a spell cast by a particular spellcaster, the infernal
-thereafter becomes immune to that spell when cast by that spellcaster.
-]{.underline}
+**[Learned Spell Immunity (Su):]{.underline}**[ If an infernal is affected by a spell cast by a particular spellcaster, the infernal thereafter becomes immune to that spell when cast by that spellcaster. ]{.underline}
 
-**[Spell-Like Abilities:]{.underline}**[ At
-will---]{.underline}*[animate dead, blasphemy, blur, charm person,
-create undead, darkness, deeper darkness, desecrate, detect chaos,
-detect good, detect law, detect magic, fear, fireball, greater dispel
-magic, hold person, greater invisibility, magic circle against good,
-major image, produce flame, polymorph, pyrotechnics, read magic,
-scrying, suggestion, symbol of death, telekinesis, greater teleport
-]{.underline}*[(self plus 1,000 pounds), ]{.underline}*[unholy aura,
-unholy blight, unhallow, wall of fire;
-]{.underline}*[1/da]{.underline}*[y]{.underline}[---]{.underline}[fire
-storm, hellball ]{.underline}*[(epic spell), ]{.underline}*[implosion,
-meteor swar]{.underline}*[m. Caster level 26th; save DC 19 + spell
-level. The DCs are Charisma-based.]{.underline}
+**[Spell-Like Abilities:]{.underline}**[ At will---]{.underline}*[animate dead, blasphemy, blur, charm person, create undead, darkness, deeper darkness, desecrate, detect chaos, detect good, detect law, detect magic, fear, fireball, greater dispel magic, hold person, greater invisibility, magic circle against good, major image, produce flame, polymorph, pyrotechnics, read magic, scrying, suggestion, symbol of death, telekinesis, greater teleport ]{.underline}*[(self plus 1,000 pounds), ]{.underline}*[unholy aura, unholy blight, unhallow, wall of fire; ]{.underline}*[1/da]{.underline}*[y]{.underline}[---]{.underline}[fire storm, hellball ]{.underline}*[(epic spell), ]{.underline}*[implosion, meteor swar]{.underline}*[m. Caster level 26th; save DC 19 + spell level. The DCs are Charisma-based.]{.underline}
 
-***[Summon Fiend ]{.underline}*[(Sp):]{.underline}**[ An infernal can
-summon four balors or four pit fiends per day (lawful infernals summon
-pit fiends, and chaotic infernals summon balors). ]{.underline}
+***[Summon Fiend ]{.underline}*[(Sp):]{.underline}**[ An infernal can summon four balors or four pit fiends per day (lawful infernals summon pit fiends, and chaotic infernals summon balors). ]{.underline}
 
-**[Abomination Traits:]{.underline}**[ Immune to polymorphing,
-petrification, and other form-altering attacks; not subject to energy
-drain, ability drain, ability damage, or death from massive damage;
-immune to mind-affecting effects; fire resistance 20; cold resistance
-20; nondetection ; true seeing at will; blindsight 500 ft.; telepathy
-out to 1,000 ft. ]{.underline}
+**[Abomination Traits:]{.underline}**[ Immune to polymorphing, petrification, and other form-altering attacks; not subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting effects; fire resistance 20; cold resistance 20; nondetection ; true seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft. ]{.underline}
 
-**[Regeneration (Ex):]{.underline}**[ Infernals take normal damage from
-good weapons. Lawful infernals also take normal damage from chaotic
-weapons, and vice versa. ]{.underline}
+**[Regeneration (Ex):]{.underline}**[ Infernals take normal damage from good weapons. Lawful infernals also take normal damage from chaotic weapons, and vice versa. ]{.underline}
 
 ######## [PHAETHON ]{.underline}
 
@@ -661,58 +378,27 @@ weapons, and vice versa. ]{.underline}
                                            
   ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[A phaethon's natural weapons are treated as epic and evil for the
-purpose of overcoming damage reduction.]{.underline}
+[A phaethon's natural weapons are treated as epic and evil for the purpose of overcoming damage reduction.]{.underline}
 
 [Combat]{.underline}**[ ]{.underline}**
 
-**[Fiery Touch (Ex):]{.underline}**[ Touching or being touched by a
-phaethon deals 2d6 points of fire damage. ]{.underline}
+**[Fiery Touch (Ex):]{.underline}**[ Touching or being touched by a phaethon deals 2d6 points of fire damage. ]{.underline}
 
-**[Fiery Overrun (Ex):]{.underline}**[ A foe who is successfully overrun
-by a phaethon is treated as if swallowed whole. ]{.underline}
+**[Fiery Overrun (Ex):]{.underline}**[ A foe who is successfully overrun by a phaethon is treated as if swallowed whole. ]{.underline}
 
-**[Improved Grab (Ex):]{.underline}**[ If the phaethon hits with a
-pseudopod, it deals normal damage and attempts to start a grapple as a
-free action without provoking an attack of opportunity. Phaethons can
-use improved grab on a Huge or smaller creature. The phaethon has the
-option to conduct the grapple normally, simply maintaining a pseudopod
-hold, or attempting to absorb the opponent by swallowing the foe whole.
-Each successful grapple check it makes during successive rounds
-automatically deals the damage listed for the pseudopod. ]{.underline}
+**[Improved Grab (Ex):]{.underline}**[ If the phaethon hits with a pseudopod, it deals normal damage and attempts to start a grapple as a free action without provoking an attack of opportunity. Phaethons can use improved grab on a Huge or smaller creature. The phaethon has the option to conduct the grapple normally, simply maintaining a pseudopod hold, or attempting to absorb the opponent by swallowing the foe whole. Each successful grapple check it makes during successive rounds automatically deals the damage listed for the pseudopod. ]{.underline}
 
-**[Swallow Whole (Ex):]{.underline}**[ The phaethon can absorb opponents
-it holds with a second successful grapple check after a grab. The
-opponent must be Huge or smaller. Absorbed creatures take 20d6 points of
-fire damage and 10d6 points of bludgeoning damage each round they remain
-inside a phaethon. Victims must make a successful grapple check to
-"swim" free of the living magma of the phaethon. ]{.underline}
+**[Swallow Whole (Ex):]{.underline}**[ The phaethon can absorb opponents it holds with a second successful grapple check after a grab. The opponent must be Huge or smaller. Absorbed creatures take 20d6 points of fire damage and 10d6 points of bludgeoning damage each round they remain inside a phaethon. Victims must make a successful grapple check to "swim" free of the living magma of the phaethon. ]{.underline}
 
-**[Spell-Like Abilities:]{.underline}**[ At
-will---]{.underline}*[fireball, fire storm, delayed blast fireball,
-flame strike, wall of fire;
-]{.underline}*[1/day---]{.underline}*[scrying. ]{.underline}*[Caster
-level 34th; save DC 24 + spell level. ]{.underline}
+**[Spell-Like Abilities:]{.underline}**[ At will---]{.underline}*[fireball, fire storm, delayed blast fireball, flame strike, wall of fire; ]{.underline}*[1/day---]{.underline}*[scrying. ]{.underline}*[Caster level 34th; save DC 24 + spell level. ]{.underline}
 
-***[Summon Elder Fire Elemental ]{.underline}*[(Sp):]{.underline}**[
-Phaethons can summon up to ten elder fire elementals per day.
-]{.underline}
+***[Summon Elder Fire Elemental ]{.underline}*[(Sp):]{.underline}**[ Phaethons can summon up to ten elder fire elementals per day. ]{.underline}
 
-**[Abomination Traits:]{.underline}**[ Immune to polymorphing,
-petrification, and other form-altering attacks; not subject to energy
-drain, ability drain, ability damage, or death from massive damage;
-immune to mind-affecting effects; fire resistance 20; cold resistance
-20; nondetection; true seeing at will; blindsight 500 ft.; telepathy out
-to 1,000 ft. ]{.underline}
+**[Abomination Traits:]{.underline}**[ Immune to polymorphing, petrification, and other form-altering attacks; not subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft. ]{.underline}
 
-**[Oozelike Immunities (Ex):]{.underline}**[ Immune to poison,
-]{.underline}*[sleep, ]{.underline}*[paralysis, stunning, polymorphing,
-and mind-influencing effects; not subject to critical hits or flanking;
-blind. ]{.underline}
+**[Oozelike Immunities (Ex):]{.underline}**[ Immune to poison, ]{.underline}*[sleep, ]{.underline}*[paralysis, stunning, polymorphing, and mind-influencing effects; not subject to critical hits or flanking; blind. ]{.underline}
 
-**[Regeneration (Ex):]{.underline}**[ Phaethons take normal damage from
-lawful weapons and cold-forged weapons, and double damage from cold or
-ice weapons. ]{.underline}
+**[Regeneration (Ex):]{.underline}**[ Phaethons take normal damage from lawful weapons and cold-forged weapons, and double damage from cold or ice weapons. ]{.underline}
 
 ######## [PHANE ]{.underline}
 
@@ -744,84 +430,27 @@ ice weapons. ]{.underline}
                                            
   ---------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[A phanes' natural weapons are treated as epic, evil, and
-chaotic-aligned for the purpose of overcoming damage
-reduction.]{.underline}
+[A phanes' natural weapons are treated as epic, evil, and chaotic-aligned for the purpose of overcoming damage reduction.]{.underline}
 
 # [Combat]{.underline}
 
-**Spell-Like Abilities:** At will---*detect good, detect magic, improved
-invisibility *(self only); 5/da*y---haste, slow, greater teleport,
-tongues, trap the soul, true strike, unholy aura; 2/day---safe time,
-time duplicate *(epic spell); *1/day---time stop. *Caster level 21st;
-save DC 21 + spell level. The DC is Charisma-based.
+**Spell-Like Abilities:** At will---*detect good, detect magic, improved invisibility *(self only); 5/da*y---haste, slow, greater teleport, tongues, trap the soul, true strike, unholy aura; 2/day---safe time, time duplicate *(epic spell); *1/day---time stop. *Caster level 21st; save DC 21 + spell level. The DC is Charisma-based.
 
-**Stasis Touch (Su): **As *temporal stasis, *except as an at-will
-supernatural ability. Caster level 25th; save DC 21 + spell level. The
-DC is Charisma-based.
+**Stasis Touch (Su): **As *temporal stasis, *except as an at-will supernatural ability. Caster level 25th; save DC 21 + spell level. The DC is Charisma-based.
 
-**Chronal Blast (Su): **As a standard action, the phane can make a
-ranged touch attack against any creature within 100 feet. If it
-succeeds, the subject is targeted by a spasm of space-time flux, dealing
-15d6 points of damage.
+**Chronal Blast (Su): **As a standard action, the phane can make a ranged touch attack against any creature within 100 feet. If it succeeds, the subject is targeted by a spasm of space-time flux, dealing 15d6 points of damage.
 
-**Time Leach (Su):** For every round of apparent time experienced by the
-phane, it automatically absorbs the "future" from any creature it has
-successfully encapsulated in static time via its stasis touch (not its
-null time field), no matter the distance separating victim and phane,
-and no matter the number of victims. Of course, to the victim no time
-passes at all, but each apparent round experienced by the phane ages the
-victim 1d4 years, at the same time healing the phane of 20 hit points of
-damage. A victim who is not somehow released from static time by a
-friend who can cast *dispel magic, greater dispel magic, *or some other
-likely spell, eventually ages to death. Victims killed in this manner
-automatically fall out of static time as desiccated husks that
-disintegrate to a fine dust with even the lightest touch. Victims who
-are released prior to death immediately apply the physical effects of
-aging, but not the mental effects.
+**Time Leach (Su):** For every round of apparent time experienced by the phane, it automatically absorbs the "future" from any creature it has successfully encapsulated in static time via its stasis touch (not its null time field), no matter the distance separating victim and phane, and no matter the number of victims. Of course, to the victim no time passes at all, but each apparent round experienced by the phane ages the victim 1d4 years, at the same time healing the phane of 20 hit points of damage. A victim who is not somehow released from static time by a friend who can cast *dispel magic, greater dispel magic, *or some other likely spell, eventually ages to death. Victims killed in this manner automatically fall out of static time as desiccated husks that disintegrate to a fine dust with even the lightest touch. Victims who are released prior to death immediately apply the physical effects of aging, but not the mental effects.
 
-***Summon Past Time Duplicate *(Sp):** Once per day, a phane can summon
-a duplicate of one its foes stolen from a parallel alternate past. The
-stolen *time duplicate *has the same stats and possessions as the
-original, but is treated as if having two negative levels (which
-simulates a less experienced version of the original). The phane can
-never summon a past *time duplicate *of a creature with more than 25 HD
-(add sufficient negative levels to compensate for high foe HD, if
-necessary). The past *time duplicat*e, despite having most of the
-knowledge of the original, serves the phane loyally like any summoned
-creature. If the past *time duplicate *is slain, the original is not
-harmed because the duplicate was pulled from a parallel past. However,
-the original does not necessarily realize this, and must make a Will
-save (DC 30) or be shaken for 1d4 rounds after witnessing the death of a
-duplicate for the first time.
+***Summon Past Time Duplicate *(Sp):** Once per day, a phane can summon a duplicate of one its foes stolen from a parallel alternate past. The stolen *time duplicate *has the same stats and possessions as the original, but is treated as if having two negative levels (which simulates a less experienced version of the original). The phane can never summon a past *time duplicate *of a creature with more than 25 HD (add sufficient negative levels to compensate for high foe HD, if necessary). The past *time duplicat*e, despite having most of the knowledge of the original, serves the phane loyally like any summoned creature. If the past *time duplicate *is slain, the original is not harmed because the duplicate was pulled from a parallel past. However, the original does not necessarily realize this, and must make a Will save (DC 30) or be shaken for 1d4 rounds after witnessing the death of a duplicate for the first time.
 
-**Abomination Traits:** Immune to polymorphing, petrification, and other
-form-altering attacks; not subject to energy drain, ability drain,
-ability damage, or death from massive damage; immune to mind-affecting
-effects; fire resistance 20; cold resistance 20; nondetection; true
-seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft.
+**Abomination Traits:** Immune to polymorphing, petrification, and other form-altering attacks; not subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft.
 
-**Null Time Field (Ex):** Phanes continually generate a 30-foot-radius
-spread null time field. All creatures and objects in the field, except
-the phane, must make a Will saving throw (DC 30) each round to take any
-actions. On a failed save, subjects are stuck in a static time stream
-until their next round of actions, at which time they must make another
-saving throw. While a subject is stuck in a static time stream induced
-by a null time field, the phane can use its static touch on the subject,
-though in all other ways, the subject is invulnerable to attacks and
-damage as if in temporal stasis.
+**Null Time Field (Ex):** Phanes continually generate a 30-foot-radius spread null time field. All creatures and objects in the field, except the phane, must make a Will saving throw (DC 30) each round to take any actions. On a failed save, subjects are stuck in a static time stream until their next round of actions, at which time they must make another saving throw. While a subject is stuck in a static time stream induced by a null time field, the phane can use its static touch on the subject, though in all other ways, the subject is invulnerable to attacks and damage as if in temporal stasis.
 
-**Time Regression (Su):** If the phane spends an action per round for
-four rounds, at the end of the 4th round the phane regresses back in
-time 4 rounds, to the very 1st round it originally began concentrating
-on time regression. On its second pass through the time stream, it can
-take completely different actions, based on its knowledge of the future
-(though if it takes different actions from its first pass through the
-time stream, the events of the original time stream are also changed).
+**Time Regression (Su):** If the phane spends an action per round for four rounds, at the end of the 4th round the phane regresses back in time 4 rounds, to the very 1st round it originally began concentrating on time regression. On its second pass through the time stream, it can take completely different actions, based on its knowledge of the future (though if it takes different actions from its first pass through the time stream, the events of the original time stream are also changed).
 
-**Regeneration (Ex):** Phanes take normal damage from holy and good
-weapons, and from weapons forged in the future or an alternate reality's
-time stream (if any).
+**Regeneration (Ex):** Phanes take normal damage from holy and good weapons, and from weapons forged in the future or an alternate reality's time stream (if any).
 
 ######## [XIXECAL ]{.underline}
 
@@ -853,63 +482,29 @@ time stream (if any).
                                            
   ---------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[A xixecal's natural weapons are treated as epic, evil, and
-chaotic-aligned for the purpose of overcoming damage
-reduction.]{.underline}
+[A xixecal's natural weapons are treated as epic, evil, and chaotic-aligned for the purpose of overcoming damage reduction.]{.underline}
 
 [Combat]{.underline}**[ ]{.underline}**
 
-**[Rend (Ex):]{.underline}**[ If the xixecal hits with both claw
-attacks, it latches onto the opponent's body and tears the flesh. This
-attack automatically deals an additional 4d8+42 points of damage.
-]{.underline}
+**[Rend (Ex):]{.underline}**[ If the xixecal hits with both claw attacks, it latches onto the opponent's body and tears the flesh. This attack automatically deals an additional 4d8+42 points of damage. ]{.underline}
 
-**[Cold (Su):]{.underline}**[ A hit from a xixecal's melee attack
-induces numbing cold. The opponent must succeed at a Fortitude save (DC
-58) or be affected as though by a ]{.underline}*[slow
-]{.underline}*[spell for 10 rounds. The DC is
-Charisma-based.]{.underline}
+**[Cold (Su):]{.underline}**[ A hit from a xixecal's melee attack induces numbing cold. The opponent must succeed at a Fortitude save (DC 58) or be affected as though by a ]{.underline}*[slow ]{.underline}*[spell for 10 rounds. The DC is Charisma-based.]{.underline}
 
-**[Spell-Like Abilities:]{.underline}**[ At
-will---]{.underline}*[blasphemy, cone of cold, desecrate, greater dispel
-magic, dominate monster, hold person, greater invisibility, unholy aura,
-wall of ic]{.underline}*[e; 5/day---]{.underline}*[haste, meteor swarm.
-]{.underline}*[Caster level 36th; save DC 22 + spell level. The DC is
-Charisma-based.]{.underline}
+**[Spell-Like Abilities:]{.underline}**[ At will---]{.underline}*[blasphemy, cone of cold, desecrate, greater dispel magic, dominate monster, hold person, greater invisibility, unholy aura, wall of ic]{.underline}*[e; 5/day---]{.underline}*[haste, meteor swarm. ]{.underline}*[Caster level 36th; save DC 22 + spell level. The DC is Charisma-based.]{.underline}
 
-**[Breath Weapon (Su):]{.underline}**[ Cone of cold, 300 feet, 3/day,
-damage 12d6, Fort half DC 61. The DC is Constitution-based.]{.underline}
+**[Breath Weapon (Su):]{.underline}**[ Cone of cold, 300 feet, 3/day, damage 12d6, Fort half DC 61. The DC is Constitution-based.]{.underline}
 
-***[Summon White Dragon ]{.underline}*[(Sp):]{.underline}**[ Five times
-per day a xixecal can summon an old white dragon. ]{.underline}
+***[Summon White Dragon ]{.underline}*[(Sp):]{.underline}**[ Five times per day a xixecal can summon an old white dragon. ]{.underline}
 
-**[Constitution Drain (Su):]{.underline}**[ This effect permanently
-reduces a living opponent's Constitution score by 4 when the creature
-hits with a slam, bite, or rend, or twice that amount on a rend or
-critical hit. The creature heals 20 points of damage (or 40 on a rend or
-critical hit) whenever it drains Constitution, gaining any excess as
-temporary hit points. These temporary hit points last a maximum of 1
-hour. The attack allows a Fortitude save (DC 58). The DC is
-Charisma-based.]{.underline}
+**[Constitution Drain (Su):]{.underline}**[ This effect permanently reduces a living opponent's Constitution score by 4 when the creature hits with a slam, bite, or rend, or twice that amount on a rend or critical hit. The creature heals 20 points of damage (or 40 on a rend or critical hit) whenever it drains Constitution, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. The attack allows a Fortitude save (DC 58). The DC is Charisma-based.]{.underline}
 
-**[Abomination Traits:]{.underline}**[ Immune to polymorphing,
-petrification, and other form-altering attacks; not subject to energy
-drain, ability drain, ability damage, or death from massive damage;
-immune to mind-affecting effects; nondetection; true seeing at will;
-blindsight 500 ft.; telepathy out to 1,000 ft.]{.underline}
+**[Abomination Traits:]{.underline}**[ Immune to polymorphing, petrification, and other form-altering attacks; not subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting effects; nondetection; true seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft.]{.underline}
 
-[The standard fire resistance 20 most abominations have is not shared by
-xixecales]{.underline}
+[The standard fire resistance 20 most abominations have is not shared by xixecales]{.underline}
 
-**[Dire Winter (Su):]{.underline}**[ A xixecal always stands at the
-center of a permanent ]{.underline}*[dire winter]{.underline}*[ (epic
-spell)]{.underline}*[ ]{.underline}*[spell effect. If dispelled, the
-effect returns 1 minute later--- the only way to permanently remove the
-effect is to slay the xixecal that generates it. ]{.underline}
+**[Dire Winter (Su):]{.underline}**[ A xixecal always stands at the center of a permanent ]{.underline}*[dire winter]{.underline}*[ (epic spell)]{.underline}*[ ]{.underline}*[spell effect. If dispelled, the effect returns 1 minute later--- the only way to permanently remove the effect is to slay the xixecal that generates it. ]{.underline}
 
-**[Regeneration(Ex):]{.underline}**[ Xixecals take normal damage from
-Lawful weapons, and double damage from burning or fiery weapons.
-]{.underline}
+**[Regeneration(Ex):]{.underline}**[ Xixecals take normal damage from Lawful weapons, and double damage from burning or fiery weapons. ]{.underline}
 
 # [BEHEMOTH ]{.underline}
 
@@ -945,20 +540,15 @@ Lawful weapons, and double damage from burning or fiery weapons.
 
 # [BEHEMOTH EAGLE ]{.underline}
 
-**Skills:** \*A behemoth eagle receives a +8 racial bonus on Spot
-checks.
+**Skills:** \*A behemoth eagle receives a +8 racial bonus on Spot checks.
 
-**Carrying Capacity:** A light load for a behemoth eagle is up to 2,400
-pounds; a medium load, 2,401--4,800 pounds; and a heavy load,
-4,801--7,200 pounds.
+**Carrying Capacity:** A light load for a behemoth eagle is up to 2,400 pounds; a medium load, 2,401--4,800 pounds; and a heavy load, 4,801--7,200 pounds.
 
 # [BEHEMOTH GORILLA ]{.underline}
 
 # [Combat]{.underline}**[ ]{.underline}**
 
-**Rend (Ex):** A behemoth gorilla that hits with both claw attacks
-latches onto the opponent's body and tears the flesh. This automatically
-deals an additional 8d8+20 points of damage.
+**Rend (Ex):** A behemoth gorilla that hits with both claw attacks latches onto the opponent's body and tears the flesh. This automatically deals an additional 8d8+20 points of damage.
 
 ######## [BRACHYURUS ]{.underline}
 
@@ -992,54 +582,23 @@ deals an additional 8d8+20 points of damage.
 
 [COMBAT]{.underline}**[ ]{.underline}**
 
-**[Frightful Howl (Su):]{.underline}**[ As a standard action, a
-brachyurus can emit a howl in a 60-foot-radius spread that affects
-opponents with fewer Hit Dice or levels than the brachyurus has. The
-affected creature must make a successful Will save (DC 33) or become
-shaken. Success indicates that the target is immune to that brachyurus's
-frightful howl for one day. The DC is Charisma-based.]{.underline}
+**[Frightful Howl (Su):]{.underline}**[ As a standard action, a brachyurus can emit a howl in a 60-foot-radius spread that affects opponents with fewer Hit Dice or levels than the brachyurus has. The affected creature must make a successful Will save (DC 33) or become shaken. Success indicates that the target is immune to that brachyurus's frightful howl for one day. The DC is Charisma-based.]{.underline}
 
-**[Savage (Ex):]{.underline}**[ If a brachyurus successfully trips an
-opponent, it latches onto the opponent's body and tears the flesh. This
-attack automatically deals an additional 15d6+25 points of damage. If an
-opponent goes prone for any reason in an area a brachyurus threatens,
-the brachyurus can also savage the victim as a free action (treat as the
-brachyurus's attack of opportunity for the round), even though it had
-nothing to do with tripping the foe. ]{.underline}
+**[Savage (Ex):]{.underline}**[ If a brachyurus successfully trips an opponent, it latches onto the opponent's body and tears the flesh. This attack automatically deals an additional 15d6+25 points of damage. If an opponent goes prone for any reason in an area a brachyurus threatens, the brachyurus can also savage the victim as a free action (treat as the brachyurus's attack of opportunity for the round), even though it had nothing to do with tripping the foe. ]{.underline}
 
 # [COLOSSUS ]{.underline}
 
-**Construct Traits:** Immune to mind-affecting effects (charms,
-compulsions, phantasms, patterns, and morale effects), and to poison,
-*sleep, *paralysis, stunning, disease, death effects, necromantic
-effects, and any effect that requires a Fortitude save unless it also
-works on objects. Cannot heal damage (though regeneration and fast
-healing still apply, if present). Not subject to critical hits, subdual
-damage, ability damage, ability drain, or energy drain. Not at risk of
-death from massive damage, but destroyed when reduced to 0 hit points or
-less; cannot be raised or resurrected. Darkvision 60 ft.
+**Construct Traits:** Immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and to poison, *sleep, *paralysis, stunning, disease, death effects, necromantic effects, and any effect that requires a Fortitude save unless it also works on objects. Cannot heal damage (though regeneration and fast healing still apply, if present). Not subject to critical hits, subdual damage, ability damage, ability drain, or energy drain. Not at risk of death from massive damage, but destroyed when reduced to 0 hit points or less; cannot be raised or resurrected. Darkvision 60 ft.
 
-**Magic Immunity (Ex):** A colossus completely resists most magical and
-supernatural effects, except where otherwise noted below.
+**Magic Immunity (Ex):** A colossus completely resists most magical and supernatural effects, except where otherwise noted below.
 
-**Antimagic Field (Ex):** A colossus constantly generates an antimagic
-field in a 100-foot-radius. The field is an invisible barrier that is
-impervious to most magical effects, including spells, spell-like
-abilities, and supernatural abilities. Likewise, it prevents the
-functioning of any magic items or spells within its confines, except for
-the colossus's own supernatural abilities. This effect is otherwise as
-an *antimagic *field cast by a 25th-level caster.
+**Antimagic Field (Ex):** A colossus constantly generates an antimagic field in a 100-foot-radius. The field is an invisible barrier that is impervious to most magical effects, including spells, spell-like abilities, and supernatural abilities. Likewise, it prevents the functioning of any magic items or spells within its confines, except for the colossus's own supernatural abilities. This effect is otherwise as an *antimagic *field cast by a 25th-level caster.
 
-A colossus's natural weapons are treated as epic for the purpose of
-overcoming damage reduction.
+A colossus's natural weapons are treated as epic for the purpose of overcoming damage reduction.
 
 # [Construction ]{.underline}
 
-The construction cost given for each colossus takes into account the
-physical body and all the materials and spell components that are
-consumed or become a permanent part of it. Except for the much tougher
-requirements, constructing a colossus is not unlike constructing a
-golem.
+The construction cost given for each colossus takes into account the physical body and all the materials and spell components that are consumed or become a permanent part of it. Except for the much tougher requirements, constructing a colossus is not unlike constructing a golem.
 
   ----------------------------------------------------- -------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------
                                                         **[Stone Colossus ]{.underline}**                                                            **[Flesh Colossus ]{.underline}**                                                                                                              **[Iron Colossus ]{.underline}**
@@ -1075,115 +634,47 @@ A stone colossus cannot speak or make any vocal noise.
 
 # [Combat]{.underline}**[ ]{.underline}**
 
-**Shatter (Su):** A stone colossus can use *shatter*(DC 7)* *as a free
-action once every 2 rounds against an opponent's weapon or other item as
-a 24th-level caster. The DC is Charisma-based.
+**Shatter (Su):** A stone colossus can use *shatter*(DC 7)* *as a free action once every 2 rounds against an opponent's weapon or other item as a 24th-level caster. The DC is Charisma-based.
 
-**Magic Immunity (Ex):** A stone colossus is immune to all spells,
-spell-like abilities, and supernatural effects, except as follows. A
-*transmute rock to mud *spell slows it (as the *slow *spell) for 1
-round, with no saving throw, while *transmute mud to rock *heals all its
-lost hit points. A *stone to flesh *spell has no effect on a stone
-colossus.
+**Magic Immunity (Ex):** A stone colossus is immune to all spells, spell-like abilities, and supernatural effects, except as follows. A *transmute rock to mud *spell slows it (as the *slow *spell) for 1 round, with no saving throw, while *transmute mud to rock *heals all its lost hit points. A *stone to flesh *spell has no effect on a stone colossus.
 
 # [Construction ]{.underline}
 
-A stone colossus's body is chiseled from a single block of hard stone,
-such as granite, weighing at least 375,000 pounds. The colossus costs
-760,000 gp to create, which includes 100,000 gp for the body. Assembling
-the body requires a successful Craft (sculpting) or Craft (masonry)
-check (DC 37). The creator must be 25th level and able to cast epic
-spells. Completing the ritual drains 30,600 XP from the creator and
-requires *geas/quest, limited wish, polymorph any object, *and
-*shatte*r.
+A stone colossus's body is chiseled from a single block of hard stone, such as granite, weighing at least 375,000 pounds. The colossus costs 760,000 gp to create, which includes 100,000 gp for the body. Assembling the body requires a successful Craft (sculpting) or Craft (masonry) check (DC 37). The creator must be 25th level and able to cast epic spells. Completing the ritual drains 30,600 XP from the creator and requires *geas/quest, limited wish, polymorph any object, *and *shatte*r.
 
 # [FLESH COLOSSUS ]{.underline}
 
-A flesh colossus knows all languages spoken in life by the ghost who
-acts as its control-ling spirit. When the controlling spirit is
-suppressed, it mutters in all the tongues spoken by its component
-corpses.
+A flesh colossus knows all languages spoken in life by the ghost who acts as its control-ling spirit. When the controlling spirit is suppressed, it mutters in all the tongues spoken by its component corpses.
 
 # [Combat]{.underline}**[ ]{.underline}**
 
-**Frightful Presence (Ex):** All who come within a mile of the flesh
-colossus must make Will saves (DC 55). Those who make their saves are
-shaken. Those who fail by 20 points or less are frightened. Those who
-fail by 21 to 40 points are panicked. Those who fail by 41 points or
-more are cowering. The DC is Charisma-based.
+**Frightful Presence (Ex):** All who come within a mile of the flesh colossus must make Will saves (DC 55). Those who make their saves are shaken. Those who fail by 20 points or less are frightened. Those who fail by 21 to 40 points are panicked. Those who fail by 41 points or more are cowering. The DC is Charisma-based.
 
-**Horrific Appearance (Su):** Once per day, the controlling spirit
-within a flesh colossus may draw upon the negative energy latent in the
-construct to transform its countenance into a horrible leering visage:
-All within 300 feet who see this must make a Fortitude save (DC 55) or
-take 2d4 points of temporary Strength, Dexterity, and Constitution
-damage. The DC is Charisma-based.
+**Horrific Appearance (Su):** Once per day, the controlling spirit within a flesh colossus may draw upon the negative energy latent in the construct to transform its countenance into a horrible leering visage: All within 300 feet who see this must make a Fortitude save (DC 55) or take 2d4 points of temporary Strength, Dexterity, and Constitution damage. The DC is Charisma-based.
 
-**Stomp (Ex): **As a full-round action, a flesh colossus may stomp upon
-any adjacent foe (that is, any within the area it threatens). Its attack
-roll modifier for this special attack is +65 (+75 base, --2 Dex, --8
-size). If successful, the stomp deals double damage (8d6 +24) and pins
-the victim until the colossus chooses to release him or her.
+**Stomp (Ex): **As a full-round action, a flesh colossus may stomp upon any adjacent foe (that is, any within the area it threatens). Its attack roll modifier for this special attack is +65 (+75 base, --2 Dex, --8 size). If successful, the stomp deals double damage (8d6 +24) and pins the victim until the colossus chooses to release him or her.
 
-**Stench (Ex):** All creatures with a sense of smell who come within 300
-feet of the construct must make a Fortitude save (DC 60) or be nauseated
-(unable to attack, cast spells, concentrate on spells, or do anything
-else requiring attention, except for a single move or move-equivalent
-action per round). Those who succeed on their saves take a --4
-circumstance penalty on all attack rolls, saving throws, and skill
-checks for the next 2d6+4 minutes. The DC is Constitution-based.
+**Stench (Ex):** All creatures with a sense of smell who come within 300 feet of the construct must make a Fortitude save (DC 60) or be nauseated (unable to attack, cast spells, concentrate on spells, or do anything else requiring attention, except for a single move or move-equivalent action per round). Those who succeed on their saves take a --4 circumstance penalty on all attack rolls, saving throws, and skill checks for the next 2d6+4 minutes. The DC is Constitution-based.
 
-**Magic Immunity (Ex):** A flesh colossus is immune to all magical and
-supernatural effects except those that use negative energy (see below).
+**Magic Immunity (Ex):** A flesh colossus is immune to all magical and supernatural effects except those that use negative energy (see below).
 
-**Negative Energy Affinity (Su): **Any negative energy spell targeted at
-the colossus repairs damage taken by the colossus at the rate of 1d10
-hit points per level of the spell.
+**Negative Energy Affinity (Su): **Any negative energy spell targeted at the colossus repairs damage taken by the colossus at the rate of 1d10 hit points per level of the spell.
 
 # [Construction ]{.underline}
 
-Only a master necromancer of surpassing power can create a flesh
-colossus. The bodies of not less than three hundred previously animated
-Medium-size humanoid creatures must be stripped of their flesh and the
-bones, which are then rendered in two great vats. The resulting
-semiliquid bone-paste is then cast into a new articulated skeleton of
-great size, to which the rendered flesh is applied like wet clay to
-shape the figure. Finally, the necromancer must bind a ghost of at least
-10 HD (the more powerful the better) into the colossus to act as its
-controlling spirit. Without the controlling spirit, the colossus is just
-an oversized zombie; with it, it functions as a golem of great size and
-repugnant appearance. If no ghost is available, the necromancer may
-occupy the colossus himself by casting *magic jar*. The colossus costs
-760,000 gp to create, which includes 100,000 gp for the body. Assembling
-the body takes no great skill, and many flesh colossi reveal that fact
-in their uncouth forms. The creator must be 29th level and able to cast
-epic spells. Completing the ritual drains 30,600 XP from the creator and
-requires *magic jar, limited wish, polymorph any object, *and *finger of
-death*.
+Only a master necromancer of surpassing power can create a flesh colossus. The bodies of not less than three hundred previously animated Medium-size humanoid creatures must be stripped of their flesh and the bones, which are then rendered in two great vats. The resulting semiliquid bone-paste is then cast into a new articulated skeleton of great size, to which the rendered flesh is applied like wet clay to shape the figure. Finally, the necromancer must bind a ghost of at least 10 HD (the more powerful the better) into the colossus to act as its controlling spirit. Without the controlling spirit, the colossus is just an oversized zombie; with it, it functions as a golem of great size and repugnant appearance. If no ghost is available, the necromancer may occupy the colossus himself by casting *magic jar*. The colossus costs 760,000 gp to create, which includes 100,000 gp for the body. Assembling the body takes no great skill, and many flesh colossi reveal that fact in their uncouth forms. The creator must be 29th level and able to cast epic spells. Completing the ritual drains 30,600 XP from the creator and requires *magic jar, limited wish, polymorph any object, *and *finger of death*.
 
 IRON COLOSSUS
 
-**Breath Weapon (Su):** Cone of poisonous gas, 80 feet, as a free action
-every 1d4 rounds, initial damage 3d6 temporary Con, secondary damage 2d6
-temporary Con, Fort half (DC 58). The DC is Constitution-based.
+**Breath Weapon (Su):** Cone of poisonous gas, 80 feet, as a free action every 1d4 rounds, initial damage 3d6 temporary Con, secondary damage 2d6 temporary Con, Fort half (DC 58). The DC is Constitution-based.
 
-**Magic Immunity (Ex):** An iron colossus is immune to all magical and
-supernatural effects, except as follows. An electricity effect restores
-1 hit point to the iron colossus for each 3 points of damage it would
-otherwise deal.
+**Magic Immunity (Ex):** An iron colossus is immune to all magical and supernatural effects, except as follows. An electricity effect restores 1 hit point to the iron colossus for each 3 points of damage it would otherwise deal.
 
-**Rustproof (Ex):** An iron colossus is not affected by rust attacks,
-unlike smaller iron golems.
+**Rustproof (Ex):** An iron colossus is not affected by rust attacks, unlike smaller iron golems.
 
 # [Construction ]{.underline}
 
-An iron colossus's body is sculpted from 150,000 pounds of pure iron.
-The colossus costs 1,000,000 gp to create, which includes 100,500 gp for
-the body. Assembling the body requires a successful Craft
-(armorsmithing) or Craft (weaponsmithing) check (DC 42). The creator
-must be 35th level and able to cast epic spells. Completing the ritual
-drains 50,000 XP from the creator and requires *cloudkill, geas/quest,
-limited wish, *and *polymorph any object. *
+An iron colossus's body is sculpted from 150,000 pounds of pure iron. The colossus costs 1,000,000 gp to create, which includes 100,500 gp for the body. Assembling the body requires a successful Craft (armorsmithing) or Craft (weaponsmithing) check (DC 42). The creator must be 35th level and able to cast epic spells. Completing the ritual drains 50,000 XP from the creator and requires *cloudkill, geas/quest, limited wish, *and *polymorph any object. *
 
 ######## [DEMILICH ]{.underline}
 
@@ -1215,230 +706,87 @@ limited wish, *and *polymorph any object. *
                                            
   ---------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Demiliches speak the languages they knew as liches and as living
-creatures. ]{.underline}
+[Demiliches speak the languages they knew as liches and as living creatures. ]{.underline}
 
-[A demilich's natural weapons are treated as epic for the purpose of
-overcoming damage reduction.]{.underline}
+[A demilich's natural weapons are treated as epic for the purpose of overcoming damage reduction.]{.underline}
 
 # [Combat]{.underline}**[ ]{.underline}**
 
-**Trap the Soul (Su):** A demilich can trap the souls of up to eight
-living creatures per day. To use this power, it selects any target it
-can see within 300 feet. The target is allowed a Fortitude saving throw
-(DC 36). If the target makes its saving throw, it gains four negative
-levels (this does not count as a use of trap the soul). If the target
-fails its save, the soul of the target is instantly drawn from its body
-and trapped within one of the gems incorporated into the demilich's
-form. The gem gleams for 24 hours, indicating the captive soul within.
-The soulless body collapses in a mass of corruption and molders in a
-single round, reduced to dust. If left to its own devices, the demilich
-slowly devours the soul over 24 hours---at the end of that time the soul
-is completely absorbed, and the victim is forever gone. If the demilich
-is overcome before the soul is eaten, crushing the gem releases the
-soul, after which time it is free to seek the afterlife or be returned
-to its body by the use of either *resurrectio*n, *true resurrection,
-clone, *or *miracle. *A potential victim protected by a *death ward
-*spell is not immune to trap the soul, but receives a +5 bonus on its
-Fortitude saving throw and* *is effective against the level loss on a
-successful save. The DC is Charisma-based
+**Trap the Soul (Su):** A demilich can trap the souls of up to eight living creatures per day. To use this power, it selects any target it can see within 300 feet. The target is allowed a Fortitude saving throw (DC 36). If the target makes its saving throw, it gains four negative levels (this does not count as a use of trap the soul). If the target fails its save, the soul of the target is instantly drawn from its body and trapped within one of the gems incorporated into the demilich's form. The gem gleams for 24 hours, indicating the captive soul within. The soulless body collapses in a mass of corruption and molders in a single round, reduced to dust. If left to its own devices, the demilich slowly devours the soul over 24 hours---at the end of that time the soul is completely absorbed, and the victim is forever gone. If the demilich is overcome before the soul is eaten, crushing the gem releases the soul, after which time it is free to seek the afterlife or be returned to its body by the use of either *resurrectio*n, *true resurrection, clone, *or *miracle. *A potential victim protected by a *death ward *spell is not immune to trap the soul, but receives a +5 bonus on its Fortitude saving throw and* *is effective against the level loss on a successful save. The DC is Charisma-based
 
-**Fear Aura (Su):** Demiliches are shrouded in a dreadful aura of death
-and evil. Creatures of less than 5 HD in a 60-foot radius that look at
-the demilich must succeed at a Will save (DC 19) or be affected as
-though by *fear *as cast by a 21st-level caster. The DC is
-Charisma-based.
+**Fear Aura (Su):** Demiliches are shrouded in a dreadful aura of death and evil. Creatures of less than 5 HD in a 60-foot radius that look at the demilich must succeed at a Will save (DC 19) or be affected as though by *fear *as cast by a 21st-level caster. The DC is Charisma-based.
 
-**Paralyzing Touch (Su):** Any living creature a demilich touches must
-succeed at a Fortitude save (DC 36) or be permanently paralyzed. *Remove
-paralysis *or any spell that can remove a curse can free the victim. The
-effect cannot be dispelled. Anyone paralyzed by a demilich seems dead,
-though a successful Spot check (DC 20) or Heal check (DC 15) reveals
-that the victim is still alive.
+**Paralyzing Touch (Su):** Any living creature a demilich touches must succeed at a Fortitude save (DC 36) or be permanently paralyzed. *Remove paralysis *or any spell that can remove a curse can free the victim. The effect cannot be dispelled. Anyone paralyzed by a demilich seems dead, though a successful Spot check (DC 20) or Heal check (DC 15) reveals that the victim is still alive.
 
-**Spells: **The demilich can cast any spells it could cast as a lich.
-This sample demilich was a 21st-level wizard (spells per day:
-4/12/8/7/7/7/7/6/6/6/3). The last three spell slots are 10th-level slots
-and available for 0--9th level metamagic spells.
+**Spells: **The demilich can cast any spells it could cast as a lich. This sample demilich was a 21st-level wizard (spells per day: 4/12/8/7/7/7/7/6/6/6/3). The last three spell slots are 10th-level slots and available for 0--9th level metamagic spells.
 
-**Perfect Automatic Still Spell (Ex): **A demilich can cast all the
-spells it knows without gestures.
+**Perfect Automatic Still Spell (Ex): **A demilich can cast all the spells it knows without gestures.
 
-**Spell-Like Abilities:** At will---*alter self, astral projection,
-create greater undead, create undead, death knell, enervation, greater
-dispel magic, harm *(usually used to heal itself ), *summon monster
-I--IX, telekinesis, weird; *2/day---*greater planar ally. *Demiliches
-use these abilities as casters of a level equal to their spellcaster
-level, but the save DCs are all 36. The DC is Charisma-based.
+**Spell-Like Abilities:** At will---*alter self, astral projection, create greater undead, create undead, death knell, enervation, greater dispel magic, harm *(usually used to heal itself ), *summon monster I--IX, telekinesis, weird; *2/day---*greater planar ally. *Demiliches use these abilities as casters of a level equal to their spellcaster level, but the save DCs are all 36. The DC is Charisma-based.
 
-**Magic Immunity (Ex):** Demiliches are immune to all magical and
-supernatural effects, except as follows. A *shatter *spell affects a
-demilich as if it were a crystalline creature, but deals half the damage
-normally indicated. A *dispel evil *spell deals 3d6 points of damage
-(Fort save for half damage). *Holy smite *spells affect demiliches
-normally.
+**Magic Immunity (Ex):** Demiliches are immune to all magical and supernatural effects, except as follows. A *shatter *spell affects a demilich as if it were a crystalline creature, but deals half the damage normally indicated. A *dispel evil *spell deals 3d6 points of damage (Fort save for half damage). *Holy smite *spells affect demiliches normally.
 
-**Phylactery Transference (Su): **Headbands, belts, rings, cloaks, and
-other wearable items kept in close association with the demilich's
-phylactery transfer all their benefits to the demilich no matter how far
-apart the demilich and the phylactery are located. The standard limits
-on types of items utilized simultaneously still apply. The sample
-demilich "wears" *bracers of armor +8, headband of intellect +6, pink
-Ioun stone, ring of wizardry *I, *ring of protection +2, *and *gloves of
-Dexterity +2. *
+**Phylactery Transference (Su): **Headbands, belts, rings, cloaks, and other wearable items kept in close association with the demilich's phylactery transfer all their benefits to the demilich no matter how far apart the demilich and the phylactery are located. The standard limits on types of items utilized simultaneously still apply. The sample demilich "wears" *bracers of armor +8, headband of intellect +6, pink Ioun stone, ring of wizardry *I, *ring of protection +2, *and *gloves of Dexterity +2. *
 
-**Undead Traits:** Immune to poison, *sleep, *paralysis, stunning,
-disease, death, effects, necromantic effects, mind-affecting effects,
-and any effect requiring a Fortitude save unless it also works on
-objects. Not subject to critical hits, subdual damage, ability damage,
-ability drain, or energy drain. Negative energy heals. Not at risk of
-death from massive dam-age, but destroyed at 0 hit points or less.
-Darkvision 60 ft. Cannot be raised; resurrection works only if creature
-is willing.
+**Undead Traits:** Immune to poison, *sleep, *paralysis, stunning, disease, death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual damage, ability damage, ability drain, or energy drain. Negative energy heals. Not at risk of death from massive dam-age, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
 
-**Immunities (Ex):** Demiliches are immune to cold, electricity,
-polymorph, and mind-affecting attacks.
+**Immunities (Ex):** Demiliches are immune to cold, electricity, polymorph, and mind-affecting attacks.
 
 # [CREATING A DEMILICH ]{.underline}
 
-"Demilich" is a tem-plate that can be added to any lich. It uses all the
-lich's statistics and special abilities except as noted here. A
-demilich's form is concentrated into a single portion of its original
-body, usually its skull. Part of the process of becoming a demilich
-includes the incorporation of costly gems into the retained body part;
-see Creating Soul Gems, below.
+"Demilich" is a tem-plate that can be added to any lich. It uses all the lich's statistics and special abilities except as noted here. A demilich's form is concentrated into a single portion of its original body, usually its skull. Part of the process of becoming a demilich includes the incorporation of costly gems into the retained body part; see Creating Soul Gems, below.
 
-Size: Medium-size and Large liches become Diminutive demiliches, Huge
-liches become Small demiliches, Gargantuan liches become Medium-size
-demiliches, and Colossal liches become Large demiliches.
+Size: Medium-size and Large liches become Diminutive demiliches, Huge liches become Small demiliches, Gargantuan liches become Medium-size demiliches, and Colossal liches become Large demiliches.
 
 **Hit Dice:** As lich.
 
-**Speed:** Replace with fly 180 ft. (perfect) or the lich's supernatural
-(not natural) fly speed, whichever is better.
+**Speed:** Replace with fly 180 ft. (perfect) or the lich's supernatural (not natural) fly speed, whichever is better.
 
-**AC:** The demilich retains the lich's +5 natural armor bonus and gains
-an insight bonus equal to AC equal to its Hit Dice, as well as a
-probable size adjustment to AC.
+**AC:** The demilich retains the lich's +5 natural armor bonus and gains an insight bonus equal to AC equal to its Hit Dice, as well as a probable size adjustment to AC.
 
-**Attack:** The demilich gains an insight bonus equal to its Hit Dice as
-a bonus on its touch attacks.
+**Attack:** The demilich gains an insight bonus equal to its Hit Dice as a bonus on its touch attacks.
 
-**Damage:** The demilich gains an enhanced touch attack over that of its
-previous lich form (it now uses its entire flying skull to make the
-touch attack), including paralyzing touch. The demilich's touch attack
-uses negative energy to deal 10d6+20 points of damage to living
-creatures (no saving throw). Liches with other natural attacks lose
-them.
+**Damage:** The demilich gains an enhanced touch attack over that of its previous lich form (it now uses its entire flying skull to make the touch attack), including paralyzing touch. The demilich's touch attack uses negative energy to deal 10d6+20 points of damage to living creatures (no saving throw). Liches with other natural attacks lose them.
 
-**Special Attacks:** The demilich retains all the lich's special attacks
-and also gains those described below.
+**Special Attacks:** The demilich retains all the lich's special attacks and also gains those described below.
 
-***Trap the Soul (Su):**** *A demilich can trap the souls of up to eight
-living creatures per day. To use this power, it selects any target it
-can see within 300 feet. The target is allowed a Fort saving throw (DC
-10 + demilich's HD + demilich's Cha modifier). If the target makes its
-saving throw, it gains four negative levels (this does not count as a
-use of trap the soul). If the target fails its save, the soul of the
-target is instantly drawn from its body and trapped within one of the
-gems incorporated into the demilich's form. The gem gleams wickedly for
-24 hours, indicating the captive soul within. The soulless body
-collapses in a mass of corruption and molders in a single round, reduced
-to dust. If left to its own devices, the demilich slowly devours the
-soul over 24 hours---at the end of that time the soul is completely
-absorbed, and the victim is forever gone. If the demilich is overcome
-before the soul is eaten, crushing the gem releases the soul, after
-which time it is free to seek the afterlife or be returned to its body
-by the use of either *resurrectio*n, *true resurrection, clone, *or
-*miracle. *If the demilich is overcome before the soul is eaten,
-crushing the gem releases the soul, after which time it is free to seek
-the afterlife or be returned to its body by the use of either
-*resurrectio*n, *true resurrection, clone, *or *miracle. *A potential
-victim protected by a *death ward *spell is not immune to trap the soul,
-but receives a +5 bonus on its Fortitude saving throw and* *is effective
-against the level loss on a successful save.
+***Trap the Soul (Su):**** *A demilich can trap the souls of up to eight living creatures per day. To use this power, it selects any target it can see within 300 feet. The target is allowed a Fort saving throw (DC 10 + demilich's HD + demilich's Cha modifier). If the target makes its saving throw, it gains four negative levels (this does not count as a use of trap the soul). If the target fails its save, the soul of the target is instantly drawn from its body and trapped within one of the gems incorporated into the demilich's form. The gem gleams wickedly for 24 hours, indicating the captive soul within. The soulless body collapses in a mass of corruption and molders in a single round, reduced to dust. If left to its own devices, the demilich slowly devours the soul over 24 hours---at the end of that time the soul is completely absorbed, and the victim is forever gone. If the demilich is overcome before the soul is eaten, crushing the gem releases the soul, after which time it is free to seek the afterlife or be returned to its body by the use of either *resurrectio*n, *true resurrection, clone, *or *miracle. *If the demilich is overcome before the soul is eaten, crushing the gem releases the soul, after which time it is free to seek the afterlife or be returned to its body by the use of either *resurrectio*n, *true resurrection, clone, *or *miracle. *A potential victim protected by a *death ward *spell is not immune to trap the soul, but receives a +5 bonus on its Fortitude saving throw and* *is effective against the level loss on a successful save.
 
-***Fear Aura (Su): ***Demiliches are shrouded in a dreadful aura of
-death and evil. Creatures of less than 5 HD in a 60- foot radius that
-look at the demilich must succeed at a Will save (DC 14 + demilich's Cha
-modifier) or be affected as though by *fear *as cast by a 21st-level
-caster.
+***Fear Aura (Su): ***Demiliches are shrouded in a dreadful aura of death and evil. Creatures of less than 5 HD in a 60- foot radius that look at the demilich must succeed at a Will save (DC 14 + demilich's Cha modifier) or be affected as though by *fear *as cast by a 21st-level caster.
 
-***Paralyzing Touch (Su): ***Any living creature a demilich touches must
-succeed at a Fortitude save (DC 10 + demilich's HD + demilich's Cha
-modifier) or be permanently paralyzed. *Remove paralysis *or any spell
-that can remove a curse can free the victim. The effect cannot be
-dispelled. Anyone paralyzed by a demilich seems dead, though a
-successful Spot check (DC 20) or Heal check (DC 15) reveals that the
-victim is still alive.
+***Paralyzing Touch (Su): ***Any living creature a demilich touches must succeed at a Fortitude save (DC 10 + demilich's HD + demilich's Cha modifier) or be permanently paralyzed. *Remove paralysis *or any spell that can remove a curse can free the victim. The effect cannot be dispelled. Anyone paralyzed by a demilich seems dead, though a successful Spot check (DC 20) or Heal check (DC 15) reveals that the victim is still alive.
 
 Spells: The demilich can cast any spells it could cast as a lich.
 
-*Perfect Automatic Still Spell: *The demilich can cast all the spells it
-knows without gestures.
+*Perfect Automatic Still Spell: *The demilich can cast all the spells it knows without gestures.
 
-**Spell-Like Abilities:** At will---*alter self, astral projection,
-create greater undead, create undead, death knell, enervation, greater
-dispel magic, harm *(usually used to heal itself ), *summon monster
-I--IX, telekinesis, *and *weird; *2/day--- *greater planar ally.
-*Demiliches use these abilities as casters of a level equal to their
-spellcaster level, but the save DCs are equal to 10 + the demilich's
-HD + the demilich's Charisma modifier.
+**Spell-Like Abilities:** At will---*alter self, astral projection, create greater undead, create undead, death knell, enervation, greater dispel magic, harm *(usually used to heal itself ), *summon monster I--IX, telekinesis, *and *weird; *2/day--- *greater planar ally. *Demiliches use these abilities as casters of a level equal to their spellcaster level, but the save DCs are equal to 10 + the demilich's HD + the demilich's Charisma modifier.
 
-**Special Qualities:** The demilich retains all the lich's special
-qualities and also has those described below.
+**Special Qualities:** The demilich retains all the lich's special qualities and also has those described below.
 
-***Magic Immunity (Ex):**** *Demiliches are immune to all magical and
-supernatural effects, except as follows. A *shatter *spell affects a
-demilich as if it were a crystalline creature, but deals half the damage
-normally indicated. A *dispel evil *spell deals 3d6 points of damage
-(Fort save for half damage). *Holy smite *spells affect demiliches
-normally.
+***Magic Immunity (Ex):**** *Demiliches are immune to all magical and supernatural effects, except as follows. A *shatter *spell affects a demilich as if it were a crystalline creature, but deals half the damage normally indicated. A *dispel evil *spell deals 3d6 points of damage (Fort save for half damage). *Holy smite *spells affect demiliches normally.
 
-***Phylactery Transference (Su):**** *Headbands, belts, rings, cloaks,
-and other wearable items kept in close association with the demilich's
-phylactery transfer all their benefits to the demilich no matter how far
-apart the demilich and the phylactery are located. The standard limits
-on types of items utilized simultaneously still apply.
+***Phylactery Transference (Su):**** *Headbands, belts, rings, cloaks, and other wearable items kept in close association with the demilich's phylactery transfer all their benefits to the demilich no matter how far apart the demilich and the phylactery are located. The standard limits on types of items utilized simultaneously still apply.
 
-***Undead Traits:**** *Immune to poison, *sleep, *paralysis, stunning,
-disease, death, effects, necromantic effects, mind-affecting effects,
-and any effect requiring a Fortitude save unless it also works on
-objects. Not subject to critical hits, subdual damage, ability damage,
-ability drain, or energy drain. Negative energy heals. Not at risk of
-death from massive damage, but destroyed at 0 hit points or less.
-Darkvision 60 ft. Cannot be raised; resurrection works only if creature
-is willing.
+***Undead Traits:**** *Immune to poison, *sleep, *paralysis, stunning, disease, death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual damage, ability damage, ability drain, or energy drain. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
 
-***Immunities (Ex):**** *Demiliches are immune to cold, electricity,
-polymorph, and mind-affecting attacks.
+***Immunities (Ex):**** *Demiliches are immune to cold, electricity, polymorph, and mind-affecting attacks.
 
 ***Turn Resistance (Ex): ***A demilich has turn resistance +20.
 
-***Damage Reduction (Su):**** *A demilich loses any previous damage
-reduction and instead has damage reduction 15/Epic and bludgeoning (15
-points of damage is subtracted from all melee attacks unless the weapon
-used is both an epic and a bludgeoning weapon). Vorpal weapons, no
-matter their enhancement bonus, ignore this damage reduction but do only
-half damage to a demilich (demiliches cannot be beheaded).
+***Damage Reduction (Su):**** *A demilich loses any previous damage reduction and instead has damage reduction 15/Epic and bludgeoning (15 points of damage is subtracted from all melee attacks unless the weapon used is both an epic and a bludgeoning weapon). Vorpal weapons, no matter their enhancement bonus, ignore this damage reduction but do only half damage to a demilich (demiliches cannot be beheaded).
 
-***Resistances (Ex):**** *Demiliches have acid resistance 20, fire
-resistance 20, and sonic resistance 20.
+***Resistances (Ex):**** *Demiliches have acid resistance 20, fire resistance 20, and sonic resistance 20.
 
 **Saves:** Same as the lich.
 
-**Abilities:** A demilich gains +10 to Intelligence, Wisdom, and
-Charisma.
+**Abilities:** A demilich gains +10 to Intelligence, Wisdom, and Charisma.
 
-**Skills:** Demiliches receive a +20 racial bonus on Hide, Listen, Move
-Silently, Search, Sense Motive, and Spot checks. Otherwise same as the
-lich (this overlaps with the previous racial bonus gained by the lich;
-it does not stack).
+**Skills:** Demiliches receive a +20 racial bonus on Hide, Listen, Move Silently, Search, Sense Motive, and Spot checks. Otherwise same as the lich (this overlaps with the previous racial bonus gained by the lich; it does not stack).
 
 **Feats:** Same as the lich.
 
-**Epic Feats:** Demiliches gain the feats Blinding Speed, Tenacious
-Magic, and Automatic Quicken Spell.
+**Epic Feats:** Demiliches gain the feats Blinding Speed, Tenacious Magic, and Automatic Quicken Spell.
 
 **Climate/Terrain:** Same as the lich.
 
@@ -1454,30 +802,15 @@ Magic, and Automatic Quicken Spell.
 
 # [DEMILICH CHARACTERS ]{.underline}
 
-The process of becoming a demilich can be undertaken only by a lich
-acting of its own free will. The demilich retains all class abilities it
-had as a lich.
+The process of becoming a demilich can be undertaken only by a lich acting of its own free will. The demilich retains all class abilities it had as a lich.
 
 # [CREATING SOUL GEMS ]{.underline}
 
-Liches have phylacteries that allow them to reappear 1d10 days after
-their apparent death, as do demiliches. Demiliches also have eight soul
-gems, each of which acts like a phylactery in its own right. If all the
-soul gems, as well as the demilich's phylactery, are not destroyed after
-a demilich is downed, the demilich reappears 1d10 days after its
-apparent death. The soul gems also allow the demilich to use its most
-devastating ability, trap the soul (see above). Each demilich must make
-its own soul gems, which requires the Craft Wondrous Item feat. The lich
-must be a sorcerer, wizard, or cleric of at least 21st level. Each soul
-gem costs 120,000 gp and 4,800 XP to create and has a caster level equal
-to that of its creator at the time of creation. Soul gems appear as
-egg-shaped gems of wondrous quality. They are always incorporated
-directly into the concentrated form of the demilich.
+Liches have phylacteries that allow them to reappear 1d10 days after their apparent death, as do demiliches. Demiliches also have eight soul gems, each of which acts like a phylactery in its own right. If all the soul gems, as well as the demilich's phylactery, are not destroyed after a demilich is downed, the demilich reappears 1d10 days after its apparent death. The soul gems also allow the demilich to use its most devastating ability, trap the soul (see above). Each demilich must make its own soul gems, which requires the Craft Wondrous Item feat. The lich must be a sorcerer, wizard, or cleric of at least 21st level. Each soul gem costs 120,000 gp and 4,800 XP to create and has a caster level equal to that of its creator at the time of creation. Soul gems appear as egg-shaped gems of wondrous quality. They are always incorporated directly into the concentrated form of the demilich.
 
 # [DEVASTATION VERMIN ]{.underline}
 
-**Vermin Traits: **Immune to mind-affecting effects (charms,
-compulsions, phantasms, patterns, and morale effects).
+**Vermin Traits: **Immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
 
   ----------------------------------------------------- -------------------------------------------------------------- -----------------------------------------------------------------------------------------
                                                         **[Devastation Centipede ]{.underline}**                       **[Devastation Spider ]{.underline}**
@@ -1533,157 +866,63 @@ compulsions, phantasms, patterns, and morale effects).
 
 # [DEVASTATION CENTIPEDE ]{.underline}
 
-**Poison (Ex): **Bite, Fort save (DC 93); initial and secondary damage
-2d12 temporary Dex.
+**Poison (Ex): **Bite, Fort save (DC 93); initial and secondary damage 2d12 temporary Dex.
 
-**Skills:** Devastation centipedes receive a +8 racial bonus on Climb,
-Hide, and Spot checks.
+**Skills:** Devastation centipedes receive a +8 racial bonus on Climb, Hide, and Spot checks.
 
 # [DEVASTATION SPIDER ]{.underline}
 
-**Poison (Ex):** Bite, Fort save (DC 94); initial and secondary damage
-2d12 temporary Con.
+**Poison (Ex):** Bite, Fort save (DC 94); initial and secondary damage 2d12 temporary Con.
 
-**Web (Ex):** A single web strand is strong enough to support the spider
-and one creature of Gargantuan size. Web-spinning devastation spiders
-can cast a web eight times per day. This is similar to an attack with a
-net but has a maximum range of 150 feet, with a range increment of 30
-feet, and is effective against targets of up to Gargantuan size. The web
-anchors the target in place, allowing no movement. An entangled creature
-can escape with a successful Escape Artist check (DC 38) or burst it
-with a Strength check (DC 44). Both are standard actions. Web-spinning
-spiders often create sheets of sticky webbing about 1,000 feet square.
-They usually position these sheets to snare flying creatures but can
-also try to trap prey on the ground. Approaching creatures must succeed
-at a Spot check (DC 20) to notice a web; otherwise, they stumble into it
-and become trapped as though by a successful web attack. Attempts to
-escape or burst the webbing gain a +5 bonus if the trapped creature has
-something to walk on or grab while pulling free. Each 5-foot section has
-24 hit points, and sheet webs have damage reduction 20/fire. A
-devastation spider can move across its own sheet web at its climb speed
-and can determine the exact location of any creature caught in the web.
+**Web (Ex):** A single web strand is strong enough to support the spider and one creature of Gargantuan size. Web-spinning devastation spiders can cast a web eight times per day. This is similar to an attack with a net but has a maximum range of 150 feet, with a range increment of 30 feet, and is effective against targets of up to Gargantuan size. The web anchors the target in place, allowing no movement. An entangled creature can escape with a successful Escape Artist check (DC 38) or burst it with a Strength check (DC 44). Both are standard actions. Web-spinning spiders often create sheets of sticky webbing about 1,000 feet square. They usually position these sheets to snare flying creatures but can also try to trap prey on the ground. Approaching creatures must succeed at a Spot check (DC 20) to notice a web; otherwise, they stumble into it and become trapped as though by a successful web attack. Attempts to escape or burst the webbing gain a +5 bonus if the trapped creature has something to walk on or grab while pulling free. Each 5-foot section has 24 hit points, and sheet webs have damage reduction 20/fire. A devastation spider can move across its own sheet web at its climb speed and can determine the exact location of any creature caught in the web.
 
-**Skills:** Web-spinning devastation spiders receive a +4 racial bonus
-on Hide and Spot checks. Hunting spiders receive a +6 racial bonus on
-Jump checks and a +8 racial bonus on Spot checks (using the modifiers
-given in parentheses). \*All devastation spiders gain a +8 competence
-bonus on Hide and Move Silently checks when using their webs.
+**Skills:** Web-spinning devastation spiders receive a +4 racial bonus on Hide and Spot checks. Hunting spiders receive a +6 racial bonus on Jump checks and a +8 racial bonus on Spot checks (using the modifiers given in parentheses). \*All devastation spiders gain a +8 competence bonus on Hide and Move Silently checks when using their webs.
 
 # [DEVASTATION SCORPION ]{.underline}
 
-**Improved Grab (Ex):** To use this ability, the devastation scorpion
-must hit with its claw attack. If it gets a hold, it hangs on and
-squeezes.
+**Improved Grab (Ex):** To use this ability, the devastation scorpion must hit with its claw attack. If it gets a hold, it hangs on and squeezes.
 
-**Squeeze (Ex):** A devastation scorpion that gets a hold on a
-Gargantuan or smaller opponent automatically deals damage with both
-claws and its sting.
+**Squeeze (Ex):** A devastation scorpion that gets a hold on a Gargantuan or smaller opponent automatically deals damage with both claws and its sting.
 
-**Poison (Ex):** Sting, Fort save (DC 95); initial and secondary damage
-2d12 temporary Str.
+**Poison (Ex):** Sting, Fort save (DC 95); initial and secondary damage 2d12 temporary Str.
 
-**Skills:** Devastation scorpions receive a +4 racial bonus on Climb,
-Hide, and Spot checks.
+**Skills:** Devastation scorpions receive a +4 racial bonus on Climb, Hide, and Spot checks.
 
 # [DEVASTATION BEETLE ]{.underline}
 
-**Trample (Ex):** A devastation beetle can trample Gargantuan and
-smaller creatures for 30d10+24 points of damage. Opponents who do not
-make attacks of opportunity against the devastation beetle can attempt a
-Reflex save (DC 90) to halve the damage.
+**Trample (Ex):** A devastation beetle can trample Gargantuan and smaller creatures for 30d10+24 points of damage. Opponents who do not make attacks of opportunity against the devastation beetle can attempt a Reflex save (DC 90) to halve the damage.
 
-**Acid Cloud (Ex):** A devastation beetle exudes a constant vapor that
-radiates outward in every direction for 60 feet. This vapor deals 6d6
-points of acid damage each round to anyone caught in the cloud.
+**Acid Cloud (Ex):** A devastation beetle exudes a constant vapor that radiates outward in every direction for 60 feet. This vapor deals 6d6 points of acid damage each round to anyone caught in the cloud.
 
 # [DRAGON, ADVANCED ]{.underline}
 
-The standard advancement rules allow dragons theoretically infinite
-progression even beyond the stage of great wyrm. The following rules let
-dragons improve more than their Hit Dice as they progress to epic
-heights of power.
+The standard advancement rules allow dragons theoretically infinite progression even beyond the stage of great wyrm. The following rules let dragons improve more than their Hit Dice as they progress to epic heights of power.
 
-**Age Category:** A standard dragon gains one "virtual age category" for
-every 3 Hit Dice it gains beyond the great wyrm stage. Abilities that
-function once per day per age category or otherwise use the dragon's age
-category as part of a calculation use this adjusted number. Epic dragons
-gain one age category per 5 Hit Dice beyond great wyrm.
+**Age Category:** A standard dragon gains one "virtual age category" for every 3 Hit Dice it gains beyond the great wyrm stage. Abilities that function once per day per age category or otherwise use the dragon's age category as part of a calculation use this adjusted number. Epic dragons gain one age category per 5 Hit Dice beyond great wyrm.
 
-**Size: **One important element of dragon advancement is increasing
-size. The dragons that don't reach Colossal size by the great wyrm stage
-can never reach it according to the standard advancement rules. When
-advancing a dragon, consider its basic size group: lesser (white, black,
-brass, and copper dragons), ordinary (green, blue, and bronze dragons),
-greater (silver, red, and gold), or epic (force and prismatic). A dragon
-that is Tiny as a wyrmling is in the lesser group, a dragon that is
-Small as a wyrmling and never reaches Colossal size is in the ordinary
-group, and a dragon that is Small to Large as a wyrmling and reaches
-Colossal by the great wyrm stage is in the greater group. A lesser
-dragon becomes Colossal when it gains two age categories (6 Hit Dice)
-beyond great wyrm. It increases to Colossal+ when it gains an additional
-four age categories (12 HD). An ordinary dragon becomes Colossal when it
-gains one age category (3 Hit Dice) beyond great wyrm. It increases to
-Colossal+ when it gains an additional four age categories (12 HD). A
-greater dragon becomes Colossal+ when it gains four age categories (12
-HD) more than it needed to reach the Colossal size.
+**Size: **One important element of dragon advancement is increasing size. The dragons that don't reach Colossal size by the great wyrm stage can never reach it according to the standard advancement rules. When advancing a dragon, consider its basic size group: lesser (white, black, brass, and copper dragons), ordinary (green, blue, and bronze dragons), greater (silver, red, and gold), or epic (force and prismatic). A dragon that is Tiny as a wyrmling is in the lesser group, a dragon that is Small as a wyrmling and never reaches Colossal size is in the ordinary group, and a dragon that is Small to Large as a wyrmling and reaches Colossal by the great wyrm stage is in the greater group. A lesser dragon becomes Colossal when it gains two age categories (6 Hit Dice) beyond great wyrm. It increases to Colossal+ when it gains an additional four age categories (12 HD). An ordinary dragon becomes Colossal when it gains one age category (3 Hit Dice) beyond great wyrm. It increases to Colossal+ when it gains an additional four age categories (12 HD). A greater dragon becomes Colossal+ when it gains four age categories (12 HD) more than it needed to reach the Colossal size.
 
-Epic dragons, already Colossal+ by the time they reach the great wyrm
-stage, do not increase in size thereafter. Use the information presented
-under the epic dragon entry, below, to determine the statistics of a
-Colossal+ dragon.
+Epic dragons, already Colossal+ by the time they reach the great wyrm stage, do not increase in size thereafter. Use the information presented under the epic dragon entry, below, to determine the statistics of a Colossal+ dragon.
 
-**Armor Class:** A dragon's natural armor bonus increases by +1 for
-every Hit Die it gains beyond the great wyrm stage. (This rule applies
-for lesser dragon advancement as well, since natural armor and Hit Dice
-always increase at the same rate.)
+**Armor Class:** A dragon's natural armor bonus increases by +1 for every Hit Die it gains beyond the great wyrm stage. (This rule applies for lesser dragon advancement as well, since natural armor and Hit Dice always increase at the same rate.)
 
-**Breath Weapon:** If a dragon's breath weapon deals damage, the damage
-typically increases by 2 dice for every virtual age category the dragon
-gains. The two exceptions among standard dragons* *are the brass and
-white dragons, whose breath weapon damage increases by only 1 die per
-age category. The saving throw DC against a dragon's breath weapon
-remains 10 + 1/2 the dragon's Hit Dice + its Constitution modifier.
+**Breath Weapon:** If a dragon's breath weapon deals damage, the damage typically increases by 2 dice for every virtual age category the dragon gains. The two exceptions among standard dragons* *are the brass and white dragons, whose breath weapon damage increases by only 1 die per age category. The saving throw DC against a dragon's breath weapon remains 10 + 1/2 the dragon's Hit Dice + its Constitution modifier.
 
-**Spell Resistance:** For standard advanced dragons, spell resistance
-increases by 2 per additional age category. For epic dragons, spell
-resistance increases by 3 (for force dragons) or 6 (for prismatic
-dragons) per additional age category.
+**Spell Resistance:** For standard advanced dragons, spell resistance increases by 2 per additional age category. For epic dragons, spell resistance increases by 3 (for force dragons) or 6 (for prismatic dragons) per additional age category.
 
-**Speed:** When a dragon becomes Colossal, its fly speed increases by 50
-feet and its maneuverability becomes clumsy. When it reaches Colossal+,
-its fly speed increases by another 50 feet, and its maneuverability
-remains clumsy. A dragon's land speed and other special movement types
-(swim, burrow, and so on) do not change.
+**Speed:** When a dragon becomes Colossal, its fly speed increases by 50 feet and its maneuverability becomes clumsy. When it reaches Colossal+, its fly speed increases by another 50 feet, and its maneuverability remains clumsy. A dragon's land speed and other special movement types (swim, burrow, and so on) do not change.
 
-**Ability Scores: **A great wyrm's Strength and Constitution scores both
-increase by +2 for every virtual age category the dragon gains. Its
-Dexterity remains unchanged. Its Intelligence, Wisdom, and Charisma
-increase by +2 for every two age categories the dragon gains.
+**Ability Scores: **A great wyrm's Strength and Constitution scores both increase by +2 for every virtual age category the dragon gains. Its Dexterity remains unchanged. Its Intelligence, Wisdom, and Charisma increase by +2 for every two age categories the dragon gains.
 
-**Special Abilities:** Dragons do not gain additional spell-like
-abilities, but their damage reduction continues to increase as they gain
-Hit Dice. For most dragons (the exceptions being the force and prismatic
-dragons), the great wyrm's damage reduction increases to 15/epic after
-exceeding the great wyrm age category and the dragon's natural weapons
-count as epic weapons for the purposes of bypassing damage reduction.
+**Special Abilities:** Dragons do not gain additional spell-like abilities, but their damage reduction continues to increase as they gain Hit Dice. For most dragons (the exceptions being the force and prismatic dragons), the great wyrm's damage reduction increases to 15/epic after exceeding the great wyrm age category and the dragon's natural weapons count as epic weapons for the purposes of bypassing damage reduction.
 
-Force and prismatic dragons have the following DR progression: wyrmling
-10/magic, young 15/magic, young adult 15/epic, mature adult 20/epic,
-very old 25/epic.
+Force and prismatic dragons have the following DR progression: wyrmling 10/magic, young 15/magic, young adult 15/epic, mature adult 20/epic, very old 25/epic.
 
-*Caster Level: *A great wyrm's caster level increases by 2 for every
-virtual age category the dragon gains. As with the epic dragons
-described later, advanced dragons gain the Improved Spell Capacity feat
-as a bonus feat once for every three caster levels above 20th.
+*Caster Level: *A great wyrm's caster level increases by 2 for every virtual age category the dragon gains. As with the epic dragons described later, advanced dragons gain the Improved Spell Capacity feat as a bonus feat once for every three caster levels above 20th.
 
-**Feats:** Like ordinary dragons, advanced dragons receive one feat for
-every 3 Hit Dice they have. Feats gained after the dragon attains great
-wyrm status can be epic feats.
+**Feats:** Like ordinary dragons, advanced dragons receive one feat for every 3 Hit Dice they have. Feats gained after the dragon attains great wyrm status can be epic feats.
 
-**Challenge Rating:** For standard dragons, CR increases by 2 per
-additional age category. For epic dragons, CR increases by 3 per
-additional age category. All other dragon statistics are as presented
-for dragons in general and specific dragon varieties.
+**Challenge Rating:** For standard dragons, CR increases by 2 per additional age category. For epic dragons, CR increases by 3 per additional age category. All other dragon statistics are as presented for dragons in general and specific dragon varieties.
 
 # [DRAGON,EPIC ]{.underline}
 
@@ -1712,14 +951,7 @@ All epic dragons speak Draconic.
 
 # [COMBAT]{.underline}**[ ]{.underline}**
 
-Epic dragons share all the combat characteristics of standard dragons*.
-*Even wyrmling epic dragons are Huge, however, and are capable of making
-tail sweep and crush attacks. Although there is no size category larger
-than Colossal, the oldest epic dragons deal more damage with their
-attacks than other Colossal dragons, as shown on the Epic Dragon Face
-and Reach and Epic Dragon Attacks tables below. In addition, the breath
-weapon of the oldest epic dragons is a larger cone than most Colossal
-dragons possess. The size modifier for these dragons remains --8.
+Epic dragons share all the combat characteristics of standard dragons*. *Even wyrmling epic dragons are Huge, however, and are capable of making tail sweep and crush attacks. Although there is no size category larger than Colossal, the oldest epic dragons deal more damage with their attacks than other Colossal dragons, as shown on the Epic Dragon Face and Reach and Epic Dragon Attacks tables below. In addition, the breath weapon of the oldest epic dragons is a larger cone than most Colossal dragons possess. The size modifier for these dragons remains --8.
 
 **Epic Dragon Space and Reach **
 
@@ -1761,35 +993,13 @@ dragons possess. The size modifier for these dragons remains --8.
                                                                
   ------------------------------------------------------------ ------------------------------------
 
-[Wyrmling epic dragons possess certain abilities that common dragons do
-not acquire until later in life, including frightful presence,
-spellcasting, and spell resistance. An epic dragon with a caster level
-above 20th gains the Improved Spell Capacity feat as a bonus feat once
-for every three caster levels above 20th. Any epic dragon can choose
-epic feats for which it otherwise meets the prerequisites. Epic dragons
-also have access to dragon feats]{.underline}*[, ]{.underline}*[as well
-as the additional feats described in this book. ]{.underline}
+[Wyrmling epic dragons possess certain abilities that common dragons do not acquire until later in life, including frightful presence, spellcasting, and spell resistance. An epic dragon with a caster level above 20th gains the Improved Spell Capacity feat as a bonus feat once for every three caster levels above 20th. Any epic dragon can choose epic feats for which it otherwise meets the prerequisites. Epic dragons also have access to dragon feats]{.underline}*[, ]{.underline}*[as well as the additional feats described in this book. ]{.underline}
 
-**[Empower Spell-Like Ability:]{.underline}**[ An epic dragon can apply
-the Empower Spell feat to one of its spell-like abilities that it can
-use at least twice per day. If the dragon has limited use of the
-spell-like ability, the empowered ability uses up two uses of the
-ability. If the dragon can use the ability at will, there is no cost for
-empowering the ability. The dragon does not need to specify a spell-like
-ability when it chooses this feat; it can apply the feat to any
-spell-like ability it possesses. ]{.underline}
+**[Empower Spell-Like Ability:]{.underline}**[ An epic dragon can apply the Empower Spell feat to one of its spell-like abilities that it can use at least twice per day. If the dragon has limited use of the spell-like ability, the empowered ability uses up two uses of the ability. If the dragon can use the ability at will, there is no cost for empowering the ability. The dragon does not need to specify a spell-like ability when it chooses this feat; it can apply the feat to any spell-like ability it possesses. ]{.underline}
 
-**[Maximize Spell-Like Ability: ]{.underline}**[The dragon can apply the
-Maximize Spell feat to one of its spell-like abilities that it can use
-at least three times per day. If the dragon has limited use of the
-spell-like ability, the maximized ability uses up three uses of the
-ability. If the dragon can use the ability at will, there is no cost for
-maximizing the ability. The dragon does not need to specify a spell-like
-ability when it chooses this feat; it can apply the feat to any
-spell-like ability it possesses. ]{.underline}
+**[Maximize Spell-Like Ability: ]{.underline}**[The dragon can apply the Maximize Spell feat to one of its spell-like abilities that it can use at least three times per day. If the dragon has limited use of the spell-like ability, the maximized ability uses up three uses of the ability. If the dragon can use the ability at will, there is no cost for maximizing the ability. The dragon does not need to specify a spell-like ability when it chooses this feat; it can apply the feat to any spell-like ability it possesses. ]{.underline}
 
-[Epic dragons fly even faster than common dragons, and can cover greater
-distances. ]{.underline}
+[Epic dragons fly even faster than common dragons, and can cover greater distances. ]{.underline}
 
 **[Epic Dragon Overland Flying Speeds ]{.underline}**
 
@@ -1811,8 +1021,7 @@ distances. ]{.underline}
                                                                                                                                                                                                                                                                                           
   ----------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------- -----------------------------
 
-[Except as noted here, epic dragons conform to the general information
-that applies to all dragons given]{.underline}*[.]{.underline}*
+[Except as noted here, epic dragons conform to the general information that applies to all dragons given]{.underline}*[.]{.underline}*
 
 ######## [FORCE DRAGON ]{.underline}
 
@@ -1820,585 +1029,107 @@ that applies to all dragons given]{.underline}*[.]{.underline}*
 
 **Climate/Terrain:** Any land and underground
 
-**Organization:** Wyrmling, very young, young, juvenile and young adult:
-solitary or clutch (2--5); adult, mature adult, old, very old, ancient,
-wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5 offspring)
+**Organization:** Wyrmling, very young, young, juvenile and young adult: solitary or clutch (2--5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5 offspring)
 
-**Challenge Rating:** Wyrmling 13; very young 19; young 21; juvenile 25;
-young adult 28; adult 31; mature adult 35; old 37; very old 39; ancient
-43; wyrm 50; great wyrm 59
+**Challenge Rating:** Wyrmling 13; very young 19; young 21; juvenile 25; young adult 28; adult 31; mature adult 35; old 37; very old 39; ancient 43; wyrm 50; great wyrm 59
 
 **Treasure:** Double standard
 
 **Alignment:** Usually neutral
 
-Advancement Range: Wyrmling 21--24 HD (Huge); very young 26--29 HD
-(Huge); young 31--34 HD (Gargantuan); juvenile 36--39 HD (Gargantuan);
-young adult 41--44 HD (Gargantuan); adult 46--49 HD (Gargantuan); mature
-adult 51--54 HD (Colossal); old 56--59 HD (Colossal); very old 61--64 HD
-(Colossal); ancient 66--69 HD (Colossal); wyrm 71--74 HD (Colossal+);
-great wyrm 76+ HD (Colossal+)
+Advancement Range: Wyrmling 21--24 HD (Huge); very young 26--29 HD (Huge); young 31--34 HD (Gargantuan); juvenile 36--39 HD (Gargantuan); young adult 41--44 HD (Gargantuan); adult 46--49 HD (Gargantuan); mature adult 51--54 HD (Colossal); old 56--59 HD (Colossal); very old 61--64 HD (Colossal); ancient 66--69 HD (Colossal); wyrm 71--74 HD (Colossal+); great wyrm 76+ HD (Colossal+)
 
 **Force Dragons by Age **
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong><u>Age </u></strong></p></td>
-<td><h3><u>Size</u></h3></td>
-<td><p><strong>Hit Dice (hp)</strong></p></td>
-<td><p><strong>Str</strong></p></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Int</strong></p></td>
-<td><p><strong>Wis</strong></p></td>
-<td><p><strong>Cha</strong></p></td>
-<td><p><strong>Base Attack/</strong></p>
-<p><strong>Grapple</strong></p></td>
-<td><p><strong>Attack</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Breath Weapon (DC)</strong></p></td>
-<td><p><strong>Frightful Presence DC</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><u>Wyrmling </u></p></td>
-<td><p><u>H</u></p></td>
-<td><p><u>20d12+100 (230)</u></p></td>
-<td><p><u>31</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>21</u></p></td>
-<td><p><u>18</u></p></td>
-<td><p><u>19</u></p></td>
-<td><p><u>18</u></p></td>
-<td><p><u>+20/+38</u></p></td>
-<td><p><u>+28</u></p></td>
-<td><p><u>+17</u></p></td>
-<td><p><u>+12</u></p></td>
-<td><p><u>+16</u></p></td>
-<td><p><u>5d12 (25)</u></p></td>
-<td><p><u>24</u></p></td>
-</tr>
-<tr class="even">
-<td><p><u>Very young</u></p></td>
-<td><p><u>H</u></p></td>
-<td><p><u>25d12+150 (312)</u></p></td>
-<td><p><u>35</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>23</u></p></td>
-<td><p><u>22</u></p></td>
-<td><p><u>23</u></p></td>
-<td><p><u>22</u></p></td>
-<td><p><u>+25/+45</u></p></td>
-<td><p><u>+35</u></p></td>
-<td><p><u>+20</u></p></td>
-<td><p><u>+14</u></p></td>
-<td><p><u>+20</u></p></td>
-<td><p><u>10d12 (28)</u></p></td>
-<td><p><u>28</u></p></td>
-</tr>
-<tr class="odd">
-<td><p><u>Young</u></p></td>
-<td><p><u>G</u></p></td>
-<td><p><u>30d12+210 (405)</u></p></td>
-<td><p><u>39</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>25</u></p></td>
-<td><p><u>26</u></p></td>
-<td><p><u>27</u></p></td>
-<td><p><u>26</u></p></td>
-<td><p><u>+30/+56</u></p></td>
-<td><p><u>+40</u></p></td>
-<td><p><u>+24</u></p></td>
-<td><p><u>+17</u></p></td>
-<td><p><u>+25</u></p></td>
-<td><p><u>15d12 (32)</u></p></td>
-<td><p><u>33</u></p></td>
-</tr>
-<tr class="even">
-<td><p><u>Juvenile</u></p></td>
-<td><p><u>G</u></p></td>
-<td><p><u>35d12+315 (542)</u></p></td>
-<td><p><u>43</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>29</u></p></td>
-<td><p><u>30</u></p></td>
-<td><p><u>31</u></p></td>
-<td><p><u>30</u></p></td>
-<td><p><u>+35/+63</u></p></td>
-<td><p><u>+47</u></p></td>
-<td><p><u>+28</u></p></td>
-<td><p><u>+19</u></p></td>
-<td><p><u>+29</u></p></td>
-<td><p><u>20d12 (36)</u></p></td>
-<td><p><u>37</u></p></td>
-</tr>
-<tr class="odd">
-<td><p><u>Young adult</u></p></td>
-<td><p><u>G</u></p></td>
-<td><p><u>40d12+440 (700)</u></p></td>
-<td><p><u>47</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>33</u></p></td>
-<td><p><u>34</u></p></td>
-<td><p><u>35</u></p></td>
-<td><p><u>34</u></p></td>
-<td><p><u>+40/+70</u></p></td>
-<td><p><u>+54</u></p></td>
-<td><p><u>+33</u></p></td>
-<td><p><u>+22</u></p></td>
-<td><p><u>+34</u></p></td>
-<td><p><u>25d12 (41)</u></p></td>
-<td><p><u>42</u></p></td>
-</tr>
-<tr class="even">
-<td><p><u>Adult</u></p></td>
-<td><p><u>G</u></p></td>
-<td><p><u>45d12+585 (877)</u></p></td>
-<td><p><u>51</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>37</u></p></td>
-<td><p><u>38</u></p></td>
-<td><p><u>39</u></p></td>
-<td><p><u>38</u></p></td>
-<td><p><u>+45/+77</u></p></td>
-<td><p><u>+61</u></p></td>
-<td><p><u>+37</u></p></td>
-<td><p><u>+24</u></p></td>
-<td><p><u>+38</u></p></td>
-<td><p><u>30d12 (45)</u></p></td>
-<td><p><u>46</u></p></td>
-</tr>
-<tr class="odd">
-<td><p><u>Mature adult</u></p></td>
-<td><p><u>C</u></p></td>
-<td><p><u>50d12+750 (1,075)</u></p></td>
-<td><p><u>55</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>41</u></p></td>
-<td><p><u>42</u></p></td>
-<td><p><u>43</u></p></td>
-<td><p><u>42</u></p></td>
-<td><p><u>+50/+88</u></p></td>
-<td><p><u>+64</u></p></td>
-<td><p><u>+42</u></p></td>
-<td><p><u>+27</u></p></td>
-<td><p><u>+43</u></p></td>
-<td><p><u>35d12 (50)</u></p></td>
-<td><p><u>51</u></p></td>
-</tr>
-<tr class="even">
-<td><p><u>Old</u></p></td>
-<td><p><u>C</u></p></td>
-<td><p><u>55d12+935 (1,292)</u></p></td>
-<td><p><u>59</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>45</u></p></td>
-<td><p><u>46</u></p></td>
-<td><p><u>47</u></p></td>
-<td><p><u>46</u></p></td>
-<td><p><u>+55/+95</u></p></td>
-<td><p><u>+71</u></p></td>
-<td><p><u>+46</u></p></td>
-<td><p><u>+29</u></p></td>
-<td><p><u>+47</u></p></td>
-<td><p><u>40d12 (54)</u></p></td>
-<td><p><u>55</u></p></td>
-</tr>
-<tr class="odd">
-<td><p><u>Very old</u></p></td>
-<td><p><u>C</u></p></td>
-<td><p><u>60d12+1,140 (1,530)</u></p></td>
-<td><p><u>63</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>49</u></p></td>
-<td><p><u>50</u></p></td>
-<td><p><u>51</u></p></td>
-<td><p><u>50</u></p></td>
-<td><p><u>+60/+102</u></p></td>
-<td><p><u>+78</u></p></td>
-<td><p><u>+51</u></p></td>
-<td><p><u>+32</u></p></td>
-<td><p><u>+52</u></p></td>
-<td><p><u>45d12 (59)</u></p></td>
-<td><p><u>60</u></p></td>
-</tr>
-<tr class="even">
-<td><p><u>Ancient</u></p></td>
-<td><p><u>C</u></p></td>
-<td><p><u>65d12+1,365 (1,787)</u></p></td>
-<td><p><u>67</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>53</u></p></td>
-<td><p><u>54</u></p></td>
-<td><p><u>55</u></p></td>
-<td><p><u>54</u></p></td>
-<td><p><u>+65/+109</u></p></td>
-<td><p><u>+85</u></p></td>
-<td><p><u>+55</u></p></td>
-<td><p><u>+34</u></p></td>
-<td><p><u>+56</u></p></td>
-<td><p><u>50d12 (63)</u></p></td>
-<td><p><u>64</u></p></td>
-</tr>
-<tr class="odd">
-<td><p><u>Wyrm</u></p></td>
-<td><p><u>C+</u></p></td>
-<td><p><u>70d12+1,610 (2,065)</u></p></td>
-<td><p><u>71</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>57</u></p></td>
-<td><p><u>58</u></p></td>
-<td><p><u>59</u></p></td>
-<td><p><u>58</u></p></td>
-<td><p><u>+70/+116</u></p></td>
-<td><p><u>+92</u></p></td>
-<td><p><u>+60</u></p></td>
-<td><p><u>+37</u></p></td>
-<td><p><u>+61</u></p></td>
-<td><p><u>55d12 (68)</u></p></td>
-<td><p><u>69</u></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><u>Great wyrm</u></p></td>
-<td><p><u>C+</u></p></td>
-<td><p><u>75d12+1,875 (2,362)</u></p></td>
-<td><p><u>75</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>61</u></p></td>
-<td><p><u>62</u></p></td>
-<td><p><u>63</u></p></td>
-<td><p><u>62</u></p></td>
-<td><p><u>+75/+123</u></p></td>
-<td><p><u>+99</u></p></td>
-<td><p><u>+64</u></p></td>
-<td><p><u>+39</u></p></td>
-<td><p><u>+65</u></p></td>
-<td><p><u>60d12 (72)</u></p></td>
-<td><p><u>73</u></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| **[Age ]{.underline}**     | ### [Size]{.underline} | **Hit Dice (hp)**                 | **Str**          | **Dex**          | **Con**          | **Int**          | **Wis**          | **Cha**          | **Base Attack/**       | **Attack**        | **Fort Save**     | **Ref Save**      | **Will Save**     | **Breath Weapon (DC)**   | **Frightful Presence DC** |
+|                            |                        |                                   |                  |                  |                  |                  |                  |                  |                        |                   |                   |                   |                   |                          |                           |
+|                            |                        |                                   |                  |                  |                  |                  |                  |                  | **Grapple**            |                   |                   |                   |                   |                          |                           |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+|                            |                        |                                   |                  |                  |                  |                  |                  |                  |                        |                   |                   |                   |                   |                          |                           |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| [Wyrmling ]{.underline}    | [H]{.underline}        | [20d12+100 (230)]{.underline}     | [31]{.underline} | [10]{.underline} | [21]{.underline} | [18]{.underline} | [19]{.underline} | [18]{.underline} | [+20/+38]{.underline}  | [+28]{.underline} | [+17]{.underline} | [+12]{.underline} | [+16]{.underline} | [5d12 (25)]{.underline}  | [24]{.underline}          |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| [Very young]{.underline}   | [H]{.underline}        | [25d12+150 (312)]{.underline}     | [35]{.underline} | [10]{.underline} | [23]{.underline} | [22]{.underline} | [23]{.underline} | [22]{.underline} | [+25/+45]{.underline}  | [+35]{.underline} | [+20]{.underline} | [+14]{.underline} | [+20]{.underline} | [10d12 (28)]{.underline} | [28]{.underline}          |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| [Young]{.underline}        | [G]{.underline}        | [30d12+210 (405)]{.underline}     | [39]{.underline} | [10]{.underline} | [25]{.underline} | [26]{.underline} | [27]{.underline} | [26]{.underline} | [+30/+56]{.underline}  | [+40]{.underline} | [+24]{.underline} | [+17]{.underline} | [+25]{.underline} | [15d12 (32)]{.underline} | [33]{.underline}          |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| [Juvenile]{.underline}     | [G]{.underline}        | [35d12+315 (542)]{.underline}     | [43]{.underline} | [10]{.underline} | [29]{.underline} | [30]{.underline} | [31]{.underline} | [30]{.underline} | [+35/+63]{.underline}  | [+47]{.underline} | [+28]{.underline} | [+19]{.underline} | [+29]{.underline} | [20d12 (36)]{.underline} | [37]{.underline}          |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| [Young adult]{.underline}  | [G]{.underline}        | [40d12+440 (700)]{.underline}     | [47]{.underline} | [10]{.underline} | [33]{.underline} | [34]{.underline} | [35]{.underline} | [34]{.underline} | [+40/+70]{.underline}  | [+54]{.underline} | [+33]{.underline} | [+22]{.underline} | [+34]{.underline} | [25d12 (41)]{.underline} | [42]{.underline}          |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| [Adult]{.underline}        | [G]{.underline}        | [45d12+585 (877)]{.underline}     | [51]{.underline} | [10]{.underline} | [37]{.underline} | [38]{.underline} | [39]{.underline} | [38]{.underline} | [+45/+77]{.underline}  | [+61]{.underline} | [+37]{.underline} | [+24]{.underline} | [+38]{.underline} | [30d12 (45)]{.underline} | [46]{.underline}          |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| [Mature adult]{.underline} | [C]{.underline}        | [50d12+750 (1,075)]{.underline}   | [55]{.underline} | [10]{.underline} | [41]{.underline} | [42]{.underline} | [43]{.underline} | [42]{.underline} | [+50/+88]{.underline}  | [+64]{.underline} | [+42]{.underline} | [+27]{.underline} | [+43]{.underline} | [35d12 (50)]{.underline} | [51]{.underline}          |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| [Old]{.underline}          | [C]{.underline}        | [55d12+935 (1,292)]{.underline}   | [59]{.underline} | [10]{.underline} | [45]{.underline} | [46]{.underline} | [47]{.underline} | [46]{.underline} | [+55/+95]{.underline}  | [+71]{.underline} | [+46]{.underline} | [+29]{.underline} | [+47]{.underline} | [40d12 (54)]{.underline} | [55]{.underline}          |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| [Very old]{.underline}     | [C]{.underline}        | [60d12+1,140 (1,530)]{.underline} | [63]{.underline} | [10]{.underline} | [49]{.underline} | [50]{.underline} | [51]{.underline} | [50]{.underline} | [+60/+102]{.underline} | [+78]{.underline} | [+51]{.underline} | [+32]{.underline} | [+52]{.underline} | [45d12 (59)]{.underline} | [60]{.underline}          |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| [Ancient]{.underline}      | [C]{.underline}        | [65d12+1,365 (1,787)]{.underline} | [67]{.underline} | [10]{.underline} | [53]{.underline} | [54]{.underline} | [55]{.underline} | [54]{.underline} | [+65/+109]{.underline} | [+85]{.underline} | [+55]{.underline} | [+34]{.underline} | [+56]{.underline} | [50d12 (63)]{.underline} | [64]{.underline}          |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| [Wyrm]{.underline}         | [C+]{.underline}       | [70d12+1,610 (2,065)]{.underline} | [71]{.underline} | [10]{.underline} | [57]{.underline} | [58]{.underline} | [59]{.underline} | [58]{.underline} | [+70/+116]{.underline} | [+92]{.underline} | [+60]{.underline} | [+37]{.underline} | [+61]{.underline} | [55d12 (68)]{.underline} | [69]{.underline}          |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+|                            |                        |                                   |                  |                  |                  |                  |                  |                  |                        |                   |                   |                   |                   |                          |                           |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+| [Great wyrm]{.underline}   | [C+]{.underline}       | [75d12+1,875 (2,362)]{.underline} | [75]{.underline} | [10]{.underline} | [61]{.underline} | [62]{.underline} | [63]{.underline} | [62]{.underline} | [+75/+123]{.underline} | [+99]{.underline} | [+64]{.underline} | [+39]{.underline} | [+65]{.underline} | [60d12 (72)]{.underline} | [73]{.underline}          |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
+|                            |                        |                                   |                  |                  |                  |                  |                  |                  |                        |                   |                   |                   |                   |                          |                           |
++----------------------------+------------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+-------------------+-------------------+-------------------+-------------------+--------------------------+---------------------------+
 
 **[Force Dragon Abilities by Age ]{.underline}**
 
-+---------+---------+---------+---------+---------+---------+---------+
-| **[Age  | *       | #       | #       | **      | **      | **[SR]  |
-| ]       | *[Speed | ### [In | ### [AC | Special | [Caster | {.under |
-| {.under | ]       | itiativ |  ]{.und | Ab      | Level]  | line}** |
-| line}** | {.under | e]{.und | erline} | ilities | {.under |         |
-|         | line}** | erline} |         | **      | line}** |         |
-+---------+---------+---------+---------+---------+---------+---------+
-|         |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [       | [60     | [+      | [31     | [Damage | [3r     | [2      |
-| Wyrmlin | ft.,    | 0]{.und | (--2    | re      | d]{.und | 4]{.und |
-| g]{.und | fly 250 | erline} | size,   | duction | erline} | erline} |
-| erline} | ft.     |         | +4      | 10      |         |         |
-|         | (poor   |         | defl    | /magic, |         |         |
-|         | )]{.und |         | ection, | def     |         |         |
-|         | erline} |         | +19     | lecting |         |         |
-|         |         |         | na      | force,  |         |         |
-|         |         |         | tural), | immune  |         |         |
-|         |         |         | touch   | to      |         |         |
-|         |         |         | 12,     | force   |         |         |
-|         |         |         | flat    | ]{.und  |         |         |
-|         |         |         | -footed | erline} |         |         |
-|         |         |         | 3       |         |         |         |
-|         |         |         | 1]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Very   | [60     | [+      | [38     |         | [6t     | [2      |
-| youn    | ft.,    | 0]{.und | (--2    |         | h]{.und | 7]{.und |
-| g]{.und | fly 250 | erline} | size,   |         | erline} | erline} |
-| erline} | ft.     |         | +6      |         |         |         |
-|         | (poor   |         | defl    |         |         |         |
-|         | )]{.und |         | ection, |         |         |         |
-|         | erline} |         | +24     |         |         |         |
-|         |         |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 14,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 3       |         |         |         |
-|         |         |         | 8]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Youn   | [60     | [+      | [43     | [Damage | [9t     | [3      |
-| g]{.und | ft.,    | 0]{.und | (--4    | re      | h]{.und | 0]{.und |
-| erline} | fly 300 | erline} | size,   | duction | erline} | erline} |
-|         | ft.     |         | +8      | 1       |         |         |
-|         | (clumsy |         | defl    | 5/magic |         |         |
-|         | )]{.und |         | ection, | ]{.und  |         |         |
-|         | erline} |         | +29     | erline} |         |         |
-|         |         |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 14,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 4       |         |         |         |
-|         |         |         | 3]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [       | [60     | [+      | [50     | *[re    | [12t    | [3      |
-| Juvenil | ft.,    | 0]{.und | (--4    | silient | h]{.und | 3]{.und |
-| e]{.und | fly 300 | erline} | size,   | sphere, | erline} | erline} |
-| erline} | ft.     |         | +10     | ]{.u    |         |         |
-|         | (clumsy |         | defl    | nderlin |         |         |
-|         | )]{.und |         | ection, | e}*[blu |         |         |
-|         | erline} |         | +34     | r]{.und |         |         |
-|         |         |         | na      | erline} |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 16,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 5       |         |         |         |
-|         |         |         | 0]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Young  | [60     | [+      | [57     | [Damage | [15t    | [3      |
-| adul    | ft.,    | 0]{.und | (--4    | re      | h]{.und | 6]{.und |
-| t]{.und | fly 300 | erline} | size,   | duction | erline} | erline} |
-| erline} | ft.     |         | +12     | 15/epi  |         |         |
-|         | (clumsy |         | defl    | c]{.und |         |         |
-|         | )]{.und |         | ection, | erline} |         |         |
-|         | erline} |         | +39     |         |         |         |
-|         |         |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 18,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 5       |         |         |         |
-|         |         |         | 7]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Adul   | [60     | [+      | [64     | *[Wall  | [18t    | [3      |
-| t]{.und | ft.,    | 0]{.und | (--4    | of      | h]{.und | 9]{.und |
-| erline} | fly 300 | erline} | size,   | force   | erline} | erline} |
-|         | ft.     |         | +14     | ]{.unde |         |         |
-|         | (       |         | defl    | rline}* |         |         |
-|         | clumsy) |         | ection, |         |         |         |
-|         | ]{.und  |         | +44     |         |         |         |
-|         | erline} |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 20,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 6       |         |         |         |
-|         |         |         | 4]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Mature | [60     | [+      | [67     | [Damage | [21s    | [4      |
-| adul    | ft.,    | 0]{.und | (--8    | re      | t]{.und | 2]{.und |
-| t]{.und | fly 300 | erline} | size,   | duction | erline} | erline} |
-| erline} | ft.     |         | +16     | 20/epi  |         |         |
-|         | (clumsy |         | defl    | c]{.und |         |         |
-|         | )]{.und |         | ection, | erline} |         |         |
-|         | erline} |         | +49     |         |         |         |
-|         |         |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 18,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 6       |         |         |         |
-|         |         |         | 7]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Ol     | [60     | [+      | [74     | *[For   | [24t    | [4      |
-| d]{.und | ft.,    | 0]{.und | (--8    | cecage, | h]{.und | 5]{.und |
-| erline} | fly 300 | erline} | size,   | ]{.un   | erline} | erline} |
-|         | ft.     |         | +18     | derline |         |         |
-|         | (clumsy |         | defl    | }*[disp |         |         |
-|         | )]{.und |         | ection, | lacemen |         |         |
-|         | erline} |         | +54     | t]{.und |         |         |
-|         |         |         | na      | erline} |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 20,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 7       |         |         |         |
-|         |         |         | 4]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Very   | [60     | [+      | [81     | [Damage | [27t    | [4      |
-| ol      | ft.,    | 0]{.und | (--8    | re      | h]{.und | 8]{.und |
-| d]{.und | fly 300 | erline} | size,   | duction | erline} | erline} |
-| erline} | ft.     |         | +20     | 25/epi  |         |         |
-|         | (clumsy |         | defl    | c]{.und |         |         |
-|         | )]{.und |         | ection, | erline} |         |         |
-|         | erline} |         | +59     |         |         |         |
-|         |         |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 22,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 8       |         |         |         |
-|         |         |         | 1]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Ancien | [60     | [+      | [88     | *[Maze  | [30t    | [5      |
-| t]{.und | ft.,    | 0]{.und | (--8    | ]{.unde | h]{.und | 1]{.und |
-| erline} | fly 300 | erline} | size,   | rline}* | erline} | erline} |
-|         | ft.     |         | +22     |         |         |         |
-|         | (clumsy |         | defl    |         |         |         |
-|         | )]{.und |         | ection, |         |         |         |
-|         | erline} |         | +64     |         |         |         |
-|         |         |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 24,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 8       |         |         |         |
-|         |         |         | 8]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Wyr    | [60     | [+      | [95     |         | [33r    | [5      |
-| m]{.und | ft.,    | 0]{.und | (--8    |         | d]{.und | 4]{.und |
-| erline} | fly 350 | erline} | size,   |         | erline} | erline} |
-|         | ft.     |         | +24     |         |         |         |
-|         | (clumsy |         | defl    |         |         |         |
-|         | )]{.und |         | ection, |         |         |         |
-|         | erline} |         | +69     |         |         |         |
-|         |         |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 26,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 9       |         |         |         |
-|         |         |         | 5]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-|         |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Great  | [60     | [+      | [102    | *[tele  | [36t    | [5      |
-| wyr     | ft.,    | 0]{.und | (--8    | kinetic | h]{.und | 7]{.und |
-| m]{.und | fly 350 | erline} | size,   | sphere, | erline} | erline} |
-| erline} | ft.     |         | +26     | ]{.un   |         |         |
-|         | (clumsy |         | defl    | derline |         |         |
-|         | )]{.und |         | ection, | }*[invi |         |         |
-|         | erline} |         | +74     | sibilit |         |         |
-|         |         |         | na      | y]{.und |         |         |
-|         |         |         | tural), | erline} |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 28,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 10      |         |         |         |
-|         |         |         | 2]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-|         |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| **[Age ]{.underline}**     | **[Speed ]{.underline}**                    | #### [Initiative]{.underline} | #### [AC ]{.underline}                                                               | **Special Abilities **                                                      | **[Caster Level]{.underline}** | **[SR]{.underline}** |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+|                            |                                             |                               |                                                                                      |                                                                             |                                |                      |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Wyrmling]{.underline}     | [60 ft., fly 250 ft. (poor)]{.underline}    | [+0]{.underline}              | [31 (--2 size, +4 deflection, +19 natural), touch 12, flat-footed 31]{.underline}    | [Damage reduction 10/magic, deflecting force, immune to force ]{.underline} | [3rd]{.underline}              | [24]{.underline}     |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Very young]{.underline}   | [60 ft., fly 250 ft. (poor)]{.underline}    | [+0]{.underline}              | [38 (--2 size, +6 deflection, +24 natural), touch 14, flat-footed 38]{.underline}    |                                                                             | [6th]{.underline}              | [27]{.underline}     |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Young]{.underline}        | [60 ft., fly 300 ft. (clumsy)]{.underline}  | [+0]{.underline}              | [43 (--4 size, +8 deflection, +29 natural), touch 14, flat-footed 43]{.underline}    | [Damage reduction 15/magic ]{.underline}                                    | [9th]{.underline}              | [30]{.underline}     |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Juvenile]{.underline}     | [60 ft., fly 300 ft. (clumsy)]{.underline}  | [+0]{.underline}              | [50 (--4 size, +10 deflection, +34 natural), touch 16, flat-footed 50]{.underline}   | *[resilient sphere, ]{.underline}*[blur]{.underline}                        | [12th]{.underline}             | [33]{.underline}     |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Young adult]{.underline}  | [60 ft., fly 300 ft. (clumsy)]{.underline}  | [+0]{.underline}              | [57 (--4 size, +12 deflection, +39 natural), touch 18, flat-footed 57]{.underline}   | [Damage reduction 15/epic]{.underline}                                      | [15th]{.underline}             | [36]{.underline}     |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Adult]{.underline}        | [60 ft., fly 300 ft. (clumsy) ]{.underline} | [+0]{.underline}              | [64 (--4 size, +14 deflection, +44 natural), touch 20, flat-footed 64]{.underline}   | *[Wall of force ]{.underline}*                                              | [18th]{.underline}             | [39]{.underline}     |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Mature adult]{.underline} | [60 ft., fly 300 ft. (clumsy)]{.underline}  | [+0]{.underline}              | [67 (--8 size, +16 deflection, +49 natural), touch 18, flat-footed 67]{.underline}   | [Damage reduction 20/epic]{.underline}                                      | [21st]{.underline}             | [42]{.underline}     |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Old]{.underline}          | [60 ft., fly 300 ft. (clumsy)]{.underline}  | [+0]{.underline}              | [74 (--8 size, +18 deflection, +54 natural), touch 20, flat-footed 74]{.underline}   | *[Forcecage, ]{.underline}*[displacement]{.underline}                       | [24th]{.underline}             | [45]{.underline}     |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Very old]{.underline}     | [60 ft., fly 300 ft. (clumsy)]{.underline}  | [+0]{.underline}              | [81 (--8 size, +20 deflection, +59 natural), touch 22, flat-footed 81]{.underline}   | [Damage reduction 25/epic]{.underline}                                      | [27th]{.underline}             | [48]{.underline}     |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Ancient]{.underline}      | [60 ft., fly 300 ft. (clumsy)]{.underline}  | [+0]{.underline}              | [88 (--8 size, +22 deflection, +64 natural), touch 24, flat-footed 88]{.underline}   | *[Maze]{.underline}*                                                        | [30th]{.underline}             | [51]{.underline}     |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Wyrm]{.underline}         | [60 ft., fly 350 ft. (clumsy)]{.underline}  | [+0]{.underline}              | [95 (--8 size, +24 deflection, +69 natural), touch 26, flat-footed 95]{.underline}   |                                                                             | [33rd]{.underline}             | [54]{.underline}     |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+|                            |                                             |                               |                                                                                      |                                                                             |                                |                      |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Great wyrm]{.underline}   | [60 ft., fly 350 ft. (clumsy)]{.underline}  | [+0]{.underline}              | [102 (--8 size, +26 deflection, +74 natural), touch 28, flat-footed 102]{.underline} | *[telekinetic sphere, ]{.underline}*[invisibility]{.underline}              | [36th]{.underline}             | [57]{.underline}     |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
+|                            |                                             |                               |                                                                                      |                                                                             |                                |                      |
++----------------------------+---------------------------------------------+-------------------------------+--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+--------------------------------+----------------------+
 
-[A force dragon's natural weapons are treated as magic (wyrmling --
-juvenile) or epic (young adult -- great wyrm) for the purpose of
-overcoming damage reduction.]{.underline}
+[A force dragon's natural weapons are treated as magic (wyrmling -- juvenile) or epic (young adult -- great wyrm) for the purpose of overcoming damage reduction.]{.underline}
 
 [Combat]{.underline}**[ ]{.underline}**
 
-**[Breath Weapon (Su):]{.underline}**[ A force dragon has one type of
-breath weapon, a cone of force that tears through creatures and objects
-in its area to devastating effect. ]{.underline}
+**[Breath Weapon (Su):]{.underline}**[ A force dragon has one type of breath weapon, a cone of force that tears through creatures and objects in its area to devastating effect. ]{.underline}
 
-**[Immune to Force (Ex):]{.underline}**[ A force dragon cannot be harmed
-by any force effect, including ]{.underline}*[magic missiles, explosive
-runes, mage]{.underline}[']{.underline}[s sword, ]{.underline}*[the
-]{.underline}*[sphere ]{.underline}*[spells, or any other spell or
-effect with the Force descriptor. It can move freely through barriers
-made of force, such as a ]{.underline}*[wall of forc]{.underline}*[e.
-]{.underline}
+**[Immune to Force (Ex):]{.underline}**[ A force dragon cannot be harmed by any force effect, including ]{.underline}*[magic missiles, explosive runes, mage]{.underline}[']{.underline}[s sword, ]{.underline}*[the ]{.underline}*[sphere ]{.underline}*[spells, or any other spell or effect with the Force descriptor. It can move freely through barriers made of force, such as a ]{.underline}*[wall of forc]{.underline}*[e. ]{.underline}
 
-**[Deflecting Force (Su):]{.underline}**[ A force dragon is protected by
-a shield of force that provides a deflection bonus to its AC. The
-deflection bonus is equal to the dragon's Charisma bonus. ]{.underline}
+**[Deflecting Force (Su):]{.underline}**[ A force dragon is protected by a shield of force that provides a deflection bonus to its AC. The deflection bonus is equal to the dragon's Charisma bonus. ]{.underline}
 
-**[Blur (Su): ]{.underline}**[When a force dragon reaches juvenile age,
-the force surrounding its body distorts the light around it so that it
-is hard to discern the dragon's exact location. This functions as a
-continuous ]{.underline}*[blur ]{.underline}*[spell, giving the dragon
-concealment (20% miss chance). ]{.underline}
+**[Blur (Su): ]{.underline}**[When a force dragon reaches juvenile age, the force surrounding its body distorts the light around it so that it is hard to discern the dragon's exact location. This functions as a continuous ]{.underline}*[blur ]{.underline}*[spell, giving the dragon concealment (20% miss chance). ]{.underline}
 
-**[Displacement (Su):]{.underline}**[ An old force dragon's deflecting
-force bends light even more ex-tremely, giving the dragon the benefit of
-the ]{.underline}*[displacement ]{.underline}*[spell (50% miss chance).
-This supersedes its ]{.underline}*[blur ]{.underline}*[ability.
-]{.underline}
+**[Displacement (Su):]{.underline}**[ An old force dragon's deflecting force bends light even more ex-tremely, giving the dragon the benefit of the ]{.underline}*[displacement ]{.underline}*[spell (50% miss chance). This supersedes its ]{.underline}*[blur ]{.underline}*[ability. ]{.underline}
 
-**[Invisibility (Su):]{.underline}**[ A great wyrm force dragon is a
-creature of pure force, and is completely invisible (as though protected
-by]{.underline}*[ greater invisibilit]{.underline}*[y). A creature that
-can see invisible creatures must still contend with the dragon's
-]{.underline}*[displacement ]{.underline}*[ability.]{.underline}
+**[Invisibility (Su):]{.underline}**[ A great wyrm force dragon is a creature of pure force, and is completely invisible (as though protected by]{.underline}*[ greater invisibilit]{.underline}*[y). A creature that can see invisible creatures must still contend with the dragon's ]{.underline}*[displacement ]{.underline}*[ability.]{.underline}
 
-**[Spell-Like Abilities:]{.underline}**[
-3/day---]{.underline}*[forcecage, maze, resilient sphere, telekinetic
-sphere, wall of forc]{.underline}*[e. The DCs are
-Charisma-based.]{.underline}
+**[Spell-Like Abilities:]{.underline}**[ 3/day---]{.underline}*[forcecage, maze, resilient sphere, telekinetic sphere, wall of forc]{.underline}*[e. The DCs are Charisma-based.]{.underline}
 
 # [Sample Force Dragon,Adult ]{.underline}
 
@@ -2416,33 +1147,21 @@ Charisma-based.]{.underline}
 
 **Attack: ** Bite +61 (4d6+20/19-20) melee
 
-**Full Attack: **Bite +61 (4d6+20/19-20) melee, 2 claws +56
-(2d6+10/19-20) melee, 2 wings +56 (2d6+10/19-20) melee, tail slap +56
-(2d8+30/19-20) melee
+**Full Attack: **Bite +61 (4d6+20/19-20) melee, 2 claws +56 (2d6+10/19-20) melee, 2 wings +56 (2d6+10/19-20) melee, tail slap +56 (2d8+30/19-20) melee
 
 **Space/Reach:** 20 ft./15 ft.
 
-**Special Attacks:** Crush 4d6+30 (DC 45), tail sweep 2d6+30 (DC 45),
-breath weapon, frightful presence (DC 46), spells (caster level 18th),
-spell-like abilities
+**Special Attacks:** Crush 4d6+30 (DC 45), tail sweep 2d6+30 (DC 45), breath weapon, frightful presence (DC 46), spells (caster level 18th), spell-like abilities
 
-**Special Qualities:** Immunities, DR 15/epic, SR 39, blindsense 60ft.,
-keen senses, deflecting force, blur (20% miss chance)
+**Special Qualities:** Immunities, DR 15/epic, SR 39, blindsense 60ft., keen senses, deflecting force, blur (20% miss chance)
 
 **Saves:** Fort +37, Ref +24, Will +38
 
 **Abilities:** Str 51, Dex 10, Con 37, Int 38, Wis 39, Cha 38
 
-**Skills:** Appraise +50, Bluff +62, Concentration +61, Craft (alchemy)
-+50, Diplomacy +74, Escape Artist +48, Gather Information +20,
-Intimidate +68, Jump +32, Knowledge (all) +56, Listen +64, Search +72,
-Sense Motive +50, Spellcraft +68, Spot +74
+**Skills:** Appraise +50, Bluff +62, Concentration +61, Craft (alchemy) +50, Diplomacy +74, Escape Artist +48, Gather Information +20, Intimidate +68, Jump +32, Knowledge (all) +56, Listen +64, Search +72, Sense Motive +50, Spellcraft +68, Spot +74
 
-**Feats:** Alertness, Cleave, Combat Reflexes, Empower Spell-Like
-Ability, Flyby Attack, Hover, Improved Critical (bite), Improved
-Critical (claws), Improved Critical (wings), Improved Critical (tail
-slap), Improved Initiative, Improved Sunder, Maximize Spell-Like
-Ability, Power Attack, Spell Knowledge, Wingover
+**Feats:** Alertness, Cleave, Combat Reflexes, Empower Spell-Like Ability, Flyby Attack, Hover, Improved Critical (bite), Improved Critical (claws), Improved Critical (wings), Improved Critical (tail slap), Improved Initiative, Improved Sunder, Maximize Spell-Like Ability, Power Attack, Spell Knowledge, Wingover
 
 **Climate/Terrain:** Any land and underground
 
@@ -2456,33 +1175,17 @@ Ability, Power Attack, Spell Knowledge, Wingover
 
 **Advancement:** 46--49 HD (Gargantuan)
 
-A force dragon's natural weapons are treated as epic for the purpose of
-overcoming damage reduction.
+A force dragon's natural weapons are treated as epic for the purpose of overcoming damage reduction.
 
-**Breath Weapon (Su):** Cone of force, 60 ft., damage 30d12, Ref half
-(DC 45). The DC is Constitution-based.
+**Breath Weapon (Su):** Cone of force, 60 ft., damage 30d12, Ref half (DC 45). The DC is Constitution-based.
 
-**Spell-Like Abilities:** 3/day---*resilient sphere, wall of forc*e.
-Caster level 18th; save DC 24 + spell level.
+**Spell-Like Abilities:** 3/day---*resilient sphere, wall of forc*e. Caster level 18th; save DC 24 + spell level.
 
-**Immunities (Ex):** Immune to *sleep *and paralysis, immune to force
-effects.
+**Immunities (Ex):** Immune to *sleep *and paralysis, immune to force effects.
 
-***Sorcerer Spells Known**** *(6/10/10/ 9/9/9/9/8/7/5; base DC 24 +
-spell level): *0---arcane mark, dancing lights, detect magic, flare,
-ghost sound, light, mending, open/close, read magic; *1st---*disguise
-self, comprehend languages, detect secret doors, magic missile, true
-strike; *2nd--- *bull's strength, cat's grace, darkness, locate object,
-mirror image; *3rd---*clairaudience/clairvoyance, fireball, haste,
-lightning bolt; *4th---*charm monster, greater invisibility, scrying,
-stoneskin; *5th---*contact other plane, dream, hold monster, teleport;
-*6th---*analyze dweomer, greater dispel magic, true seeing;
-*7th---*forcecage, spell turning, summon monster VII; *8th---*polymorph
-any object, protection from spells; *9th--- *time stop. *
+***Sorcerer Spells Known**** *(6/10/10/ 9/9/9/9/8/7/5; base DC 24 + spell level): *0---arcane mark, dancing lights, detect magic, flare, ghost sound, light, mending, open/close, read magic; *1st---*disguise self, comprehend languages, detect secret doors, magic missile, true strike; *2nd--- *bull's strength, cat's grace, darkness, locate object, mirror image; *3rd---*clairaudience/clairvoyance, fireball, haste, lightning bolt; *4th---*charm monster, greater invisibility, scrying, stoneskin; *5th---*contact other plane, dream, hold monster, teleport; *6th---*analyze dweomer, greater dispel magic, true seeing; *7th---*forcecage, spell turning, summon monster VII; *8th---*polymorph any object, protection from spells; *9th--- *time stop. *
 
-*Possessions: Crystal ball with true seeing, circlet of eyes\*, pearl of
-power *(7th-level spell), 8,000 gp. \*Variant of *robe of eyes; *benefit
-included in Search and Spot skill modifiers.
+*Possessions: Crystal ball with true seeing, circlet of eyes\*, pearl of power *(7th-level spell), 8,000 gp. \*Variant of *robe of eyes; *benefit included in Search and Spot skill modifiers.
 
 PRISMATIC DRAGON
 
@@ -2490,577 +1193,101 @@ PRISMATIC DRAGON
 
 **Climate/Terrain:** Any land and underground
 
-**Organization:** Wyrmling, very young, young, juvenile and young adult:
-solitary or clutch (2--5); adult, mature adult, old, very old, ancient,
-wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5 offspring)
+**Organization:** Wyrmling, very young, young, juvenile and young adult: solitary or clutch (2--5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1--2 and 2--5 offspring)
 
-**Challenge Rating:** Wyrmling 14; very young 16; young 22; juvenile 30;
-young adult 34; adult 39; mature adult 43; old 48; very old 52; ancient
-57; wyrm 61; great wyrm 66
+**Challenge Rating:** Wyrmling 14; very young 16; young 22; juvenile 30; young adult 34; adult 39; mature adult 43; old 48; very old 52; ancient 57; wyrm 61; great wyrm 66
 
 **Treasure:** Double standard
 
 **Alignment:** Usually neutral
 
-Advancement Range: Wyrmling 24--27 HD (Huge); very young 29--32 HD
-(Huge); young 34--37 HD (Gargantuan); juvenile 39--42 HD (Gargantuan);
-young adult 44--47 HD (Gargantuan); adult 49--52 HD (Gargantuan); mature
-adult 54--57 HD (Colossal); old 59--62 HD (Colossal); very old 64--67 HD
-(Colossal); ancient 69--72 HD (Colossal+); wyrm 74--77 HD (Colossal+);
-great wyrm 79+ HD (Colossal+)
+Advancement Range: Wyrmling 24--27 HD (Huge); very young 29--32 HD (Huge); young 34--37 HD (Gargantuan); juvenile 39--42 HD (Gargantuan); young adult 44--47 HD (Gargantuan); adult 49--52 HD (Gargantuan); mature adult 54--57 HD (Colossal); old 59--62 HD (Colossal); very old 64--67 HD (Colossal); ancient 69--72 HD (Colossal+); wyrm 74--77 HD (Colossal+); great wyrm 79+ HD (Colossal+)
 
 # [Prismatic Dragons by Age ]{.underline}
 
-<table>
-<tbody>
-<tr class="odd">
-<td><h5><u>Age </u></h5></td>
-<td><h2><u>Size</u></h2></td>
-<td><p><strong>Hit Dice (hp)</strong></p></td>
-<td><p><strong>Str</strong></p></td>
-<td><p><strong>Dex</strong></p></td>
-<td><p><strong>Con</strong></p></td>
-<td><p><strong>Int</strong></p></td>
-<td><p><strong>Wis</strong></p></td>
-<td><p><strong>Cha</strong></p></td>
-<td><p><strong>Base Attack/</strong></p>
-<p><strong>Grapple</strong></p></td>
-<td><p><strong>Attack</strong></p></td>
-<td><p><strong>Fort Save</strong></p></td>
-<td><p><strong>Ref Save</strong></p></td>
-<td><p><strong>Will Save</strong></p></td>
-<td><p><strong>Breath Weapon DC</strong></p></td>
-<td><p><strong>Frightful Presence DC</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><u>Wyrmling </u></p></td>
-<td><p><u>H</u></p></td>
-<td><p><u>23d12+138 (287)</u></p></td>
-<td><p><u>29</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>23</u></p></td>
-<td><p><u>20</u></p></td>
-<td><p><u>21</u></p></td>
-<td><p><u>20</u></p></td>
-<td><p><u>+23/+40</u></p></td>
-<td><p><u>+30</u></p></td>
-<td><p><u>+19</u></p></td>
-<td><p><u>+13</u></p></td>
-<td><p><u>+18</u></p></td>
-<td><p><u>27</u></p></td>
-<td><p><u>26</u></p></td>
-</tr>
-<tr class="even">
-<td><p><u>Very young </u></p></td>
-<td><p><u>H</u></p></td>
-<td><p><u>28d12+196 (378)</u></p></td>
-<td><p><u>33</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>25</u></p></td>
-<td><p><u>24</u></p></td>
-<td><p><u>25</u></p></td>
-<td><p><u>24</u></p></td>
-<td><p><u>+28/+47</u></p></td>
-<td><p><u>+37</u></p></td>
-<td><p><u>+23</u></p></td>
-<td><p><u>+16</u></p></td>
-<td><p><u>+23</u></p></td>
-<td><p><u>31</u></p></td>
-<td><p><u>31</u></p></td>
-</tr>
-<tr class="odd">
-<td><p><u>Young </u></p></td>
-<td><p><u>G</u></p></td>
-<td><p><u>33d12+297 (511)</u></p></td>
-<td><p><u>37</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>29</u></p></td>
-<td><p><u>28</u></p></td>
-<td><p><u>29</u></p></td>
-<td><p><u>28</u></p></td>
-<td><p><u>+33/+58</u></p></td>
-<td><p><u>+42</u></p></td>
-<td><p><u>+27</u></p></td>
-<td><p><u>+18</u></p></td>
-<td><p><u>+27</u></p></td>
-<td><p><u>35</u></p></td>
-<td><p><u>35</u></p></td>
-</tr>
-<tr class="even">
-<td><p><u>Juvenile </u></p></td>
-<td><p><u>G</u></p></td>
-<td><p><u>38d12+418 (665)</u></p></td>
-<td><p><u>41</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>33</u></p></td>
-<td><p><u>32</u></p></td>
-<td><p><u>33</u></p></td>
-<td><p><u>32</u></p></td>
-<td><p><u>+38/+65</u></p></td>
-<td><p><u>+49</u></p></td>
-<td><p><u>+32</u></p></td>
-<td><p><u>+21</u></p></td>
-<td><p><u>+32</u></p></td>
-<td><p><u>40</u></p></td>
-<td><p><u>40</u></p></td>
-</tr>
-<tr class="odd">
-<td><p><u>Young adult </u></p></td>
-<td><p><u>G</u></p></td>
-<td><p><u>43d12+559 (838)</u></p></td>
-<td><p><u>45</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>37</u></p></td>
-<td><p><u>36</u></p></td>
-<td><p><u>37</u></p></td>
-<td><p><u>36</u></p></td>
-<td><p><u>+43/+72</u></p></td>
-<td><p><u>+56</u></p></td>
-<td><p><u>+36</u></p></td>
-<td><p><u>+23</u></p></td>
-<td><p><u>+36</u></p></td>
-<td><p><u>44</u></p></td>
-<td><p><u>44</u></p></td>
-</tr>
-<tr class="even">
-<td><p><u>Adult </u></p></td>
-<td><p><u>C</u></p></td>
-<td><p><u>48d12+720 (1,032)</u></p></td>
-<td><p><u>49</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>41</u></p></td>
-<td><p><u>40</u></p></td>
-<td><p><u>41</u></p></td>
-<td><p><u>40</u></p></td>
-<td><p><u>+48/+83</u></p></td>
-<td><p><u>+59</u></p></td>
-<td><p><u>+41</u></p></td>
-<td><p><u>+26</u></p></td>
-<td><p><u>+41</u></p></td>
-<td><p><u>49</u></p></td>
-<td><p><u>49</u></p></td>
-</tr>
-<tr class="odd">
-<td><p><u>Mature adult </u></p></td>
-<td><p><u>C</u></p></td>
-<td><p><u>53d12+901 (1,245)</u></p></td>
-<td><p><u>53</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>45</u></p></td>
-<td><p><u>44</u></p></td>
-<td><p><u>45</u></p></td>
-<td><p><u>44</u></p></td>
-<td><p><u>+53/+90</u></p></td>
-<td><p><u>+66</u></p></td>
-<td><p><u>+45</u></p></td>
-<td><p><u>+28</u></p></td>
-<td><p><u>+45</u></p></td>
-<td><p><u>53</u></p></td>
-<td><p><u>53</u></p></td>
-</tr>
-<tr class="even">
-<td><p><u>Old </u></p></td>
-<td><p><u>C</u></p></td>
-<td><p><u>58d12+1,102 (1,479)</u></p></td>
-<td><p><u>57</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>49</u></p></td>
-<td><p><u>48</u></p></td>
-<td><p><u>49</u></p></td>
-<td><p><u>48</u></p></td>
-<td><p><u>+58/+97</u></p></td>
-<td><p><u>+73</u></p></td>
-<td><p><u>+50</u></p></td>
-<td><p><u>+31</u></p></td>
-<td><p><u>+50</u></p></td>
-<td><p><u>58</u></p></td>
-<td><p><u>58</u></p></td>
-</tr>
-<tr class="odd">
-<td><p><u>Very old </u></p></td>
-<td><p><u>C</u></p></td>
-<td><p><u>63d12+1,323 (1,732)</u></p></td>
-<td><p><u>61</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>53</u></p></td>
-<td><p><u>52</u></p></td>
-<td><p><u>53</u></p></td>
-<td><p><u>52</u></p></td>
-<td><p><u>+63/+104</u></p></td>
-<td><p><u>+80</u></p></td>
-<td><p><u>+54</u></p></td>
-<td><p><u>+33</u></p></td>
-<td><p><u>+54</u></p></td>
-<td><p><u>62</u></p></td>
-<td><p><u>62</u></p></td>
-</tr>
-<tr class="even">
-<td><p><u>Ancient </u></p></td>
-<td><p><u>C+</u></p></td>
-<td><p><u>68d12+1,564 (2,006)</u></p></td>
-<td><p><u>65</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>57</u></p></td>
-<td><p><u>56</u></p></td>
-<td><p><u>57</u></p></td>
-<td><p><u>56</u></p></td>
-<td><p><u>+68/+111</u></p></td>
-<td><p><u>+87</u></p></td>
-<td><p><u>+59</u></p></td>
-<td><p><u>+36</u></p></td>
-<td><p><u>+59</u></p></td>
-<td><p><u>67</u></p></td>
-<td><p><u>67</u></p></td>
-</tr>
-<tr class="odd">
-<td><p><u>Wyrm </u></p></td>
-<td><p><u>C+</u></p></td>
-<td><p><u>73d12+1,825 (2,299)</u></p></td>
-<td><p><u>69</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>61</u></p></td>
-<td><p><u>60</u></p></td>
-<td><p><u>61</u></p></td>
-<td><p><u>60</u></p></td>
-<td><p><u>+73/+118</u></p></td>
-<td><p><u>+94</u></p></td>
-<td><p><u>+63</u></p></td>
-<td><p><u>+38</u></p></td>
-<td><p><u>+63</u></p></td>
-<td><p><u>71</u></p></td>
-<td><p><u>71</u></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><u>Great wyrm </u></p></td>
-<td><p><u>C+</u></p></td>
-<td><p><u>78d12+2,106 (2,613)</u></p></td>
-<td><p><u>73</u></p></td>
-<td><p><u>10</u></p></td>
-<td><p><u>65</u></p></td>
-<td><p><u>64</u></p></td>
-<td><p><u>65</u></p></td>
-<td><p><u>64</u></p></td>
-<td><p><u>+78/+125</u></p></td>
-<td><p><u>+101</u></p></td>
-<td><p><u>+68</u></p></td>
-<td><p><u>+41</u></p></td>
-<td><p><u>+68</u></p></td>
-<td><p><u>76</u></p></td>
-<td><p><u>76</u></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| ##### [Age ]{.underline}    | ## [Size]{.underline} | **Hit Dice (hp)**                 | **Str**          | **Dex**          | **Con**          | **Int**          | **Wis**          | **Cha**          | **Base Attack/**       | **Attack**         | **Fort Save**     | **Ref Save**      | **Will Save**     | **Breath Weapon DC** | **Frightful Presence DC** |
+|                             |                       |                                   |                  |                  |                  |                  |                  |                  |                        |                    |                   |                   |                   |                      |                           |
+|                             |                       |                                   |                  |                  |                  |                  |                  |                  | **Grapple**            |                    |                   |                   |                   |                      |                           |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+|                             |                       |                                   |                  |                  |                  |                  |                  |                  |                        |                    |                   |                   |                   |                      |                           |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| [Wyrmling ]{.underline}     | [H]{.underline}       | [23d12+138 (287)]{.underline}     | [29]{.underline} | [10]{.underline} | [23]{.underline} | [20]{.underline} | [21]{.underline} | [20]{.underline} | [+23/+40]{.underline}  | [+30]{.underline}  | [+19]{.underline} | [+13]{.underline} | [+18]{.underline} | [27]{.underline}     | [26]{.underline}          |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| [Very young ]{.underline}   | [H]{.underline}       | [28d12+196 (378)]{.underline}     | [33]{.underline} | [10]{.underline} | [25]{.underline} | [24]{.underline} | [25]{.underline} | [24]{.underline} | [+28/+47]{.underline}  | [+37]{.underline}  | [+23]{.underline} | [+16]{.underline} | [+23]{.underline} | [31]{.underline}     | [31]{.underline}          |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| [Young ]{.underline}        | [G]{.underline}       | [33d12+297 (511)]{.underline}     | [37]{.underline} | [10]{.underline} | [29]{.underline} | [28]{.underline} | [29]{.underline} | [28]{.underline} | [+33/+58]{.underline}  | [+42]{.underline}  | [+27]{.underline} | [+18]{.underline} | [+27]{.underline} | [35]{.underline}     | [35]{.underline}          |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| [Juvenile ]{.underline}     | [G]{.underline}       | [38d12+418 (665)]{.underline}     | [41]{.underline} | [10]{.underline} | [33]{.underline} | [32]{.underline} | [33]{.underline} | [32]{.underline} | [+38/+65]{.underline}  | [+49]{.underline}  | [+32]{.underline} | [+21]{.underline} | [+32]{.underline} | [40]{.underline}     | [40]{.underline}          |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| [Young adult ]{.underline}  | [G]{.underline}       | [43d12+559 (838)]{.underline}     | [45]{.underline} | [10]{.underline} | [37]{.underline} | [36]{.underline} | [37]{.underline} | [36]{.underline} | [+43/+72]{.underline}  | [+56]{.underline}  | [+36]{.underline} | [+23]{.underline} | [+36]{.underline} | [44]{.underline}     | [44]{.underline}          |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| [Adult ]{.underline}        | [C]{.underline}       | [48d12+720 (1,032)]{.underline}   | [49]{.underline} | [10]{.underline} | [41]{.underline} | [40]{.underline} | [41]{.underline} | [40]{.underline} | [+48/+83]{.underline}  | [+59]{.underline}  | [+41]{.underline} | [+26]{.underline} | [+41]{.underline} | [49]{.underline}     | [49]{.underline}          |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| [Mature adult ]{.underline} | [C]{.underline}       | [53d12+901 (1,245)]{.underline}   | [53]{.underline} | [10]{.underline} | [45]{.underline} | [44]{.underline} | [45]{.underline} | [44]{.underline} | [+53/+90]{.underline}  | [+66]{.underline}  | [+45]{.underline} | [+28]{.underline} | [+45]{.underline} | [53]{.underline}     | [53]{.underline}          |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| [Old ]{.underline}          | [C]{.underline}       | [58d12+1,102 (1,479)]{.underline} | [57]{.underline} | [10]{.underline} | [49]{.underline} | [48]{.underline} | [49]{.underline} | [48]{.underline} | [+58/+97]{.underline}  | [+73]{.underline}  | [+50]{.underline} | [+31]{.underline} | [+50]{.underline} | [58]{.underline}     | [58]{.underline}          |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| [Very old ]{.underline}     | [C]{.underline}       | [63d12+1,323 (1,732)]{.underline} | [61]{.underline} | [10]{.underline} | [53]{.underline} | [52]{.underline} | [53]{.underline} | [52]{.underline} | [+63/+104]{.underline} | [+80]{.underline}  | [+54]{.underline} | [+33]{.underline} | [+54]{.underline} | [62]{.underline}     | [62]{.underline}          |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| [Ancient ]{.underline}      | [C+]{.underline}      | [68d12+1,564 (2,006)]{.underline} | [65]{.underline} | [10]{.underline} | [57]{.underline} | [56]{.underline} | [57]{.underline} | [56]{.underline} | [+68/+111]{.underline} | [+87]{.underline}  | [+59]{.underline} | [+36]{.underline} | [+59]{.underline} | [67]{.underline}     | [67]{.underline}          |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| [Wyrm ]{.underline}         | [C+]{.underline}      | [73d12+1,825 (2,299)]{.underline} | [69]{.underline} | [10]{.underline} | [61]{.underline} | [60]{.underline} | [61]{.underline} | [60]{.underline} | [+73/+118]{.underline} | [+94]{.underline}  | [+63]{.underline} | [+38]{.underline} | [+63]{.underline} | [71]{.underline}     | [71]{.underline}          |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+|                             |                       |                                   |                  |                  |                  |                  |                  |                  |                        |                    |                   |                   |                   |                      |                           |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+| [Great wyrm ]{.underline}   | [C+]{.underline}      | [78d12+2,106 (2,613)]{.underline} | [73]{.underline} | [10]{.underline} | [65]{.underline} | [64]{.underline} | [65]{.underline} | [64]{.underline} | [+78/+125]{.underline} | [+101]{.underline} | [+68]{.underline} | [+41]{.underline} | [+68]{.underline} | [76]{.underline}     | [76]{.underline}          |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
+|                             |                       |                                   |                  |                  |                  |                  |                  |                  |                        |                    |                   |                   |                   |                      |                           |
++-----------------------------+-----------------------+-----------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+------------------------+--------------------+-------------------+-------------------+-------------------+----------------------+---------------------------+
 
 **[Prismatic Dragon Abilities by Age ]{.underline}**
 
-+---------+---------+---------+---------+---------+---------+---------+
-| **[Age  | *       | ####    | #       | **      | **      | **[SR]  |
-| ]       | *[Speed | ## [Ini | #### [A | Special | [Caster | {.under |
-| {.under | ]       | titativ | C]{.und | Ab      | Level]  | line}** |
-| line}** | {.under | e]{.und | erline} | ilities | {.under |         |
-|         | line}** | erline} |         | **      | line}** |         |
-+---------+---------+---------+---------+---------+---------+---------+
-|         |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [W      | [60     | [+      | [35     | [Damage | [5t     | [2      |
-| yrmling | ft.,    | 0]{.und | (--2    | re      | h]{.und | 4]{.und |
-| ]{.und  | fly 250 | erline} | size,   | duction | erline} | erline} |
-| erline} | ft.     |         | +5      | 10      |         |         |
-|         | (poor)  |         | defl    | /magic, |         |         |
-|         | ]{.und  |         | ection, | def     |         |         |
-|         | erline} |         | +22     | lecting |         |         |
-|         |         |         | na      | force,  |         |         |
-|         |         |         | tural), | ]{      |         |         |
-|         |         |         | touch   | .underl |         |         |
-|         |         |         | 13,     | ine}*[h |         |         |
-|         |         |         | flat    | ypnotic |         |         |
-|         |         |         | -footed | p       |         |         |
-|         |         |         | 3       | attern, |         |         |
-|         |         |         | 5]{.und | ]{.unde |         |         |
-|         |         |         | erline} | rline}* |         |         |
-|         |         |         |         | [immune |         |         |
-|         |         |         |         | to      |         |         |
-|         |         |         |         | light   |         |         |
-|         |         |         |         | and     |         |         |
-|         |         |         |         | bl      |         |         |
-|         |         |         |         | indness |         |         |
-|         |         |         |         | ]{.und  |         |         |
-|         |         |         |         | erline} |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Very   | [60     | [+      | [42     |         | [8t     | [3      |
-| young   | ft.,    | 0]{.und | (--2    |         | h]{.und | 0]{.und |
-| ]{.und  | fly 250 | erline} | size,   |         | erline} | erline} |
-| erline} | ft.     |         | +7      |         |         |         |
-|         | (poor)  |         | defl    |         |         |         |
-|         | ]{.und  |         | ection, |         |         |         |
-|         | erline} |         | +27     |         |         |         |
-|         |         |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 15,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 4       |         |         |         |
-|         |         |         | 2]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Young  | [60     | [+      | [47     | [Damage | [11t    | [3      |
-| ]{.und  | ft.,    | 0]{.und | (--4    | re      | h]{.und | 6]{.und |
-| erline} | fly 300 | erline} | size,   | duction | erline} | erline} |
-|         | ft.     |         | +9      | 1       |         |         |
-|         | (       |         | defl    | 5/magic |         |         |
-|         | clumsy) |         | ection, | ]{.und  |         |         |
-|         | ]{.und  |         | +32     | erline} |         |         |
-|         | erline} |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 15,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 4       |         |         |         |
-|         |         |         | 7]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [J      | [60     | [+      | [54     | *[      | [13t    | [4      |
-| uvenile | ft.,    | 0]{.und | (--4    | Rainbow | h]{.und | 2]{.und |
-| ]{.und  | fly 300 | erline} | size,   | pattern | erline} | erline} |
-| erline} | ft.     |         | +11     | ]{.unde |         |         |
-|         | (       |         | defl    | rline}* |         |         |
-|         | clumsy) |         | ection, |         |         |         |
-|         | ]{.und  |         | +37     |         |         |         |
-|         | erline} |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 17,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 54      |         |         |         |
-|         |         |         | ]{.und  |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Young  | [60     | [+      | [61     | [Damage | [17t    | [4      |
-| adult   | ft.,    | 0]{.und | (--4    | re      | h]{.und | 8]{.und |
-| ]{.und  | fly 300 | erline} | size,   | duction | erline} | erline} |
-| erline} | ft.     |         | +13     | 15/epi  |         |         |
-|         | (       |         | defl    | c]{.und |         |         |
-|         | clumsy) |         | ection, | erline} |         |         |
-|         | ]{.und  |         | +42     |         |         |         |
-|         | erline} |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 19,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 6       |         |         |         |
-|         |         |         | 1]{.und |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Adult  | [60     | [+      | [64     | *[      | [20t    | [5      |
-| ]{.und  | ft.,    | 0]{.und | (--8    | Sunbeam | h]{.und | 4]{.und |
-| erline} | fly 300 | erline} | size,   | ]{.unde | erline} | erline} |
-|         | ft.     |         | +15     | rline}* |         |         |
-|         | (       |         | defl    |         |         |         |
-|         | clumsy) |         | ection, |         |         |         |
-|         | ]{.und  |         | +47     |         |         |         |
-|         | erline} |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 17,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 64      |         |         |         |
-|         |         |         | ]{.und  |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Mature | [60     | [+      | [71     | [Damage | [23r    | [6      |
-| adult   | ft.,    | 0]{.und | (--8    | re      | d]{.und | 0]{.und |
-| ]{.und  | fly 300 | erline} | size,   | duction | erline} | erline} |
-| erline} | ft.     |         | +17     | 20/epi  |         |         |
-|         | (       |         | defl    | c]{.und |         |         |
-|         | clumsy) |         | ection, | erline} |         |         |
-|         | ]{.und  |         | +52     |         |         |         |
-|         | erline} |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 19,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 71      |         |         |         |
-|         |         |         | ]{.und  |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Old    | [60     | [+      | [78     | *[S     | [26t    | [6      |
-| ]{.und  | ft.,    | 0]{.und | (--8    | unburst | h]{.und | 6]{.und |
-| erline} | fly 300 | erline} | size,   | ]{.unde | erline} | erline} |
-|         | ft.     |         | +19     | rline}* |         |         |
-|         | (clumsy |         | defl    |         |         |         |
-|         | )]{.und |         | ection, |         |         |         |
-|         | erline} |         | +57     |         |         |         |
-|         |         |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 21,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 78      |         |         |         |
-|         |         |         | ]{.und  |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Very   | [60     | [+      | [85     | [Damage | [29t    | [6      |
-| old     | ft.,    | 0]{.und | (--8    | re      | h]{.und | 8]{.und |
-| ]{.und  | fly 300 | erline} | size,   | duction | erline} | erline} |
-| erline} | ft.     |         | +21     | 25/epi  |         |         |
-|         | (       |         | defl    | c]{.und |         |         |
-|         | clumsy) |         | ection, | erline} |         |         |
-|         | ]{.und  |         | +62     |         |         |         |
-|         | erline} |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 23,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 85      |         |         |         |
-|         |         |         | ]{.und  |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [       | [60     | [+      | [92     | *[Pr    | [32n    | [7      |
-| Ancient | ft.,    | 0]{.und | (--8    | ismatic | d]{.und | 4]{.und |
-| ]{.und  | fly 350 | erline} | size,   | wall    | erline} | erline} |
-| erline} | ft.     |         | +23     | ]{.unde |         |         |
-|         | (       |         | defl    | rline}* |         |         |
-|         | clumsy) |         | ection, |         |         |         |
-|         | ]{.und  |         | +67     |         |         |         |
-|         | erline} |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 25,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 92      |         |         |         |
-|         |         |         | ]{.und  |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Wyrm   | [60     | [+      | [99     |         | [35t    | [8      |
-| ]{.und  | ft.,    | 0]{.und | (--8    |         | h]{.und | 0]{.und |
-| erline} | fly 350 | erline} | size,   |         | erline} | erline} |
-|         | ft.     |         | +25     |         |         |         |
-|         | (       |         | defl    |         |         |         |
-|         | clumsy) |         | ection, |         |         |         |
-|         | ]{.und  |         | +72     |         |         |         |
-|         | erline} |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 27,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 99      |         |         |         |
-|         |         |         | ]{.und  |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-|         |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-| [Great  | [60     | [+      | [106    | *[Pr    | [38t    | [8      |
-| wyrm    | ft.,    | 0]{.und | (--8    | ismatic | h]{.und | 6]{.und |
-| ]{.und  | fly 350 | erline} | size,   | sphere  | erline} | erline} |
-| erline} | ft.     |         | +27     | ]{.unde |         |         |
-|         | (       |         | defl    | rline}* |         |         |
-|         | clumsy) |         | ection, |         |         |         |
-|         | ]{.und  |         | +77     |         |         |         |
-|         | erline} |         | na      |         |         |         |
-|         |         |         | tural), |         |         |         |
-|         |         |         | touch   |         |         |         |
-|         |         |         | 29,     |         |         |         |
-|         |         |         | flat    |         |         |         |
-|         |         |         | -footed |         |         |         |
-|         |         |         | 106     |         |         |         |
-|         |         |         | ]{.und  |         |         |         |
-|         |         |         | erline} |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
-|         |         |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+---------+
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| **[Age ]{.underline}**      | **[Speed ]{.underline}**                    | ###### [Inititative]{.underline} | ##### [AC]{.underline}                                                                | **Special Abilities **                                                                                                                    | **[Caster Level]{.underline}** | **[SR]{.underline}** |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+|                             |                                             |                                  |                                                                                       |                                                                                                                                           |                                |                      |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Wyrmling ]{.underline}     | [60 ft., fly 250 ft. (poor) ]{.underline}   | [+0]{.underline}                 | [35 (--2 size, +5 deflection, +22 natural), touch 13, flat-footed 35]{.underline}     | [Damage reduction 10/magic, deflecting force, ]{.underline}*[hypnotic pattern, ]{.underline}*[immune to light and blindness ]{.underline} | [5th]{.underline}              | [24]{.underline}     |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Very young ]{.underline}   | [60 ft., fly 250 ft. (poor) ]{.underline}   | [+0]{.underline}                 | [42 (--2 size, +7 deflection, +27 natural), touch 15, flat-footed 42]{.underline}     |                                                                                                                                           | [8th]{.underline}              | [30]{.underline}     |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Young ]{.underline}        | [60 ft., fly 300 ft. (clumsy) ]{.underline} | [+0]{.underline}                 | [47 (--4 size, +9 deflection, +32 natural), touch 15, flat-footed 47]{.underline}     | [Damage reduction 15/magic ]{.underline}                                                                                                  | [11th]{.underline}             | [36]{.underline}     |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Juvenile ]{.underline}     | [60 ft., fly 300 ft. (clumsy) ]{.underline} | [+0]{.underline}                 | [54 (--4 size, +11 deflection, +37 natural), touch 17, flat-footed 54 ]{.underline}   | *[Rainbow pattern]{.underline}*                                                                                                           | [13th]{.underline}             | [42]{.underline}     |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Young adult ]{.underline}  | [60 ft., fly 300 ft. (clumsy) ]{.underline} | [+0]{.underline}                 | [61 (--4 size, +13 deflection, +42 natural), touch 19, flat-footed 61]{.underline}    | [Damage reduction 15/epic]{.underline}                                                                                                    | [17th]{.underline}             | [48]{.underline}     |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Adult ]{.underline}        | [60 ft., fly 300 ft. (clumsy) ]{.underline} | [+0]{.underline}                 | [64 (--8 size, +15 deflection, +47 natural), touch 17, flat-footed 64 ]{.underline}   | *[Sunbeam ]{.underline}*                                                                                                                  | [20th]{.underline}             | [54]{.underline}     |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Mature adult ]{.underline} | [60 ft., fly 300 ft. (clumsy) ]{.underline} | [+0]{.underline}                 | [71 (--8 size, +17 deflection, +52 natural), touch 19, flat-footed 71 ]{.underline}   | [Damage reduction 20/epic]{.underline}                                                                                                    | [23rd]{.underline}             | [60]{.underline}     |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Old ]{.underline}          | [60 ft., fly 300 ft. (clumsy)]{.underline}  | [+0]{.underline}                 | [78 (--8 size, +19 deflection, +57 natural), touch 21, flat-footed 78 ]{.underline}   | *[Sunburst ]{.underline}*                                                                                                                 | [26th]{.underline}             | [66]{.underline}     |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Very old ]{.underline}     | [60 ft., fly 300 ft. (clumsy) ]{.underline} | [+0]{.underline}                 | [85 (--8 size, +21 deflection, +62 natural), touch 23, flat-footed 85 ]{.underline}   | [Damage reduction 25/epic]{.underline}                                                                                                    | [29th]{.underline}             | [68]{.underline}     |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Ancient ]{.underline}      | [60 ft., fly 350 ft. (clumsy) ]{.underline} | [+0]{.underline}                 | [92 (--8 size, +23 deflection, +67 natural), touch 25, flat-footed 92 ]{.underline}   | *[Prismatic wall]{.underline}*                                                                                                            | [32nd]{.underline}             | [74]{.underline}     |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Wyrm ]{.underline}         | [60 ft., fly 350 ft. (clumsy) ]{.underline} | [+0]{.underline}                 | [99 (--8 size, +25 deflection, +72 natural), touch 27, flat-footed 99 ]{.underline}   |                                                                                                                                           | [35th]{.underline}             | [80]{.underline}     |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+|                             |                                             |                                  |                                                                                       |                                                                                                                                           |                                |                      |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+| [Great wyrm ]{.underline}   | [60 ft., fly 350 ft. (clumsy) ]{.underline} | [+0]{.underline}                 | [106 (--8 size, +27 deflection, +77 natural), touch 29, flat-footed 106 ]{.underline} | *[Prismatic sphere]{.underline}*                                                                                                          | [38th]{.underline}             | [86]{.underline}     |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
+|                             |                                             |                                  |                                                                                       |                                                                                                                                           |                                |                      |
++-----------------------------+---------------------------------------------+----------------------------------+---------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------+----------------------+
 
-[A prismatic dragon's natural weapons are treated as magic (wyrmling --
-juvenile) or epic (young adult -- great wyrm) for the purpose of
-overcoming damage reduction.]{.underline}
+[A prismatic dragon's natural weapons are treated as magic (wyrmling -- juvenile) or epic (young adult -- great wyrm) for the purpose of overcoming damage reduction.]{.underline}
 
 [Combat]{.underline}**[ ]{.underline}**
 
-**[Breath Weapon (Su):]{.underline}**[ A prismatic dragon has one type
-of breath weapon, a ]{.underline}*[prismatic spray
-]{.underline}*[effect. The breath weapon's cone is of the size indicated
-by the dragon's size, not the normal cone for the spell. ]{.underline}
+**[Breath Weapon (Su):]{.underline}**[ A prismatic dragon has one type of breath weapon, a ]{.underline}*[prismatic spray ]{.underline}*[effect. The breath weapon's cone is of the size indicated by the dragon's size, not the normal cone for the spell. ]{.underline}
 
-**[Deflecting Force (Su):]{.underline}**[ A prismatic dragon is
-protected by a shield of shimmering light similar to a
-]{.underline}*[cloak of chaos ]{.underline}*[that provides a deflection
-bonus to its AC. The deflection bonus is equal to the dragon's Charisma
-bonus. ]{.underline}
+**[Deflecting Force (Su):]{.underline}**[ A prismatic dragon is protected by a shield of shimmering light similar to a ]{.underline}*[cloak of chaos ]{.underline}*[that provides a deflection bonus to its AC. The deflection bonus is equal to the dragon's Charisma bonus. ]{.underline}
 
-**[Immune to Light and Blindness (Ex): ]{.underline}**[Prismatic dragons
-cannot be harmed by any light, including Evocation \[Light\] spells,
-]{.underline}*[searing light, ]{.underline}*[and the various
-]{.underline}*[prismatic (sphere, spray, wall]{.underline}*[) spells. In
-addition, they are immune to any spell or effect that causes blindness.
-]{.underline}
+**[Immune to Light and Blindness (Ex): ]{.underline}**[Prismatic dragons cannot be harmed by any light, including Evocation \[Light\] spells, ]{.underline}*[searing light, ]{.underline}*[and the various ]{.underline}*[prismatic (sphere, spray, wall]{.underline}*[) spells. In addition, they are immune to any spell or effect that causes blindness. ]{.underline}
 
-**[Spell-Like Abilities:]{.underline}**[ At
-will---]{.underline}*[hypnotic pattern, rainbow pattern;
-]{.underline}*[3/day---]{.underline}*[prismatic sphere, prismatic wall,
-sunbeam, sunburst.]{.underline}*[ The DC is Charisma-based.]{.underline}
+**[Spell-Like Abilities:]{.underline}**[ At will---]{.underline}*[hypnotic pattern, rainbow pattern; ]{.underline}*[3/day---]{.underline}*[prismatic sphere, prismatic wall, sunbeam, sunburst.]{.underline}*[ The DC is Charisma-based.]{.underline}
 
 # [Sample Prismatic Dragon, Old ]{.underline}
 
@@ -3082,29 +1309,17 @@ Colossal Dragon
 
 **Space/Reach:** 30 ft./20 ft
 
-**Special Attacks:** Crush 4d8+34 (DC 58), tail sweep 2d8+34 (DC 58),
-breath weapon, frightful presence (DC 58), spells (caster level 26th),
-spell-like abilities
+**Special Attacks:** Crush 4d8+34 (DC 58), tail sweep 2d8+34 (DC 58), breath weapon, frightful presence (DC 58), spells (caster level 26th), spell-like abilities
 
-**Special Qualities:** Immunities, DR 20/epic, SR 66, blindsight, keen
-senses, deflecting force
+**Special Qualities:** Immunities, DR 20/epic, SR 66, blindsight, keen senses, deflecting force
 
 **Saves:** Fort +50, Ref +31, Will +50
 
 **Abilities:** Str 57, Dex 10, Con 49, Int 48, Wis 49, Cha 48
 
-**Skills:** Balance +67, Bluff +80, Climb +84, Concentration +80,
-Diplomacy +92, Disable Device +80, Escape Artist +61, Gather Information
-+86, Heal +80, Intimidate +86, Jump +102, Knowledge (all) +80, Listen
-+80, Move Silently +61, Open Lock +61, Perform (any two) +80, Search
-+80, Sense Motive +80, Spellcraft +86, Spot +80, Survival +80, Tumble
-+67, Use Magic Device +80
+**Skills:** Balance +67, Bluff +80, Climb +84, Concentration +80, Diplomacy +92, Disable Device +80, Escape Artist +61, Gather Information +86, Heal +80, Intimidate +86, Jump +102, Knowledge (all) +80, Listen +80, Move Silently +61, Open Lock +61, Perform (any two) +80, Search +80, Sense Motive +80, Spellcraft +86, Spot +80, Survival +80, Tumble +67, Use Magic Device +80
 
-**Feats:** Blinding Speed (x2), Cleave, Flyby Attack, Great Cleave,
-Improved Critical (bite), Improved Initiative, Improved Sunder, Improved
-Spell Capacity (9th), Improved Spell Capacity (9th), Power Attack,
-Quicken Spell-Like Ability, Snatch, Spell Knowledge (x4), Weapon Focus
-(bite), Weapon Focus (claw), Weapon Focus (tail slap)
+**Feats:** Blinding Speed (x2), Cleave, Flyby Attack, Great Cleave, Improved Critical (bite), Improved Initiative, Improved Sunder, Improved Spell Capacity (9th), Improved Spell Capacity (9th), Power Attack, Quicken Spell-Like Ability, Snatch, Spell Knowledge (x4), Weapon Focus (bite), Weapon Focus (claw), Weapon Focus (tail slap)
 
 **Climate/Terrain:** Any land and underground
 
@@ -3118,39 +1333,21 @@ Quicken Spell-Like Ability, Snatch, Spell Knowledge (x4), Weapon Focus
 
 **Advancement:** 59--62 HD (Colossal)
 
-A prismatic dragon's natural weapons are treated as epic for the purpose
-of overcoming damage reduction.
+A prismatic dragon's natural weapons are treated as epic for the purpose of overcoming damage reduction.
 
-**Breath Weapon (Su):** Cone of *prismatic spray, *70 ft., effect as
-spell, Ref half (DC 58).
+**Breath Weapon (Su):** Cone of *prismatic spray, *70 ft., effect as spell, Ref half (DC 58).
 
-**Spell-Like Abilities:** At will---*hypnotic pattern, rainbow pattern;
-*3/day---*sunbeam, sunburst. *Caster level 26th; save DC 29 + spell
-level. The DC is Charisma-based.
+**Spell-Like Abilities:** At will---*hypnotic pattern, rainbow pattern; *3/day---*sunbeam, sunburst. *Caster level 26th; save DC 29 + spell level. The DC is Charisma-based.
 
-**Immunities (Ex):** Immune to *sleep *and paralysis effects, immune to
-light and blindness effects.
+**Immunities (Ex):** Immune to *sleep *and paralysis effects, immune to light and blindness effects.
 
-***Sorcerer Spells Known**** *(6/11/11/11/10/10/10/10/9/11; base DC 29 +
-spell level): 0---*dancing lights, daze, detect magic, ghost sound,
-light, prestidigitation, ray of frost, read magic, resistance;
-*1st---*enlarge person, mage armor, magic missile, shield, true strike,
-unseen servant; *2nd---*alter self, blur, darkness, detect thoughts,
-levitate; *3rd---*blink, fireball, greater magic weapon, haste, tongues,
-wind wall; *4th---*confusion, polymorph, scrying, stoneskin; *5th---*
-baleful polymorph, dismissal, fabricate, passwall, wall of force;
-*6th---*antimagic field, greater dispel magic, true seeing;
-*7th---*forcecage, sequester, spell turning, greater teleport;
-*8th---*greater planar binding, mass charm monster, symbol of death,
-temporal stasis; *9th---*dominate monster, gate, imprisonment, time
-stop, wish *
+***Sorcerer Spells Known**** *(6/11/11/11/10/10/10/10/9/11; base DC 29 + spell level): 0---*dancing lights, daze, detect magic, ghost sound, light, prestidigitation, ray of frost, read magic, resistance; *1st---*enlarge person, mage armor, magic missile, shield, true strike, unseen servant; *2nd---*alter self, blur, darkness, detect thoughts, levitate; *3rd---*blink, fireball, greater magic weapon, haste, tongues, wind wall; *4th---*confusion, polymorph, scrying, stoneskin; *5th---* baleful polymorph, dismissal, fabricate, passwall, wall of force; *6th---*antimagic field, greater dispel magic, true seeing; *7th---*forcecage, sequester, spell turning, greater teleport; *8th---*greater planar binding, mass charm monster, symbol of death, temporal stasis; *9th---*dominate monster, gate, imprisonment, time stop, wish *
 
 *Possessions: Staff of the cosmos, ring of regeneration, *15,563 gp.
 
 # [ELEMENTAL,PRIMAL ]{.underline}
 
-**Elemental Traits:** Immune to poison, sleep, paralysis, and stunning.
-Not subject to critical hits.
+**Elemental Traits:** Immune to poison, sleep, paralysis, and stunning. Not subject to critical hits.
 
   ----------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         **[Air Elemental, Primal ]{.underline}**                                                                                                                                                            **[Earth Elemental, Primal ]{.underline}**
@@ -3215,35 +1412,9 @@ Not subject to critical hits.
 
 [Combat]{.underline}**[ ]{.underline}**
 
-**[Air Mastery (Ex):]{.underline}**[ Airborne creatures take a --1
-penalty on attack and damage rolls against an air elemental.
-]{.underline}
+**[Air Mastery (Ex):]{.underline}**[ Airborne creatures take a --1 penalty on attack and damage rolls against an air elemental. ]{.underline}
 
-**[Whirlwind (Su):]{.underline}**[ The elemental can transform itself
-into a whirlwind once every 10 minutes and remain in that form for up to
-1 round for every 2 HD it has. In this form, the elemental can move
-through the air or along a surface at its fly speed. A primal air
-whirlwind is 10 feet wide at the base, 40 feet wide at the top, and up
-to 80 feet tall. The elemental controls its exact height, but it must be
-at least 10 feet. Gargantuan or smaller creatures might take damage when
-caught in the whirlwind and may be lifted into the air. An affected
-creature must succeed at a Reflex save (DC 53) when it comes into
-contact with the whirlwind or take 4d8 points of damage. It must also
-succeed at a second Reflex save (DC 53) or be picked up bodily and held
-suspended in the powerful winds, automatically taking 4d8 points of
-damage each round. A creature that can fly is allowed a Reflex save (DC
-53) each round to escape the whirlwind. The creature still takes damage
-but can leave if the save is successful. The elemental can eject any
-carried creatures whenever it wishes, depositing them wherever the
-whirlwind happens to be. A summoned elemental always ejects trapped
-creatures before returning to its home plane. If the whirlwind's base
-touches the ground, it creates a swirling cloud of debris. This cloud is
-centered on the elemental and has a diameter equal to half the
-whirlwind's height. The cloud obscures all vision, including darkvision,
-beyond 5 feet. Creatures 5 feet away have one-half concealment, while
-those farther away have total concealment. Those caught in the cloud
-must succeed at a Concentration check (DC 53) to cast a spell. The DC is
-Strength-based.]{.underline}
+**[Whirlwind (Su):]{.underline}**[ The elemental can transform itself into a whirlwind once every 10 minutes and remain in that form for up to 1 round for every 2 HD it has. In this form, the elemental can move through the air or along a surface at its fly speed. A primal air whirlwind is 10 feet wide at the base, 40 feet wide at the top, and up to 80 feet tall. The elemental controls its exact height, but it must be at least 10 feet. Gargantuan or smaller creatures might take damage when caught in the whirlwind and may be lifted into the air. An affected creature must succeed at a Reflex save (DC 53) when it comes into contact with the whirlwind or take 4d8 points of damage. It must also succeed at a second Reflex save (DC 53) or be picked up bodily and held suspended in the powerful winds, automatically taking 4d8 points of damage each round. A creature that can fly is allowed a Reflex save (DC 53) each round to escape the whirlwind. The creature still takes damage but can leave if the save is successful. The elemental can eject any carried creatures whenever it wishes, depositing them wherever the whirlwind happens to be. A summoned elemental always ejects trapped creatures before returning to its home plane. If the whirlwind's base touches the ground, it creates a swirling cloud of debris. This cloud is centered on the elemental and has a diameter equal to half the whirlwind's height. The cloud obscures all vision, including darkvision, beyond 5 feet. Creatures 5 feet away have one-half concealment, while those farther away have total concealment. Those caught in the cloud must succeed at a Concentration check (DC 53) to cast a spell. The DC is Strength-based.]{.underline}
 
 # [PRIMAL EARTH ELEMENTAL ]{.underline}
 
@@ -3251,79 +1422,26 @@ Earth elementals speak Terran.
 
 Combat** **
 
-**Earth Mastery (Ex): **An earth elemental gains a +1 attack and damage
-bonus if both it and its foe touch the ground. If an opponent is
-airborne or water-borne, the elemental takes a --4 penalty on attack and
-damage rolls. (These modifiers are not included in the statistics
-block.)
+**Earth Mastery (Ex): **An earth elemental gains a +1 attack and damage bonus if both it and its foe touch the ground. If an opponent is airborne or water-borne, the elemental takes a --4 penalty on attack and damage rolls. (These modifiers are not included in the statistics block.)
 
-**Push (Ex):** An earth elemental can start a bull rush maneuver without
-provoking an attack of opportunity. The combat modifiers given for earth
-mastery, above, also apply to the elemental's opposed Strength checks.
+**Push (Ex):** An earth elemental can start a bull rush maneuver without provoking an attack of opportunity. The combat modifiers given for earth mastery, above, also apply to the elemental's opposed Strength checks.
 
 # [PRIMAL FIRE ELEMENTAL ]{.underline}
 
-A primal fire elemental cannot enter water or any other nonflammable
-liquid. Unlike lesser fire elementals, a primal fire elemental may
-attempt to evaporate a lesser body of water if blocked. Fire elementals
-speak Ignan.
+A primal fire elemental cannot enter water or any other nonflammable liquid. Unlike lesser fire elementals, a primal fire elemental may attempt to evaporate a lesser body of water if blocked. Fire elementals speak Ignan.
 
 Combat** **
 
-**Burn (Ex):** Those hit by a primal fire elemental's slam attack must
-succeed at a Reflex save (DC 51) or catch fire. The flame burns for 1d4
-rounds. A burning creature can take a move-equivalent action to put out
-the flame. Creatures hitting a fire elemental with natural weapons or
-unarmed attacks take fire damage as though hit by the elemental's
-attack, and also catch fire unless they succeed at a Reflex save. The DC
-is Constitution-based.
+**Burn (Ex):** Those hit by a primal fire elemental's slam attack must succeed at a Reflex save (DC 51) or catch fire. The flame burns for 1d4 rounds. A burning creature can take a move-equivalent action to put out the flame. Creatures hitting a fire elemental with natural weapons or unarmed attacks take fire damage as though hit by the elemental's attack, and also catch fire unless they succeed at a Reflex save. The DC is Constitution-based.
 
 # [PRIMAL WATER ELEMENTAL ]{.underline}
 
-A primal water elemental can't venture more than 360 feet from the body
-of water from which it emerged. Water elementals speak Aquan.
+A primal water elemental can't venture more than 360 feet from the body of water from which it emerged. Water elementals speak Aquan.
 
 Combat** **
 
-**Water Mastery (Ex):** A water elemental gains a +1 bonus on attack and
-damage rolls if both it and its opponent touch water. If the opponent or
-elemental is land-bound, the elemental takes a --4 penalty on attack and
-damage rolls. (These modifiers are not included in the statistics
-block.) A primal water elemental can be a serious threat to a ship that
-crosses its path. It can easily overturn even large craft (ships of up
-to 5 feet in length per Hit Dice of the elemental) and stop massive
-vessels (ships of less than 10 feet in length per HD). Even ocean-going
-behemoths (ships of less than 20 feet in length per HD) can be slowed to
-half speed.
+**Water Mastery (Ex):** A water elemental gains a +1 bonus on attack and damage rolls if both it and its opponent touch water. If the opponent or elemental is land-bound, the elemental takes a --4 penalty on attack and damage rolls. (These modifiers are not included in the statistics block.) A primal water elemental can be a serious threat to a ship that crosses its path. It can easily overturn even large craft (ships of up to 5 feet in length per Hit Dice of the elemental) and stop massive vessels (ships of less than 10 feet in length per HD). Even ocean-going behemoths (ships of less than 20 feet in length per HD) can be slowed to half speed.
 
-**Drench (Ex):** The elemental's touch puts out torches, campfires,
-exposed lanterns, and other open flames of non-magical origin if these
-are Gargantuan or smaller. The creature can dispel magical fire it
-touches as *dispel magic *cast by a caster whose level equals the
-elemental's HD total (64).
+**Drench (Ex):** The elemental's touch puts out torches, campfires, exposed lanterns, and other open flames of non-magical origin if these are Gargantuan or smaller. The creature can dispel magical fire it touches as *dispel magic *cast by a caster whose level equals the elemental's HD total (64).
 
-**Vortex (Su):** The elemental can transform itself into a whirlpool
-once every 10 minutes, provided it is underwater, and remain in that
-form for up to 1 round for every 2 HD it has (48 rounds). In vortex
-form, the elemental can move through the water or along the bottom at
-its swim speed. The vortex is 5 feet wide at the base, up to 50 feet
-wide at the top, and up to 80 feet tall. The elemental controls its
-exact height, but it must be at least 10 feet. Gargantuan and smaller
-creatures might take damage when caught in the vortex and may be swept
-up by it. An affected creature must succeed at a Reflex save (DC 58)
-when it comes into contact with the vortex or take 4d10 points of
-damage. It must also succeed at a second Reflex save (DC 68) or be
-picked up bodily and held suspended in the powerful currents,
-automatically taking 4d10 points of damage each round. A creature that
-can swim is allowed a Reflex save (DC 58) each round to escape the
-vortex. The creature still takes damage, but can leave if the save is
-successful. The elemental can eject any carried creatures whenever it
-wishes, depositing them wherever the vortex hap-pens to be. A summoned
-elemental always ejects trapped creatures before returning to its home
-plane. If the vortex's base touches the bottom, it creates a swirling
-cloud of debris. This cloud is centered on the elemental and has a
-diameter equal to half the vortex's height. The cloud obscures all
-vision, including dark-vision, beyond 5 feet. Creatures 5 feet away have
-one-half concealment, while those farther away have total concealment.
-Those caught in the cloud must succeed at a Concentration check (DC 58)
-to cast a spell. The DC is Strength-based.
+**Vortex (Su):** The elemental can transform itself into a whirlpool once every 10 minutes, provided it is underwater, and remain in that form for up to 1 round for every 2 HD it has (48 rounds). In vortex form, the elemental can move through the water or along the bottom at its swim speed. The vortex is 5 feet wide at the base, up to 50 feet wide at the top, and up to 80 feet tall. The elemental controls its exact height, but it must be at least 10 feet. Gargantuan and smaller creatures might take damage when caught in the vortex and may be swept up by it. An affected creature must succeed at a Reflex save (DC 58) when it comes into contact with the vortex or take 4d10 points of damage. It must also succeed at a second Reflex save (DC 68) or be picked up bodily and held suspended in the powerful currents, automatically taking 4d10 points of damage each round. A creature that can swim is allowed a Reflex save (DC 58) each round to escape the vortex. The creature still takes damage, but can leave if the save is successful. The elemental can eject any carried creatures whenever it wishes, depositing them wherever the vortex hap-pens to be. A summoned elemental always ejects trapped creatures before returning to its home plane. If the vortex's base touches the bottom, it creates a swirling cloud of debris. This cloud is centered on the elemental and has a diameter equal to half the vortex's height. The cloud obscures all vision, including dark-vision, beyond 5 feet. Creatures 5 feet away have one-half concealment, while those farther away have total concealment. Those caught in the cloud must succeed at a Concentration check (DC 58) to cast a spell. The DC is Strength-based.
