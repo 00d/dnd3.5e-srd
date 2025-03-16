@@ -1,14 +1,14 @@
 *This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.*
 
-# Description
+DESCRIPTION
 
-## Alignment
+ALIGNMENT
 
 A creature's general moral and personal attitudes are represented by its alignment: lawful good, neutral good, chaotic good, lawful neutral, neutral, chaotic neutral, lawful evil, neutral evil, or chaotic evil.
 
 Alignment is a tool for developing your character's identity. It is not a straitjacket for restricting your character. Each alignment represents a broad range of personality types or personal philosophies, so two characters of the same alignment can still be quite different from each other. In addition, few people are completely consistent.
 
-### Good Vs. Evil
+GOOD VS. EVIL
 
 Good characters and creatures protect innocent life. Evil characters and creatures debase or destroy innocent life, whether for fun or profit.
 
@@ -22,7 +22,7 @@ Being good or evil can be a conscious choice. For most people, though, being goo
 
 Animals and other creatures incapable of moral action are neutral rather than good or evil. Even deadly vipers and tigers that eat people are neutral because they lack the capacity for morally right or wrong behavior.
 
-### Law Vs. Chaos
+LAW VS. CHAOS
 
 Lawful characters tell the truth, keep their word, respect authority, honor tradition, and judge those who fall short of their duties.
 
@@ -38,13 +38,13 @@ Devotion to law or chaos may be a conscious choice, but more often it is a perso
 
 Animals and other creatures incapable of moral action are neutral. Dogs may be obedient and cats free-spirited, but they do not have the moral capacity to be truly lawful or chaotic.
 
-### The Nine Alignments
+THE NINE ALIGNMENTS
 
 Nine distinct alignments define all the possible combinations of the lawful--chaotic axis with the good--evil axis. Each alignment description below depicts a typical character of that alignment. Remember that individuals vary from this norm, and that a given character may act more or less in accord with his or her alignment from day to day. Use these descriptions as guidelines, not as scripts.
 
 The first six alignments, lawful good through chaotic neutral, are the standard alignments for player characters. The three evil alignments are for monsters and villains.
 
-**Lawful Good, "Crusader":** A lawful good character acts as a good person is expected or required to act. She combines a commitment to oppose evil with the discipline to fight relentlessly. She tells the truth, keeps her word, helps those in need, and speaks out against injustice. A lawful good character hates to see the guilty go unpunished.
+**Lawful Good, "Crusader": **A lawful good character acts as a good person is expected or required to act. She combines a commitment to oppose evil with the discipline to fight relentlessly. She tells the truth, keeps her word, helps those in need, and speaks out against injustice. A lawful good character hates to see the guilty go unpunished.
 
 Lawful good is the best alignment you can be because it combines honor and compassion.
 
@@ -56,7 +56,7 @@ Neutral good is the best alignment you can be because it means doing what is goo
 
 Chaotic good is the best alignment you can be because it combines a good heart with a free spirit.
 
-**Lawful Neutral, "Judge":** A lawful neutral character acts as law, tradition, or a personal code directs her. Order and organization are paramount to her. She may believe in personal order and live by a code or standard, or she may believe in order for all and favor a strong, organized government.
+**Lawful Neutral, "Judge": **A lawful neutral character acts as law, tradition, or a personal code directs her. Order and organization are paramount to her. She may believe in personal order and live by a code or standard, or she may believe in order for all and favor a strong, organized government.
 
 Lawful neutral is the best alignment you can be because it means you are reliable and honorable without being a zealot.
 
@@ -86,33 +86,55 @@ Some neutral evil villains hold up evil as an ideal, committing evil for its own
 
 Neutral evil is the most dangerous alignment because it represents pure evil without honor and without variation.
 
-**Chaotic Evil, "Destroyer":** A chaotic evil character does whatever his greed, hatred, and lust for destruction drive him to do. He is hot-tempered, vicious, arbitrarily violent, and unpredictable. If he is simply out for whatever he can get, he is ruthless and brutal. If he is committed to the spread of evil and chaos, he is even worse. Thankfully, his plans are haphazard, and any groups he joins or forms are poorly organized. Typically, chaotic evil people can be made to work together only by force, and their leader lasts only as long as he can thwart attempts to topple or assassinate him.
+**Chaotic Evil, "Destroyer": **A chaotic evil character does whatever his greed, hatred, and lust for destruction drive him to do. He is hot-tempered, vicious, arbitrarily violent, and unpredictable. If he is simply out for whatever he can get, he is ruthless and brutal. If he is committed to the spread of evil and chaos, he is even worse. Thankfully, his plans are haphazard, and any groups he joins or forms are poorly organized. Typically, chaotic evil people can be made to work together only by force, and their leader lasts only as long as he can thwart attempts to topple or assassinate him.
 
 Chaotic evil is sometimes called "demonic" because demons are the epitome of chaotic evil.
 
 Chaotic evil is the most dangerous alignment because it represents the destruction not only of beauty and life but also of the order on which beauty and life depend.
 
-## Vital Statistics
+VITAL STATISTICS
 
-### Age
+AGE
 
 You can choose or randomly generate your character's age. If you choose it, it must be at least the minimum age for the character's race and class (see Table: Random Starting Ages). Your character's minimum starting age is the adulthood age of his or her race plus the number of dice indicated in the entry corresponding to the character's race and class on Table: Random Starting Ages.
 
 Alternatively, refer to Table: Random Starting Ages and roll dice to determine how old your character is.
 
-| Table: Random Starting Ages |           |           |         |        |
-|-----------------------------|-----------|-----------|---------|--------|
-| Race                        | Adulthood | Barbarian | Bard    | Cleric |
-|                             |           | Rogue     | Fighter | Druid  |
-|                             |           | Sorcerer  | Paladin | Monk   |
-|                             |           |           | Ranger  | Wizard |
-| Human                       | 15 years  | +1d4      | +1d6    | +2d6   |
-| Dwarf                       | 40 years  | +3d6      | +5d6    | +7d6   |
-| Elf                         | 110 years | +4d6      | +6d6    | +10d6  |
-| Gnome                       | 40 years  | +4d6      | +6d6    | +9d6   |
-| Half-elf                    | 20 years  | +1d6      | +2d6    | +3d6   |
-| Half-orc                    | 14 years  | +1d4      | +1d6    | +2d6   |
-| Halfling                    | 20 years  | +2d4      | +3d6    | +4d6   |
++-----------------------------------+---------------+---------------+-------------+------------+
+| ***Table: Random Starting Ages*** |               |               |             |            |
++-----------------------------------+---------------+---------------+-------------+------------+
+|                                   |               |               |             |            |
++-----------------------------------+---------------+---------------+-------------+------------+
+| ### Race                          | **Adulthood** | **Barbarian** | **Bard**    | **Cleric** |
+|                                   |               |               |             |            |
+|                                   |               | **Rogue**     | **Fighter** | **Druid**  |
+|                                   |               |               |             |            |
+|                                   |               | ### Sorcerer  | **Paladin** | **Monk**   |
+|                                   |               |               |             |            |
+|                                   |               |               | **Ranger**  | **Wizard** |
++-----------------------------------+---------------+---------------+-------------+------------+
+|                                   |               |               |             |            |
++-----------------------------------+---------------+---------------+-------------+------------+
+| *Human*                           | *15 years*    | *+1d4*        | *+1d6*      | *+2d6*     |
++-----------------------------------+---------------+---------------+-------------+------------+
+| *Dwarf*                           | *40 years*    | *+3d6*        | *+5d6*      | *+7d6*     |
++-----------------------------------+---------------+---------------+-------------+------------+
+| *Elf*                             | *110 years*   | *+4d6*        | *+6d6*      | *+10d6*    |
++-----------------------------------+---------------+---------------+-------------+------------+
+| *Gnome*                           | *40 years*    | *+4d6*        | *+6d6*      | *+9d6*     |
++-----------------------------------+---------------+---------------+-------------+------------+
+| *Half-elf*                        | *20 years*    | *+1d6*        | *+2d6*      | *+3d6*     |
++-----------------------------------+---------------+---------------+-------------+------------+
+| *Half-orc*                        | *14 years*    | *+1d4*        | *+1d6*      | *+2d6*     |
++-----------------------------------+---------------+---------------+-------------+------------+
+| *Halfling*                        | *20 years*    | *+2d4*        | *+3d6*      | *+4d6*     |
++-----------------------------------+---------------+---------------+-------------+------------+
+|                                   |               |               |             |            |
++-----------------------------------+---------------+---------------+-------------+------------+
+|                                   |               |               |             |            |
++-----------------------------------+---------------+---------------+-------------+------------+
+|                                   |               |               |             |            |
++-----------------------------------+---------------+---------------+-------------+------------+
 
 *With age, a character's physical ability scores decrease and his or her mental ability scores increase (see Table: Aging Effects). The effects of each aging step are cumulative. However, none of a character's ability scores can be reduced below 1 in this way.*
 
@@ -120,39 +142,62 @@ Alternatively, refer to Table: Random Starting Ages and roll dice to determine h
 
 *The maximum ages are for player characters. Most people in the world at large die from pestilence, accidents, infections, or violence before getting to venerable age.*
 
-| Table: Aging Effects |               |           |              |             |
-|----------------------|---------------|-----------|--------------|-------------|
-| Race                 | Middle Age^1^ | Old^2^    | Venerable^3^ | Maximum Age |
-| Human                | 35 years      | 53 years  | 70 years     | +2d20 years |
-| Dwarf                | 125 years     | 188 years | 250 years    | +2d% years  |
-| Elf                  | 175 years     | 263 years | 350 years    | +4d% years  |
-| Gnome                | 100 years     | 150 years | 200 years    | +3d% years  |
-| Half-elf             | 62 years      | 93 years  | 125 years    | +3d20 years |
-| Half-orc             | 30 years      | 45 years  | 60 years     | +2d10 years |
-| Halfling             | 50 years      | 75 years  | 100 years    | +5d20 years |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+| #### Table: Aging Effects                                                |                       |                |                      |                   |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+|                                                                          |                       |                |                      |                   |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+| ***Race ***                                                              | ***Middle Age**^1^*** | ***Old**^2^*** | ***Venerable**^3^*** | ***Maximum Age*** |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+| *Human*                                                                  | *35 years*            | *53 years*     | *70 years*           | *+2d20 years*     |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+| *Dwarf*                                                                  | *125 years*           | *188 years*    | *250 years*          | *+2d% years*      |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+| *Elf*                                                                    | *175 years*           | *263 years*    | *350 years*          | *+4d% years*      |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+| *Gnome*                                                                  | *100 years*           | *150 years*    | *200 years*          | *+3d% years*      |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+| *Half-elf*                                                               | *62 years*            | *93 years*     | *125 years*          | *+3d20 years*     |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+| *Half-orc*                                                               | *30 years*            | *45 years*     | *60 years*           | *+2d10 years*     |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+| *Halfling*                                                               | *50 years*            | *75 years*     | *100 years*          | *+5d20 years*     |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+|                                                                          |                       |                |                      |                   |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+| *1 At middle age, --1 to Str, Dex, and Con; +1 to Int, Wis, and Cha.*    |                       |                |                      |                   |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+| *2 At old age, --2 to Str, Dex, and Con; +1 to Int, Wis, and Cha.*       |                       |                |                      |                   |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+|                                                                          |                       |                |                      |                   |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+| *3 At venerable age, --3 to Str, Dex, and Con; +1 to Int, Wis, and Cha.* |                       |                |                      |                   |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
+|                                                                          |                       |                |                      |                   |
++--------------------------------------------------------------------------+-----------------------+----------------+----------------------+-------------------+
 
-1 At middle age, -1 to Str, Dex, and Con; +1 to Int, Wis, and Cha.
-2 At old age, -2 to Str, Dex, and Con; +1 to Int, Wis, and Cha.
-3 At venerable age, -3 to Str, Dex, and Con; +1 to Int, Wis, and Cha.
-
-### Height And Weight
+*HEIGHT AND WEIGHT*
 
 The dice roll given in the Height Modifier column determines the character's extra height beyond the base height. That same number multiplied by the dice roll or quantity given in the Weight Modifier column determines the character's extra weight beyond the base weight.
 
-| Table: Random Height and Weight |             |                 |             |                 |
-|---------------------------------|-------------|-----------------|-------------|-----------------|
-| Race                            | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| Human, male                     | 4´ 10½      | +2d10           | 120 lb.     | × (2d4) lb.     |
-| Human, female                   | 4´ 5½       | +2d10           | 85 lb.      | × (2d4) lb.     |
-| Dwarf, male                     | 3´ 9½       | +2d4            | 130 lb.     | × (2d6) lb.     |
-| Dwarf, female                   | 3´ 7½       | +2d4            | 100 lb.     | × (2d6) lb.     |
-| Elf, male                       | 4´ 5½       | +2d6            | 85 lb.      | × (1d6) lb.     |
-| Elf, female                     | 4´ 5½       | +2d6            | 80 lb.      | × (1d6) lb.     |
-| Gnome, male                     | 3´ 0½       | +2d4            | 40 lb.      | × 1 lb.         |
-| Gnome, female                   | 2´ 10½      | +2d4            | 35 lb.      | × 1 lb.         |
-| Half-elf, male                  | 4´ 7½       | +2d8            | 100 lb.     | × (2d4) lb.     |
-| Half-elf, female                | 4´ 5½       | +2d8            | 80 lb.      | × (2d4) lb.     |
-| Half-orc, male                  | 4´ 10½      | +2d12           | 150 lb.     | × (2d6) lb.     |
-| Half-orc, female                | 4´ 5½       | +2d12           | 110 lb.     | × (2d6) lb.     |
-| Halfling, male                  | 2´ 8½       | +2d4            | 30 lb.      | × 1 lb.         |
-| Halfling, female                | 2´ 6`½`     | +2d4            | 25 lb.      | × 1 lb.         |
+  --------------------------------------- ------------------- ----------------------- ------------------- -----------------------
+  ***Table: Random Height and Weight***                                                                   
+                                                                                                          
+  ***Race***                              ***Base Height***   ***Height Modifier***   ***Base Weight***   ***Weight Modifier***
+  *Human, male*                           *4´ 10½*            *+2d10*                 *120 lb.*           *× (2d4) lb.*
+  *Human, female*                         *4´ 5½*             *+2d10*                 *85 lb.*            *× (2d4) lb.*
+  *Dwarf, male*                           *3´ 9½*             *+2d4*                  *130 lb.*           *× (2d6) lb.*
+  *Dwarf, female*                         *3´ 7½*             *+2d4*                  *100 lb.*           *× (2d6) lb.*
+  *Elf, male*                             *4´ 5½*             *+2d6*                  *85 lb.*            *× (1d6) lb.*
+  *Elf, female*                           *4´ 5½*             *+2d6*                  *80 lb.*            *× (1d6) lb.*
+  *Gnome, male*                           *3´ 0½*             *+2d4*                  *40 lb.*            *× 1 lb.*
+  *Gnome, female*                         *2´ 10½*            *+2d4*                  *35 lb.*            *× 1 lb.*
+  *Half-elf, male*                        *4´ 7½*             *+2d8*                  *100 lb.*           *× (2d4) lb.*
+  *Half-elf, female*                      *4´ 5½*             *+2d8*                  *80 lb.*            *× (2d4) lb.*
+  *Half-orc, male*                        *4´ 10½*            *+2d12*                 *150 lb.*           *× (2d6) lb.*
+  *Half-orc, female*                      *4´ 5½*             *+2d12*                 *110 lb.*           *× (2d6) lb.*
+  *Halfling, male*                        *2´ 8½*             *+2d4*                  *30 lb.*            *× 1 lb.*
+                                                                                                          
+  *Halfling, female*                      *2´ 6`½`*           *+2d4*                  *25 lb.*            *× 1 lb.*
+                                                                                                          
+  --------------------------------------- ------------------- ----------------------- ------------------- -----------------------

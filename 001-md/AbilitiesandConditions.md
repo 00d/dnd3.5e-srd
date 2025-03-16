@@ -1,8 +1,8 @@
-*This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.*
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
-# Special Abilities & Conditions
+# SPECIAL ABILITIES & CONDITIONS
 
-## Special Abilities
+##### SPECIAL ABILITIES
 
 A special ability is either extraordinary, spell-like, or supernatural in nature.
 
@@ -12,32 +12,53 @@ A special ability is either extraordinary, spell-like, or supernatural in nature
 
 **Supernatural Abilities (Su):** Supernatural abilities are magical but not spell-like. Supernatural abilities are not subject to spell resistance and do not function in areas where magic is suppressed or negated (such as an *antimagic field*). A supernatural ability's effect cannot be dispelled and is not subject to counterspells. See the table below for a summary of the types of special abilities.
 
-| Table: Special Ability Types                                                                                    |               |            |              |
-|-----------------------------------------------------------------------------------------------------------------|---------------|------------|--------------|
-|                                                                                                                 | Extraordinary | Spell-Like | Supernatural |
-| Dispel                                                                                                          | No            | Yes        | No           |
-| Spell resistance                                                                                                | No            | Yes        | No           |
-| Antimagic field                                                                                                 | No            | Yes        | Yes          |
-| Attack of opportunity                                                                                           | No            | Yes        | No           |
-|                                                                                                                 |               |            |              |
-| Dispel: Can dispel magic and similar spells dispel the effects of abilities of that type?                       |               |            |              |
-| Spell Resistance: Does spell resistance protect a creature from these abilities?                                |               |            |              |
-| Antimagic Field: Does an antimagic field or similar magic suppress the ability?                                 |               |            |              |
-|                                                                                                                 |               |            |              |
-| Attack of Opportunity: Does using the ability provoke attacks of opportunity the way that casting a spell does? |               |            |              |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+| ## Table: Special Ability Types                                                                                   |                   |                |                  |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+|                                                                                                                   |                   |                |                  |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+|                                                                                                                   | **Extraordinary** | **Spell-Like** | **Supernatural** |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+| Dispel                                                                                                            | No                | Yes            | No               |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+| Spell resistance                                                                                                  | No                | Yes            | No               |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+| Antimagic field                                                                                                   | No                | Yes            | Yes              |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+| Attack of opportunity                                                                                             | No                | Yes            | No               |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+|                                                                                                                   |                   |                |                  |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+| *Dispel: *Can *dispel magic *and similar spells dispel the effects of abilities of that type?                     |                   |                |                  |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+| *Spell Resistance: *Does spell resistance protect a creature from these abilities?                                |                   |                |                  |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+| *Antimagic Field: *Does an *antimagic field *or similar magic suppress the ability?                               |                   |                |                  |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+|                                                                                                                   |                   |                |                  |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+| *Attack of Opportunity: *Does using the ability provoke attacks of opportunity the way that casting a spell does? |                   |                |                  |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
+|                                                                                                                   |                   |                |                  |
++-------------------------------------------------------------------------------------------------------------------+-------------------+----------------+------------------+
 
-### Ability Score Loss
+ABILITY SCORE LOSS
 
 Various attacks cause ability score loss, either ability damage or ability drain. Points lost to ability damage return at the rate of 1 point per day (or double that if the character gets complete bed rest) to each damaged ability, and the spells *lesser restoration *and *restoration *offset ability damage as well. Ability drain, however, is permanent, though *restoration *can restore even those lost ability score points.
 
 While any loss is debilitating, losing all points in an ability score can be devastating.
 
-- Strength 0 means that the character cannot move at all. He lies helpless on the ground.
-- Dexterity 0 means that the character cannot move at all. He stands motionless, rigid, and helpless.
-- Constitution 0 means that the character is dead.
-- Intelligence 0 means that the character cannot think and is unconscious in a coma-like stupor, helpless.
-- Wisdom 0 means that the character is withdrawn into a deep sleep filled with nightmares, helpless.
-- Charisma 0 means that the character is withdrawn into a catatonic, coma-like stupor, helpless.
+• Strength 0 means that the character cannot move at all. He lies helpless on the ground.
+
+• Dexterity 0 means that the character cannot move at all. He stands motionless, rigid, and helpless.
+
+• Constitution 0 means that the character is dead.
+
+• Intelligence 0 means that the character cannot think and is unconscious in a coma-like stupor, helpless.
+
+• Wisdom 0 means that the character is withdrawn into a deep sleep filled with nightmares, helpless.
+
+• Charisma 0 means that the character is withdrawn into a catatonic, coma-like stupor, helpless.
 
 Keeping track of negative ability score points is never necessary. A character's ability score can't drop below 0.
 
@@ -49,66 +70,89 @@ If a character's Constitution score drops, then he loses 1 hit point per Hit Die
 
 The ability that some creatures have to drain ability scores is a supernatural one, requiring some sort of attack. Such creatures do not drain abilities from enemies when the enemies strike them, even with unarmed attacks or natural weapons.
 
-### Antimagic
+ANTIMAGIC
 
 An *antimagic field *spell or effect cancels magic altogether. An antimagic effect has the following powers and characteristics.
 
-- No supernatural ability, spell-like ability, or spell works in an area of antimagic (but extraordinary abilities still work).
-- Antimagic does not dispel magic; it suppresses it. Once a magical effect is no longer affected by the antimagic (the antimagic fades, the center of the effect moves away, and so on), the magic returns. Spells that still have part of their duration left begin functioning again, magic items are once again useful, and so forth.
-- Spell areas that include both an antimagic area and a normal area, but are not centered in the antimagic area, still function in the normal area. If the spell's center is in the antimagic area, then the spell is suppressed.
-- Golems and other constructs, elementals, outsiders, and corporeal undead, still function in an antimagic area (though the antimagic area suppresses their spellcasting and their supernatural and spell-like abilities normally). If such creatures are summoned or conjured, however, see below.
-- Summoned or conjured creatures of any type, as well as incorporeal undead, wink out if they enter the area of an antimagic effect. They reappear in the same spot once the field goes away.
-- Magic items with continuous effects* *do not function in the area of an antimagic effect, but their effects are not canceled (so the contents of a *bag of holding* are unavailable, but neither spill out nor disappear forever).
-- Two antimagic areas in the same place do not cancel each other out, nor do they stack.
-- *Wall of force, prismatic wall, *and *prismatic sphere *are not affected by antimagic. *Break enchantment, dispel magic, *and *greater dispel magic *spells do not dispel antimagic. *Mage's disjunction *has a 1% chance per caster level of destroying an *antimagic field. *If the *antimagic field *survives the *disjunction, *no items within it are disjoined.
+• No supernatural ability, spell-like ability, or spell works in an area of antimagic (but extraordinary abilities still work).
 
-### Blindsight And Blindsense
+• Antimagic does not dispel magic; it suppresses it. Once a magical effect is no longer affected by the antimagic (the antimagic fades, the center of the effect moves away, and so on), the magic returns. Spells that still have part of their duration left begin functioning again, magic items are once again useful, and so forth.
+
+• Spell areas that include both an antimagic area and a normal area, but are not centered in the antimagic area, still function in the normal area. If the spell's center is in the antimagic area, then the spell is suppressed.
+
+• Golems and other constructs, elementals, outsiders, and corporeal undead, still function in an antimagic area (though the antimagic area suppresses their spellcasting and their supernatural and spell-like abilities normally). If such creatures are summoned or conjured, however, see below.
+
+• Summoned or conjured creatures of any type, as well as incorporeal undead, wink out if they enter the area of an antimagic effect. They reappear in the same spot once the field goes away.
+
+• Magic items with continuous effects* *do not function in the area of an antimagic effect, but their effects are not canceled (so the contents of a *bag of holding* are unavailable, but neither spill out nor disappear forever).
+
+• Two antimagic areas in the same place do not cancel each other out, nor do they stack.
+
+• *Wall of force, prismatic wall, *and *prismatic sphere *are not affected by antimagic. *Break enchantment, dispel magic, *and *greater dispel magic *spells do not dispel antimagic. *Mage's disjunction *has a 1% chance per caster level of destroying an *antimagic field. *If the *antimagic field *survives the *disjunction, *no items within it are disjoined.
+
+BLINDSIGHT AND BLINDSENSE
 
 Some creatures have blindsight, the extraordinary ability to use a nonvisual sense (or a combination of such senses) to operate effectively without vision. Such sense may include sensitivity to vibrations, acute scent, keen hearing, or echolocation. This ability makes invisibility and concealment (even magical darkness) irrelevant to the creature (though it still can't see ethereal creatures). This ability operates out to a range specified in the creature description.
 
-- Blindsight never allows a creature to distinguish color or visual contrast. A creature cannot read with blindsight.
-- Blindsight does not subject a creature to gaze attacks (even though darkvision does).
-- Blinding attacks do not penalize creatures using blindsight.
-- Deafening attacks thwart blindsight if it relies on hearing.
-- Blindsight works underwater but not in a vacuum.
-- Blindsight negates displacement and blur effects.
+• Blindsight never allows a creature to distinguish color or visual contrast. A creature cannot read with blindsight.
+
+• Blindsight does not subject a creature to gaze attacks (even though darkvision does).
+
+• Blinding attacks do not penalize creatures using blindsight.
+
+• Deafening attacks thwart blindsight if it relies on hearing.
+
+• Blindsight works underwater but not in a vacuum.
+
+• Blindsight negates displacement and blur effects.
 
 **Blindsense:** Other creatures have blindsense, a lesser ability that lets the creature notice things it cannot see, but without the precision of blindsight. The creature with blindsense usually does not need to make Spot or Listen checks to notice and locate creatures within range of its blindsense ability, provided that it has line of effect to that creature. Any opponent the creature cannot see has total concealment (50% miss chance) against the creature with blindsense, and the blindsensing creature still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see.
 
-### Breath Weapon
+BREATH WEAPON
 
 A creature attacking with a breath weapon is actually expelling something from its mouth (rather than conjuring it by means of a spell or some other magical effect). Most creatures with breath weapons are limited to a number of uses per day or by a minimum length of time that must pass between uses. Such creatures are usually smart enough to save their breath weapon until they really need it.
 
-- Using a breath weapon is typically a standard action.
-- No attack roll is necessary. The breath simply fills its stated area.
-- Any character caught in the area must make the appropriate saving throw or suffer the breath weapon's full effect. In many cases, a character who succeeds on his saving throw still takes half damage or some other reduced effect.
-- Breath weapons are supernatural abilities except where noted.
-- Creatures are immune to their own breath weapons.
-- Creatures unable to breathe can still use breath weapons. (The term is something of a misnomer.)
+• Using a breath weapon is typically a standard action.
 
-### Charm And Compulsion
+• No attack roll is necessary. The breath simply fills its stated area.
+
+• Any character caught in the area must make the appropriate saving throw or suffer the breath weapon's full effect. In many cases, a character who succeeds on his saving throw still takes half damage or some other reduced effect.
+
+• Breath weapons are supernatural abilities except where noted.
+
+• Creatures are immune to their own breath weapons.
+
+• Creatures unable to breathe can still use breath weapons. (The term is something of a misnomer.)
+
+CHARM AND COMPULSION
 
 Many abilities and spells can cloud the minds of characters and monsters, leaving them unable to tell friend from foe---or worse yet, deceiving them into thinking that their former friends are now their worst enemies. Two general types of enchantments affect characters and creatures: charms and compulsions.
 
 Charming another creature gives the charming character the ability to befriend and suggest courses of actions to his minion, but the servitude is not absolute or mindless. Charms of this type include the various *charm *spells. Essentially, a *charmed *character retains free will but makes choices according to a skewed view of the world.
 
-- A *charmed* creature doesn't gain any magical ability to understand his new friend's language.
-- A *charmed* character retains his original alignment and allegiances, generally with the exception that he now regards the *charming *creature as a dear friend and will give great weight to his suggestions and directions.
-- A *charmed* character fights his former allies only if they threaten his new friend, and even then he uses the least lethal means at his disposal as long as these tactics show any possibility of success (just as he would in a fight between two actual friends).
-- A *charmed* character is entitled to an opposed Charisma check against his master in order to resist instructions or commands that would make him do something he wouldn't normally do even for a close friend. If he succeeds, he decides not to go along with that order but remains *charmed.*
-- A *charmed* character never obeys a command that is obviously suicidal or grievously harmful to her.
-- If the charming creature commands his minion to do something that the influenced character would be violently opposed to, the subject may attempt a new saving throw to break free of the influence altogether.
-- A *charmed* character who is openly attacked by the creature who *charmed* him or by that creature's apparent allies is automatically freed of the spell or effect.
+• A *charmed *creature doesn't gain any magical ability to understand his new friend's language.
+
+• A *charmed *character retains his original alignment and allegiances, generally with the exception that he now regards the *charming *creature as a dear friend and will give great weight to his suggestions and directions.
+
+• A *charmed *character fights his former allies only if they threaten his new friend, and even then he uses the least lethal means at his disposal as long as these tactics show any possibility of success (just as he would in a fight between two actual friends).
+
+• A *charmed *character is entitled to an opposed Charisma check against his master in order to resist instructions or commands that would make him do something he wouldn't normally do even for a close friend. If he succeeds, he decides not to go along with that order but remains *charmed.*
+
+• A *charmed *character never obeys a command that is obviously suicidal or grievously harmful to her.
+
+• If the charming creature commands his minion to do something that the influenced character would be violently opposed to, the subject may attempt a new saving throw to break free of the influence altogether.
+
+• A *charmed *character who is openly attacked by the creature who *charmed *him or by that creature's apparent allies is automatically freed of the spell or effect.
 
 Compulsion is a different matter altogether. A compulsion overrides the subject's free will in some way or simply changes the way the subject's mind works. A charm makes the subject a friend of the caster; a compulsion makes the subject obey the caster.
 
 Regardless of whether a character is charmed or compelled, he won't volunteer information or tactics that his master doesn't ask for.
 
-### Cold Immunity
+COLD IMMUNITY
 
 A creature with cold immunity never takes cold damage. It has vulnerability to fire, which means it takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure.
 
-### Damage Reduction
+DAMAGE REDUCTION
 
 Some magic creatures have the supernatural ability to instantly heal damage from weapons or to ignore blows altogether as though they were invulnerable.
 
@@ -126,20 +170,23 @@ Sometimes damage reduction is instant healing. Sometimes damage reduction repres
 
 If a creature has damage reduction from more than one source, the two forms of damage reduction do not stack. Instead, the creature gets the benefit of the best damage reduction in a given situation.
 
-### Darkvision
+DARKVISION
 
 Darkvision is the extraordinary ability to see with no light source at all, out to a range specified for the creature. Darkvision is black and white only (colors cannot be discerned). It does not allow characters to see anything that they could not see otherwise---invisible objects are still invisible, and illusions are still visible as what they seem to be. Likewise, darkvision subjects a creature to gaze attacks normally. The presence of light does not spoil darkvision.
 
-### Death Attacks
+DEATH ATTACKS
 
 In most cases, a death attack allows the victim a Fortitude save to avoid the affect, but if the save fails, the character dies instantly.
 
-- *Raise dead* doesn't work on someone killed by a death attack.
-- Death attacks slay instantly. A victim cannot be made stable and thereby kept alive.
-- In case it matters, a dead character, no matter how she died, has --10 hit points.
-- The spell *death ward* protects a character against these attacks.
+• *Raise dead *doesn't work on someone killed by a death attack.
 
-### Disease
+• Death attacks slay instantly. A victim cannot be made stable and thereby kept alive.
+
+• In case it matters, a dead character, no matter how she died, has --10 hit points.
+
+• The spell *death ward *protects a character against these attacks.
+
+DISEASE
 
 When a character is injured by a contaminated attack touches an item smeared with diseased matter, or consumes disease-tainted food or drink, he must make an immediate Fortitude saving throw. If he succeeds, the disease has no effect---his immune system fought off the infection. If he fails, he takes damage after an incubation period. Once per day afterward, he must make a successful Fortitude saving throw to avoid repeated damage. Two successful saving throws in a row indicate that he has fought off the disease and recovers, taking no more damage.
 
@@ -149,58 +196,79 @@ Disease Descriptions
 
 Diseases have various symptoms and are spread through a number of vectors. The characteristics of several typical diseases are summarized on Table: Diseases and defined below.
 
-*Disease:* Diseases whose names are printed in *italic *in the table are supernatural in nature. The others are extraordinary.
+*Disease: *Diseases whose names are printed in *italic *in the table are supernatural in nature. The others are extraordinary.
 
-*Infection:* The disease's method of delivery---ingested, inhaled, via injury, or contact. Keep in mind that some injury diseases may be transmitted by as small an injury as a flea bite and that most inhaled diseases can also be ingested (and vice versa).
+*Infection: *The disease's method of delivery---ingested, inhaled, via injury, or contact. Keep in mind that some injury diseases may be transmitted by as small an injury as a flea bite and that most inhaled diseases can also be ingested (and vice versa).
 
-*DC:* The Difficulty Class for the Fortitude saving throws to prevent infection (if the character has been infected), to prevent each instance of repeated damage, and to recover from the disease.
+*DC: *The Difficulty Class for the Fortitude saving throws to prevent infection (if the character has been infected), to prevent each instance of repeated damage, and to recover from the disease.
 
-*Incubation Period:* The time before damage begins.
+*Incubation Period: *The time before damage begins.
 
-*Damage:* The ability damage the character takes after incubation and each day afterward.
+*Damage: *The ability damage the character takes after incubation and each day afterward.
 
-**Types of Diseases:* *Typical diseases include the following:
+**Types of Diseases: **Typical diseases include the following:
 
-*Blinding Sickness:* Spread in tainted water.
+*Blinding Sickness: *Spread in tainted water.
 
-*Cackle Fever:* Symptoms include high fever, disorientation, and frequent bouts of hideous laughter. Also known as "the shrieks."
+*Cackle Fever: *Symptoms include high fever, disorientation, and frequent bouts of hideous laughter. Also known as "the shrieks."
 
-*Demon Fever:* Night hags spread it. Can cause permanent ability drain.
+*Demon Fever: *Night hags spread it. Can cause permanent ability drain.
 
-*Devil Chills:* Barbazu and pit fiends spread it. It takes three, not two, successful saves in a row to recover from devil chills.
+*Devil Chills: *Barbazu and pit fiends spread it. It takes three, not two, successful saves in a row to recover from devil chills.
 
-*Filth Fever:* Dire rats and otyughs spread it. Those injured while in filthy surroundings might also catch it.
+*Filth Fever: *Dire rats and otyughs spread it. Those injured while in filthy surroundings might also catch it.
 
-*Mindfire:* Feels like your brain is burning. Causes stupor.
+*Mindfire: *Feels like your brain is burning. Causes stupor.
 
-*Mummy Rot:* Spread by mummies. Successful saving throws do not allow the character to recover (though they do prevent damage normally).
+*Mummy Rot: *Spread by mummies. Successful saving throws do not allow the character to recover (though they do prevent damage normally).
 
-*Red Ache:* Skin turns red, bloated, and warm to the touch.
+*Red Ache: *Skin turns red, bloated, and warm to the touch.
 
-*The Shakes:* Causes involuntary twitches, tremors, and fits.
+*The Shakes: *Causes involuntary twitches, tremors, and fits.
 
-*Slimy Doom:* Victim turns into infectious goo from the inside out. Can cause permanent ability drain.
+*Slimy Doom: *Victim turns into infectious goo from the inside out. Can cause permanent ability drain.
 
-| Table: Diseases                                                                                                                |              |            |                  |     |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------|------------|------------------|-----|
-|                                                                                                                                |              |            |                  |     |
-| Disease                                                                                                                        | Infection DC | Incubation | Damage           |     |
-| Blinding sickness                                                                                                              | Ingested 16  | 1d3 days   | 1d4 Str^1^       |     |
-| Cackle fever                                                                                                                   | Inhaled 16   | 1 day      | 1d6 Wis          |     |
-| Demon fever                                                                                                                    | Injury 18    | 1 day      | 1d6 Con^2^       |     |
-| Devil chills^3^                                                                                                                | Injury 14    | 1d4 days   | 1d4 Str          |     |
-| Filth fever                                                                                                                    | Injury 12    | 1d3 days   | 1d3 Dex, 1d3 Con |     |
-| Mindfire                                                                                                                       | Inhaled 12   | 1 day      | 1d4 Int          |     |
-| Mummy rot^4^                                                                                                                   | Contact 20   | 1 day      | 1d6 Con          |     |
-| Red ache                                                                                                                       | Injury 15    | 1d3 days   | 1d6 Str          |     |
-| Shakes                                                                                                                         | Contact 13   | 1 day      | 1d8 Dex          |     |
-| Slimy doom                                                                                                                     | Contact 14   | 1 day      | 1d4 Con^2^       |     |
-|                                                                                                                                |              |            |                  |     |
-| 1 Each time the victim takes 2 or more damage from the disease, he must make another Fortitude save or be permanently blinded. |              |            |                  |     |
-| 2 When damaged, character must succeed on another saving throw or 1 point of damage is permanent drain instead.                |              |            |                  |     |
-| 3 The victim must make three successful Fortitude saving throws in a row to recover from devil chills.                         |              |            |                  |     |
-|                                                                                                                                |              |            |                  |     |
-| 4 Successful saves do not allow the character to recover. Only magical healing can save the character.                         |              |            |                  |     |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| **Table: Diseases**                                                                                                            |                 |               |                  |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+|                                                                                                                                |                 |               |                  |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| ## Disease                                                                                                                     | ## Infection DC | ## Incubation | ## Damage        |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| Blinding sickness                                                                                                              | Ingested 16     | 1d3 days      | 1d4 Str**^1^**   |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| Cackle fever                                                                                                                   | Inhaled 16      | 1 day         | 1d6 Wis          |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| *Demon fever*                                                                                                                  | Injury 18       | 1 day         | 1d6 Con**^2^**   |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| *Devil chills***^3^**                                                                                                          | Injury 14       | 1d4 days      | 1d4 Str          |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| Filth fever                                                                                                                    | Injury 12       | 1d3 days      | 1d3 Dex, 1d3 Con |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| Mindfire                                                                                                                       | Inhaled 12      | 1 day         | 1d4 Int          |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| *Mummy rot***^4^**                                                                                                             | Contact 20      | 1 day         | 1d6 Con          |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| Red ache                                                                                                                       | Injury 15       | 1d3 days      | 1d6 Str          |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| Shakes                                                                                                                         | Contact 13      | 1 day         | 1d8 Dex          |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| Slimy doom                                                                                                                     | Contact 14      | 1 day         | 1d4 Con**^2^**   |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+|                                                                                                                                |                 |               |                  |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| 1 Each time the victim takes 2 or more damage from the disease, he must make another Fortitude save or be permanently blinded. |                 |               |                  |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| 2 When damaged, character must succeed on another saving throw or 1 point of damage is permanent drain instead.                |                 |               |                  |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| 3 The victim must make three successful Fortitude saving throws in a row to recover from devil chills.                         |                 |               |                  |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+|                                                                                                                                |                 |               |                  |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+| 4 Successful saves do not allow the character to recover. Only magical healing can save the character.                         |                 |               |                  |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
+|                                                                                                                                |                 |               |                  |
++--------------------------------------------------------------------------------------------------------------------------------+-----------------+---------------+------------------+
 
 Healing a Disease
 
@@ -208,14 +276,17 @@ Use of the Heal skill can help a diseased character. Every time a diseased chara
 
 Characters recover points lost to ability score damage at a rate of 1 per day per ability damaged, and this rule applies even while a disease is in progress. That means that a character with a minor disease might be able to withstand it without accumulating any damage.
 
-### Energy Drain And Negative Levels
+ENERGY DRAIN AND NEGATIVE LEVELS
 
 Some horrible creatures, especially undead monsters, possess a fearsome supernatural ability to drain levels from those they strike in combat. The creature making an energy drain attack draws a portion of its victim's life force from her. Most energy drain attacks require a successful melee attack roll---mere physical contact is not enough. Each successful energy drain attack bestows one or more negative levels on the opponent. A creature takes the following penalties for each negative level it has gained.
 
-- -1 on all skill checks and ability checks.
-- -1 on attack rolls and saving throws.
-- -5 hit points.
-- -1 effective level (whenever the creature's level is used in a die roll or calculation, reduce it by one for each negative level).
+--1 on all skill checks and ability checks.
+
+--1 on attack rolls and saving throws.
+
+--5 hit points.
+
+--1 effective level (whenever the creature's level is used in a die roll or calculation, reduce it by one for each negative level).
 
 If the victim casts spells, she loses access to one spell as if she had cast her highest-level, currently available spell. (If she has more than one spell at her highest level, she chooses which she loses.) In addition, when she next prepares spells or regains spell slots, she gets one less spell slot at her highest spell level.
 
@@ -223,7 +294,7 @@ Negative levels remain for 24 hours or until removed with a spell, such as *rest
 
 A character with negative levels at least equal to her current level, or drained below 1st level, is instantly slain. Depending on the creature that killed her, she may rise the next night as a monster of that kind. If not, she rises as a wight. A creature gains 5 temporary hit points for each negative level it bestows (though not if the negative level is caused by a spell or similar effect).
 
-### Etherealness
+ETHEREALNESS
 
 Phase spiders and certain other creatures can exist on the Ethereal Plane. While on the Ethereal Plane, a creature is called ethereal. Unlike incorporeal creatures, ethereal creatures are not present on the Material Plane.
 
@@ -239,7 +310,7 @@ Ethereal creatures move in any direction (including up or down) at will. They do
 
 Ghosts have a power called manifestation that allows them to appear on the Material Plane as incorporeal creatures. Still, they are on the Ethereal Plane, and another ethereal creature can interact normally with a manifesting ghost. Ethereal creatures pass through and operate in water as easily as air. Ethereal creatures do not fall or take falling damage.
 
-### Evasion And Improved Evasion
+EVASION AND IMPROVED EVASION
 
 These extraordinary abilities allow the target of an area attack to leap or twist out of the way. Rogues and monks have evasion and improved evasion as class features, but certain other creatures have these abilities, too.
 
@@ -253,7 +324,7 @@ Rogues and monks cannot use evasion in medium or heavy armor. Some creatures wit
 
 Improved evasion is like evasion, except that even on a failed saving throw the character takes only half damage.
 
-### Fast Healing
+FAST HEALING
 
 A creature with fast healing has the extraordinary ability to regain hit points at an exceptional rate. Except for what is noted here, fast healing is like natural healing.
 
@@ -267,23 +338,23 @@ Fast healing does not restore hit points lost from starvation, thirst, or suffoc
 
 Fast healing does not increase the number of hit points regained when a creature polymorphs.
 
-### Fear
+FEAR
 
 Spells, magic items, and certain monsters can affect characters with fear. In most cases, the character makes a Will saving throw to resist this effect, and a failed roll means that the character is shaken, frightened, or panicked.
 
-**Shaken:** Characters who are shaken take a --2 penalty on attack rolls, saving throws, skill checks, and ability checks.
+**Shaken: **Characters who are shaken take a --2 penalty on attack rolls, saving throws, skill checks, and ability checks.
 
 **Frightened:** Characters who are frightened are shaken, and in addition they flee from the source of their fear as quickly as they can. They can choose the path of their flight. Other than that stipulation, once they are out of sight (or hearing) of the source of their fear, they can act as they want. However, if the duration of their fear continues, characters can be forced to flee once more if the source of their fear presents itself again. Characters unable to flee can fight (though they are still shaken).
 
-**Panicked:** Characters who are panicked are shaken, and they run away from the source of their fear as quickly as they can. Other than running away from the source, their path is random. They flee from all other dangers that confront them rather than facing those dangers. Panicked characters cower if they are prevented from fleeing.
+**Panicked: **Characters who are panicked are shaken, and they run away from the source of their fear as quickly as they can. Other than running away from the source, their path is random. They flee from all other dangers that confront them rather than facing those dangers. Panicked characters cower if they are prevented from fleeing.
 
 **Becoming Even More Fearful:** Fear effects are cumulative. A shaken character who is made shaken again becomes frightened, and a shaken character who is made frightened becomes panicked instead. A frightened character who is made shaken or frightened becomes panicked instead.
 
-### Fire Immunity
+FIRE IMMUNITY
 
 A creature with fire immunity never takes fire damage. It has vulnerability to cold, which means it takes half again as much (+50%) damage as normal from cold, regardless of whether a saving throw is allowed, or if the save is a success or failure.
 
-### Gaseous Form
+GASEOUS FORM
 
 Some creatures have the supernatural or spell-like ability to take the form of a cloud of vapor or gas.
 
@@ -297,7 +368,7 @@ Gaseous creatures can't enter water or other liquid. They are not ethereal or in
 
 Discerning a creature in gaseous form from natural mist requires a DC 15 Spot check. Creatures in gaseous form attempting to hide in an area with mist, smoke, or other gas gain a +20 bonus.
 
-### Gaze Attacks
+GAZE ATTACKS
 
 While the medusa's gaze is well known, gaze attacks can also charm, curse, or even kill. Gaze attacks not produced by a spell are supernatural.
 
@@ -319,7 +390,7 @@ Characters using darkvision in complete darkness are affected by a gaze attack n
 
 Unless specified otherwise, a creature with a gaze attack can control its gaze attack and "turn it off " when so desired.
 
-### Incorporeality
+INCORPOREALITY
 
 Spectres, wraiths, and a few other creatures lack physical bodies. Such creatures are insubstantial and can't be touched by nonmagical matter or energy. Likewise, they cannot manipulate objects or exert physical force on objects. However, incorporeal beings have a tangible presence that sometimes seems like a physical attack against a corporeal creature.
 
@@ -347,7 +418,7 @@ Incorporeal creatures have no weight and do not set off traps that are triggered
 
 Incorporeal creatures do not leave footprints, have no scent, and make no noise unless they manifest, and even then they only make noise intentionally.
 
-### Invisibility
+INVISIBILITY
 
 The ability to move about unseen is not foolproof. While they can't be seen, invisible creatures can be heard, smelled, or felt.
 
@@ -359,16 +430,20 @@ A creature can generally notice the presence of an active invisible creature wit
 
 A creature can use hearing to find an invisible creature. A character can make a Listen check for this purpose as a free action each round. A Listen check result at least equal to the invisible creature's Move Silently check result reveals its presence. (A creature with no ranks in Move Silently makes a Move Silently check as a Dexterity check to which an armor check penalty applies.) A successful check lets a character hear an invisible creature "over there somewhere." It's practically impossible to pinpoint the location of an invisible creature. A Listen check that beats the DC by 20 pinpoints the invisible creature's location.
 
-| Listen Check DCs to Detect Invisible Creatures |                                 |
-|------------------------------------------------|---------------------------------|
-| Invisible Creature Is...                       | DC                              |
-| In combat or speaking                          | 0                               |
-| Moving at half speed                           | Move Silently check result      |
-| Moving at full speed                           | Move Silently check result --4  |
-| Running or charging                            | Move Silently check result --20 |
-| Some distance away                             | +1 per 10 feet                  |
-| Behind an obstacle (door)                      | +5                              |
-| Behind an obstacle (stone wall)                | +15                             |
+  ---------------------------------------------------- ---------------------------------
+  **Listen Check DCs to Detect Invisible Creatures**   
+                                                       
+  **Invisible Creature Is . . . **                     **DC**
+  In combat or speaking                                0
+  Moving at half speed                                 Move Silently check result
+  Moving at full speed                                 Move Silently check result --4
+  Running or charging                                  Move Silently check result --20
+  Some distance away                                   +1 per 10 feet
+  Behind an obstacle (door)                            +5
+                                                       
+  Behind an obstacle (stone wall)                      +15
+                                                       
+  ---------------------------------------------------- ---------------------------------
 
 A creature can grope about to find an invisible creature. A character can make a touch attack with his hands or a weapon into two adjacent 5-foot squares using a standard action. If an invisible target is in the designated area, there is a 50% miss chance on the touch attack. If successful, the groping character deals no damage but has successfully pinpointed the invisible creature's current location. (If the invisible creature moves, its location, obviously, is once again unknown.)
 
@@ -400,19 +475,19 @@ Invisibility does not thwart *detect *spells.
 
 Since some creatures can detect or even see invisible creatures, it is helpful to be able to hide even when invisible.
 
-### Level Loss
+LEVEL LOSS
 
 A character who loses a level instantly loses one Hit Die. The character's base attack bonus, base saving throw bonuses, and special class abilities are now reduced to the new, lower level. Likewise, the character loses any ability score gain, skill ranks, and any feat associated with the level (if applicable). If the exact ability score or skill ranks increased from a level now lost is unknown (or the player has forgotten), lose 1 point from the highest ability score or ranks from the highest-ranked skills. If a familiar or companion creature has abilities tied to a character who has lost a level, the creature's abilities are adjusted to fit the character's new level.
 
 The victim's experience point total is immediately set to the midpoint of the previous level.
 
-### Low-Light Vision
+LOW-LIGHT VISION
 
 Characters with low-light vision have eyes that are so sensitive to light that they can see twice as far as normal in dim light. Low-light vision is color vision. A spellcaster with low-light vision can read a scroll as long as even the tiniest candle flame is next to her as a source of light.
 
 Characters with low-light vision can see outdoors on a moonlit night as well as they can during the day.
 
-### Paralysis
+PARALYSIS
 
 Some monsters and spells have the supernatural or spell-like ability to paralyze their victims, immobilizing them through magical means. (Paralysis from toxins is discussed in the Poison section below.)
 
@@ -420,7 +495,7 @@ A paralyzed character cannot move, speak, or take any physical action. He is roo
 
 A winged creature flying in the air at the time that it becomes paralyzed cannot flap its wings and falls. A swimmer can't swim and may drown.
 
-### Poison
+POISON
 
 When a character takes damage from an attack with a poisoned weapon, touches an item smeared with contact poison, consumes poisoned food or drink, or is otherwise poisoned, he must make a Fortitude saving throw. If he fails, he takes the poison's initial damage (usually ability damage). Even if he succeeds, he typically faces more damage 1 minute later, which he can also avoid with a successful Fortitude saving throw.
 
@@ -440,62 +515,97 @@ Poisons can be divided into four basic types according to the method by which th
 
 The characteristics of poisons are summarized on Table: Poisons. Terms on the table are defined below.
 
-*Type:* The poison's method of delivery (contact, ingested, inhaled, or via an injury) and the Fortitude save DC to avoid the poison's damage.
+*Type: *The poison's method of delivery (contact, ingested, inhaled, or via an injury) and the Fortitude save DC to avoid the poison's damage.
 
-*Initial Damage:* The damage the character takes immediately upon failing his saving throw against this poison. Ability damage is temporary unless marked with an asterisk (\*), in which case the loss is a permanent drain. Paralysis lasts for 2d6 minutes.
+*Initial Damage: *The damage the character takes immediately upon failing his saving throw against this poison. Ability damage is temporary unless marked with an asterisk (\*), in which case the loss is a permanent drain. Paralysis lasts for 2d6 minutes.
 
-*Secondary Damage:* The amount of damage the character takes 1 minute after exposure as a result of the poisoning, if he fails a second saving throw. Unconsciousness lasts for 1d3 hours. Ability damage marked with an asterisk is permanent drain instead of temporary damage.
+*Secondary Damage: *The amount of damage the character takes 1 minute after exposure as a result of the poisoning, if he fails a second saving throw. Unconsciousness lasts for 1d3 hours. Ability damage marked with an asterisk is permanent drain instead of temporary damage.
 
-*Price:* The cost of one dose (one vial) of the poison. It is not possible to use or apply poison in any quantity smaller than one dose. The purchase and possession of poison is always illegal, and even in big cities it can be obtained only from specialized, less than reputable sources.
+*Price: *The cost of one dose (one vial) of the poison. It is not possible to use or apply poison in any quantity smaller than one dose. The purchase and possession of poison is always illegal, and even in big cities it can be obtained only from specialized, less than reputable sources.
 
-#### Perils of Using Poison
+### Perils of Using Poison
 
 A character has a 5% chance of exposing himself to a poison whenever he applies it to a weapon or otherwise readies it for use. Additionally, a character who rolls a natural 1 on an attack roll with a poisoned weapon must make a DC 15 Reflex save or accidentally poison himself with the weapon.
 
-#### Poison Immunities
+### Poison Immunities
 
 Creatures with natural poison attacks are immune to their own poison. Nonliving creatures (constructs and undead) and creatures without metabolisms (such as elementals) are always immune to poison. Oozes, plants, and certain kinds of outsiders are also immune to poison, although conceivably special poisons could be concocted specifically to harm them.
 
-| Table: Poisons                           |                |                 |                               |          |
-|------------------------------------------|----------------|-----------------|-------------------------------|----------|
-| Poison                                   | Type           | Initial Damage  | Secondary Damage              | Price    |
-| Nitharit                                 | Contact DC 13  | 0               | 3d6 Con                       | 650 gp   |
-| Sassone leaf residue                     | Contact DC 16  | 2d12 hp         | 1d6 Con                       | 300 gp   |
-| Malyss root paste                        | Contact DC 16  | 1 Dex           | 2d4 Dex                       | 500 gp   |
-| Terinav root                             | Contact DC 16  | 1d6 Dex         | 2d6 Dex                       | 750 gp   |
-| Black lotus extract                      | Contact DC 20  | 3d6 Con         | 3d6 Con                       | 4,500 gp |
-| Dragon bile                              | Contact DC 26  | 3d6 Str         | 0                             | 1,500 gp |
-| Striped toadstool                        | Ingested DC 11 | 1 Wis           | 2d6 Wis + 1d4 Int             | 180 gp   |
-| Arsenic                                  | Ingested DC 13 | 1 Con           | 1d8 Con                       | 120 gp   |
-| Id moss                                  | Ingested DC 14 | 1d4 Int         | 2d6 Int                       | 125 gp   |
-| Oil of taggit                            | Ingested DC 15 | 0               | Unconsciousness               | 90 gp    |
-| Lich dust                                | Ingested DC 17 | 2d6 Str         | 1d6 Str                       | 250 gp   |
-| Dark reaver powder                       | Ingested DC 18 | 2d6 Con         | 1d6 Con + 1d6 Str             | 300 gp   |
-| Ungol dust                               | Inhaled DC 15  | 1 Cha           | 1d6 Cha + 1 Cha\*             | 1,000 gp |
-| Insanity mist                            | Inhaled DC 15  | 1d4 Wis         | 2d6 Wis                       | 1,500 gp |
-| Burnt othur fumes                        | Inhaled DC 18  | 1 Con\*         | 3d6 Con                       | 2,100 gp |
-| Black adder venom                        | Injury DC 11   | 1d6 Con         | 1d6 Con                       | 120 gp   |
-| Small centipede poison                   | Injury DC 11   | 1d2 Dex         | 1d2 Dex                       | 90 gp    |
-| Bloodroot                                | Injury DC 12   | 0               | 1d4 Con + 1d3 Wis             | 100 gp   |
-| Drow poison                              | Injury DC 13   | Unconsciousness | Unconsciousness for 2d4 hours | 75gp     |
-| Greenblood oil                           | Injury DC 13   | 1 Con           | 1d2 Con                       | 100 gp   |
-| Blue whinnis                             | Injury DC 14   | 1 Con           | Unconsciousness               | 120 gp   |
-| Medium spider venom                      | Injury DC 14   | 1d4 Str         | 1d4 Str                       | 150 gp   |
-| Shadow essence                           | Injury DC 17   | 1 Str\*         | 2d6 Str                       | 250 gp   |
-| Wyvern poison                            | Injury DC 17   | 2d6 Con         | 2d6 Con                       | 3,000 gp |
-| Large scorpion venom                     | Injury DC 18   | 1d6 Str         | 1d6 Str                       | 200 gp   |
-| Giant wasp poison                        | Injury DC 18   | 1d6 Dex         | 1d6 Dex                       | 210 gp   |
-| Deathblade                               | Injury DC 20   | 1d6 Con         | 2d6 Con                       | 1,800 gp |
-| Purple worm poison                       | Injury DC 24   | 1d6 Str         | 2d6 Str                       | 700 gp   |
-|                                          |                |                 |                               |          |
-| \*Permanent drain, not temporary damage. |                |                 |                               |          |
-|                                          |                |                 |                               |          |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| ## Table: Poisons                        |                |                    |                               |           |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+|                                          |                |                    |                               |           |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| **Poison**                               | **Type**       | **Initial Damage** | **Secondary Damage**          | **Price** |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Nitharit                                 | Contact DC 13  | 0                  | 3d6 Con                       | 650 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Sassone leaf residue                     | Contact DC 16  | 2d12 hp            | 1d6 Con                       | 300 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Malyss root paste                        | Contact DC 16  | 1 Dex              | 2d4 Dex                       | 500 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Terinav root                             | Contact DC 16  | 1d6 Dex            | 2d6 Dex                       | 750 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Black lotus extract                      | Contact DC 20  | 3d6 Con            | 3d6 Con                       | 4,500 gp  |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Dragon bile                              | Contact DC 26  | 3d6 Str            | 0                             | 1,500 gp  |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Striped toadstool                        | Ingested DC 11 | 1 Wis              | 2d6 Wis + 1d4 Int             | 180 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Arsenic                                  | Ingested DC 13 | 1 Con              | 1d8 Con                       | 120 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Id moss                                  | Ingested DC 14 | 1d4 Int            | 2d6 Int                       | 125 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Oil of taggit                            | Ingested DC 15 | 0                  | Unconsciousness               | 90 gp     |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Lich dust                                | Ingested DC 17 | 2d6 Str            | 1d6 Str                       | 250 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Dark reaver powder                       | Ingested DC 18 | 2d6 Con            | 1d6 Con + 1d6 Str             | 300 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Ungol dust                               | Inhaled DC 15  | 1 Cha              | 1d6 Cha + 1 Cha\*             | 1,000 gp  |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Insanity mist                            | Inhaled DC 15  | 1d4 Wis            | 2d6 Wis                       | 1,500 gp  |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Burnt othur fumes                        | Inhaled DC 18  | 1 Con\*            | 3d6 Con                       | 2,100 gp  |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Black adder venom                        | Injury DC 11   | 1d6 Con            | 1d6 Con                       | 120 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Small centipede poison                   | Injury DC 11   | 1d2 Dex            | 1d2 Dex                       | 90 gp     |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Bloodroot                                | Injury DC 12   | 0                  | 1d4 Con + 1d3 Wis             | 100 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Drow poison                              | Injury DC 13   | Unconsciousness    | Unconsciousness for 2d4 hours | 75gp      |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Greenblood oil                           | Injury DC 13   | 1 Con              | 1d2 Con                       | 100 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Blue whinnis                             | Injury DC 14   | 1 Con              | Unconsciousness               | 120 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Medium spider venom                      | Injury DC 14   | 1d4 Str            | 1d4 Str                       | 150 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Shadow essence                           | Injury DC 17   | 1 Str\*            | 2d6 Str                       | 250 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Wyvern poison                            | Injury DC 17   | 2d6 Con            | 2d6 Con                       | 3,000 gp  |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Large scorpion venom                     | Injury DC 18   | 1d6 Str            | 1d6 Str                       | 200 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Giant wasp poison                        | Injury DC 18   | 1d6 Dex            | 1d6 Dex                       | 210 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Deathblade                               | Injury DC 20   | 1d6 Con            | 2d6 Con                       | 1,800 gp  |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| Purple worm poison                       | Injury DC 24   | 1d6 Str            | 2d6 Str                       | 700 gp    |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+|                                          |                |                    |                               |           |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+| \*Permanent drain, not temporary damage. |                |                    |                               |           |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
+|                                          |                |                    |                               |           |
++------------------------------------------+----------------+--------------------+-------------------------------+-----------+
 
-### Polymorph
+POLYMORPH
 
 Magic can cause creatures and characters to change their shapes---sometimes against their will, but usually to gain an advantage. Polymorphed creatures retain their own minds but have new physical forms.
 
-The *polymorph* spell defines the general polymorph effect.
+The *polymorph *spell defines the general polymorph effect.
 
 Since creatures do not change types, a slaying or bane weapon designed to kill or harm creatures of a specific type affects those creatures even if they are polymorphed. Likewise, a creature polymorphed into the form of a creature of a different type is not subject to slaying and bane effects directed at that type of creature.
 
@@ -503,17 +613,17 @@ A ranger's favored enemy bonus is based on knowing what the foe is, so if a crea
 
 A dwarf 's bonus for fighting giants is based on shape and size, so he does not gain a bonus against a giant polymorphed into something else, but does gain the bonus against any creature polymorphed into a giant.
 
-### Psionics
+PSIONICS
 
 Telepathy, mental combat and psychic powers---psionics is a catchall word that describes special mental abilities possessed by various creatures. These are spell-like abilities that a creature generates from the power of its mind alone---no other outside magical force or ritual is needed. Each psionic creature's description contains details on its psionic abilities.
 
 Psionic attacks almost always allow Will saving throws to resist them. However, not all psionic attacks are mental attacks. Some psionic abilities allow the psionic creature to reshape its own body, heal its wounds, or teleport great distances. Some psionic creatures can see into the future, the past, and the present (in far-off locales) as well as read the minds of others.
 
-### Rays
+RAYS
 
 All ray attacks require the attacker to make a successful ranged touch attack against the target. Rays have varying ranges, which are simple maximums. A ray's attack roll never takes a range penalty. Even if a ray hits, it usually allows the target to make a saving throw (Fortitude or Will). Rays never allow a Reflex saving throw, but if a character's Dexterity bonus to AC is high, it might be hard to hit her with the ray in the first place.
 
-### Regeneration
+REGENERATION
 
 Creatures with this extraordinary ability recover from wounds quickly and can even regrow or reattach severed body parts. Damage dealt to the creature is treated as nonlethal damage, and the creature automatically cures itself of nonlethal damage at a fixed rate.
 
@@ -527,7 +637,7 @@ Attack forms that don't deal hit point damage ignore regeneration.
 
 An attack that can cause instant death only threatens the creature with death if it is delivered by weapons that deal it lethal damage.
 
-### Resistance To Energy
+RESISTANCE TO ENERGY
 
 A creature with resistance to energy has the ability (usually extraordinary) to ignore some damage of a certain type each round, but it does not have total immunity.
 
@@ -535,7 +645,7 @@ Each resistance ability is defined by what energy type it resists and how many p
 
 When resistance completely negates the damage from an energy attack, the attack does not disrupt a spell. This resistance does not stack with the resistance that a spell* *might provide.
 
-### Scent
+SCENT
 
 This extraordinary ability lets a creature detect approaching enemies, sniff out hidden foes, and track by sense of smell.
 
@@ -551,7 +661,7 @@ Water, particularly running water, ruins a trail for air-breathing creatures. Wa
 
 False, powerful odors can easily mask other scents. The presence of such an odor completely spoils the ability to properly detect or identify creatures, and the base Survival DC to track becomes 20 rather than 10.
 
-### Spell Resistance
+SPELL RESISTANCE
 
 Spell resistance is the extraordinary ability to avoid being affected by spells. (Some spells also grant spell resistance.)
 
@@ -567,7 +677,7 @@ A creature with spell resistance cannot impart this power to others by touching 
 
 Spell resistance does not stack. It overlaps.
 
-#### When Spell Resistance Applies
+### When Spell Resistance Applies
 
 Each spell includes an entry that indicates whether spell resistance applies to the spell. In general, whether spell resistance applies depends on what the spell does:
 
@@ -601,19 +711,19 @@ Abjurations that block or negate attacks are not subject to an attacker's spell 
 
 **Evocation:** If an evocation spell deals damage to the creature, it has a direct effect. If the spell damages something else, it has an indirect effect.
 
-**Illusion:** These spells are almost never subject to spell resistance. Illusions that entail a direct attack are exceptions.
+**Illusion: **These spells are almost never subject to spell resistance. Illusions that entail a direct attack are exceptions.
 
 **Necromancy:** Most of these spells alter the target creature's life force and are subject to spell resistance. Unusual necromancy spells that don't affect other creatures directly are not subject to spell resistance.
 
 **Transmutation:** These spells are subject to spell resistance if they transform the target creature. Transmutation spells are not subject to spell resistance if they are targeted on a point in space instead of on a creature. Some transmutations make objects harmful (or more harmful), such as *magic stone*. Even these spells are not generally subject to spell resistance because they affect the objects, not the creatures against which the objects are used. Spell resistance works against *magic stone *only if the creature with spell resistance is holding the stones when the cleric casts *magic stone *on them.
 
-#### Successful Spell Resistance
+### Successful Spell Resistance
 
 Spell resistance prevents a spell or a spell-like ability from affecting or harming the resistant creature, but it never removes a magical effect from another creature or negates a spell's effect on another creature. Spell resistance prevents a spell from disrupting another spell.
 
 Against an ongoing spell that has already been cast, a failed check against spell resistance allows the resistant creature to ignore any effect the spell might have. The magic continues to affect others normally.
 
-### Tremorsense
+TREMORSENSE
 
 A creature with tremorsense automatically senses the location of anything that is in contact with the ground and within range.
 
@@ -621,7 +731,7 @@ If no straight path exists through the ground from the creature to those that it
 
 As long as the other creatures are taking physical actions, including casting spells with somatic components, they're considered moving; they don't have to move from place to place for a creature with tremorsense to detect them.
 
-### Turn Resistance
+TURN RESISTANCE
 
 Some creatures (usually undead) are less easily affected by the turning ability of clerics or paladins.
 
@@ -629,7 +739,7 @@ Turn resistance is an extraordinary ability.
 
 When resolving a turn, rebuke, command, or bolster attempt, added the appropriate bonus to the creature's Hit Dice total.
 
-## Conditions
+CONDITIONS
 
 If more than one condition affects a character, apply them all. If certain effects can't combine, apply the most severe effect.
 
@@ -643,19 +753,23 @@ If more than one condition affects a character, apply them all. If certain effec
 
 **Checked:** Prevented from achieving forward motion by an applied force, such as wind. Checked creatures on the ground merely stop. Checked flying creatures move back a distance specified in the description of the effect.
 
-**Confused:** A confused character's actions are determined by rolling d% at the beginning of his turn: 01--10, attack caster with melee or ranged weapons (or close with caster if attacking is not possible); 11--20, act normally; 21--50, do nothing but babble incoherently; 51--70, flee away from caster at top possible speed; 71--100, attack nearest creature (for this purpose, a familiar counts as part of the subject's self ). A *confused *character who can't carry out the indicated action does nothing but babble incoherently. Attackers are not at any special advantage when attacking a *confused *character. Any *confused *character who is attacked automatically attacks its attackers on its next turn, as long as it is still *confused *when its turn comes. A *confused *character does not make attacks of opportunity against any creature that it is not already devoted to attacking (either because of its most recent action or because it has just been attacked).
+***Confused:**** *A *confused *character's actions are determined by rolling d% at the beginning of his turn: 01--10, attack caster with melee or ranged weapons (or close with caster if attacking is not possible); 11--20, act normally; 21--50, do nothing but babble incoherently; 51--70, flee away from caster at top possible speed; 71--100, attack nearest creature (for this purpose, a familiar counts as part of the subject's self ). A *confused *character who can't carry out the indicated action does nothing but babble incoherently. Attackers are not at any special advantage when attacking a *confused *character. Any *confused *character who is attacked automatically attacks its attackers on its next turn, as long as it is still *confused *when its turn comes. A *confused *character does not make attacks of opportunity against any creature that it is not already devoted to attacking (either because of its most recent action or because it has just been attacked).
 
-**Cowering:** The character is frozen in fear and can take no actions. A cowering character takes a --2 penalty to Armor Class and loses her Dexterity bonus (if any).
+**Cowering: **The character is frozen in fear and can take no actions. A cowering character takes a --2 penalty to Armor Class and loses her Dexterity bonus (if any).
 
-**Dazed:** The creature is unable to act normally. A dazed creature can take no actions, but has no penalty to AC. A dazed condition typically lasts 1 round.
+**Dazed:** The creature is unable to act normally. A dazed creature can take no actions, but has no penalty to AC.
+
+A dazed condition typically lasts 1 round.
 
 **Dazzled:** The creature is unable to see well because of overstimulation of the eyes. A dazzled creature takes a --1 penalty on attack rolls, Search checks, and Spot checks.
 
-**Dead:** The character's hit points are reduced to --10, his Constitution drops to 0, or he is killed outright by a spell or effect. The character's soul leaves his body. Dead characters cannot benefit from normal or magical healing, but they can be restored to life via magic. A dead body decays normally unless magically preserved, but magic that restores a dead character to life also restores the body either to full health or to its condition at the time of death (depending on the spell or device). Either way, resurrected characters need not worry about rigor mortis, decomposition, and other conditions that affect dead bodies.
+**Dead: **The character's hit points are reduced to --10, his Constitution drops to 0, or he is killed outright by a spell or effect. The character's soul leaves his body. Dead characters cannot benefit from normal or magical healing, but they can be restored to life via magic. A dead body decays normally unless magically preserved, but magic that restores a dead character to life also restores the body either to full health or to its condition at the time of death (depending on the spell or device). Either way, resurrected characters need not worry about rigor mortis, decomposition, and other conditions that affect dead bodies.
 
 **Deafened:** A deafened character cannot hear. She takes a --4 penalty on initiative checks, automatically fails Listen checks, and has a 20% chance of spell failure when casting spells with verbal components. Characters who remain deafened for a long time grow accustomed to these drawbacks and can overcome some of them.
 
-**Disabled:** A character with 0 hit points, or one who has negative hit points but has become stable and conscious, is disabled. A disabled character may take a single move action or standard action each round (but not both, nor can she take full-round actions). She moves at half speed. Taking move actions doesn't risk further injury, but performing any standard action (or any other action the DM deems strenuous, including some free actions such as casting a quickened spell) deals 1 point of damage after the completion of the act. Unless the action increased the disabled character's hit points, she is now in negative hit points and dying. A disabled character with negative hit points recovers hit points naturally if she is being helped. Otherwise, each day she has a 10% chance to start recovering hit points naturally (starting with that day); otherwise, she loses 1 hit point. Once an unaided character starts recovering hit points naturally, she is no longer in danger of losing hit points (even if her current hit points are negative).
+**Disabled:** A character with 0 hit points, or one who has negative hit points but has become stable and conscious, is disabled. A disabled character may take a single move action or standard action each round (but not both, nor can she take full-round actions). She moves at half speed. Taking move actions doesn't risk further injury, but performing any standard action (or any other action the DM deems strenuous, including some free actions such as casting a quickened spell) deals 1 point of damage after the completion of the act. Unless the action increased the disabled character's hit points, she is now in negative hit points and dying.
+
+A disabled character with negative hit points recovers hit points naturally if she is being helped. Otherwise, each day she has a 10% chance to start recovering hit points naturally (starting with that day); otherwise, she loses 1 hit point. Once an unaided character starts recovering hit points naturally, she is no longer in danger of losing hit points (even if her current hit points are negative).
 
 **Dying:** A dying character is unconscious and near death. She has --1 to --9 current hit points. A dying character can take no actions and is unconscious. At the end of each round (starting with the round in which the character dropped below 0 hit points), the character rolls d% to see whether she becomes stable. She has a 10% chance to become stable. If she does not, she loses 1 hit point. If a dying character reaches --10 hit points, she is dead.
 
@@ -665,17 +779,25 @@ If more than one condition affects a character, apply them all. If certain effec
 
 **Exhausted:** An exhausted character moves at half speed and takes a --6 penalty to Strength and Dexterity. After 1 hour of complete rest, an exhausted character becomes fatigued. A fatigued character becomes exhausted by doing something else that would normally cause fatigue.
 
-**Fascinated:** A fascinated creature is entranced by a supernatural or spell effect. The creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. It takes a --4 penalty on skill checks made as reactions, such as Listen and Spot checks. Any potential threat, such as a hostile creature approaching, allows the fascinated creature a new saving throw against the fascinating effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature's ally may shake it free of the spell as a standard action.
+**Fascinated: **A fascinated creature is entranced by a supernatural or spell effect. The creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. It takes a --4 penalty on skill checks made as reactions, such as Listen and Spot checks. Any potential threat, such as a hostile creature approaching, allows the fascinated creature a new saving throw against the fascinating effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature's ally may shake it free of the spell as a standard action.
 
 **Fatigued:** A fatigued character can neither run nor charge and takes a --2 penalty to Strength and Dexterity. Doing anything that would normally cause fatigue causes the fatigued character to become exhausted. After 8 hours of complete rest, fatigued characters are no longer fatigued.
 
 **Flat-Footed:** A character who has not yet acted during a combat is flat-footed, not yet reacting normally to the situation. A flat-footed character loses his Dexterity bonus to AC (if any) and cannot make attacks of opportunity.
 
-**Frightened:** A frightened creature flees from the source of its fear as best it can. If unable to flee, it may fight. A frightened creature takes a --2 penalty on all attack rolls, saving throws, skill checks, and ability checks. A frightened creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape. Frightened is like shaken, except that the creature must flee if possible. Panicked is a more extreme state of fear.
+**Frightened:** A frightened creature flees from the source of its fear as best it can. If unable to flee, it may fight. A frightened creature takes a --2 penalty on all attack rolls, saving throws, skill checks, and ability checks. A frightened creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.
+
+Frightened is like shaken, except that the creature must flee if possible. Panicked is a more extreme state of fear.
 
 **Grappling:** Engaged in wrestling or some other form of hand-to-hand struggle with one or more attackers. A grappling character can undertake only a limited number of actions. He does not threaten any squares, and loses his Dexterity bonus to AC (if any) against opponents he isn't grappling.
 
-**Helpless:** A helpless character is paralyzed, *held*, bound, sleeping, unconscious, or otherwise completely at an opponent's mercy. A helpless target is treated as having a Dexterity of 0 (--5 modifier). Melee attacks against a helpless target get a +4 bonus (equivalent to attacking a prone target). Ranged attacks gets no special bonus against helpless targets. Rogues can sneak attack helpless targets. As a full-round action, an enemy can use a melee weapon to deliver a coup de grace to a helpless foe. An enemy can also use a bow or crossbow, provided he is adjacent to the target. The attacker automatically hits and scores a critical hit. (A rogue also gets her sneak attack damage bonus against a helpless foe when delivering a coup de grace.) If the defender survives, he must make a Fortitude save (DC 10 + damage dealt) or die. Delivering a coup de grace provokes attacks of opportunity. Creatures that are immune to critical hits do not take critical damage, nor do they need to make Fortitude saves to avoid being killed by a coup de grace.
+**Helpless:** A helpless character is paralyzed, *held*, bound, sleeping, unconscious, or otherwise completely at an opponent's mercy. A helpless target is treated as having a Dexterity of 0 (--5 modifier). Melee attacks against a helpless target get a +4 bonus (equivalent to attacking a prone target). Ranged attacks gets no special bonus against helpless targets. Rogues can sneak attack helpless targets.
+
+As a full-round action, an enemy can use a melee weapon to deliver a coup de grace to a helpless foe. An enemy can also use a bow or crossbow, provided he is adjacent to the target. The attacker automatically hits and scores a critical hit. (A rogue also gets her sneak attack damage bonus against a helpless foe when delivering a coup de grace.) If the defender survives, he must make a Fortitude save (DC 10 + damage dealt) or die.
+
+Delivering a coup de grace provokes attacks of opportunity.
+
+Creatures that are immune to critical hits do not take critical damage, nor do they need to make Fortitude saves to avoid being killed by a coup de grace.
 
 **Incorporeal: **Having no physical body. Incorporeal creatures are immune to all nonmagical attack forms. They can be harmed only by other incorporeal creatures, +1 or better magic weapons, spells, spell-like effects, or supernatural effects.
 
@@ -685,7 +807,9 @@ If more than one condition affects a character, apply them all. If certain effec
 
 **Nauseated:** Experiencing stomach distress. Nauseated creatures are unable to attack, cast spells, concentrate on spells, or do anything else requiring attention. The only action such a character can take is a single move action per turn.
 
-**Panicked: **A panicked creature must drop anything it holds and flee at top speed from the source of its fear, as well as any other dangers it encounters, along a random path. It can't take any other actions. In addition, the creature takes a --2 penalty on all saving throws, skill checks, and ability checks. If cornered, a panicked creature cowers and does not attack, typically using the total defense action in combat. A panicked creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape. Panicked is a more extreme state of fear than shaken or frightened.
+**Panicked: **A panicked creature must drop anything it holds and flee at top speed from the source of its fear, as well as any other dangers it encounters, along a random path. It can't take any other actions. In addition, the creature takes a --2 penalty on all saving throws, skill checks, and ability checks. If cornered, a panicked creature cowers and does not attack, typically using the total defense action in combat. A panicked creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.
+
+Panicked is a more extreme state of fear than shaken or frightened.
 
 **Paralyzed:** A paralyzed character is frozen in place and unable to move or act. A paralyzed character has effective Dexterity and Strength scores of 0 and is helpless, but can take purely mental actions. A winged creature flying in the air at the time that it becomes paralyzed cannot flap its wings and falls. A paralyzed swimmer can't swim and may drown. A creature can move through a space occupied by a paralyzed creature---ally or not. Each square occupied by a paralyzed creature, however, counts as 2 squares.
 
@@ -693,18 +817,26 @@ If more than one condition affects a character, apply them all. If certain effec
 
 **Pinned:** Held immobile (but not helpless) in a grapple.
 
-**Prone:** The character is on the ground. An attacker who is prone has a --4 penalty on melee attack rolls and cannot use a ranged weapon (except for a crossbow). A defender who is prone gains a +4 bonus to Armor Class against ranged attacks, but takes a --4 penalty to AC against melee attacks. Standing up is a move-equivalent action that provokes an attack of opportunity.
+**Prone:** The character is on the ground. An attacker who is prone has a --4 penalty on melee attack rolls and cannot use a ranged weapon (except for a crossbow). A defender who is prone gains a +4 bonus to Armor Class against ranged attacks, but takes a --4 penalty to AC against melee attacks.
 
-**Shaken: **A shaken character takes a --2 penalty on attack rolls, saving throws, skill checks, and ability checks. Shaken is a less severe state of fear than frightened or panicked.
+Standing up is a move-equivalent action that provokes an attack of opportunity.
+
+**Shaken: **A shaken character takes a --2 penalty on attack rolls, saving throws, skill checks, and ability checks.
+
+Shaken is a less severe state of fear than frightened or panicked.
 
 **Sickened:** The character takes a --2 penalty on all attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks.
 
-**Stable:** A character who was dying but who has stopped losing hit points and still has negative hit points is stable. The character is no longer dying, but is still unconscious. If the character has become stable because of aid from another character (such as a Heal check or magical healing), then the character no longer loses hit points. He has a 10% chance each hour of becoming conscious and disabled (even though his hit points are still negative). If the character became stable on his own and hasn't had help, he is still at risk of losing hit points. Each hour, he has a 10% chance of becoming conscious and disabled. Otherwise he loses 1 hit point.
+**Stable:** A character who was dying but who has stopped losing hit points and still has negative hit points is stable. The character is no longer dying, but is still unconscious. If the character has become stable because of aid from another character (such as a Heal check or magical healing), then the character no longer loses hit points. He has a 10% chance each hour of becoming conscious and disabled (even though his hit points are still negative).
 
-**Staggered:** A character whose nonlethal damage exactly equals his current hit points is staggered. A staggered character may take a single move action or standard action each round (but not both, nor can she take full-round actions). A character whose current hit points exceed his nonlethal damage is no longer staggered; a character whose nonlethal damage exceeds his hit points becomes unconscious.
+If the character became stable on his own and hasn't had help, he is still at risk of losing hit points. Each hour, he has a 10% chance of becoming conscious and disabled. Otherwise he loses 1 hit point.
 
-**Stunned:** A stunned creature drops everything held, can't take actions, takes a --2 penalty to AC, and loses his Dexterity bonus to AC (if any).
+**Staggered:** A character whose nonlethal damage exactly equals his current hit points is staggered. A staggered character may take a single move action or standard action each round (but not both, nor can she take full-round actions).
+
+A character whose current hit points exceed his nonlethal damage is no longer staggered; a character whose nonlethal damage exceeds his hit points becomes unconscious.
+
+**Stunned: **A stunned creature drops everything held, can't take actions, takes a --2 penalty to AC, and loses his Dexterity bonus to AC (if any).
 
 **Turned:** Affected by a turn undead attempt. Turned undead flee for 10 rounds (1 minute) by the best and fastest means available to them. If they cannot flee, they cower.
 
-**Unconscious:** Knocked out and helpless. Unconsciousness can result from having current hit points between --1 and --9, or from nonlethal damage in excess of current hit points.
+**Unconscious: **Knocked out and helpless. Unconsciousness can result from having current hit points between --1 and --9, or from nonlethal damage in excess of current hit points.

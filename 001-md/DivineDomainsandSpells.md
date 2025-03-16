@@ -1,120 +1,176 @@
-*This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.*
+### This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
-# Domains And Spells
+### DOMAINS AND SPELLS
 
-## Artifice Domain
+#### ARTIFICE DOMAIN
 
-**Granted Power:** Gain +4 bonus on Craft checks. The character casts conjuration (creation) spells at +1 caster level. (Those with access to both the Artifice and Creation domains cast conjuration [creation] spells at +3 caster level.)
+**Granted Power:** Gain +4 bonus on Craft checks. The character casts conjuration (creation) spells at +1 caster level. (Those with access to both the Artifice and Creation domains cast conjuration \[creation\] spells at +3 caster level.)
 
 **Artifice Domain Spells**
 
-1. Animate Rope
-2. Wood shape
-3. Stone shape
-4. Minor creation
-5. Fabricate
-6. Major creation
-7. Hardening
-8. True creation
-9. Prismatic sphere
+##### 1 Animate rope
 
-## Charm Domain
+**2 Wood shape**
+
+**3 Stone shape**
+
+**4 Minor creation**
+
+**5 Fabricate**
+
+**6 Major creation**
+
+**7 Hardening**
+
+**8 True creation**
+
+**9 Prismatic sphere**
+
+#### CHARM DOMAIN
 
 **Granted Power:** The character can boost his or her Charisma by 4 points once per day. Activating this power is a free action. The Charisma increase lasts 1 minute.
 
 **Charm Domain Spells**
 
-1. Charm person
-2. Calm emotions
-3. Suggestion
-4. Emotion
-5. Charm monster
-6. Geas/quest
-7. Insanity
-8. Demand
-9. Dominate monster
+**1 Charm person**
 
-## Community Domain
+**2 Calm emotions**
+
+**3 Suggestion**
+
+**4 Emotion**
+
+**5 Charm monster**
+
+**6 Geas/quest**
+
+**7 Insanity**
+
+**8 Demand**
+
+**9 Dominate monster**
+
+#### COMMUNITY DOMAIN
 
 **Granted Power:** Use *calm emotions *as a spell-like ability once per day. Gain a +2 competence bonus on Diplomacy checks.
 
 **Community Domain Spells**
 
-1. Bless
-2. Shield other
-3. Prayer
-4. Status
-5. Telepathic bond
-6. Heroes' feast
-7. Refuge
-8. Mass heal
-9. Miracle
+**1 Bless**
 
-## Creation Domain
+**2 Shield other**
+
+**3 Prayer**
+
+**4 Status**
+
+**5 Telepathic bond**
+
+**6 Heroes' feast**
+
+**7 Refuge**
+
+**8 Mass heal**
+
+**9 Miracle**
+
+#### CREATION DOMAIN
 
 **Granted Power:** Cast conjuration (creation) spells at +2 caster level. (Those with access to both the Artifice and Creation domains cast conjuration (creation) spells at +3 caster level.)
 
 **Creation Domain Spells**
 
-1. Create water
-2. Minor image
-3. Create food and water
-4. Minor creation
-5. Major creation
-6. Heroes' feast
-7. Permanent image
-8. True creation
-9. Genesis
+**1 Create water**
 
-## Darkness Domain
+**2 Minor image**
+
+**3 Create food and water**
+
+**4 Minor creation**
+
+**5 Major creation**
+
+**6 Heroes' feast**
+
+**7 Permanent image**
+
+**8 True creation**
+
+**9 Genesis**
+
+#### DARKNESS DOMAIN
 
 **Granted Power:** Free Blind-Fight feat.
 
 **Darkness Domain Spells**
 
-1. Obscuring mist
-2. Blindness
-3. Blacklight
-4. Armor of darkness
-5. Summon monster V (only summons 1d3 shadows)
-6. Prying eyes
-7. Nightmare
-8. Power word, blind
-9. Power word, kill
+**1 Obscuring mist**
 
-## Glory Domain
+**2 Blindness**
+
+**3 Blacklight**
+
+**4 Armor of darkness**
+
+**5 Summon monster V (only summons 1d3 shadows)**
+
+**6 Prying eyes**
+
+**7 Nightmare**
+
+**8 Power word, blind**
+
+**9 Power word, kill**
+
+#### GLORY DOMAIN
 
 **Granted Power:** Turn undead with a +2 bonus on the turning check and +1d6 to the turning damage roll.
 
 **Glory Domain Spells**
 
-1. Disrupt undead
-2. Bless weapon
-3. Searing light
-4. Holy smite
-5. Holy sword
-6. Bolt of glory
-7. Sunbeam
-8. Crown of glory
-9. Gate
+**1 Disrupt undead**
 
-## Liberation Domain
+**2 Bless weapon**
+
+**3 Searing light**
+
+**4 Holy smite**
+
+**5 Holy sword**
+
+**6 Bolt of glory**
+
+**7 Sunbeam**
+
+**8 Crown of glory**
+
+**9 Gate**
+
+#### LIBERATION DOMAIN
 
 **Granted Power:** The character gains a +2 morale bonus on all saving throws against enchantment spells or effects.
 
 **Liberation Domain Spells**
 
-1. Remove fear
-2. Remove paralysis
-3. Remove curse
-4. Freedom of movement
-5. Break enchantment
-6. Greater dispelling
-7. Refuge
-8. Mind blank
-9. Unbinding
+**1 Remove fear**
 
-## Madness Domain
+**2 Remove paralysis**
+
+**3 Remove curse**
+
+**4 Freedom of movement**
+
+**5 Break enchantment**
+
+**6 Greater dispelling**
+
+**7 Refuge**
+
+**8 Mind blank**
+
+**9 Unbinding**
+
+#### MADNESS DOMAIN
 
 **Granted Power:** The character gains an Insanity score equal to half his or her class level. For spellcasting (determining bonus spells and DCs), the character uses his or her Wisdom score plus his or her Insanity score in place of Wisdom alone.
 
@@ -124,33 +180,49 @@ Once per day, the character can see and act with the clarity of true madness. Us
 
 **Madness Domain Spells**
 
-1. Random action
-2. Touch of madness
-3. Rage
-4. Confusion
-5. Bolts of bedevilment
-6. Phantasmal killer
-7. Insanity
-8. Maddening scream
-9. Weird
+**1 Random action**
 
-## Nobility Domain
+**2 Touch of madness**
+
+**3 Rage**
+
+**4 Confusion**
+
+**5 Bolts of bedevilment**
+
+**6 Phantasmal killer**
+
+**7 Insanity**
+
+**8 Maddening scream**
+
+**9 Weird**
+
+#### NOBILITY DOMAIN
 
 **Granted Power:** The character has the spell-like ability to inspire allies, giving them a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds equal to the character's Charisma bonus and can be used once per day.
 
 **Nobility Domain Spells**
 
-1. Divine favor
-2. Enthrall
-3. Magic vestment
-4. Discern lies
-5. Greater command
-6. Geas/quest
-7. Repulsion
-8. Demand
-9. Storm of vengeance
+**1 Divine favor**
 
-## Repose Domain
+**2 Enthrall**
+
+**3 Magic vestment**
+
+**4 Discern lies**
+
+**5 Greater command**
+
+**6 Geas/quest**
+
+**7 Repulsion**
+
+**8 Demand**
+
+**9 Storm of vengeance**
+
+#### REPOSE DOMAIN
 
 The Repose domain is similar to the Death domain,* *but is granted by good-aligned deities whose clerics are barred from casting evil spells.
 
@@ -160,33 +232,49 @@ points, it dies.
 
 **Repose Domain Spells**
 
-1. Deathwatch
-2. Gentle repose
-3. Speak with dead
-4. Death ward
-5. Slay living
-6. Undeath to death
-7. Destruction
-8. Surelife
-9. Wail of the banshee
+**1 Deathwatch**
 
-## Rune Domain
+**2 Gentle repose**
+
+**3 Speak with dead**
+
+**4 Death ward**
+
+**5 Slay living**
+
+**6 Undeath to death**
+
+**7 Destruction**
+
+**8 Surelife**
+
+**9 Wail of the banshee**
+
+#### RUNE DOMAIN
 
 **Granted Power:** Free Scribe Scroll feat.
 
 **Rune Domain Spells**
 
-1. *Erase*
-2. *Secret page*
-3. *Glyph of warding*
-4. *Explosive runes*
-5. *Lesser planar binding*
-6. *Greater glyph of warding*
-7. *Instant summons*
-8. *Symbol*
-9. *Teleportation circle*
+**1 *Erase***
 
-## Scalykind Domain
+**2 *Secret page***
+
+**3 *Glyph of warding***
+
+**4 *Explosive runes***
+
+**5 *Lesser planar binding***
+
+**6 *Greater glyph of warding***
+
+**7 *Instant summons***
+
+**8 *Symbol***
+
+**9 *Teleportation circle***
+
+#### SCALYKIND DOMAIN
 
 **Granted Power:** Rebuke or command animals (reptilian creatures and snakes only) as an evil cleric rebukes or commands undead.
 
@@ -194,39 +282,55 @@ Use this ability a total number of times per day equal to 3 + Charisma modifier.
 
 **Scalykind Domain Spells**
 
-1. Magic fang
-2. Animal trance†
-3. Greater magic fang
-4. Poison
-5. Animal growth†
-6. Eyebite
-7. Creeping doom (composed of tiny snakes)
-8. Animal shapes†
-9. Shapechange
+**1 Magic fang**
+
+**2 Animal trance†**
+
+**3 Greater magic fang**
+
+**4 Poison**
+
+**5 Animal growth†**
+
+**6 Eyebite**
+
+**7 Creeping doom (composed of tiny snakes)**
+
+**8 Animal shapes†**
+
+**9 Shapechange**
 
 **†Affects ophidian or reptilian creatures only.**
 
-## Weather Domain
+#### WEATHER DOMAIN
 
 **Granted Power:** Survival is a class skill.
 
 **Weather Domain Spells**
 
-1. Obscuring mist
-2. Fog cloud
-3. Call lightning
-4. Sleet storm
-5. Ice storm
-6. Control winds
-7. Control weather
-8. Whirlwind
-9. Storm of vengeance
+**1 Obscuring mist**
+
+**2 Fog cloud**
+
+**3 Call lightning**
+
+**4 Sleet storm**
+
+**5 Ice storm**
+
+**6 Control winds**
+
+**7 Control weather**
+
+**8 Whirlwind**
+
+**9 Storm of vengeance**
 
 NEW SPELLS
 
-## Armor Of Darkness
+#### Armor Of Darkness
 
-Abjuration [Darkness]
+Abjuration \[Darkness\]
 
 **Level:** Darkness 4
 
@@ -246,9 +350,9 @@ Abjuration [Darkness]
 
 The spell envelops the warded creature in a shroud of shadows. The shroud can, if the caster desires, conceal the wearer's features. In any case, it grants the recipient a +3 deflection bonus to Armor Class plus an additional +1 for every four caster levels (maximum bonus +8). The subject can see through the armor as if it did not exist and is also afforded darkvision with a range of 60 feet. Finally, the subject gains a +2 bonus on saving throws against any holy, good, or light spells or effects.Undead creatures that are subjects of *armor of darkness *also gain +4 turn resistance.
 
-## Blacklight
+#### Blacklight
 
-Evocation [Darkness]
+Evocation \[Darkness\]
 
 **Level: **Darkness 3, Sor/Wiz 3
 
@@ -272,9 +376,9 @@ The spell can be cast on a point in space, but the effect is stationary cast on 
 
 *Blacklight *counters or dispels any light spell of equal or lower level. The 3rd-level cleric spell *daylight *counters or dispels *blackligh*t.
 
-## Bolt Of Glory
+#### Bolt Of Glory
 
-Evocation [Good]
+Evocation \[Good\]
 
 **Level:** Glory 6
 
@@ -294,15 +398,19 @@ Evocation [Good]
 
 This spell projects a bolt of energy from the Positive Energy Plane against one creature. The caster must succeed at a ranged touch attack to strike the target. A creature struck suffers varying damage, depending on its nature and home plane of existence:
 
-| Creature's Origin/Nature                              | Damage       | Maximum Value |
-|-------------------------------------------------------|--------------|---------------|
-| Material Plane, Elemental Plane, neutral outsider     | 1d6/2 levels | 7d6           |
-| Negative Energy Plane, evil outsider, undead creature | 1d6/level    | 15d6          |
-| Positive Energy Plane, good outsider                  | \-           | \-            |
+  ------------------------------------------------------- -------------- -------------------
+  **Creature's Origin/Nature**                            **Damage**     **Maximum Value**
+                                                                         
+  Material Plane, Elemental Plane, neutral outsider       1d6/2 levels   7d6
+  Negative Energy Plane, evil outsider, undead creature   1d6/level      15d6
+                                                                         
+  Positive Energy Plane, good outsider                    ---            ---
+                                                                         
+  ------------------------------------------------------- -------------- -------------------
 
-## Bolts Of Bedevilment
+#### Bolts Of Bedevilment
 
-Enchantment [Mind-Affecting]
+Enchantment \[Mind-Affecting\]
 
 **Level:** Madness 5
 
@@ -322,7 +430,7 @@ Enchantment [Mind-Affecting]
 
 This spell grants the caster the ability to make one ray attack per round. The ray dazes one living creature, clouding its mind so that it takes no action for 1d3 rounds. The creature is not stunned (so attackers get no special advantage against it), but it can't move, cast spells, use mental abilities, and so on.
 
-## Crown Of Glory
+#### Crown Of Glory
 
 Evocation
 
@@ -350,7 +458,7 @@ When the caster speaks, all listeners telepathically understand him or her, even
 
 *Material Component: *worth at least 200 gp.
 
-## Genesis
+#### Genesis
 
 Conjuration (Creation)
 
@@ -382,7 +490,7 @@ If the spell is cast again while outside an existing demi-plane, the casting cre
 
 *XP Cost: *5,000 XP.
 
-## Hardening
+#### Hardening
 
 Transmutation
 
@@ -412,9 +520,9 @@ This spell affects up to 10 cubic feet per level of the spellcaster.
 
 If cast upon a metal or mineral, the volume is reduced to 1 cubic foot per level.
 
-## Maddening Scream
+#### Maddening Scream
 
-Enchantment (Compulsion) [Mind-Affecting]
+Enchantment (Compulsion) \[Mind-Affecting\]
 
 **Level:** Sor/Wiz 8, Madness 8
 
@@ -436,7 +544,7 @@ The subject cannot keep him or herself from behaving as though completely mad. T
 
 The effect worsens the Armor Class of the creature by 4, makes Reflex saving throws impossible except on a roll of 20, and makes it impossible to use a shield.
 
-## Rage
+#### Rage
 
 Enchantment
 
@@ -458,7 +566,7 @@ Enchantment
 
 The caster can put a creature into a blood frenzy. In this rage, the creature gains +4 to Strength, +4 to Constitution, and a +2 morale bonus on Will saves. (Unlike a barbarian rage, no penalty to AC is suffered, and no fatigue period occurs after the rage is over.)
 
-## Surelife
+#### Surelife
 
 Abjuration
 
@@ -476,9 +584,9 @@ Abjuration
 
 This spell allows the caster to protect him or herself against some condition that would ordinarily cause certain death. The character can only protect him or herself against a natural occurrence or condition, not against a spell or the action of a creature. The character must specify the condition against which he or she wishes to protect him or herself, and the spell is effective only against that condition. Should the character be subjected to that condition during the duration of the spell, he or she feels no discomfort and takes no damage from the condition. However, the spell does not protect any items carried on the caster's person. At the end of the spell's duration, the condition has full normal effects if the character is still subjected to it.
 
-## Touch Of Madness
+#### Touch Of Madness
 
-Enchantment [Mind-Affecting]
+Enchantment \[Mind-Affecting\]
 
 **Level:** Madness 2
 
@@ -498,7 +606,7 @@ Enchantment [Mind-Affecting]
 
 The caster may daze one living creature by making a successful touch attack. If the target creature does not make a successful Will save, its mind is clouded and it takes no action for 1 round per caster level. The dazed subject is not stunned (so attackers get no special advantage against it), but it can't move, cast spells, use mental abilities, and so on.
 
-## True Creation
+#### True Creation
 
 Conjuration (Creation)
 
@@ -526,7 +634,7 @@ Unlike the items brought into being by the lower-level spells *minor creation *a
 
 *XP Cost: *The item's gold piece value in XP, or a minimum of 1 XP, whichever is more.
 
-## Undeath To Death
+#### Undeath To Death
 
 Necromancy
 

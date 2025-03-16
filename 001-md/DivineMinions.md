@@ -1,16 +1,16 @@
-*This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.*
+## This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
-# Divine Minions
+## DIVINE MINIONS
 
 All types of beings may serve deities. In general, a deity only accepts minions who have accomplished some great deed in service to the deity. Such minions usually have the same alignment as the deity. No minion's alignment is opposed to the patron deity's alignment on either the law--chaos axis or the good--evil axis.
 
-## Proxies
+# Proxies
 
 A divine proxy speaks and acts on behalf of the divine being. When the demand for a deity's presence is too high, the deity may use proxies.
 
 Proxies are divine minions invested with a small portion of the deity's power. A deity may invest 1 rank of its power (reducing its divine rank accordingly) in a single servant for as long as the deity chooses. The minion must be physically present for the deity to perform the investiture. While so invested, the proxy gains any salient divine abilities held by the patron deity as well as the powers and abilities of a rank 1 demigod. Without the requisite ability scores or divine ranks, the proxy may not be able to use all those powers and abilities. A deity may have more than one proxy, but it must lose 1 divine rank for each proxy it invests. A deity can retrieve a single divine rank as a standard action, and doing so it does not require the physical presence of the proxy.
 
-## Petitioners
+# Petitioners
 
 Some spirits demonstrate their devotion to their deity by traveling to the deity's home plane. Those that survive the journey across the planes become servants of their deity. While a few may remain disembodied spirits, most become petitioners through the divine will of their patron deity.
 
@@ -20,7 +20,7 @@ The following creature types may become petitioners depending on the deity: aber
 
 The template presented below is for NPCs, not player characters. If dead characters who are petitioners are later restored to life (once again becoming player characters), they forget any of their experiences as petitioners.
 
-## Creating a Petitioner
+# Creating a Petitioner
 
 "Petitioner" is a template that may be added to any creature as determined by the nature of the campaign (referred to hereafter as the base creature). The creature's type changes to outsider, and the creature uses all the base creature's statistics and special abilities except as noted here.
 
@@ -44,13 +44,19 @@ The template presented below is for NPCs, not player characters. If dead charact
 
 *Additional Special Qualities: *Particular planes may provide additional benefits for petitioners of those planes. Typical additional special qualities may include any one of the following.
 
-- Damage reduction 5/silver and spell resistance 5.
-- Continuous magic circle against evil.
-- Fast healing 1.
-- Damage reduction 10/magic.
-- Spell resistance 10.
-- Additional 2d8 Hit Dice.
-- Remove all immunities and resistances except immunity to mind-affecting effects. Add acid, cold, electricity, fire, and poison resistance 5.
+• Damage reduction 5/silver and spell resistance 5.
+
+• Continuous magic circle against evil.
+
+• Fast healing 1.
+
+• Damage reduction 10/magic.
+
+• Spell resistance 10.
+
+• Additional 2d8 Hit Dice.
+
+• Remove all immunities and resistances except immunity to mind-affecting effects. Add acid, cold, electricity, fire, and poison resistance 5.
 
 Such modifications are the result of the nature of the plane or the powerful beings within it.
 
@@ -74,6 +80,6 @@ Such modifications are the result of the nature of the plane or the powerful bei
 
 **Advancement: **None.
 
-## Exceptional Petitioners
+# Exceptional Petitioners
 
 The deities may choose particular servants for specific tasks that may retain the knowledge of their previous selves. These exceptional petitioners retain the feats and skills they had in life, but are otherwise limited as for the petitioners of their plane.
