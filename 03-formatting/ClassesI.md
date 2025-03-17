@@ -6,7 +6,7 @@
 
 **Hit Die:** d12.
 
-**Class Skills**
+### Class Skills
 
 The barbarian's class skills (and the key ability for each skill) are Climb
 (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Jump (Str), Listen
@@ -87,7 +87,7 @@ can use it one additional time per day (to a maximum of six times per day at
 20th level). Entering a rage takes no time itself, but a barbarian can do it
 only during his action, not in response to someone else's action.
 
-**Uncanny Dodge (Ex): **At 2nd level, a barbarian retains his Dexterity bonus to
+**Uncanny Dodge (Ex):** At 2nd level, a barbarian retains his Dexterity bonus to
 AC (if any) even if he is caught flat-footed or struck by an invisible attacker.
 However, he still loses his Dexterity bonus to AC if immobilized. If a barbarian
 already has uncanny dodge from a different class, he automatically gains
@@ -287,7 +287,7 @@ wands). Just as for casting a spell with a verbal component, a deaf bard has a
 20% chance to fail when attempting to use bardic music. If he fails, the attempt
 still counts against his daily limit.
 
-*Countersong (Su): *A bard with 3 or more ranks in a Perform skill can use his
+*Countersong (Su):* A bard with 3 or more ranks in a Perform skill can use his
 music or poetics to counter magical effects that depend on sound (but not spells
 that simply have verbal components). Each round of the countersong, he makes a
 Perform check. Any creature within 30 feet of the bard (including the bard
@@ -301,7 +301,7 @@ use the bard's Perform check result for the save. Countersong has no effect
 against effects that don't allow saves. The bard may keep up the countersong for
 10 rounds.
 
-*Fascinate (Sp): *A bard with 3 or more ranks in a Perform skill can use his
+*Fascinate (Sp):* A bard with 3 or more ranks in a Perform skill can use his
 music or poetics to cause one or more creatures to become fascinated with him.
 Each creature to be fascinated must be within 90 feet, able to see and hear the
 bard, and able to pay attention to him. The bard must also be able to see the
@@ -321,10 +321,10 @@ check and allows the creature a new saving throw against a DC equal to the new
 Perform check result.
 
 Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming
-a ranged weapon at the target, automatically breaks the effect. *Fascinate *is
+a ranged weapon at the target, automatically breaks the effect. *Fascinate*is
 an enchantment (compulsion), mind-affecting ability.
 
-*Inspire Courage (Su): *A bard with 3 or more ranks in a Perform skill can use
+*Inspire Courage (Su):* A bard with 3 or more ranks in a Perform skill can use
 song or poetics to inspire courage in his allies (including himself ),
 bolstering them against fear and improving their combat abilities. To be
 affected, an ally must be able to hear the bard sing. The effect lasts for as
@@ -334,7 +334,7 @@ and a +1 morale bonus on attack and weapon damage rolls. At 8th level, and every
 six bard levels thereafter, this bonus increases by 1 (+2 at 8th, +3 at 14th,
 and +4 at 20th). Inspire courage is a mind-affecting ability.
 
-*Inspire Competence (Su): *A bard of 3rd level or higher with 6 or more ranks in
+*Inspire Competence (Su):* A bard of 3rd level or higher with 6 or more ranks in
 a Perform skill can use his music or poetics to help an ally succeed at a task.
 The ally must be within 30 feet and able to see and hear the bard. The bard must
 also be able to see the ally.
@@ -345,19 +345,19 @@ ability are infeasible. The effect lasts as long as the bard concentrates, up to
 a maximum of 2 minutes. A bard can't inspire competence in himself. Inspire
 competence is a mind-affecting ability.
 
-*Suggestion (Sp): *A bard of 6th level or higher with 9 or more ranks in a
-Perform skill can make a *suggestion *(as the spell) to a creature that he has
+*Suggestion (Sp):* A bard of 6th level or higher with 9 or more ranks in a
+Perform skill can make a *suggestion*(as the spell) to a creature that he has
 already fascinated (see above). Using this ability does not break the bard's
-concentration on the *fascinate *effect, nor does it allow a second saving throw
-against the *fascinate *effect.
+concentration on the *fascinate*effect, nor does it allow a second saving throw
+against the *fascinate*effect.
 
-Making a *suggestion *doesn't count against a bard's daily limit on bardic music
+Making a *suggestion*doesn't count against a bard's daily limit on bardic music
 performances. A Will saving throw (DC 10 + 1/2 bard's level + bard's Cha
 modifier) negates the effect. This ability affects only a single creature (but
-see *mass suggestion*, below). *Suggestion *is an enchantment (compulsion),
+see *mass suggestion*, below). *Suggestion*is an enchantment (compulsion),
 mind-affecting, language dependent ability.
 
-*Inspire Greatness (Su): *A bard of 9th level or higher with 12 or more ranks in
+*Inspire Greatness (Su):* A bard of 9th level or higher with 12 or more ranks in
 a Perform skill can use music or poetics to inspire greatness in himself or a
 single willing ally within 30 feet, granting him or her extra fighting
 capability. For every three levels a bard attains beyond 9th, he can target one
@@ -371,14 +371,14 @@ on attack rolls, and a +1 competence bonus on Fortitude saves. The bonus Hit
 Dice count as regular Hit Dice for determining the effect of spells that are Hit
 Dice dependant. Inspire greatness is a mind-affecting ability.
 
-*Song of Freedom (Sp): *A bard of 12th level or higher with 15 or more ranks in
+*Song of Freedom (Sp):* A bard of 12th level or higher with 15 or more ranks in
 a Perform skill can use music or poetics to create an effect equivalent to the
-*break enchantment *spell (caster level equals the character's bard level).
+*break enchantment*spell (caster level equals the character's bard level).
 Using this ability requires 1 minute of uninterrupted concentration and music,
 and it functions on a single target within 30 feet. A bard can't use *song of
-freedom *on himself.
+freedom*on himself.
 
-*Inspire Heroics (Su): *A bard of 15th level or higher with 18 or more ranks in
+*Inspire Heroics (Su):* A bard of 15th level or higher with 18 or more ranks in
 a Perform skill can use music or poetics to inspire tremendous heroism in
 himself or a single willing ally within 30 feet. For every three bard levels the
 character attains beyond 15th, he can inspire heroics in one additional
@@ -388,10 +388,10 @@ throws and a +4 dodge bonus to AC. The effect lasts for as long as the ally
 hears the bard sing and for up to 5 rounds thereafter. Inspire heroics is a
 mind-affecting ability.
 
-*Mass Suggestion (Sp): *This ability functions like *suggestion, *above, except
+*Mass Suggestion (Sp):* This ability functions like *suggestion,*above, except
 that a bard of 18th level or higher with 21 or more ranks in a Perform skill can
-make the *suggestion *simultaneously to any number of creatures that he has
-already fascinated (see above). *Mass suggestion *is an enchantment
+make the *suggestion*simultaneously to any number of creatures that he has
+already fascinated (see above). *Mass suggestion*is an enchantment
 (compulsion), mind-affecting, language-dependent ability.
 
 ### Ex-Bards
@@ -472,7 +472,7 @@ Weapon Proficiency feat as a bonus feat, if the weapon falls into that category.
 
 **Aura (Ex):** A cleric of a chaotic, evil, good, or lawful deity has a
 particularly powerful aura corresponding to the deity's alignment (see the
-*detect evil *spell for details). Clerics who don't worship a specific deity but
+*detect evil*spell for details). Clerics who don't worship a specific deity but
 choose the Chaotic, Evil, Good, or Lawful domain have a similarly powerful aura
 of the corresponding alignment.
 
@@ -522,15 +522,15 @@ cleric spell list, a cleric can prepare it only in his domain spell slot.
 **Spontaneous Casting:** A good cleric (or a neutral cleric of a good deity) can
 channel stored spell energy into healing spells that the cleric did not prepare
 ahead of time. The cleric can "lose" any prepared spell that is not a domain
-spell in order to cast any *cure *spell of the same spell level or lower (a
-*cure *spell is any spell with "cure" in its name).
+spell in order to cast any *cure*spell of the same spell level or lower (a
+*cure*spell is any spell with "cure" in its name).
 
 An evil cleric (or a neutral cleric of an evil deity), can't convert prepared
-spells to *cure *spells but can convert them to *inflict *spells (an *inflict
+spells to *cure*spells but can convert them to *inflict*spells (an *inflict
 *spell is one with "inflict" in its name).
 
 A cleric who is neither good nor evil and whose deity is neither good nor evil
-can convert spells to either *cure *spells or *inflict *spells (player's
+can convert spells to either *cure*spells or *inflict*spells (player's
 choice). Once the player makes this choice, it cannot be reversed. This choice
 also determines whether the cleric turns or commands undead (see below).
 
@@ -548,8 +548,8 @@ destroy undead creatures. An evil cleric (or a neutral cleric who worships an
 evil deity) instead rebukes or commands such creatures. A neutral cleric of a
 neutral deity must choose whether his turning ability functions as that of a
 good cleric or an evil cleric. Once this choice is made, it cannot be reversed.
-This decision also determines whether the cleric can cast spontaneous *cure *or
-*inflict *spells (see above).
+This decision also determines whether the cleric can cast spontaneous *cure*or
+*inflict*spells (see above).
 
 A cleric may attempt to turn undead a number of times per day equal to 3 + his
 Charisma modifier. A cleric with 5 or more ranks in Knowledge (religion) gets a
@@ -565,7 +565,7 @@ available to the character because of his race.
 A cleric who grossly violates the code of conduct required by his god loses all
 spells and class features, except for armor and shield proficiencies and
 proficiency with simple weapons. He cannot thereafter gain levels as a cleric of
-that god until he atones (see the *atonement *spell description).
+that god until he atones (see the *atonement*spell description).
 
 ## Druid
 
@@ -583,7 +583,7 @@ Spot (Wis), Survival (Wis), and Swim (Str).
 
 **Skill Points at 1st Level:** (4 + Int modifier) x 4.
 
-**Skill Points at Each Additional Level: **4 + Int modifier.
+**Skill Points at Each Additional Level:** 4 + Int modifier.
 
 Table: The Druid
 
@@ -622,8 +622,8 @@ forth) of any form they assume with wild shape (see below).
 
 Druids are proficient with light and medium armor but are prohibited from
 wearing metal armor; thus, they may wear only padded, leather, or hide armor. (A
-druid may also wear wooden armor that has been altered by the *ironwood *spell
-so that it functions as though it were steel. See the *ironwood *spell
+druid may also wear wooden armor that has been altered by the *ironwood*spell
+so that it functions as though it were steel. See the *ironwood*spell
 description) Druids are proficient with shields (except tower shields) but must
 use only wooden ones.
 
@@ -647,7 +647,7 @@ score. She does not have access to any domain spells or granted powers, as a
 cleric does.
 
 A druid prepares and casts spells the way a cleric does, though she cannot lose
-a prepared spell to cast a *cure *spell in its place (but see Spontaneous
+a prepared spell to cast a *cure*spell in its place (but see Spontaneous
 Casting, below). A druid may prepare and cast any spell on the druid spell list,
 provided that she can cast spells of that level, but she must choose which
 spells to prepare during her daily meditation.
@@ -730,7 +730,7 @@ on saving throws against the spell-like abilities of fey.
 **Wild Shape (Su):** At 5th level, a druid gains the ability to turn herself
 into any Small or Medium animal and back again once per day. Her options for new
 forms include all creatures with the animal type. This ability functions like
-the *polymorph *spell, except as noted here. The effect lasts for 1 hour per
+the *polymorph*spell, except as noted here. The effect lasts for 1 hour per
 druid level, or until she changes back. Changing form (to animal or back) is a
 standard action and doesn't provoke an attack of opportunity.
 
@@ -743,9 +743,9 @@ normal sound a wild parrot makes is a squawk, so changing to this form does not
 permit speech.)
 
 A druid can use this ability more times per day at 6th, 7th, 10th, 14th, and
-18th level, as noted on Table: The Druid*. *In addition, she gains the ability
-to take the shape of a Large animal at 8th level, a Tiny animal at 11th level,
-and a Huge animal at 15th level.
+18th level, as noted on Table: The Druid. In addition, she gains the ability to
+take the shape of a Large animal at 8th level, a Tiny animal at 11th level, and
+a Huge animal at 15th level.
 
 The new form's Hit Dice can't exceed the character's druid level.
 
@@ -768,7 +768,7 @@ this wild shape ability to change into a Huge elemental.
 **Venom Immunity (Ex):** At 9th level, a druid gains immunity to all poisons.
 
 **A Thousand Faces (Su):** At 13th level, a druid gains the ability to change
-her appearance at will, as if using the *alter self *spell, but only while in
+her appearance at will, as if using the *alter self* spell, but only while in
 her normal form.
 
 **Timeless Body (Ex):** After attaining 15th level, a druid no longer takes
@@ -799,15 +799,15 @@ A druid's animal companion is different from a normal animal of its kind in many
 | 15th-17th   | +10      | +10                | +5           | 6            | Improved evasion   |
 | 18th-20th   | +12      | +12                | +6           | 7            |                    |
 
-**Animal Companion Basics: **Use the base statistics for a creature of the
-companion's kind,* *but make the following changes.
+**Animal Companion Basics:** Use the base statistics for a creature of the
+companion's kind, but make the following changes.
 
-*Class Level: *The character's druid level. The druid's class levels stack with
+*Class Level:* The character's druid level. The druid's class levels stack with
 levels of any other classes that are entitled to an animal companion for the
 purpose of determining the companion's abilities and the alternative lists
 available to the character.
 
-*Bonus HD: *Extra eight-sided (d8) Hit Dice, each of which gains a Constitution
+*Bonus HD:* Extra eight-sided (d8) Hit Dice, each of which gains a Constitution
 modifier, as normal. Remember that extra Hit Dice improve the animal companion's
 base attack and base save bonuses. An animal companion's base attack bonus is
 the same as that of a druid of a level equal to the animal's HD. An animal
@@ -815,25 +815,25 @@ companion has good Fortitude and Reflex saves (treat it as a character whose
 level equals the animal's HD). An animal companion gains additional skill points
 and feats for bonus HD as normal for advancing a monster's Hit Dice.
 
-*Natural Armor Adj.: *The number noted here is an improvement to the animal
+*Natural Armor Adj.:* The number noted here is an improvement to the animal
 companion's existing natural armor bonus.
 
-*Str/Dex Adj.: *Add this value to the animal companion's Strength and Dexterity
+*Str/Dex Adj.:* Add this value to the animal companion's Strength and Dexterity
 scores.
 
-*Bonus Tricks: *The value given in this column is the total number of "bonus"
+*Bonus Tricks:* The value given in this column is the total number of "bonus"
 tricks that the animal knows in addition to any that the druid might choose to
 teach it (see the Handle Animal skill). These bonus tricks don't require any
 training time or Handle Animal checks, and they don't count against the normal
 limit of tricks known by the animal. The druid selects these bonus tricks, and
 once selected, they can't be changed.
 
-*Link (Ex): *A druid can handle her animal companion as a free action, or push
+*Link (Ex):* A druid can handle her animal companion as a free action, or push
 it as a move action, even if she doesn't have any ranks in the Handle Animal
 skill. The druid gains a +4 circumstance bonus on all wild empathy checks and
 Handle Animal checks made regarding an animal companion.
 
-*Share Spells (Ex): *At the druid's option, she may have any spell (but not any
+*Share Spells (Ex):* At the druid's option, she may have any spell (but not any
 spell-like ability) she casts upon herself also affect her animal companion. The
 animal companion must be within 5 feet of her at the time of casting to receive
 the benefit. If the spell or effect has a duration other than instantaneous, it
@@ -846,20 +846,20 @@ companion (as a touch range spell) instead of on herself. A druid and her animal
 companion can share spells even if the spells normally do not affect creatures
 of the companion's type (animal).
 
-*Evasion (Ex): *If an animal companion is subjected to an attack that normally
+*Evasion (Ex):* If an animal companion is subjected to an attack that normally
 allows a Reflex saving throw for half damage, it takes no damage if it makes a
 successful saving throw.
 
-*Devotion (Ex): *An animal companion gains a +4 morale bonus on Will saves
+*Devotion (Ex):* An animal companion gains a +4 morale bonus on Will saves
 against enchantment spells and effects.
 
-*Multiattack: *An animal companion gains Multiattack as a bonus feat if it has
+*Multiattack:* An animal companion gains Multiattack as a bonus feat if it has
 three or more natural attacks and does not already have that feat. If it does
 not have the requisite three or more natural attacks, the animal companion
 instead gains a second attack with its primary natural weapon, albeit at a -5
 penalty.
 
-*Improved Evasion (Ex): *When subjected to an attack that normally allows a
+*Improved Evasion (Ex):* When subjected to an attack that normally allows a
 Reflex saving throw for half damage, an animal companion takes no damage if it
 makes a successful saving throw and only half damage if the saving throw fails.
 
@@ -870,7 +870,7 @@ the following lists, applying the indicated adjustment to the druid's level (in
 parentheses) for purposes of determining the companion's characteristics and
 special abilities.
 
-**4th Level or Higher (Level -3)**
+#### 4th Level or Higher (Level -3)
 
 - Ape (animal)
 - Bear, black (animal)
@@ -883,12 +883,12 @@ special abilities.
 - Dire weasel
 - Leopard (animal)
 - Lizard, monitor (animal)
-- Shark, Large**^1^ **(animal)
+- Shark, Large**^1^**(animal)
 - Snake, constrictor (animal)
 - Snake, Large viper (animal)
 - Wolverine (animal)
 
-**7th Level or Higher (Level -6)**
+#### 7th Level or Higher (Level -6)
 
 - Bear, brown (animal)
 - Dire wolverine
@@ -897,32 +897,32 @@ special abilities.
 - Dire ape
 - Dire boar
 - Dire wolf
-- Elasmosaurus**^1^ **(dinosaur)
+- Elasmosaurus**^1^**(dinosaur)
 - Lion (animal)
 - Rhinoceros (animal)
 - Snake, Huge viper (animal)
 - Tiger (animal)
 
-**10th Level or Higher (Level -9)**
+#### 10th Level or Higher (Level -9)
 
 - Bear, polar (animal)
 - Dire lion
 - Megaraptor (dinosaur)
-- Shark, Huge**^1^ **(animal)
+- Shark, Huge**^1^**(animal)
 - Snake, giant constrictor (animal)
-- Whale, orca**^1^ **(animal)
+- Whale, orca**^1^**(animal)
 
-**13th Level or Higher (Level -12)**
+#### 13th Level or Higher (Level -12)
 
 - Dire bear
 - Elephant (animal)
-- Octopus, giant**^1^ **(animal)
+- Octopus, giant**^1^**(animal)
 
-**16th Level or Higher (Level -15)**
+#### 16th Level or Higher (Level -15)
 
-- Dire shark**^1^ **
+- Dire shark**^1^**
 - Dire tiger
-- Squid, giant**^1^ **(animal)
+- Squid, giant**^1^**(animal)
 - Triceratops (dinosaur)
 - Tyrannosaurus (dinosaur)
 
@@ -973,7 +973,7 @@ Table: The Fighter
 
 All of the following are class features of the fighter.
 
-**Weapon and Armor Proficiency: **A fighter is proficient with all simple and
+**Weapon and Armor Proficiency:** A fighter is proficient with all simple and
 martial weapons and with all armor (heavy, medium, and light) and shields
 (including tower shields).
 
@@ -1044,7 +1044,7 @@ Damage for Small or Large monks.
 
 All of the following are class features of the monk.
 
-**Weapon and Armor Proficiency: **Monks are proficient with club, crossbow
+**Weapon and Armor Proficiency:** Monks are proficient with club, crossbow
 (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai,
 shuriken, siangham, and sling.
 
@@ -1143,16 +1143,16 @@ heavy load loses this extra speed.
 **Still Mind (Ex):** A monk of 3rd level or higher gains a +2 bonus on saving
 throws against spells and effects from the school of enchantment.
 
-***Ki *Strike (Su):** At 4th level, a monk's unarmed attacks are empowered with
-*ki. *Her unarmed attacks are treated as magic weapons for the purpose of
-dealing damage to creatures with damage reduction. *Ki *strike improves with the
+**Ki Strike (Su):** At 4th level, a monk's unarmed attacks are empowered with
+ki. Her unarmed attacks are treated as magic weapons for the purpose of dealing
+damage to creatures with damage reduction. Ki strike improves with the
 character's monk level. At 10th level, her unarmed attacks are also treated as
 lawful weapons for the purpose of dealing damage to creatures with damage
 reduction. At 16th level, her unarmed attacks are treated as adamantine weapons
 for the purpose of dealing damage to creatures with damage reduction and
 bypassing hardness.
 
-**Slow Fall (Ex): **At 4th level or higher, a monk within arm's reach of a wall
+**Slow Fall (Ex):** At 4th level or higher, a monk within arm's reach of a wall
 can use it to slow her descent. When first using this ability, she takes damage
 as if the fall were 20 feet shorter than it actually is. The monk's ability to
 slow her fall (that is, to reduce the effective distance of the fall when next
@@ -1175,7 +1175,7 @@ gain the benefit of improved evasion.
 kinds.
 
 **Abundant Step (Su):** At 12th level or higher, a monk can slip magically
-between spaces, as if using the spell *dimension door, *once per day. Her caster
+between spaces, as if using the spell *dimension door,* once per day. Her caster
 level for this effect is one-half her monk level (rounded down).
 
 **Diamond Soul (Ex):** At 13th level, a monk gains spell resistance equal to her
@@ -1203,7 +1203,7 @@ penalties to her ability scores for aging and cannot be magically aged. Any such
 penalties that she has already taken, however, remain in place. Bonuses still
 accrue, and the monk still dies of old age when her time is up.
 
-**Tongue of the Sun and Moon (Ex): **A monk of 17th level or higher can speak
+**Tongue of the Sun and Moon (Ex):** A monk of 17th level or higher can speak
 with any living creature.
 
 **Empty Body (Su):** At 19th level, a monk gains the ability to assume an
