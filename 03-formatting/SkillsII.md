@@ -50,8 +50,8 @@ Heal check. The diseased character uses your check result or his or her saving
 throw, whichever is higher.
 
 **Action:** Providing first aid, treating a wound, or treating poison is a
-standard action. Treating a disease or tending a creature wounded by a* spike
-growth *or* spike stones *spell takes 10 minutes of work. Providing long-term
+standard action. Treating a disease or tending a creature wounded by a *spike
+growth* or *spike stones* spell takes 10 minutes of work. Providing long-term
 care requires 8 hours of light activity.
 
 **Try Again:** Varies. Generally speaking, you can't try a Heal check again
@@ -684,7 +684,7 @@ a +2 bonus on Search checks to find secret doors or hidden compartments.
 
 **Restriction:** While anyone can use Search to find a trap whose DC is 20 or
 lower, only a rogue can use Search to locate traps with higher DCs.
-(*Exception:* The spell* find traps *temporarily enables a cleric to use the
+(*Exception:* The spell *find traps* temporarily enables a cleric to use the
 Search skill as if he were a rogue.)
 
 A dwarf, even one who is not a rogue, can use the Search skill to find a
@@ -710,9 +710,9 @@ wrong, such as when you're talking to an impostor. Alternatively, you can get
 the feeling that someone is trustworthy.
 
 *Sense Enchantment:* You can tell that someone's behavior is being influenced by
-an enchantment effect (by definition, a mind-affecting effect),* *even if that
+an enchantment effect (by definition, a mind-affecting effect), even if that
 person isn't aware of it. The usual DC is 25, but if the target is dominated
-(see* dominate person*), the DC is only 15 because of the limited range of the
+(see *dominate person*), the DC is only 15 because of the limited range of the
 target's activities.
 
 *Discern Secret Message:* You may use Sense Motive to detect that a hidden
@@ -1031,6 +1031,7 @@ duration for which you can hold your breath is reduced by 1 round. (Effectively,
 a character in combat can hold his or her breath only half as long as normal.)
 After that period of time, you must make a DC 10 Constitution check every round
 to continue holding your breath. Each round, the DC for that check increases by
+
 1. If you fail the Constitution check, you begin to drown.
 
 The DC for the Swim check depends on the water, as given on the table below.
@@ -1274,7 +1275,7 @@ opportunity. Splicing two ropes together takes 5 minutes. Binding a character
 takes 1 minute.
 
 **Special:** A silk rope gives you a +2 circumstance bonus on Use Rope checks.
-If you cast an* animate rope *spell on a rope, you get a +2 circumstance bonus
+If you cast an *animate rope* spell on a rope, you get a +2 circumstance bonus
 on any Use Rope checks you make when using that rope.
 
 These bonuses stack.
