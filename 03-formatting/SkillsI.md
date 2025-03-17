@@ -655,7 +655,6 @@ more than a full-round action).
 4 If the spell allows no save, use the save DC it would have if it did allow a
 save.
 
-
 **Action:** None. Making a Concentration check doesn't take an action; it is
 either a free action (when attempted reactively) or part of another action (when
 attempted actively).
@@ -936,9 +935,9 @@ it works, and bypass it (along with her companions) without disarming it.
 feature) can disarm magic traps. A magic trap generally has a DC of 25 + the
 spell level of the magic used to create it.
 
-The spells *fire trap, glyph of warding, symbol, *and *teleportation circle
-*also create traps that a rogue can disarm with a successful Disable Device
-check. *Spike growth *and *spike stones, *however, create magic traps against
+The spells *fire trap, glyph of warding, symbol,* and* teleportation circle*
+also create traps that a rogue can disarm with a successful Disable Device
+check. *Spike growth* and *spike stones,* however, create magic traps against
 which Disable Device checks do not succeed. See the individual spell
 descriptions for details.
 
@@ -967,7 +966,7 @@ as daggers do.
 
 **Magic Traps:** *Dispel magic* helps here. Someone who succeeds on a caster
 level check against the level of the trap's creator suppresses the trap for 1d4
-rounds. This works only with a targeted *dispel magic, *not the area version
+rounds. This works only with a targeted *dispel magic,* not the area version
 (see the spell description).
 
 ## Disguise (Cha)
@@ -1022,14 +1021,14 @@ average Spot modifier for the group.
 that a disguise was attempted, they'll be more suspicious.
 
 **Special:** Magic that alters your form, such as *alter self, disguise self,
-polymorph*, or *shapechange, *grants you a +10 bonus on Disguise checks (see the
+polymorph*, or *shapechange,* grants you a +10 bonus on Disguise checks (see the
 individual spell descriptions). You must succeed on a Disguise check with a +10
-bonus to duplicate the appearance of a specific individual using the *veil
-*spell. Divination magic that allows people to see through illusions (such as
+bonus to duplicate the appearance of a specific individual using the *veil*
+spell. Divination magic that allows people to see through illusions (such as
 *true seeing*) does not penetrate a mundane disguise, but it can negate the
 magical component of a magically enhanced one.
 
-You must make a Disguise check when you cast a *simulacrum *spell to determine
+You must make a Disguise check when you cast a *simulacrum* spell to determine
 how good the likeness is.
 
 If you have the Deceitful feat, you get a +2 bonus on Disguise checks.
@@ -1070,8 +1069,8 @@ grappling).
 
 **Action:** Making an Escape Artist check to escape from rope bindings,
 manacles, or other restraints (except a grappler) requires 1 minute of work.
-Escaping from a net or an *animate rope, command plants, control plants, *or
-*entangle *spell is a full-round action. Escaping from a grapple or pin is a
+Escaping from a net or an *animate rope, command plants, control plants,*or
+*entangle* spell is a full-round action. Escaping from a grapple or pin is a
 standard action. Squeezing through a tight space takes at least 1 minute, maybe
 longer, depending on how long the space is.
 
