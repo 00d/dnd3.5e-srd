@@ -54,7 +54,7 @@ martial weapons, with all types of armor (heavy, medium, and light), and with
 shields (except tower shields).
 
 **Aura of Good (Ex):** The power of a paladin's aura of good (see the *detect
-good *spell) is equal to her paladin level.
+good* spell) is equal to her paladin level.
 
 ***Detect Evil *(Sp):** At will, a paladin can use *detect evil*, as the spell.
 
@@ -116,7 +116,7 @@ based on her Wisdom score for that spell level The paladin does not have access
 to any domain spells or granted powers, as a cleric does.
 
 A paladin prepares and casts spells the way a cleric does, though she cannot
-lose a prepared spell to spontaneously cast a *cure *spell in its place. A
+lose a prepared spell to spontaneously cast a *cure* spell in its place. A
 paladin may prepare and cast any spell on the paladin spell list, provided that
 she can cast spells of that level, but she must choose which spells to prepare
 during her daily meditation.
@@ -174,7 +174,7 @@ who grossly violates the code of conduct loses all paladin spells and abilities
 (including the service of the paladin's mount, but not weapon, armor, and shield
 proficiencies). She may not progress any farther in levels as a paladin. She
 regains her abilities and advancement potential if she atones for her violations
-(see the *atonement *spell description), as appropriate.
+(see the *atonement* spell description), as appropriate.
 
 Like a member of any other class, a paladin may be a multiclass character, but
 multiclass paladins face a special restriction. A paladin who gains a level in
@@ -201,7 +201,7 @@ attack bonus, saves, skill points, and feats).
 | 15th-20th     | +8       | +10                | +4       | 9   | Spell resistance                                                   |
 
 **Paladin's Mount Basics:** Use the base statistics for a creature of the
-mount's kind,* *but make changes to take into account the attributes and
+mount's kind, but make changes to take into account the attributes and
 characteristics summarized on the table and described below.
 
 *Bonus HD:* Extra eight-sided (d8) Hit Dice, each of which gains a Constitution
@@ -257,7 +257,7 @@ the master might have.
 use this ability to command other any normal animal of approximately the same
 kind as itself (for warhorses and warponies, this category includes donkeys,
 mules, and ponies), as long as the target creature has fewer Hit Dice than the
-mount. This ability functions like the *command *spell, but the mount must make
+mount. This ability functions like the *command* spell, but the mount must make
 a DC 21 Concentration check to succeed if it's being ridden at the time. If the
 check fails, the ability does not work that time, but it still counts against
 the mount's daily uses. Each target may attempt a Will save (DC 10 + 1/2
@@ -422,7 +422,7 @@ based on his Wisdom score for that spell level. The ranger does not have access
 to any domain spells or granted powers, as a cleric does.
 
 A ranger prepares and casts spells the way a cleric does, though he cannot lose
-a prepared spell to cast a *cure *spell in its place. A ranger may prepare and
+a prepared spell to cast a *cure* spell in its place. A ranger may prepare and
 cast any spell on the ranger spell list, provided that he can cast spells of
 that level, but he must choose which spells to prepare during his daily
 meditation.
@@ -1081,7 +1081,7 @@ spell, another spellcaster must get a result on a caster level check (1d20 +
 caster level) that equals or exceeds the familiar's spell resistance.
 
 *Scry on Familiar (Sp):* If the master is 13th level or higher, he may scry on
-his familiar (as if casting the *scrying *spell) once per day.
+his familiar (as if casting the *scrying* spell) once per day.
 
 | Master Class Level | Natural Armor Adj. | Int | Special                                                  |
 |--------------------|--------------------|-----|----------------------------------------------------------|
