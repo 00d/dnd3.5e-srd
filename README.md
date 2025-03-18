@@ -5,19 +5,19 @@ the Coast. The project goal is to convert rtf documents to markdown.
 
 # Folder structure
 
-## 01-original-rtf
+## 01.original-rtf
 
 This folder contains the original files found at https://archive.org/details/dnd35srd
 
-## 02-conversion
+## 02.conversion
 
 This folder contains markdown raw conversions using Pandoc
 
-## 03-formatting
+## 03.formatting
 
 This folder contains hand formatted files and work in progress
 
-## 04-done
+## 04.done
 
 This folder contains final/done files (though minor adjustments will be made in
 the future)
